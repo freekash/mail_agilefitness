@@ -1,0 +1,172 @@
+Return-Path: <frederick@trinityht.com>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net (Dovecot) with LMTP id SYMyDKh2/lq/jgoAwqAP9w
+	for <support@agilefitness.in>; Fri, 18 May 2018 06:46:00 +0000
+Return-path: <frederick@trinityht.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Fri, 18 May 2018 06:46:00 +0000
+Received: from relay.openradix.in ([43.241.37.237]:48952)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:AECDH-AES256-SHA:256)
+	(Exim 4.89)
+	(envelope-from <frederick@trinityht.com>)
+	id 1fJZ9H-0033I3-Ji
+	for support@agilefitness.in; Fri, 18 May 2018 06:46:00 +0000
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by relay.openradix.in (Postfix) with ESMTP id BCCEC223A10
+	for <support@agilefitness.in>; Fri, 18 May 2018 12:16:01 +0530 (IST)
+Received: from relay.openradix.in ([127.0.0.1])
+	by localhost (relay.openradix.in [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id WxA3Y15naGht for <support@agilefitness.in>;
+	Fri, 18 May 2018 12:16:01 +0530 (IST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by relay.openradix.in (Postfix) with ESMTP id F1D43223A3C
+	for <support@agilefitness.in>; Fri, 18 May 2018 12:16:00 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.10.3 relay.openradix.in F1D43223A3C
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=trinityht.com;
+	s=DCBE0E42-FCD8-11E7-A481-C4477489DFA4; t=1526625961;
+	bh=SInf8GkKr6aKAimv+GaBIyTDc28v4q5gWbHmIeGQEvI=;
+	h=Date:From:To:Message-ID:MIME-Version;
+	b=DzQUVl7czjAdKdpd7qYtH/zR/ezOk6ZgLC7BHx43AWRby4iqcVVdfOd3WueY8xenw
+	 N1+BHGiXAZrBLcyiDdvmUraTj6PQUA3a3EDbrMfPBfK0gsEKw37Jw0W6oEEdiIUE1l
+	 EkGdgu78b+iKmr9zFciYpVm1qo9Ynw953aKYGfH28EM9t25lH8LFCdiNFjTxwGow/u
+	 11Jjf7LM5ezTdrGamubWj3XJUQpkH+blttQr2cBmFYvuCidZ92Z4X63he+qZ80pmEG
+	 m+WqrxzBq1sMhoSMgQpTR7EOfxj05KvA7iBjhZzlX5UVo21yiynJx9oRA0kJOFeY4C
+	 584nsqmE5B8mA==
+X-Virus-Scanned: amavisd-new at openradix.in
+Received: from relay.openradix.in ([127.0.0.1])
+	by localhost (relay.openradix.in [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 9D_CXDwm89x9 for <support@agilefitness.in>;
+	Fri, 18 May 2018 12:16:00 +0530 (IST)
+Received: from mail.qispine.com (mail.trinity.in [118.185.230.89])
+	by relay.openradix.in (Postfix) with ESMTPSA id B009C223A04
+	for <support@agilefitness.in>; Fri, 18 May 2018 12:16:00 +0530 (IST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.qispine.com (Postfix) with ESMTP id 2E178B851646;
+	Fri, 18 May 2018 12:16:00 +0530 (IST)
+Received: from mail.qispine.com ([127.0.0.1])
+	by localhost (mail.qispine.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id mhPSqwTo_AEb; Fri, 18 May 2018 12:16:00 +0530 (IST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.qispine.com (Postfix) with ESMTP id 138A8B851647;
+	Fri, 18 May 2018 12:16:00 +0530 (IST)
+X-Virus-Scanned: amavisd-new at qispine.com
+Received: from mail.qispine.com ([127.0.0.1])
+	by localhost (mail.qispine.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id ooReTVvieOVV; Fri, 18 May 2018 12:16:00 +0530 (IST)
+Received: from mail.qispine.com (mail.qispine.com [192.168.0.4])
+	by mail.qispine.com (Postfix) with ESMTP id F28E4B851645
+	for <support@agilefitness.in>; Fri, 18 May 2018 12:15:59 +0530 (IST)
+Date: Fri, 18 May 2018 12:15:59 +0530 (IST)
+From: Frederick Gomez <frederick@trinityht.com>
+To: Agile Fitness <support@agilefitness.in>
+Message-ID: <738361460.4847363.1526625959919.JavaMail.zimbra@trinityht.com>
+In-Reply-To: <85c94983bc044ca04a06c9e9985b408b@agilefitness.in>
+References: <85c94983bc044ca04a06c9e9985b408b@agilefitness.in>
+Subject: Re: Fitness Equipements Required
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [122.172.127.174]
+X-Mailer: Zimbra 8.7.10_GA_1829 (ZimbraWebClient - GC66 (Win)/8.7.10_GA_1829)
+Thread-Topic: Fitness Equipements Required
+Thread-Index: wuNPdPNbQAAQiTGdx8ypU4qvKX3ZPg==
+X-Sophos-smtpxy-version: 1.0.6.3
+X-Sophos-AV-Policy: Block_Compressed
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=RKqd4bq+ c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=AgP69Bit4hV7YXr/Z8yZmA==:17 a=FKkrIqjQGGEA:10 a=ry4o7_bA7HIA:10 a=IkcTkHD0fZMA:10 a=VUJBJC2UJ8kA:10 a=3dG5hAnVOCEA:10 a=_QpNJ_oOxAzefJ8Wv38A:9 a=IJzXBgM1Rp0YrNao:21 a=LDmxO1DoSyRDcTZx:21 a=QEXdDO2ut3YA:10 a=-FEs8UIgK8oA:10 a=NWVoK91CQyQA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: trinityht.in]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+
+What are the quantities of these products?
+
+
+---------------------------------------------------------------------------=
+----------------------------------=20
+Frederick Gomez.=20
+Regional Manager - South=20
+E: [ mailto:frederick@trinityht.com | frederick@trinityht.com ]=20
+
+TRINITY Healthtech=20
+(A division of Trinity Health Technologies Pvt. Ltd.)=20
+Office No.422/36, 2nd Floor, 12th Cross=20
+3rd Main Road, Sadashivnagar=20
+Bengaluru =E2=80=93 560080=20
+W: [ http://www.trinityht.com/ | www.trinityht.com ] [ http://www.trinityht=
+.in/ ]=20
+________________________________________________________________________=20
+
+
+
+
+
+This email and any files transmitted with it are confidential and intended =
+solely for the use of the individual or entity to whom they are addressed. =
+If you have received this email in error, please notify the sender immediat=
+ely by email or delete this email from your system. If you are not the inte=
+nded recipient, you are notified that disclosing, copying, distributing or =
+taking any action in reliance on the contents of this information is strict=
+ly prohibited. The opinion expressed in this mail is that of the sender and=
+ does not necessarily reflect that of Trinity Healthtech. WARNING: Despite =
+best possible precautionary measures taken by Trinity Healthtech, computer =
+viruses can be transmitted via email. The recipient should check and scan t=
+his email and any attachments for the presence of viruses. Trinity Healthet=
+ech accepts no liability for any damage caused by any virus transmitted by =
+this email.=20
+
+***************************************************************************=
+*************************************
+
+----- Original Message -----
+From: "Agile Fitness" <support@agilefitness.in>
+To: "Frederick Gomez" <frederick@trinityht.com>
+Cc: support@agilefitness.in
+Sent: Friday, May 18, 2018 11:42:53 AM
+Subject: Fitness Equipements Required
+
+Dear Sir / Madam,
+
+Greetings from Agile Fitness Pvt. Ltd.
+
+Request you to provide the best possible quotation for the below=20
+requirement.
+
+Semicomeercial Treadmill
+Secommercial Cross Trainer
+upright bike
+Recumburant Bike
+LAT PULLDOWN/SEATED ROW
+LEG EXTENSION/LEG CURL
+Dumbell Stand
+Olympic FID Bench
+Dumbell-2.5x2 5x2 7.5x2    10x2 12.5*2
+Weight Plates -2.5x4 5x4 7.5x4     10x4 12.5*
+Bar - EZ,3ft,5ft,7ft
+Stand for Olympic Plate
+Flta Bench
+Multi Purpose bench
+
+
+Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, spo=
+rts=20
+materials, Sports flooring ,AMC.
+
+Regards,
+Sukdeep D S
+Manager, Sales & service,
+Agile fitness,Malleswaram,Bangalore-4.
+Ph.:+91 9980111255 www.agilefitness.in

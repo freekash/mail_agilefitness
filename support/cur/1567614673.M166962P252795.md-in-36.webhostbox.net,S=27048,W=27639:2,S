@@ -1,0 +1,591 @@
+Received: from out210-160.dm.aliyun.com ([140.205.210.160]:57853)
+	by md-in-36.webhostbox.net with esmtp (Exim 4.92)
+	(envelope-from <service@service.alibaba.com>)
+	id 1i5YBV-000uOk-Fs
+	for support@agilefitness.in; Wed, 04 Sep 2019 16:31:13 +0000
+DKIM-Signature:v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=alibaba.com; s=s1024;
+	t=1567614653; h=Date:From:To:Message-ID:Subject:MIME-Version:Content-Type;
+	bh=0mqZ59ThKw4M8fIKnicrr3ceuDKVT78PRnEPEurblzg=;
+	b=emUL+9DHmUAgxGMFiQj0+MGfSlVzlwido536IVDjRLOR0KeEF9EBYWo7irDSz1d4JxuQAONRfpotMjTFbJh+cEt5VxAXwSKt1KF/T93HRVp9nLJgn4tLKvF1UNvSXzHjwffrSsCPz2Pa1xSKzHr11otve/L1ydOYag/cwtbgNbc=
+X-EnvId: 17870283399428218434
+Received: from ump-delivery011182153152.na62(100.68.186.41)
+          by smtp.aliyun-inc.com(127.0.0.1);
+          Thu, 05 Sep 2019 00:30:52 +0800
+Date: Thu, 5 Sep 2019 00:30:52 +0800 (CST)
+From: "Alibaba.com" <service@service.alibaba.com>
+Reply-To: service@service.alibaba.com
+To: support@agilefitness.in
+Message-ID: b852875a-34bf-4ee2-9435-34e51f46973a-0
+Subject: How to connect with millions of global buyers
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1523988_1125070299.1567614652570"
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-6.8
+X-Spam-Score: -67
+X-Spam-Bar: ------
+X-Ham-Report: ALIBABA_IMG_NOT_RCVD_ALI=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_EF=-0.1, ENV_AND_HDR_SPF_MATCH=-0.5, HTML_MESSAGE=0.001, INVALID_MSGID=1.167, MIME_HTML_ONLY=0.1, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001, USER_IN_DEF_SPF_WL=-7.5
+ 
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at
+ *      https://www.dnswl.org/, no trust
+ *      [140.205.210.160 listed in list.dnswl.org]
+ * -7.5 USER_IN_DEF_SPF_WL From: address is in the default SPF
+ *      white-list
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * -0.1 DKIM_VALID_EF Message has a valid DKIM or DK signature from
+ *      envelope-from domain
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *       valid
+ *  1.2 INVALID_MSGID Message-Id is not valid, according to RFC 2822
+ * -0.5 ENV_AND_HDR_SPF_MATCH Env and Hdr From used in default SPF WL
+ *      Match
+ *  0.0 ALIBABA_IMG_NOT_RCVD_ALI Alibaba hosted image but message not
+ *      from Alibaba
+X-Spam-Flag: NO
+X-BoxTrapper-Match: spamscore: -67 <= -25
+
+------=_Part_1523988_1125070299.1567614652570
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml" data-xmlns-v=3D"urn:schemas-mi=
+crosoft-com:vml" data-xmlns-o=3D"urn:schemas-microsoft-com:office:office">
+ <head>
+  <title></title>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/>=20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />=20
+  <!--[if !mso]><!-->=20
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />=20
+  <link href=3D"https://fonts.googleapis.com/css?family=3DRoboto:300,400,50=
+0,700" rel=3D"stylesheet" type=3D"text/css" />=20
+  <style type=3D"text/css">
+    @import url(https://fonts.googleapis.com/css?family=3DRoboto:300,400,50=
+0,700);
+  </style>=20
+  <!--<![endif]-->=20
+  <style type=3D"text/css">
+  #outlook a {
+    padding: 0;
+  }
+
+  body {
+    width: 100% !important;
+    min-width: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+  }
+
+  .ReadMsgBody {
+    width: 100%;
+  }
+
+  .ExternalClass,
+  .ExternalClass p,
+  .ExternalClass span,
+  .ExternalClass font,
+  .ExternalClass td,
+  .ExternalClass div {
+    line-height: 100%;
+  }
+
+  .aym_table_wrap{
+    width: 100% !important;
+  }
+
+  #backgroundTable {
+    margin: 0;
+    padding: 0;
+    width: 100% !important;
+    line-height: 100% !important;
+  }
+
+  table {
+    border-collapse: collapse;
+    mso-table-lspace: 0pt !important;
+    mso-table-rspace: 0pt !important;
+  }
+
+  td {
+    border-collapse: collapse;
+  }
+
+  img {
+    border: 0;
+    outline: none;
+    text-decoration: none;
+    -ms-interpolation-mode: bicubic;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    line-height: 100%;
+  }
+
+  p {
+    display: block;
+    margin: 0px;
+  }
+</style>=20
+  <!--[if !mso]><!-->=20
+  <style type=3D"text/css">
+    @media only screen and (max-width:480px) {
+      @-ms-viewport { width: 320px; }
+      @viewport { width: 320px; }
+    }
+  </style>=20
+  <!--<![endif]-->=20
+  <!--[if mso]>
+  <style type=3D"text/css">
+    .rml-column {width: 100% !important;}
+  </style>
+  <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+  </xml>
+  <![endif]-->
+ </head>
+ <body>
+  <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"width:=
+100%">
+   <tbody>
+    <tr>
+     <td align=3D"center" style=3D"background-color:#F2F3F7">
+      <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+640" style=3D"width:640px">
+       <tbody>
+        <tr>
+         <td style=3D"width:640px;background-color:#F2F3F7">
+          <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"width:100%">
+           <tbody>
+            <tr>
+             <td align=3D"center" style=3D"background-color:#F2F3F7">
+              <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"585" style=3D"width:585px">
+               <tbody>
+                <tr>
+                 <td style=3D"width:585px;background-color:#F2F3F7"><a targ=
+et=3D"_blank" href=3D"https://www.alibaba.com?to=3Dsupport%40agilefitness.i=
+n&biz_type=3DNotifications_membership&crm_mtn_tracelog_template=3D200102564=
+5&crm_mtn_tracelog_task_id=3D990ecfff-5fe5-4189-a6d0-4742610b82d3&crm_mtn_t=
+racelog_from_sys=3Dservice_wolf-web&crm_mtn_tracelog_log_id=3D21692947573" =
+style=3D"line-height:0;text-decoration:none"><img src=3D"https://img.alicdn=
+.com/tfs/TB1mQYXbxD1gK0jSZFyXXciOVXa-432-72.png" width=3D"216" style=3D"wid=
+th:216px" border=3D"0px" /></a></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+           </tbody>
+          </table></td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+   </tbody>
+  </table>
+  <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"width:=
+100%">
+   <tbody>
+    <tr>
+     <td align=3D"center" style=3D"background-color:#F2F3F7">
+      <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+640" style=3D"width:640px">
+       <tbody>
+        <tr>
+         <td style=3D"width:640px;background-color:#F2F3F7">
+          <div class=3D"edm-component">
+           <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"width:100%">
+            <tbody>
+             <tr>
+              <td align=3D"center" style=3D"background-color:#F2F3F7">
+               <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"640" style=3D"width:640px">
+                <tbody>
+                 <tr>
+                  <td style=3D"width:640px;padding:40px;background-color:#f=
+ff"><p style=3D"color:#333;font-family:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=85=
+=E9=BB=91, Arial;font-size:20px;line-height:34px;margin:0;text-align:center=
+">How to connect with millions of global buyers</p>
+                   <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" border=3D"0">
+                    <tbody>
+                     <tr>
+                      <td style=3D"height:38px;line-height:38px;font-size:1=
+px">=C2=A0</td>
+                     </tr>
+                    </tbody>
+                   </table><p style=3D"color:#333;font-family:Roboto, =E5=
+=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:16px;line-height:20px;ma=
+rgin:0;padding-bottom:32px">You joined Alibaba.com to tap into one of the l=
+argest ecommerce marketplaces in the world. But right now, your access is l=
+imited. </p><p style=3D"color:#333;font-family:Roboto, =E5=BE=AE=E8=BD=AF=
+=E9=9B=85=E9=BB=91, Arial;font-size:16px;line-height:20px;margin:0;padding-=
+bottom:32px">Upgrade to a premium package to connect with buyers interested=
+ in your products, and start selling on a global scale. </p>
+                   <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" border=3D"0">
+                    <tbody>
+                     <tr>
+                      <td style=3D"height:14px;line-height:14px;font-size:1=
+px">=C2=A0</td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" border=3D"0">
+                    <tbody>
+                     <tr>
+                      <td align=3D"center" style=3D"line-height:0"><a targe=
+t=3D"_self" href=3D"https://seller.alibaba.com?to=3Dsupport%40agilefitness.=
+in&biz_type=3DNotifications_membership&crm_mtn_tracelog_template=3D20010256=
+45&crm_mtn_tracelog_task_id=3D990ecfff-5fe5-4189-a6d0-4742610b82d3&crm_mtn_=
+tracelog_from_sys=3Dservice_wolf-web&crm_mtn_tracelog_log_id=3D21692947573"=
+ style=3D"line-height:0;text-decoration:none"><img src=3D"https://img.alicd=
+n.com/tfs/TB1rbrgdFY7gK0jSZKzXXaikpXa-443-419.png" width=3D"509" alt=3D"htt=
+ps://Alibaba.com" style=3D"width:509px" border=3D"0px" /></a></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" border=3D"0">
+                    <tbody>
+                     <tr>
+                      <td style=3D"height:50px;line-height:50px;font-size:1=
+px">=C2=A0</td>
+                     </tr>
+                    </tbody>
+                   </table><p style=3D"color:#333;font-family:Roboto, =E5=
+=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:16px;line-height:26px;ma=
+rgin:0;font-weight:600;text-align:center">Ready to take your business to th=
+e next level?</p>
+                   <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" border=3D"0">
+                    <tbody>
+                     <tr>
+                      <td style=3D"height:22px;line-height:22px;font-size:1=
+px">=C2=A0</td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" border=3D"0">
+                    <tbody>
+                     <tr>
+                      <td align=3D"center">
+                       <table align=3D"center" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" style=3D"border-collapse:separate;background-color:#0f=
+47f4;border-radius:20px">
+                        <tbody>
+                         <tr>
+                          <td><a target=3D"_blank" href=3D"https://seller.a=
+libaba.com?to=3Dsupport%40agilefitness.in&biz_type=3DNotifications_membersh=
+ip&crm_mtn_tracelog_template=3D2001025645&crm_mtn_tracelog_task_id=3D990ecf=
+ff-5fe5-4189-a6d0-4742610b82d3&crm_mtn_tracelog_from_sys=3Dservice_wolf-web=
+&crm_mtn_tracelog_log_id=3D21692947573" style=3D"color:#fff;font-family:Rob=
+oto, =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:16px;line-height=
+:40px;display:block;text-decoration:none;height:40px;padding-left:78px;padd=
+ing-right:78px;background-color:#0f47f4;border-radius:20px;vertical-align:m=
+iddle">Upgrade now</a></td>
+                         </tr>
+                        </tbody>
+                       </table></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" border=3D"0">
+                    <tbody>
+                     <tr>
+                      <td style=3D"height:35px;line-height:35px;font-size:1=
+px">=C2=A0</td>
+                     </tr>
+                    </tbody>
+                   </table><p style=3D"color:#333333;font-family:Roboto, =
+=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:16px;line-height:24px=
+;margin:0;text-align:center;font-weight:600">Have questions?</p>
+                   <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" border=3D"0" style=3D"width:100%">
+                    <tbody>
+                     <tr>
+                      <td align=3D"center" style=3D"text-align:center"><a h=
+ref=3D"https://gcx.alibaba.com/icbu/angel/portal.htm?spm=3Da272f.13038188.j=
+x2tlc9j.1.30046465UB7xyJ&amp;pageId=3D377958&amp;_param_digest_=3D57f582a26=
+4032236fe16f9f2cc72a8a5&to=3Dsupport%40agilefitness.in&biz_type=3DNotificat=
+ions_membership&crm_mtn_tracelog_template=3D2001025645&crm_mtn_tracelog_tas=
+k_id=3D990ecfff-5fe5-4189-a6d0-4742610b82d3&crm_mtn_tracelog_from_sys=3Dser=
+vice_wolf-web&crm_mtn_tracelog_log_id=3D21692947573" target=3D"_blank" styl=
+e=3D"color:#0F47F4;font-family:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91=
+, Arial;font-size:16px;line-height:24px;text-decoration:underline">Chat </a=
+><span style=3D"color:#333333;font-family:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=
+=85=E9=BB=91, Arial;font-size:16px;line-height:24px;margin:0;text-align:cen=
+ter">with our sales team to learn more.</span></td>
+                     </tr>
+                    </tbody>
+                   </table>
+                   <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" border=3D"0">
+                    <tbody>
+                     <tr>
+                      <td style=3D"height:40px;line-height:40px;font-size:1=
+px">=C2=A0</td>
+                     </tr>
+                    </tbody>
+                   </table><p style=3D"color:#666;font-family:Roboto, =E5=
+=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:12px;line-height:16px;ma=
+rgin:0;text-align:center">Please do not respond. This is an automated email=
+ from an email address that is not monitored.</p></td>
+                 </tr>
+                </tbody>
+               </table></td>
+             </tr>
+            </tbody>
+           </table>
+          </div></td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+   </tbody>
+  </table>
+  <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"width:=
+100%">
+   <tbody>
+    <tr>
+     <td align=3D"center" style=3D"background-color:#F2F3F7">
+      <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+640" style=3D"width:640px">
+       <tbody>
+        <tr>
+         <td style=3D"width:640px;background-color:#F2F3F7">
+          <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"width:100%">
+           <tbody>
+            <tr>
+             <td align=3D"center" style=3D"background-color:#F2F3F7">
+              <table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"640" style=3D"width:640px">
+               <tbody>
+                <tr>
+                 <td style=3D"width:640px;padding:30px;background-color:#F2=
+F3F7">
+                  <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ border=3D"0" style=3D"width:100%">
+                   <tbody>
+                    <tr>
+                     <td align=3D"center"><a href=3D"https://usmy.alibaba.c=
+om/user/account_settings.htm?tracelog=3Dggs_edm_footer&to=3Dsupport%40agile=
+fitness.in&biz_type=3DNotifications_membership&crm_mtn_tracelog_template=3D=
+2001025645&crm_mtn_tracelog_task_id=3D990ecfff-5fe5-4189-a6d0-4742610b82d3&=
+crm_mtn_tracelog_from_sys=3Dservice_wolf-web&crm_mtn_tracelog_log_id=3D2169=
+2947573" target=3D"_blank" style=3D"color:#333;font-family:Roboto, =E5=BE=
+=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:14px;line-height:24px;text-=
+decoration:underline">My Account</a><span style=3D"color:#333333;font-famil=
+y:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:14px;line-h=
+eight:24px;margin:0;padding-left:6px;padding-right:6px">|</span><a href=3D"=
+https://rfq.alibaba.com/rfq/post.htm?tracelog=3Dggs_edm_footer&to=3Dsupport=
+%40agilefitness.in&biz_type=3DNotifications_membership&crm_mtn_tracelog_tem=
+plate=3D2001025645&crm_mtn_tracelog_task_id=3D990ecfff-5fe5-4189-a6d0-47426=
+10b82d3&crm_mtn_tracelog_from_sys=3Dservice_wolf-web&crm_mtn_tracelog_log_i=
+d=3D21692947573" target=3D"_blank" style=3D"color:#333;font-family:Roboto, =
+=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:14px;line-height:24px=
+;text-decoration:underline">Request for Quotation</a><span style=3D"color:#=
+333333;font-family:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font=
+-size:14px;line-height:24px;margin:0;padding-left:6px;padding-right:6px">|<=
+/span><a href=3D"https://selection.alibaba.com/?tracelog=3Dggs_edm_footer&t=
+o=3Dsupport%40agilefitness.in&biz_type=3DNotifications_membership&crm_mtn_t=
+racelog_template=3D2001025645&crm_mtn_tracelog_task_id=3D990ecfff-5fe5-4189=
+-a6d0-4742610b82d3&crm_mtn_tracelog_from_sys=3Dservice_wolf-web&crm_mtn_tra=
+celog_log_id=3D21692947573" target=3D"_blank" style=3D"color:#333;font-fami=
+ly:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:14px;line-=
+height:24px;text-decoration:underline">Top Selected Suppliers</a><span styl=
+e=3D"color:#333333;font-family:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91=
+, Arial;font-size:14px;line-height:24px;margin:0;padding-left:6px;padding-r=
+ight:6px">|</span><a href=3D" https://service.alibaba.com/buyer?to=3Dsuppor=
+t%40agilefitness.in&biz_type=3DNotifications_membership&crm_mtn_tracelog_te=
+mplate=3D2001025645&crm_mtn_tracelog_task_id=3D990ecfff-5fe5-4189-a6d0-4742=
+610b82d3&crm_mtn_tracelog_from_sys=3Dservice_wolf-web&crm_mtn_tracelog_log_=
+id=3D21692947573#contact_us?tracelog=3Dggs_edm_footer" target=3D"_blank" st=
+yle=3D"color:#333;font-family:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91,=
+ Arial;font-size:14px;line-height:24px;text-decoration:underline">Contact u=
+s</a></td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ border=3D"0">
+                   <tbody>
+                    <tr>
+                     <td style=3D"height:5px;line-height:5px;font-size:1px"=
+>=C2=A0</td>
+                    </tr>
+                   </tbody>
+                  </table><p style=3D"color:#333333;font-family:Roboto, =E5=
+=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:14px;line-height:24px;ma=
+rgin:0;text-align:center">Connected with</p>
+                  <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ border=3D"0">
+                   <tbody>
+                    <tr>
+                     <td style=3D"height:10px;line-height:10px;font-size:1p=
+x">=C2=A0</td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ border=3D"0" style=3D"width:100%">
+                   <tbody>
+                    <tr>
+                     <td align=3D"center"><a target=3D"_blank" href=3D"http=
+s://www.facebook.com/AlibabaUS?tracelog=3Dedm_footer_facebook&to=3Dsupport%=
+40agilefitness.in&biz_type=3DNotifications_membership&crm_mtn_tracelog_temp=
+late=3D2001025645&crm_mtn_tracelog_task_id=3D990ecfff-5fe5-4189-a6d0-474261=
+0b82d3&crm_mtn_tracelog_from_sys=3Dservice_wolf-web&crm_mtn_tracelog_log_id=
+=3D21692947573" style=3D"line-height:0;text-decoration:none"><img src=3D"ht=
+tps://img.alicdn.com/tfs/TB1Nve9bEH1gK0jSZSyXXXtlpXa-448-512.png" width=3D"=
+25" style=3D"width:25px;padding-left:18px" border=3D"0px" /></a><a target=
+=3D"_blank" href=3D"https://twitter.com/?to=3Dsupport%40agilefitness.in&biz=
+_type=3DNotifications_membership&crm_mtn_tracelog_template=3D2001025645&crm=
+_mtn_tracelog_task_id=3D990ecfff-5fe5-4189-a6d0-4742610b82d3&crm_mtn_tracel=
+og_from_sys=3Dservice_wolf-web&crm_mtn_tracelog_log_id=3D21692947573#!/Alib=
+abaTalk?tracelog=3Dedm_footer_twitter" style=3D"line-height:0;text-decorati=
+on:none"><img src=3D"https://img.alicdn.com/tfs/TB14E98bxD1gK0jSZFsXXbldVXa=
+-448-512.png" width=3D"25" style=3D"width:25px;padding-left:18px" border=3D=
+"0px" /></a><a target=3D"_blank" href=3D"https://www.youtube.com/user/TeamA=
+libaba?tracelog=3Dedm_footer_youtube&to=3Dsupport%40agilefitness.in&biz_typ=
+e=3DNotifications_membership&crm_mtn_tracelog_template=3D2001025645&crm_mtn=
+_tracelog_task_id=3D990ecfff-5fe5-4189-a6d0-4742610b82d3&crm_mtn_tracelog_f=
+rom_sys=3Dservice_wolf-web&crm_mtn_tracelog_log_id=3D21692947573" style=3D"=
+line-height:0;text-decoration:none"><img src=3D"https://img.alicdn.com/tfs/=
+TB1G8K6bp67gK0jSZPfXXahhFXa-448-512.png" width=3D"25" style=3D"width:25px;p=
+adding-left:18px" border=3D"0px" /></a><a target=3D"_blank" href=3D"https:/=
+/www.linkedin.com/company/alibaba-com?tracelog=3Dedm_footer_linkin&to=3Dsup=
+port%40agilefitness.in&biz_type=3DNotifications_membership&crm_mtn_tracelog=
+_template=3D2001025645&crm_mtn_tracelog_task_id=3D990ecfff-5fe5-4189-a6d0-4=
+742610b82d3&crm_mtn_tracelog_from_sys=3Dservice_wolf-web&crm_mtn_tracelog_l=
+og_id=3D21692947573" style=3D"line-height:0;text-decoration:none"><img src=
+=3D"https://img.alicdn.com/tfs/TB1_V99bvb2gK0jSZK9XXaEgFXa-448-512.png" wid=
+th=3D"25" style=3D"width:25px;padding-left:18px" border=3D"0px" /></a></td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ border=3D"0">
+                   <tbody>
+                    <tr>
+                     <td style=3D"height:35px;line-height:35px;font-size:1p=
+x">=C2=A0</td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ border=3D"0" style=3D"width:100%">
+                   <tbody>
+                    <tr>
+                     <td align=3D"center"><span style=3D"color:#999;font-fa=
+mily:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:12px;lin=
+e-height:24px;margin:0;text-align:center">Read our </span><a href=3D"https:=
+//news.alibaba.com/article/detail/help/100453303-1-privacy-policy.html?url_=
+type=3Dedm_footer_privacy&to=3Dsupport%40agilefitness.in&biz_type=3DNotific=
+ations_membership&crm_mtn_tracelog_template=3D2001025645&crm_mtn_tracelog_t=
+ask_id=3D990ecfff-5fe5-4189-a6d0-4742610b82d3&crm_mtn_tracelog_from_sys=3Ds=
+ervice_wolf-web&crm_mtn_tracelog_log_id=3D21692947573" target=3D"_blank" st=
+yle=3D"color:#333;font-family:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91,=
+ Arial;font-size:12px;line-height:24px;text-decoration:underline">Privacy P=
+olicy</a><span style=3D"color:#999;font-family:Roboto, =E5=BE=AE=E8=BD=AF=
+=E9=9B=85=E9=BB=91, Arial;font-size:12px;line-height:24px;margin:0;text-ali=
+gn:center"> and </span><a href=3D"https://news.alibaba.com/article/detail/h=
+elp/100453293-1-terms-use.html?url_type=3Dedm_footer_term&to=3Dsupport%40ag=
+ilefitness.in&biz_type=3DNotifications_membership&crm_mtn_tracelog_template=
+=3D2001025645&crm_mtn_tracelog_task_id=3D990ecfff-5fe5-4189-a6d0-4742610b82=
+d3&crm_mtn_tracelog_from_sys=3Dservice_wolf-web&crm_mtn_tracelog_log_id=3D2=
+1692947573" target=3D"_blank" style=3D"color:#333;font-family:Roboto, =E5=
+=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:12px;line-height:24px;te=
+xt-decoration:underline">Terms of Use</a></td>
+                    </tr>
+                   </tbody>
+                  </table><p style=3D"color:#999;font-family:Roboto, =E5=BE=
+=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:12px;line-height:24px;margi=
+n:0;text-align:center">Alibaba.com Hong Kong Limited.</p><p style=3D"color:=
+#999;font-family:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-s=
+ize:12px;line-height:24px;margin:0;text-align:center">26/F Tower One, Times=
+ Square, 1 Matheson Street, Causeway Bay, Hong Kong.</p><p style=3D"color:#=
+999;font-family:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-si=
+ze:12px;line-height:24px;margin:0;text-align:center">Tel: (+852) 2215-5100<=
+/p>
+                  <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ border=3D"0">
+                   <tbody>
+                    <tr>
+                     <td style=3D"height:35px;line-height:35px;font-size:1p=
+x">=C2=A0</td>
+                    </tr>
+                   </tbody>
+                  </table>
+                  <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ border=3D"0" style=3D"width:100%">
+                   <tbody>
+                    <tr>
+                     <td align=3D"center"><span style=3D"color:#999;font-fa=
+mily:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:12px;lin=
+e-height:24px;margin:0;text-align:center">If you prefer not to receive emai=
+ls from Alibaba.com, you may</span><a href=3D"https://usmy.alibaba.com/user=
+/emailservice/unsubscribe_entry.htm?url_type=3Dfooter_unsub&tracelog=3Dunsu=
+b_con&_000_e_a_=3DLm79eAtG41LIVj6YzQ*VLVa3juyHtX12OKWwQ1Uc3a0%3D&_000_e_t_=
+=3Dg-q6uNe9RI58vksMBcRtmIODHsFTbpANUFDhBAkXFVI%3D&to=3Dsupport%40agilefitne=
+ss.in&biz_type=3DNotifications_membership&crm_mtn_tracelog_template=3D20010=
+25645&crm_mtn_tracelog_task_id=3D990ecfff-5fe5-4189-a6d0-4742610b82d3&crm_m=
+tn_tracelog_from_sys=3Dservice_wolf-web&crm_mtn_tracelog_log_id=3D216929475=
+73" target=3D"_blank" style=3D"color:#999;font-family:Roboto, =E5=BE=AE=E8=
+=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:12px;line-height:24px;text-decora=
+tion:underline"> unsubscribe</a><span style=3D"color:#999;font-family:Robot=
+o, =E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91, Arial;font-size:12px;line-height:2=
+4px;margin:0;text-align:center"> or set your</span><a href=3D"https://usmy.=
+alibaba.com/user/emailservice/email_service_home_page.htm?flag=3Disle&trace=
+log=3Dedm_footer_email_preferences&to=3Dsupport%40agilefitness.in&biz_type=
+=3DNotifications_membership&crm_mtn_tracelog_template=3D2001025645&crm_mtn_=
+tracelog_task_id=3D990ecfff-5fe5-4189-a6d0-4742610b82d3&crm_mtn_tracelog_fr=
+om_sys=3Dservice_wolf-web&crm_mtn_tracelog_log_id=3D21692947573" target=3D"=
+_blank" style=3D"color:#999;font-family:Roboto, =E5=BE=AE=E8=BD=AF=E9=9B=85=
+=E9=BB=91, Arial;font-size:12px;line-height:24px;text-decoration:underline"=
+> email preferences</a></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+           </tbody>
+          </table></td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+   </tbody>
+  </table>
+  <img style=3D"display:none; visibility:hidden; color:#fff;" width=3D"0" h=
+eight=3D"0" src=3D"http://stat.alibaba.com/mail_callback.html?crm_mtn_trace=
+log_log_id=3D21692947573&crm_mtn_tracelog_task_id=3D990ecfff-5fe5-4189-a6d0=
+-4742610b82d3" />
+  <img style=3D"display:none; visibility:hidden; color:#fff;" width=3D"0" h=
+eight=3D"0" src=3D"http://gm.mmstat.com/btob.10?crm_mtn_tracelog_log_id=3D2=
+1692947573&crm_mtn_tracelog_task_id=3D990ecfff-5fe5-4189-a6d0-4742610b82d3&=
+from=3Dservice@service.alibaba.com&to=3Dsupport@agilefitness.in&from_sys=3D=
+service_wolf-web&biz_type=3DNotifications_membership&template=3D2001025645"=
+ />
+ </body>
+</html>
+------=_Part_1523988_1125070299.1567614652570--
+

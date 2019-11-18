@@ -1,0 +1,89 @@
+Return-Path: <jessie@paulwriter.com>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net (Dovecot) with LMTP id AeCZAzsx81pKvwoAwqAP9w
+	for <support@agilefitness.in>; Wed, 09 May 2018 17:34:51 +0000
+Return-path: <jessie@paulwriter.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Wed, 09 May 2018 17:34:51 +0000
+Received: from mail-pf0-f178.google.com ([209.85.192.178]:40920)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <jessie@paulwriter.com>)
+	id 1fGSzF-002yJV-Uu
+	for support@agilefitness.in; Wed, 09 May 2018 17:34:51 +0000
+Received: by mail-pf0-f178.google.com with SMTP id f189so25966039pfa.7
+        for <support@agilefitness.in>; Wed, 09 May 2018 10:34:52 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=paulwriter-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:subject:from:in-reply-to:date:cc
+         :content-transfer-encoding:message-id:references:to;
+        bh=d4InPLAtiJ+KYWapvA3bvcYwcbnk/4rp2fsD0Qmvkcc=;
+        b=xkJQAN7/pw914gbxdihc8WeEx5M761TqamtfDeWp5aDPcqSxUc8fyMK1JXG3OtlhbE
+         sb2aShLOFOjEk+3KRv4K7xXEZexvosAC5vxEkenL3UMiFMrgtEc5w4iA0j4ctR4vwIta
+         ibVeweZlafiqbFThjCIRDEn+6BC6hEi5GjFizXn58CiwinhntIeIh506RmkR0QwEinoe
+         TCrHGezEMUINVCxmIUY5OQcpwBWT17dtjaTM10IA7btDdrF9qxilzayX6Ku8Zn1CQEy1
+         T+ieALpaosnDATi4sWTPUVVyBk+HGm3WV8LarMDfMKtW0OWowBdlIiiSD8wocsSaQHj8
+         hADg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:subject:from:in-reply-to:date:cc
+         :content-transfer-encoding:message-id:references:to;
+        bh=d4InPLAtiJ+KYWapvA3bvcYwcbnk/4rp2fsD0Qmvkcc=;
+        b=qybTP6von8vXxVyip511mcYKAkhm0kQSiLUt0LFth+R5CJ7AKNWgyAQrsPYRH5dbrz
+         AyxNKytvY7wKafFq7r8kcFzXofXs+2joOf9xDKI93k4GkAky7m5AffCrYObtM3B4W4Qn
+         D9kTRdRXyfzUd8dBb/3UcvneDXBykwS+Ih9yFWSo9GggSGWHcxcRlpFvkcN7YT/BnFWB
+         h5hWM75VUfCIJjhD0ZeYMQbFfVVRi6Cr7R70Tc3Mia4qlQ6bDMZ7aFJz6uhjlbPQKl/Q
+         kofp1vKEh+4pZTCyJT/QrNXKIqp8IwpxPAScK5z4jpSdBhIluysNgeHVstMbdBMp/FPg
+         468w==
+X-Gm-Message-State: ALQs6tD+QfR+5RzFj7mtpAmPLuwDosq5YEEGA2cZS3O3o82SgPL8DV0e
+	t/+s0w+kfWKTfJ7/XcqyyyyW2d0Gbeg=
+X-Google-Smtp-Source: AB8JxZqVFqMPZTCdc9svMzSejrQ1MqQOa+fm29S3a+YxZXd+e6TxqzYbE7I49uYzhAlCjJPE1FytyQ==
+X-Received: by 2002:a63:9e12:: with SMTP id s18-v6mr26538701pgd.207.1525887284209;
+        Wed, 09 May 2018 10:34:44 -0700 (PDT)
+Received: from [192.168.1.4] ([122.171.55.237])
+        by smtp.gmail.com with ESMTPSA id w1-v6sm12885795pgp.3.2018.05.09.10.34.42
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 09 May 2018 10:34:43 -0700 (PDT)
+Content-Type: text/plain;
+	charset=us-ascii
+Mime-Version: 1.0 (Mac OS X Mail 11.3 \(3445.6.18\))
+Subject: Re: Quotation for Gym Materials
+From: Jessie Paul <jessie@paulwriter.com>
+In-Reply-To: <6e3dbcd80bda874a26a411bb729ed3e5@agilefitness.in>
+Date: Wed, 9 May 2018 23:04:40 +0530
+Cc: sukdeepds@gmail.com,
+ sithara.mce@gmail.com,
+ gurushri.7@gmail.com
+Content-Transfer-Encoding: 7bit
+Message-Id: <4B698CFD-304B-4C7D-960A-03D5EE72DD3B@paulwriter.com>
+References: <6e3dbcd80bda874a26a411bb729ed3e5@agilefitness.in>
+To: Agile Fitness <support@agilefitness.in>
+X-Mailer: Apple Mail (2.3445.6.18)
+X-Authenticated_sender: 
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H2=-0.001, SPF_SOFTFAIL=0.972, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=RKqd4bq+ c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=vSKe6IUz6jCeQHzBmIiaRQ==:17 a=kj9zAlcOel0A:10 a=VUJBJC2UJ8kA:10 a=08_SRABnVw8mM6OdrWYA:9 a=CjuIK1q_8ugA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: agilefitness.in]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [209.85.192.178 listed in list.dnswl.org]
+ * -0.0 RCVD_IN_MSPIKE_H2 RBL: Average reputation (+2)
+ *      [209.85.192.178 listed in wl.mailspike.net]
+ *  1.0 SPF_SOFTFAIL SPF: sender does not match SPF record (softfail)
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+Thank you for sharing this.  Is there any warranty on these products?
+
+> On 09-May-2018, at 10:37 PM, Agile Fitness <support@agilefitness.in> wrote:
+> 
+> <Agile_1.pdf>
+

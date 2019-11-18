@@ -1,0 +1,332 @@
+Return-Path: <accounts@ocean.net.in>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net (Dovecot) with LMTP id 6QX9N+I9Q1swpgsAwqAP9w
+	for <support@agilefitness.in>; Mon, 09 Jul 2018 10:50:10 +0000
+Return-path: <accounts@ocean.net.in>
+Envelope-to: support@agilefitness.in
+Delivery-date: Mon, 09 Jul 2018 10:50:10 +0000
+Received: from mail-oi0-f49.google.com ([209.85.218.49]:36077)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <accounts@ocean.net.in>)
+	id 1fcTk6-003DKV-Np
+	for support@agilefitness.in; Mon, 09 Jul 2018 10:50:10 +0000
+Received: by mail-oi0-f49.google.com with SMTP id r16-v6so35032768oie.3
+        for <support@agilefitness.in>; Mon, 09 Jul 2018 03:50:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=ocean-net-in.20150623.gappssmtp.com; s=20150623;
+        h=from:references:in-reply-to:mime-version:thread-index:date
+         :message-id:subject:to:cc:content-transfer-encoding;
+        bh=bz1kcjPUh2V0PiFgAp7jZxiTwBrw8x/rtfbkC9V71VE=;
+        b=XMy4/bvLCBQsqmgMUY7uXMsR97Qm0zqF1D4OVVS1LyX+OKcpSjV9jw0Q4BX8tgHlkw
+         3rP/xNddGfbUlepFc858YH/b5i+fP4Tc7oa7LbTqsV1blObCFMAqlLcsx4nApmU4sISB
+         mzCxT8MQyFheQzJQHv1dwvi6PVPhcppi7lwKKWPut7lNTtcOo6G3CGlzpX/RzZqTh7As
+         JUuole0qjVQsI65ZdjS4fkCXKLUymUii7mUXX6aMeVjnzcFNpawMyT2VEu+gDDEkdU7I
+         BHCfVbYL9ze9lzJ5HDxzLSHv2uMierDlaf3hv7vbaY7BiWngo861ZI5MfPzaQ4CbQ3OU
+         c9YQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:references:in-reply-to:mime-version
+         :thread-index:date:message-id:subject:to:cc
+         :content-transfer-encoding;
+        bh=bz1kcjPUh2V0PiFgAp7jZxiTwBrw8x/rtfbkC9V71VE=;
+        b=ZL18OvY76TMT16HcmMeqHQFdMonI4mKZWwrvkWn9vlOBa+MSvalcRRZHQy+zvNOcRh
+         M+O4KAK53l3hYnw6gDKS+aGlae/M+Bil5EOqMuli5EFcKcH6pOd2xZVWqBnpf/pzwZYy
+         c9X5u/dY9cO/D+iVTpH+2kewW5OvFo4ACO2tNkWDajBg87cB5/CcxYPtprgiBZMOZux9
+         LJykI4LEzWPKTu457PyxiRuFlLcCfWWZI2GgiMxBHtdXM7Mivrdg+k00omNcJwxYl4Qa
+         C80+LsN8I4KuQMnUqteMC/osBUe6Z2JCdH11WD+crQIVIv7mowTStgmhPmelALnbDNiM
+         7quA==
+X-Gm-Message-State: APt69E3BdDHCxFahqUaEaulX2Ym1cFg534YWV9dr1eE0/+U8zKiUw26r
+	gN6hmP2v5nSU0NykNosdpI6EOzpdfI6YnWYlVMmJcQ==
+X-Google-Smtp-Source: AAOMgpdBB+zEpTz4rk0kO6PQb5mcoCvLko/W3j7xXAbAQv1HWZ9+rnx9TvOWgI9cMgj+R8vm2+3YaEnd5yb2YaHTFIs=
+X-Received: by 2002:aca:cc46:: with SMTP id c67-v6mr23822119oig.197.1531133398854;
+ Mon, 09 Jul 2018 03:49:58 -0700 (PDT)
+From: Accounts Ocean <accounts@ocean.net.in>
+References: <dae1ff0d8ade2342644391f63143b572@agilefitness.in>
+ <dfac18aad582268c3e970480dba71d8a@mail.gmail.com> <d4468051f7c6a70d80841d8244d883d0@agilefitness.in>
+ <8ece465cd7132417ff127fba9f2c805a@agilefitness.in> <d92347bf6e93e2429807a7b29a8d6efa@agilefitness.in>
+ <34c3ecfc87b7dd8bf704f5bb142dd917@agilefitness.in> <ffe3c156777c8e3b387d95c19a9626fb@agilefitness.in>
+ <dd5ef169b2ef91d2308925b80e61d12a@mail.gmail.com>
+In-Reply-To: <dd5ef169b2ef91d2308925b80e61d12a@mail.gmail.com>
+MIME-Version: 1.0
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AQF08QgwM6wy8AwlCkk0tZbl5xNlUQIQVez6AeHGw4gCBBhv3AH59aowAovEa2sCRGL++6Te+TpAgAAG2QA=
+Date: Mon, 9 Jul 2018 16:19:56 +0530
+Message-ID: <84f5c089e58c8104ce0eb8c2446955e5@mail.gmail.com>
+Subject: RE: SYNAPTICS/073/PO/17-18 || Pending Payment Request
+To: Info Bangalore <infoblr@ocean.net.in>, Accounts Payable <accountspayable@ocean.net.in>
+Cc: Purchase Ocean <purchase@ocean.net.in>, Akash Lohia <akashlohia@ocean.net.in>, 
+	Agile Fitness <support@agilefitness.in>, Sasi Kala <sasikala@ocean.net.in>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H3=-0.01, RCVD_IN_MSPIKE_WL=-0.01, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=RKqd4bq+ c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=IkcTkHD0fZMA:10 a=MKtGQD3n3ToA:10 a=R9QF1RCXAYgA:10 a=ZlUWZ3eGjmIA:10 a=ZZnuYtJkoWoA:10 a=w6qbL-bzTPHcpR5lfxwA:9 a=9pIwfih3CCRphg6h:21 a=iSa73clfLDuF_hzT:21 a=QEXdDO2ut3YA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: ocean.net.in]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [209.85.218.49 listed in list.dnswl.org]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ * -0.0 RCVD_IN_MSPIKE_H3 RBL: Good reputation (+3)
+ *      [209.85.218.49 listed in wl.mailspike.net]
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.0 RCVD_IN_MSPIKE_WL Mailspike good senders
+X-Spam-Flag: NO
+
+Dear Aarthi,
+
+As discussed, Kindly ask vendor to change to change our GST Number.
+
+
+Thanks & Regards.....
+Iswarya G
+Associate Manager - Accounts
+Ocean Lifespaces India Private Limited.
+MF-1, Industrial Estate, CIPET Hostel Road,
+Guindy, Chennai - 600 032. Tamil Nadu, India.
+0 - 98410  63310 (M)  | +91-44-2225 9900 (Board)
+accounts@ocean.net.in | www.ocean.net.in
+Andhara Pradesh | Haryana | Karnataka | Kerala | Maharashtra | Pudhucherry =
+|
+Telangana
+
+Please consider the environment before printing this email
+
+DISCLAIMER: This e-mail message may contain confidential, proprietary or
+legally privileged information, which is intended only for the named
+recipients above. It should not be used by anyone who is not the original
+intended recipient. If you have received this message in error, please
+delete it immediately and notify the sender. If you are not the intended
+recipient, you are notified that you are strictly prohibited from using,
+copying, altering, or disclosing the contents of this message.
+
+The recipient acknowledges that Ocean Lifespaces India Private Limited is
+unable to exercise control or ensure or guarantee the integrity of / over
+the contents of the information contained in e-mail transmissions and
+further acknowledges that any views expressed in this message are those of
+the individual sender and no binding nature of the message shall be implied
+or assumed unless the sender does so expressly with due authority of Ocean
+Lifespaces India Private Limited. Ocean Lifespaces India Private Limited
+accepts no responsibility for loss or damage arising from the use of the
+information transmitted by this email including damage from virus.
+
+
+-----Original Message-----
+From: Info Bangalore [mailto:infoblr@ocean.net.in]
+Sent: Monday, July 09, 2018 3:57 PM
+To: Accounts Payable; Accounts Ocean
+Cc: Purchase Ocean; Akash Lohia; Agile Fitness; Sasi Kala
+Subject: RE: SYNAPTICS/073/PO/17-18 || Pending Payment Request
+
+Dear Dharamaraj,
+
+Please find attached the Invoice copy from Agile. Kindly let me know the
+status of the balance payment. Its urgent.
+
+Regards,
+Arathi Clement
+
+-----Original Message-----
+From: Agile Fitness [mailto:support@agilefitness.in]
+Sent: 09 July 2018 15:46
+To: Finance Ocean; Akash Lohia; sasikala@ocean.net.in; Info Bangalore
+Cc: Purchase Ocean; Accounts Ocean
+Subject: Re: SYNAPTICS/073/PO/17-18 || Pending Payment Request
+
+Dear Akash / Sasi / Arathi  ,
+
+Request you kindly process the pending Payment with Reference PO #
+SYNAPTICS/073/PO/17-18 . Hardcopy of invoice submitted in Bangalore office.
+
+Total- 24640
+Advance - 11000
+Balance-13640
+
+Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, spo=
+rts
+materials, Sports flooring ,AMC.
+
+Regards,
+Sukdeep D S
+Manager, Sales & service,
+Agile fitness,Malleswaram,Bangalore-4.
+Ph.:+91 9980111255 www.agilefitness.in
+
+
+
+On 2018-06-29 04:03, Agile Fitness wrote:
+> Dear Akash / Sasi ,
+>
+> Request you kindly process the pending Payment with Reference PO #
+> SYNAPTICS/073/PO/17-18 . Hardcopy of invoice submitted in Bangalore
+> office.
+>
+> Total- 24640
+> Advance - 11000
+> Balance-13640
+>
+> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, s=
+ports
+> materials, Sports flooring ,AMC.
+>
+> Regards,
+> Sukdeep D S
+> Manager, Sales & service,
+> Agile fitness,Malleswaram,Bangalore-4.
+> Ph.:+91 9980111255 www.agilefitness.in
+>
+>
+> On 2018-05-30 09:22, Agile Fitness wrote:
+>> Dear Sir / Madam,
+>>
+>> Request you kindly process the pending Payment with Reference PO #
+>> SYNAPTICS/073/PO/17-18 . Hardcopy of invoice submitted in Bangalore
+>> office.
+>>
+>> --
+>> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers,
+>> sports materials, Sports flooring ,AMC.
+>>
+>> Regards,
+>> Sukdeep D S
+>> Manager, Sales & service,
+>> Agile fitness,Malleswaram,Bangalore-4.
+>> Ph.:+91 9980111255 www.agilefitness.in
+>>
+>> On 2018-05-28 11:35, Agile Fitness wrote:
+>>> Dear Sir / Madam,
+>>>
+>>> Request you kindly process the pending Payment with Reference PO #
+>>> SYNAPTICS/073/PO/17-18 . Hardcopy of invoice submitted in Bangalore
+>>> office.
+>>>
+>>> --
+>>> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers,
+>>> sports materials, Sports flooring ,AMC.
+>>>
+>>> Regards,
+>>> Sukdeep D S
+>>> Manager, Sales & service,
+>>> Agile fitness,Malleswaram,Bangalore-4.
+>>> Ph.:+91 9980111255 www.agilefitness.in
+>>>
+>>> On 2018-05-21 11:30, Agile Fitness wrote:
+>>>> Dear Sir / Madam,
+>>>>
+>>>> Request you kindly process the pending Payment with Reference PO #
+>>>> SYNAPTICS/073/PO/17-18 . Hardcopy of invoice submitted in Bangalore
+>>>> office.
+>>>>
+>>>> --
+>>>> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers=
+,
+>>>> sports materials, Sports flooring ,AMC.
+>>>>
+>>>> Regards,
+>>>> Sukdeep D S
+>>>> Manager, Sales & service,
+>>>> Agile fitness,Malleswaram,Bangalore-4.
+>>>> Ph.:+91 9980111255 www.agilefitness.in
+>>>>
+>>>> On 2018-05-15 07:49, Finance Ocean wrote:
+>>>>> +Looping accountspayable@ocean.net.in,sivaraman@ocean.net.in
+>>>>>
+>>>>>
+>>>>> Thanks & Regards
+>>>>> E.Murugesan
+>>>>> Associate Manager =E2=80=93 Finance
+>>>>> Ocean Lifespaces India Private Limited MF-1, Industrial Estate,
+>>>>> CIPET Hostel Road, Guindy, Chennai - 600 032. Tamil Nadu, India.
+>>>>> 0 - 98410 33306 [M] | +91-44-2225 9900 [Board] | +91-44-2225 9923
+>>>>> [Direct] finance@ocean.net.in | www.ocean.net.in Andhara Pradesh |
+>>>>> Haryana | Karnataka | Kerala | Maharashtra | Pudhucherry |
+>>>>> Telangana
+>>>>>
+>>>>> Please consider the environment before printing this email
+>>>>>
+>>>>> DISCLAIMER: This e-mail message may contain confidential,
+>>>>> proprietary or legally privileged information, which is intended
+>>>>> only for the named recipients above. It should not be used by
+>>>>> anyone who is not the original intended recipient. If you have
+>>>>> received this message in error, please delete it immediately and
+>>>>> notify the sender. If you are not the intended recipient, you are
+>>>>> notified that you are strictly prohibited from using, copying,
+>>>>> altering, or disclosing the contents of this message.
+>>>>>
+>>>>> The recipient acknowledges that Ocean Lifespaces India Private
+>>>>> Limited is unable to exercise control or ensure or guarantee the
+>>>>> integrity of / over the contents of the information contained in
+>>>>> e-mail transmissions and further acknowledges that any views
+>>>>> expressed in this message are those of the individual sender and
+>>>>> no binding nature of the message shall be implied or assumed
+>>>>> unless the sender does so expressly with due authority of Ocean
+>>>>> Lifespaces India Private Limited. Ocean Lifespaces India Private
+>>>>> Limited accepts no responsibility for loss or damage arising from
+>>>>> the use of the information transmitted by this email including
+>>>>> damage from virus.
+>>>>>
+>>>>>
+>>>>> -----Original Message-----
+>>>>> From: Agile Fitness [mailto:support@agilefitness.in]
+>>>>> Sent: 15 May 2018 13:17
+>>>>> To: purchase@ocean.net.in; sasikala@ocean.net.in;
+>>>>> akashlohia@ocean.net.in; finance@ocean.net.in;
+>>>>> accounts@ocean.net.in; infoblr@ocean.net.in
+>>>>> Cc: support@agilefitness.in; sukdeepds@gmail.com
+>>>>> Subject: SYNAPTICS/073/PO/17-18 || Pending Payment Request
+>>>>>
+>>>>> Hello All,
+>>>>>
+>>>>> Greetings from Agile Fitness Pvt. Ltd.
+>>>>>
+>>>>> Request you kindly process the pending Payment with Reference PO #
+>>>>> SYNAPTICS/073/PO/17-18 . Hardcopy of invoice submitted in
+>>>>> Bangalore office.
+>>>>>
+>>>>> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainer=
+s,
+>>>>> sports materials, Sports flooring ,AMC.
+>>>>>
+>>>>> Regards,
+>>>>> Sukdeep D S
+>>>>> Manager, Sales & service,
+>>>>> Agile fitness,Malleswaram,Bangalore-4.
+>>>>> Ph.:+91 9980111255 www.agilefitness.in
+>>>>
+>>>> Dear Sir / Madam,
+>>>>
+>>>>  Request you kindly process the pending Payment with Reference PO #
+>>>> SYNAPTICS/073/PO/17-18 . Hardcopy of invoice submitted in Bangalore
+>>>> office.
+>>>
+>>> Dear Sir / Madam,
+>>>
+>>>  Request you kindly process the pending Payment with Reference PO #
+>>> SYNAPTICS/073/PO/17-18 . Hardcopy of invoice submitted in Bangalore
+>>> office.
+>>
+>> Dear Sir / Madam,
+>>
+>> Request you kindly process the pending Payment with Reference PO #
+>> SYNAPTICS/073/PO/17-18 . Hardcopy of invoice submitted in Bangalore
+>> office.
+
+--
+Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, spo=
+rts
+materials, Sports flooring ,AMC.
+
+Regards,
+Sukdeep D S
+Manager, Sales & service,
+Agile fitness,Malleswaram,Bangalore-4.
+Ph.:+91 9980111255 www.agilefitness.in

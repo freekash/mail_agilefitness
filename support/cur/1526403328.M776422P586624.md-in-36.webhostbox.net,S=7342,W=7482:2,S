@@ -1,0 +1,140 @@
+Return-Path: <>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net (Dovecot) with LMTP id qeA5LgAR+1qA8wgAwqAP9w
+	for <support@agilefitness.in>; Tue, 15 May 2018 16:55:28 +0000
+Return-path: <>
+Envelope-to: support@agilefitness.in
+Delivery-date: Tue, 15 May 2018 16:55:28 +0000
+Received: from linux-mum-outbound.webhostbox.net ([116.206.104.216]:38744)
+	by md-in-36.webhostbox.net with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.89)
+	id 1fIdEQ-002m1n-KE
+	for support@agilefitness.in; Tue, 15 May 2018 16:55:28 +0000
+Received: from alln-iport-7.cisco.com (alln-iport-7.cisco.com [173.37.142.94])
+	by linux-mum-outbound.webhostbox.net (Postfix) with ESMTP id C4DC51700B55
+	for <SRS0+VIU3=IC=agilefitness.in=support@linux-mum-outbound.webhostbox.net>; Tue, 15 May 2018 16:55:21 +0000 (GMT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+  d=cisco.com; i=@cisco.com; l=3763; q=dns/txt; s=iport;
+  t=1526403337; x=1527612937;
+  h=message-id:date:to:from:subject:mime-version;
+  bh=mRTldHC6oDxwjk8Je93hF5G337ngakmVvHEuTbVu58s=;
+  b=cQtYpGa7o/Ce483WjQ1Hu03kX6OI0fmCz8z96Lqu0EZFxTvSFCmH0ZCV
+   Q2poAy87iXddL+agsPDgEGQSV0MAv3WIfyd3ZtRxFhGLp+FaO+vYKNodK
+   wqfvZkLvHVTfL5xlQJb9ASLVIYt4qYPwb3mE2MtbDwx8ixdgbB1+jyNyb
+   4=;
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: =?us-ascii?q?A0ArAwDOD/ta/5tdJa11AQEBAQEBAQE?=
+ =?us-ascii?q?BAQEBBwEBAQEBg0OBXSiDdJR4gwiBZQGTT4gGITgUAQIBAQEBAQECbCiFUlR?=
+ =?us-ascii?q?fAhIPUYMlgX+rSYIchFmDJUuCJ4Ipg1iCJIITiVmCNIJWhzGGCIsACQIYiBs?=
+ =?us-ascii?q?MhzkBi0iQPgYLAQETAYElMyGBUnCDE5BOb49KAQE?=
+X-IronPort-AV: E=Sophos;i="5.49,403,1520899200"; 
+   d="scan'208";a="114326234"
+Received: from rcdn-core-4.cisco.com ([173.37.93.155])
+  by alln-iport-7.cisco.com with ESMTP/TLS/DHE-RSA-AES256-GCM-SHA384; 15 May 2018 16:55:29 +0000
+Received: from alln-inbound-e.cisco.com (alln-inbound-e.cisco.com [173.37.147.235])
+	by rcdn-core-4.cisco.com (8.14.5/8.14.5) with ESMTP id w4FGtT44011199
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-SEED-SHA bits=128 verify=OK)
+	for <SRS0+VIU3=IC=agilefitness.in=support@linux-mum-outbound.webhostbox.net>; Tue, 15 May 2018 16:55:29 GMT
+Received: from localhost by alln-inbound-e.cisco.com;
+  15 May 2018 16:55:29 +0000
+Message-Id: <48c838$2ce55p@alln-inbound-e.cisco.com>
+Date: 15 May 2018 16:55:29 +0000
+To: SRS0+VIU3=IC=agilefitness.in=support@linux-mum-outbound.webhostbox.net
+From: "Mail Delivery System" <MAILER-DAEMON@alln-inbound-e.cisco.com>
+Subject: Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="4nnFa.5R45uEvGF.6KwHqiMozUR.9xpra8/"
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-5.0
+X-Spam-Score: -49
+X-Spam-Bar: -----
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, RCVD_IN_DNSWL_HI=-5, SPF_HELO_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=RKqd4bq+ c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=YNrBiQj/7J5p3Bb2ZGecJA==:17 a=VUJBJC2UJ8kA:10 a=jmdcTMp_Gj4A:10 a=EqP_KmJGCyXdLMgKGGMA:9 a=QEXdDO2ut3YA:10 a=_NIZfaYBpfkA:10 a=GfEeaGTDq2aS7EI_uosA:9
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: cisco.com]
+ * -5.0 RCVD_IN_DNSWL_HI RBL: Sender listed at http://www.dnswl.org/, high
+ *      trust
+ *      [173.37.142.94 listed in list.dnswl.org]
+ * -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--4nnFa.5R45uEvGF.6KwHqiMozUR.9xpra8/
+content-type: text/plain;
+    charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <anishni@cisco.com> was undeliverable.
+The reason for the problem:
+5.1.0 - Unknown address error 550-'5.1.1 <anishni@cisco.com>... User unknow=
+n'
+
+--4nnFa.5R45uEvGF.6KwHqiMozUR.9xpra8/
+content-type: message/delivery-status
+
+Reporting-MTA: dns; alln-inbound-e.cisco.com
+
+Final-Recipient: rfc822;anishni@cisco.com
+Action: failed
+Status: 5.0.0 (permanent failure)
+Remote-MTA: dns; [173.37.93.161]
+Diagnostic-Code: smtp; 5.1.0 - Unknown address error 550-'5.1.1 <anishni@cisco.com>... User unknown' (delivery attempts: 0)
+
+--4nnFa.5R45uEvGF.6KwHqiMozUR.9xpra8/
+content-type: message/rfc822
+
+Authentication-Results: alln-inbound-e.cisco.com; dkim=none (message not signed) header.i=none; spf=None smtp.mailfrom=SRS0+VIU3=IC=agilefitness.in=support@linux-mum-outbound.webhostbox.net; spf=None smtp.helo=postmaster@linux-mum-outbound.webhostbox.net
+Received-SPF: None (alln-inbound-e.cisco.com: no sender
+  authenticity information available from domain of
+  SRS0+VIU3=IC=agilefitness.in=support@linux-mum-outbound.webhostbox.net)
+  identity=mailfrom; client-ip=116.206.104.216;
+  receiver=alln-inbound-e.cisco.com;
+  envelope-from="SRS0+VIU3=IC=agilefitness.in=support@linux-mum-outbound.webhostbox.net";
+  x-sender="SRS0+VIU3=IC=agilefitness.in=support@linux-mum-outbound.webhostbox.net";
+  x-conformance=spf_only
+Received-SPF: None (alln-inbound-e.cisco.com: no sender
+  authenticity information available from domain of
+  postmaster@linux-mum-outbound.webhostbox.net) identity=helo;
+  client-ip=116.206.104.216; receiver=alln-inbound-e.cisco.com;
+  envelope-from="SRS0+VIU3=IC=agilefitness.in=support@linux-mum-outbound.webhostbox.net";
+  x-sender="postmaster@linux-mum-outbound.webhostbox.net";
+  x-conformance=spf_only
+X-from-outside-Cisco: 116.206.104.216
+X-Files: Agile Fitness Pvt Ltd_1 (1).pptx, Agile_Emp_Details (1).pdf,
+ SOW_Trainer  (1).pdf, Agile_Cisco_Manpower (1).pdf : 843611, 218229, 217729,
+ 570883
+X-IronPort-AV: E=Sophos;i="5.49,403,1520899200"; 
+   d="xml'?pptx'72,145,150,48?scan'72,145,150,48,208,145,48,150,72?rels'72,145,150,48,208,145,48,150,72?jpeg'72,145,150,48,208,145,48,150,72,145?jpg'72,145,150,48,208,145,48,150,72,145,145?pdf'72,145,150,48,208,145,48,150,72,145,145?png'72,145,150,48,208,145,48,150,72,145,145,150";a="80155620"
+Received: from linux-mum-outbound.webhostbox.net ([116.206.104.216])
+  by alln-inbound-e.cisco.com with ESMTP/TLS/DHE-RSA-AES256-SHA; 15 May 2018 16:54:47 +0000
+Received: from md-in-36.webhostbox.net (unknown [172.23.210.253])
+	by linux-mum-outbound.webhostbox.net (Postfix) with ESMTP id 7E1671700B39;
+	Tue, 15 May 2018 16:54:28 +0000 (GMT)
+Received: from [127.0.0.1] (port=58528 helo=www.agilefitness.in)
+	by md-in-36.webhostbox.net with esmtpa (Exim 4.89)
+	(envelope-from <support@agilefitness.in>)
+	id 1fIdDV-002kst-6A; Tue, 15 May 2018 16:54:28 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="=_ce647b8ea22c45dfbe60cac6162d6640"
+Date: Tue, 15 May 2018 16:54:25 +0000
+From: Agile Fitness <support@agilefitness.in>
+To: sindhkri@cisco.com, tbangalo@cisco.com, anishni@cisco.com,
+ laksagar@cisco.com
+Cc: support@agilefitness.in, sukdeepds <sukdeepds@gmail.com>, Guru Raj
+ <gurushri.7@gmail.com>, Sithara Ram <Sithara.mce@gmail.com>
+Subject: Agile - Gym Trainer Quotation SOW-Profile-Emp Details
+Message-ID: <b65e9a37c71820700ce4aa6db8a32f38@agilefitness.in>
+X-Sender: support@agilefitness.in
+User-Agent: Roundcube Webmail/1.2.4
+X-Authenticated_sender: support@agilefitness.in
+
+--=_ce647b8ea22c45dfbe60cac6162d6640--
+
+
+--4nnFa.5R45uEvGF.6KwHqiMozUR.9xpra8/--

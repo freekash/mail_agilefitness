@@ -1,0 +1,94 @@
+Return-Path: <bounce-md_30815334.5bc2297d.v1-83afbbd4bbfb409789aa99eca8f94c96@mandrillapp.com>
+Delivered-To: gururaj@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP id EKxKK48pwlvI8gkAwqAP9w
+	for <gururaj@agilefitness.in>; Sat, 13 Oct 2018 17:21:19 +0000
+Return-path: <bounce-md_30815334.5bc2297d.v1-83afbbd4bbfb409789aa99eca8f94c96@mandrillapp.com>
+Envelope-to: gururaj@agilefitness.in
+Delivery-date: Sat, 13 Oct 2018 17:21:19 +0000
+Received: from mail187-14.suw11.mandrillapp.com ([198.2.187.14]:46682)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <bounce-md_30815334.5bc2297d.v1-83afbbd4bbfb409789aa99eca8f94c96@mandrillapp.com>)
+	id 1gBNbH-002lKj-GG
+	for gururaj@agilefitness.in; Sat, 13 Oct 2018 17:21:19 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=mandrill; d=mail187-14.suw11.mandrillapp.com;
+ h=From:Sender:Subject:To:Message-Id:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=apps-noreply@mail187-14.suw11.mandrillapp.com;
+ bh=KUQuWL0+ZZFFKTiVPAjEMmcPZwsdU8BLXDHIhOIhBU8=;
+ b=C/l3CrIJuv+3P4/2WIC3blKNkQ5WVl+QvbtZd8q/dDSKbns7aSpWy3Sw2Fw7vNSglC9ZBbG3PqHd
+   F6FIKwkpI9/v7B9nrPhsO/rKNZlTXTQrlBN4mKgViGkt6Xm/5suPJCgPMJGpXPo39t0itFbcVFC2
+   K1WJ8z5zadZ9l3uD5i8=
+Received: from pmta01.mandrill.prod.suw01.rsglab.com (127.0.0.1) by mail187-14.suw11.mandrillapp.com id ho8kom174i4f for <gururaj@agilefitness.in>; Sat, 13 Oct 2018 17:21:02 +0000 (envelope-from <bounce-md_30815334.5bc2297d.v1-83afbbd4bbfb409789aa99eca8f94c96@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1539451261; h=From : 
+ Sender : Subject : To : Message-Id : Date : MIME-Version : Content-Type 
+ : Content-Transfer-Encoding : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=KUQuWL0+ZZFFKTiVPAjEMmcPZwsdU8BLXDHIhOIhBU8=; 
+ b=qFGjAnl5Lpy7Cde2lyeSWLbbU3JuO9meKeFIHfz4xGsUOwP3Dq0XsMY3mPiQ0xrCRyPObV
+ 5bQUVN7rlBoGk36iuHkCY/nnaMiPROguZbBZ2NoOqf5UpLK0ziP9TS1VV0/tAcpVX1mo867O
+ egV6o5cn+HEcAAqI0pE3HiClmFQfY=
+From: MoneyTap <apps-noreply@moneytap.com>
+Sender: MoneyTap <apps-noreply@mail187-14.suw11.mandrillapp.com>
+Subject: [MoneyTap] Please verify your work email
+Received: from [54.169.49.99] by mandrillapp.com id 83afbbd4bbfb409789aa99eca8f94c96; Sat, 13 Oct 2018 17:21:01 +0000
+To: <gururaj@agilefitness.in>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30815334.83afbbd4bbfb409789aa99eca8f94c96
+X-Mandrill-User: md_30815334
+Message-Id: <30815334.20181013172101.5bc2297de38905.03906815@mail187-14.suw11.mandrillapp.com>
+Date: Sat, 13 Oct 2018 17:21:01 +0000
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Authenticated_sender: 
+X-Spam-Status: No, score=3.3
+X-Spam-Score: 33
+X-Spam-Bar: +++
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HEADER_FROM_DIFFERENT_DOMAINS=0.25, HTML_IMAGE_ONLY_24=1.282, HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=DYs5VMlW c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=n1yj/PhBAtRY1fd5X900jw==:17 a=lU03Z4yc7+u8VQHnwYB+2V2ltmY=:19 a=IkcTkHD0fZMA:10 a=smKx5t2vBNcA:10 a=xvbVnf351uvdQnjtUXUA:9 a=BRgZOly9XKoxCnX1:21 a=6EvsvgE_B7_lb9ix:21 a=E3s8YRVAS8BM1iLB:21 a=QEXdDO2ut3YA:10 a=jjxgvnocCX0A:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: mandrillapp.com]
+ *  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+ *      domains are different
+ * -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [198.2.187.14 listed in list.dnswl.org]
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  1.3 HTML_IMAGE_ONLY_24 BODY: HTML: images with 2000-2400 bytes of words
+ *  1.1 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ *  0.6 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+X-Spam-Flag: NO
+
+<div style="margin-left:auto;">
+	<img alt="MoneyTap" src="http://www.moneytap.com/wp-content/uploads/2016/08/mtemaillogo.png" style="outline:none;text-decoration:none;width:155px" />
+</div>
+<br />
+<br />
+<p style="font-family: Arial, Helvetica, sans-serif; margin: 0; font-weight: normal; font-size: 12pt;">
+	Hi Guru Raj SP,
+</p>
+<br />
+<p style="margin: 0; font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">
+	Thank you for showing interest in <span style="font-weight: bold">MoneyTap</span>, <span style="font-style: italic;">India's 1st App-based Credit Line!</span><br /><br />
+
+	Please click on the button below to verify your work email address.<br /><br />
+	We strongly recommend you to do it now as it will help process your application faster.
+</p>
+<br /><br />
+<div>
+	<a href="https://mandrillapp.com/track/click/30815334/app.moneytap.com?p=eyJzIjoidlRlVVNyWHpIRHhEci1adF9hY0VlRDQwR3RZIiwidiI6MSwicCI6IntcInVcIjozMDgxNTMzNCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2FwcC5tb25leXRhcC5jb21cXFwvdjFcXFwvY3VzdG9tZXJcXFwvZDk3MWE1ZTUtODcwMy00YTgxLWJjZDItZGE0Zjc2MWM1YjJiXFxcL2VtYWlsXFxcL3ZlcmlmeVxcXC9xZjFncnU4YnJrMjc2NGlpYjEzN201ZWZkaDE3MG9tNjFwYWVoNnQ3MjNrbWZvYmt1cmVjNWJ0Nm1xMmJqdHMwcWNvZmpydTJmMHViZmxycWFlbTMxb3NsOGR1YmRzMmMzY3R0bGRcIixcImlkXCI6XCI4M2FmYmJkNGJiZmI0MDk3ODlhYTk5ZWNhOGY5NGM5NlwiLFwidXJsX2lkc1wiOltcImM3ODRlODIxMGJmZTI2MGQzYmYxNmNhZWRjYjQyYjNmYmJhOGVlZWRcIl19In0" target="_self">
+		<button style='background-color: #d14836; background-image: -webkit-linear-gradient(top,#ff822e,#ff751a); color: #fff; border: 1px solid transparent; text-shadow: 0 1px rgba(0,0,0,0.1); text-transform: uppercase; border-radius: 2px; font-size: 14px; font-weight: bold; text-align: center; white-space: nowrap; height: 32px; line-height: 27px; outline: 0; padding: 0 18px; position: relative;display: inline-block; font-family: "Lato","Helvetica Neue",Helvetica,Arial,"Lucida Grande";'>VERIFY</button>
+	</a>
+</div>
+<br />
+<div style="margin: 0; font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">
+	Thank You!<br />
+	MoneyTap Team<br />
+</div><img src="https://mandrillapp.com/track/open.php?u=30815334&id=83afbbd4bbfb409789aa99eca8f94c96" height="1" width="1">

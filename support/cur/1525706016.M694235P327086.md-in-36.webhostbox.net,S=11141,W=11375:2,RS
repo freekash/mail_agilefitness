@@ -1,0 +1,234 @@
+Return-Path: <sathish.s@hbc.com>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net (Dovecot) with LMTP id 6RFVKSBt8Fqu/QQAwqAP9w
+	for <support@agilefitness.in>; Mon, 07 May 2018 15:13:36 +0000
+Return-path: <sathish.s@hbc.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Mon, 07 May 2018 15:13:36 +0000
+Received: from mail-oi0-f52.google.com ([209.85.218.52]:45324)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <sathish.s@hbc.com>)
+	id 1fFhpU-001N59-IU
+	for support@agilefitness.in; Mon, 07 May 2018 15:13:36 +0000
+Received: by mail-oi0-f52.google.com with SMTP id b130-v6so25424202oif.12
+        for <support@agilefitness.in>; Mon, 07 May 2018 08:13:38 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=hbc.com; s=google;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=l/nMpbkC0Iu21wsNTbe5+thqWsi5czn7+rEkB1S9Or0=;
+        b=TMTfcvJKnFHij3Mo3KKBkupwEG6+DG1GN6ylcn9YgjOXIl8OmnMTmEU8sfMRHciT0z
+         Gcwa6SWWOVfd9IIIf9SNG2dGyiIp3S0cmcZJpFb6e2w+8QN0xkZop70CIRf8T6IoJ21m
+         KTx7apW3smHjf+e+7MPiAOTMnMNGwSWgP/pkj4Yf02Y32EPyBDV+/IUpXAopIl4QQ/Nf
+         9J0+FYOS2YbXYP31HS8RO/noUF/EZTCHC9X3fSTokbZMGkgVhh93TrK5D3UFsbYTDUPd
+         xKmmXwwVOL6ZmeqDg1mhdlyktEm3/BRF4lna88dc9ANkiJq9ISLMS1tEX/jATZQASDNz
+         b0zg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=l/nMpbkC0Iu21wsNTbe5+thqWsi5czn7+rEkB1S9Or0=;
+        b=fcwaTQlDIwms5CgxtPRWrQ3fjIGv0ub70A+wAY/Yw9cw4tIgPF1v8BPe642fNCxvLm
+         7gmxWK+35t+jQ6WV5G6BM09FzYAE2U+ujRKbNinBlmwh1AF5f1QxGxQR7hC7hz9AM5M7
+         YnU4Ozqjv61Rvck5SW7yowQTVwrnT8oLWnGMCsfP99adreppq6aQiYyq5YNNbNOY7LJf
+         ESi5al36xNk8gajjtXNAoVj++6lpUI5QAilxmBvfj/xafqP18NarQXchXe9RhHhFcbgB
+         YDx3dXWB6QjCHssO0Rbh4ChaI3k+E9eZkn2z+fIMbvGdpKTGECpopWWFGu3Z7J0F9FN5
+         hgfA==
+X-Gm-Message-State: ALQs6tDpMbZEBXdkt8zGRPUbHPX1V2ODnUJZ29Fyl2bpRn6/9xUolRqB
+	r7FHhiCOlsQhiYc/FPyOkqmBz+hX/rZXCHduZFMM61hc
+X-Google-Smtp-Source: AB8JxZpOkzje1OInJhoCDTFkEsy3+7ByE7kDWjz89hlpJyEh38yKgI8k0RvIs9vUIax+sdUta0DKAtRt018eeFgroUE=
+X-Received: by 2002:aca:5250:: with SMTP id g77-v6mr24956468oib.241.1525706010085;
+ Mon, 07 May 2018 08:13:30 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a9d:2252:0:0:0:0:0 with HTTP; Mon, 7 May 2018 08:12:49 -0700 (PDT)
+In-Reply-To: <fab51467e30311bba44f03f158abb47c@agilefitness.in>
+References: <fab51467e30311bba44f03f158abb47c@agilefitness.in>
+From: "S, Sathish" <sathish.s@hbc.com>
+Date: Mon, 7 May 2018 20:42:49 +0530
+Message-ID: <CAAnVdXM+CzTNq=JhF_ZtgEn2t3QQpUf5pN2RC+CrNZ3u6dSvdQ@mail.gmail.com>
+Subject: Re: Quotation for Gym and sports Materials
+To: Agile Fitness <support@agilefitness.in>
+Cc: sukdeepds@gmail.com, sithara.mce@gmail.com, gurushri.7@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000c3822e056b9f1cd3"
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=RKqd4bq+ c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=VUJBJC2UJ8kA:10 a=wnVPwzUm_uNHm37NnTsA:9 a=FJoAXpHxYzKultnx:21 a=xIish3sWkPGZwyLP:21 a=QEXdDO2ut3YA:10 a=K77MLFKM-iIEMfX-4mgA:9 a=f6GukKODRQoS04ek:21 a=a7uSBzEqpr2dcq_l:21 a=V59X9ZIm5FSVjdiu:21 a=-FEs8UIgK8oA:10 a=NWVoK91CQyQA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: agilefitness.in]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [209.85.218.52 listed in list.dnswl.org]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+X-Spam-Flag: NO
+
+--000000000000c3822e056b9f1cd3
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Sukdeep,
+
+Thanks for sharing the quote,
+However i have not received quote for Carrom Board, please share the same
+ASAP.
+Thanks.
+
+
+
+*Thanks & Regards*
+
+*Sathish S *
+
+Assistant Manager - Admin & Facilities
+
+
+
+E  : Sathish.S@hbc.com <Sathish.S@HBC.COM>
+
+M : +91 9738 272 358
+
+
+
+*Hudson=E2=80=99s Bay Services Private Limited *
+
+Manyata Embassy Business Park, SEZ,
+
+G3, Teak 5th & 6th Floor, Outer Ring Road
+
+Nagawara Hobli , Bangalore 560045
+
+On Mon, May 7, 2018 at 4:02 PM, Agile Fitness <support@agilefitness.in>
+wrote:
+
+> Dear sir ,
+>
+> Greetings From Agile Fitness Pvt. Ltd.
+>
+> Please find the attached quotation for gym and sports materials. Here you
+> can find 4 different quotations.
+>
+>    > Precore Gym materials
+>    > AVON Gym materials
+>    > Sports Flooring
+>    > Sports materials quotation
+>
+> Gym Layout is in last page of  gym quotation.
+>
+> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, s=
+ports
+> materials, Sports flooring ,AMC.
+>
+> Regards,
+> Sukdeep D S
+> Manager, Sales & service,
+> Agile fitness,Malleswaram,Bangalore-4.
+> Ph.:+91 9980111255 www.agilefitness.in
+>
+
+--000000000000c3822e056b9f1cd3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Dear Sukdeep,<div><br></div><div>Thanks for sharing the qu=
+ote,</div><div>However i have not received quote for Carrom Board, please s=
+hare the same ASAP.</div><div>Thanks.</div></div><div class=3D"gmail_extra"=
+><br clear=3D"all"><div><div class=3D"gmail_signature" data-smartmail=3D"gm=
+ail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"=
+><div dir=3D"ltr"><div dir=3D"ltr"><div style=3D"font-size:12.8px"><p style=
+=3D"margin:0in 0in 0.0001pt;background-image:initial;background-position:in=
+itial;background-repeat:initial"><b><span style=3D"font-size:9.0pt;font-fam=
+ily:&quot;Arial&quot;,sans-serif;color:#44546a"><br></span></b></p><p style=
+=3D"margin:0in 0in 0.0001pt;background-image:initial;background-position:in=
+itial;background-repeat:initial"><b><span style=3D"font-size:9.0pt;font-fam=
+ily:&quot;Arial&quot;,sans-serif;color:#44546a"><br></span></b></p><p style=
+=3D"margin:0in 0in 0.0001pt;background-image:initial;background-position:in=
+itial;background-repeat:initial"><b><span style=3D"font-size:9.0pt;font-fam=
+ily:&quot;Arial&quot;,sans-serif;color:#44546a">Thanks=C2=A0&amp;
+Regards</span></b><span style=3D"font-size:9.5pt;font-family:Arial,sans-ser=
+if"></span></p><p style=3D"margin:0in 0in 0.0001pt;background-image:initial=
+;background-position:initial;background-repeat:initial"><b><span style=3D"f=
+ont-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#44546a">Sath=
+ish
+S=C2=A0</span></b><span style=3D"font-size:9.5pt;font-family:Arial,sans-ser=
+if"></span></p><p style=3D"margin:0in 0in 0.0001pt;background-image:initial=
+;background-position:initial;background-repeat:initial"><span style=3D"font=
+-size:9pt;font-family:Arial,sans-serif">A</span><span style=3D"background-i=
+mage:initial;background-position:initial;background-repeat:initial"><span s=
+tyle=3D"font-size:9.5pt;font-family:&quot;Arial Narrow&quot;,sans-serif">ss=
+istant Manager</span></span><span style=3D"font-size:9pt;font-family:Arial,=
+sans-serif">=C2=A0-
+Admin &amp; Facilities</span></p><p style=3D"margin:0in 0in 0.0001pt;backgr=
+ound-image:initial;background-position:initial;background-repeat:initial"><=
+span style=3D"font-size:4pt;font-family:Arial,sans-serif">=C2=A0</span></p>=
+<p style=3D"margin:0in 0in 0.0001pt;background-image:initial;background-pos=
+ition:initial;background-repeat:initial"><span style=3D"font-size:9pt;font-=
+family:Arial,sans-serif">E
+=C2=A0:=C2=A0<a href=3D"mailto:Sathish.S@HBC.COM" target=3D"_blank">Sathish=
+.S@hbc.com</a></span></p><p style=3D"margin:0in 0in 0.0001pt;background-ima=
+ge:initial;background-position:initial;background-repeat:initial"><span sty=
+le=3D"font-size:9pt;font-family:Arial,sans-serif">M : +91
+9738 272 358</span><span style=3D"font-size:9.5pt;font-family:Arial,sans-se=
+rif"></span></p><p style=3D"margin:0in 0in 0.0001pt;background-image:initia=
+l;background-position:initial;background-repeat:initial"><b><span style=3D"=
+font-size:5.0pt;font-family:&quot;Arial&quot;,sans-serif;color:#44546a">=C2=
+=A0</span></b></p><p style=3D"margin:0in 0in 0.0001pt;text-align:justify;ba=
+ckground-image:initial;background-position:initial;background-repeat:initia=
+l"><b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,sans-ser=
+if;color:#44546a">Hudson=E2=80=99s
+Bay Services Private Limited=C2=A0</span></b><span style=3D"font-size:9.5pt=
+;font-family:Arial,sans-serif"></span></p><p style=3D"margin:0in 0in 0.0001=
+pt;background-image:initial;background-position:initial;background-repeat:i=
+nitial"><span style=3D"font-size:9pt;font-family:Arial,sans-serif">Manyata =
+Embassy Business
+Park, SEZ,</span><span style=3D"font-size:9.5pt;font-family:Arial,sans-seri=
+f"></span></p><p style=3D"margin:0in 0in 0.0001pt;background-image:initial;=
+background-position:initial;background-repeat:initial"><span style=3D"font-=
+size:9pt;font-family:Arial,sans-serif">G3, Teak 5<sup>th</sup>=C2=A0&amp;
+6<sup>th</sup>=C2=A0Floor, Outer Ring Road</span></p><p style=3D"margin:0in=
+ 0in 0.0001pt;background-image:initial;background-position:initial;backgrou=
+nd-repeat:initial"><span style=3D"font-family:Arial,sans-serif;font-size:9p=
+t">Nagawara Hobli , Bangalore
+560045</span></p></div></div></div></div></div></div></div></div></div></di=
+v>
+<br><div class=3D"gmail_quote">On Mon, May 7, 2018 at 4:02 PM, Agile Fitnes=
+s <span dir=3D"ltr">&lt;<a href=3D"mailto:support@agilefitness.in" target=
+=3D"_blank">support@agilefitness.in</a>&gt;</span> wrote:<br><blockquote cl=
+ass=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;p=
+adding-left:1ex">Dear sir ,<br>
+<br>
+Greetings From Agile Fitness Pvt. Ltd.<br>
+<br>
+Please find the attached quotation for gym and sports materials. Here you c=
+an find 4 different quotations.<br>
+<br>
+=C2=A0 =C2=A0&gt; Precore Gym materials<br>
+=C2=A0 =C2=A0&gt; AVON Gym materials<br>
+=C2=A0 =C2=A0&gt; Sports Flooring<br>
+=C2=A0 =C2=A0&gt; Sports materials quotation<br>
+<br>
+Gym Layout is in last page of=C2=A0 gym quotation.<br>
+<br>
+Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, spo=
+rts materials, Sports flooring ,AMC.<br>
+<br>
+Regards,<br>
+Sukdeep D S<br>
+Manager, Sales &amp; service,<br>
+Agile fitness,Malleswaram,Bangalore-<wbr>4.<br>
+Ph.:+91 9980111255 <a href=3D"http://www.agilefitness.in" rel=3D"noreferrer=
+" target=3D"_blank">www.agilefitness.in</a><br>
+</blockquote></div><br></div>
+
+--000000000000c3822e056b9f1cd3--

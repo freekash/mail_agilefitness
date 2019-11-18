@@ -1,0 +1,360 @@
+Received: from mail-lf1-f42.google.com ([209.85.167.42]:32892)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <srungar.sid@gmail.com>)
+	id 1hvc9D-000P86-Ho
+	for support@agilefitness.in; Thu, 08 Aug 2019 06:43:47 +0000
+Received: by mail-lf1-f42.google.com with SMTP id x3so66068240lfc.0
+        for <support@agilefitness.in>; Wed, 07 Aug 2019 23:43:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=EjXBIsk8PQ1YJSXx8rpzXZNBVmK3qCPW4nLUK4UQw/w=;
+        b=nHzFjM9O8pxwxHn3Dgtfu6J54eGSEHU4/+loct7OlaFuoLt1V4fK8qaWoCzY0bOY7x
+         eTiY9Y7AB5R4hDqh0MBFbwPMT420Gk4EgfTenIPfkOEbnd53VpA/SvNUt9THI9DBBHcv
+         f9XsAjChoZcU3iBKFb8CLqoLnI9B8GFJFStXft9QIQtQlLbyNoRDkJHerw7GqlwC0WLC
+         yRzm8yddlQvvUaTqVDTRMITaJVajEwHafq1XdRdVUzKK0s6FMhjtaFwyezNRji5mmH5Q
+         cJVi/eyy04VHtoIqGY1zqjIk0yMLLUMU4ZR3A7i3sWk6Aa+9PO1FynuARJNigMUcSFv5
+         mL0Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=EjXBIsk8PQ1YJSXx8rpzXZNBVmK3qCPW4nLUK4UQw/w=;
+        b=qRiY5sbD0egZ8KMWQw7SdnufPUup9Ah6pZkpoF9E6N8plF420DCowIItq8eGII+Z80
+         uKA8V+8ol8bWeab9xDIaoTULeW2t4l/a5qsPn8aBSkwmLAS/1emKb0U0FkRiWgENfhxj
+         XeW4Ri4TfgaPcMXXQwi5lRBjrS0lThnu07KXgn6eBGLyAohG81lLuyFG3hkPrPQzfD4V
+         cq1BMTqTgmaparbRfIfORQLxi9KSMEmF6wLfNCNYITY/9DR1EqCorKSKVr3hVWtlz5mC
+         bg9NR5osxYO7B2FDemJcYjoaK0uIkeaJxNU5N9YLxdTs5jfzXhm/UKGxakwEgGFvUqR9
+         TTVw==
+X-Gm-Message-State: APjAAAUYKRqVEXbcNG2W5z+ZEaszyZiMcKVw8V4vXoAO39rhnKe4Fxdb
+	gMgFSqep/0TOcGRQrkBTkL1wCW/OmX0PF5XFnCwFcA==
+X-Google-Smtp-Source: APXvYqye6iYC5Q206IR0w64Jm+85HtY1PoiYiwOiCocEqdSk9GGlj6M7qv/zOYd2yYfVrNw8q1cbLD4+qlnzbpktkQE=
+X-Received: by 2002:ac2:48bc:: with SMTP id u28mr8978987lfg.126.1565246604446;
+ Wed, 07 Aug 2019 23:43:24 -0700 (PDT)
+MIME-Version: 1.0
+References: <BN6P105MB0034D17BA363C1391481709BE7D70@BN6P105MB0034.NAMP105.PROD.OUTLOOK.COM>
+In-Reply-To: <BN6P105MB0034D17BA363C1391481709BE7D70@BN6P105MB0034.NAMP105.PROD.OUTLOOK.COM>
+From: Srungar Interior Decorators <srungar.sid@gmail.com>
+Date: Thu, 8 Aug 2019 12:13:38 +0530
+Message-ID: <CADn1Y2CVG9Mnr9nyNRfe2AJhUBiEsUtL-XxYwCLxSQea_nm8xg@mail.gmail.com>
+Subject: Indoor gaming requirement for CHN
+To: Agile Fitness <support@agilefitness.in>
+Content-Type: multipart/mixed; boundary="000000000000d89e9d058f955f1e"
+X-Authenticated_sender: 
+X-Spam-Status: No, score=0.8
+X-Spam-Score: 8
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, DKIM_VALID_EF=-0.1, FREEMAIL_FROM=0.001, FREEMAIL_REPLY=1, HTML_MESSAGE=0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was
+ *      blocked.  See
+ *      http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: yahoo.co.in]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail
+ *      provider (srungar.sid[at]gmail.com)
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from
+ *      author's domain
+ * -0.1 DKIM_VALID_EF Message has a valid DKIM or DK signature from
+ *      envelope-from domain
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *       valid
+ *  1.0 FREEMAIL_REPLY From and body contain different freemails
+X-Spam-Flag: NO
+X-BoxTrapper-Match: white: 1: srungar.sid@gmail.com
+
+--000000000000d89e9d058f955f1e
+Content-Type: multipart/alternative; boundary="000000000000d89e9a058f955f1c"
+
+--000000000000d89e9a058f955f1c
+Content-Type: text/plain; charset="UTF-8"
+
+--
+Dear Sir,
+
+  Please share the quote for the below gaming items
+
+
+
+S.No
+
+Discerption
+
+Qty CHN
+
+1
+
+Tic Tac Toe
+
+3
+
+2
+
+Ludo
+
+3
+
+3
+
+Chinese Checkers
+
+3
+
+4
+
+Magnetic Chess Board
+
+0
+
+5
+
+Movable indoor golf set
+
+3
+
+6
+
+Mini Billiards / Mini Pool set
+
+2
+
+
+
+==============================================================
+Thanking You,
+
+Srungar Interior Decorators
+#13, 18th Main, Freedom Fighter Nagar, Laggere Main Road, Bangalore -560058.
+: 080 - 28396858/9900129683.
+Mail.Id: srungar.sid@gmail.com
+           s_srungarinteriordecorators@yahoo.co.in
+
+--000000000000d89e9a058f955f1c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=
+=3D"gmail_attr"><br></div><br><br>
+
+
+
+
+
+
+<div bgcolor=3D"white" background=3D"cid:image001.gif@01D54DE2.2C30C900" la=
+ng=3D"EN-US" link=3D"#993300" vlink=3D"blue">
+<img src=3D"cid:16c6ff65b464cdccc1" width=3D"0" height=3D"0" class=3D"m_248=
+229014147915505shape" style=3D"display:none;width:0;height:0">
+<div class=3D"m_248229014147915505WordSection1">
+--</div><div class=3D"m_248229014147915505WordSection1">Dear Sir,</div><div=
+ class=3D"m_248229014147915505WordSection1"><br></div><div class=3D"m_24822=
+9014147915505WordSection1"><p class=3D"MsoNormal">=C2=A0 Please share the q=
+uote for the below gaming items</p><p class=3D"MsoNormal"><u></u></p>
+<p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p>
+<table class=3D"m_248229014147915505MsoNormalTable" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" width=3D"349" style=3D"width:262.0pt;border-colla=
+pse:collapse">
+<tbody>
+<tr style=3D"height:15.0pt">
+<td width=3D"59" style=3D"width:44.0pt;border:solid windowtext 1.0pt;paddin=
+g:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;color:#1f497d">S.No<u></u><u></u></span></p>
+</td>
+<td width=3D"216" style=3D"width:2.25in;border:solid windowtext 1.0pt;borde=
+r-left:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;color:#1f497d">Discerption<u></u><u></u></span></p=
+>
+</td>
+<td width=3D"75" style=3D"width:56.0pt;border:solid windowtext 1.0pt;border=
+-left:none;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;color:#1f497d">Qty CHN<u></u><u></u></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"59" nowrap valign=3D"bottom" style=3D"width:44.0pt;border:soli=
+d windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0p=
+t">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">1<u></u>=
+<u></u></span></p>
+</td>
+<td width=3D"216" style=3D"width:2.25in;border-top:none;border-left:none;bo=
+rder-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padd=
+ing:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;color:#1f497d">Tic Tac Toe<u></u><u></u></span></p=
+>
+</td>
+<td width=3D"75" nowrap valign=3D"bottom" style=3D"width:56.0pt;border-top:=
+none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:sol=
+id windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">3<u></u>=
+<u></u></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"59" nowrap valign=3D"bottom" style=3D"width:44.0pt;border:soli=
+d windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0p=
+t">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">2<u></u>=
+<u></u></span></p>
+</td>
+<td width=3D"216" style=3D"width:2.25in;border-top:none;border-left:none;bo=
+rder-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padd=
+ing:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;color:#1f497d">Ludo<u></u><u></u></span></p>
+</td>
+<td width=3D"75" nowrap valign=3D"bottom" style=3D"width:56.0pt;border-top:=
+none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:sol=
+id windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">3<u></u>=
+<u></u></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"59" nowrap valign=3D"bottom" style=3D"width:44.0pt;border:soli=
+d windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0p=
+t">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">3<u></u>=
+<u></u></span></p>
+</td>
+<td width=3D"216" style=3D"width:2.25in;border-top:none;border-left:none;bo=
+rder-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padd=
+ing:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;color:#1f497d">Chinese Checkers<u></u><u></u></spa=
+n></p>
+</td>
+<td width=3D"75" nowrap valign=3D"bottom" style=3D"width:56.0pt;border-top:=
+none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:sol=
+id windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">3<u></u>=
+<u></u></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"59" nowrap valign=3D"bottom" style=3D"width:44.0pt;border:soli=
+d windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0p=
+t">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">4<u></u>=
+<u></u></span></p>
+</td>
+<td width=3D"216" style=3D"width:2.25in;border-top:none;border-left:none;bo=
+rder-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padd=
+ing:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;color:#1f497d">Magnetic Chess Board<u></u><u></u><=
+/span></p>
+</td>
+<td width=3D"75" nowrap valign=3D"bottom" style=3D"width:56.0pt;border-top:=
+none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:sol=
+id windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">0<u></u>=
+<u></u></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"59" nowrap valign=3D"bottom" style=3D"width:44.0pt;border:soli=
+d windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0p=
+t">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">5<u></u>=
+<u></u></span></p>
+</td>
+<td width=3D"216" style=3D"width:2.25in;border-top:none;border-left:none;bo=
+rder-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padd=
+ing:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;color:#1f497d">Movable indoor golf set<u></u><u></=
+u></span></p>
+</td>
+<td width=3D"75" nowrap valign=3D"bottom" style=3D"width:56.0pt;border-top:=
+none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:sol=
+id windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">3<u></u>=
+<u></u></span></p>
+</td>
+</tr>
+<tr style=3D"height:15.0pt">
+<td width=3D"59" nowrap valign=3D"bottom" style=3D"width:44.0pt;border:soli=
+d windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:15.0p=
+t">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">6<u></u>=
+<u></u></span></p>
+</td>
+<td width=3D"216" style=3D"width:2.25in;border-top:none;border-left:none;bo=
+rder-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padd=
+ing:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:10.0pt;color:#1f497d">Mini Billiards / Mini Pool set<u></=
+u><u></u></span></p>
+</td>
+<td width=3D"75" nowrap valign=3D"bottom" style=3D"width:56.0pt;border-top:=
+none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:sol=
+id windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.0pt">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><span sty=
+le=3D"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif">2<u></u>=
+<u></u></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><u></u>=C2=A0</p><p class=3D"MsoNormal">=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D</p></div></div></div><div dir=3D"ltr" class=3D"gma=
+il_signature" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><div dir=
+=3D"ltr"><div>Thanking You,</div>
+<div>=C2=A0</div>
+<div>Srungar Interior Decorators</div>
+<div>#13, 18th Main, Freedom Fighter Nagar, Laggere Main Road, Bangalore -5=
+60058.</div>
+<div><span lang=3D"EN-IN" style=3D"font-size:11pt;color:blue;font-family:&#=
+39;Comic Sans MS&#39;"><img height=3D"16" src=3D"https://mail.google.com/ma=
+il/u/0/?ui=3D2&amp;ik=3Da5060f644c&amp;view=3Datt&amp;th=3D12f58f4d642dfca3=
+&amp;attid=3D0.0.1&amp;disp=3Demb&amp;realattid=3Df8b2e07658e208d3_0.3" wid=
+th=3D"24"></span> : 080 - 28396858/9900129683.</div>
+<div>Mail.Id: <a href=3D"mailto:srungar.sid@gmail.com" target=3D"_blank">sr=
+ungar.sid@gmail.com</a> </div>
+<div>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0<a h=
+ref=3D"mailto:s_srungarinteriordecorators@yahoo.co.in" target=3D"_blank">s_=
+srungarinteriordecorators@yahoo.co.in</a></div>
+<div>=C2=A0</div></div></div></div></div>
+
+--000000000000d89e9a058f955f1c--
+--000000000000d89e9d058f955f1e
+Content-Type: image/gif; name="image001.gif"
+Content-Disposition: attachment; filename="image001.gif"
+Content-Transfer-Encoding: base64
+Content-ID: <>
+X-Attachment-Id: 
+
+R0lGODlhQAYFAPQLAKfT/6/X/7fb/7/f/8fj/8/n/9fr/97u/+f0/+73//f8//////H3/+Lv/97w
+/9Dn/8Df/7DX/5/P/wECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAyH/C01T
+T0ZGSUNFOS4wDQAAAAFzUkdCAK7OHOkAIf8LTVNPRkZJQ0U5LjAYAAAADG1zT1BNU09GRklDRTku
+MBObKZRkACH/C01TT0ZGSUNFOS4wGAAAAAxjbVBQSkNtcDA3MTICAAAJAtxSKQAsAAAAAEAGBQAA
+Bf+gJI6kBJhAqqYBELwwHAmBYN/2IAx8z0OEAWFIJBSMhWThYWg2D9BDA4FIKK6LrHbL7Xq/4LB4
+TC6bz+i0es1uu9/wuHxOr9vv+Lx+z+/7/4CBgoOEhYaHiImKi4yNciWQJiIrlCwuMS80NTM4Nz4+
+QQRARUdKSgZMTgcOVFUJVgqOsrO0tba3uLm6u7y9vr/AwcLDxMXGwJGQJ8uVL5cxEZk1nTk7Oz0Q
+PUWkSEkGBaoGUVSvsMfn6Onq6+zt7u/w8fLz9PX2vMkkJyiULSwt0GoIpKbjmo9sQ4Rw67bEmxNx
+UlwlYMAAy72LGDNq3Mixo8ePIEOKHOkx36RJzPoquXj2YsYmap50HAyicJuRbqkeRjlA7ooCBiSD
+Ch1KtKjRo0iTKl3KlE4IADs=
+--000000000000d89e9d058f955f1e--
+

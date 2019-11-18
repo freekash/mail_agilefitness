@@ -1,0 +1,370 @@
+Return-Path: <jodie.Caronna@australiaseoagency.com>
+Delivered-To: support+spam@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP
+	id eEf3OWY5C10ecw0AwqAP9w
+	(envelope-from <jodie.Caronna@australiaseoagency.com>)
+	for <support+spam@agilefitness.in>; Thu, 20 Jun 2019 07:44:38 +0000
+Return-path: <jodie.Caronna@australiaseoagency.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Thu, 20 Jun 2019 07:44:38 +0000
+Received: from server.meinkfz.org ([142.93.95.54]:46253)
+	by md-in-36.webhostbox.net with esmtp (Exim 4.92)
+	(envelope-from <jodie.Caronna@australiaseoagency.com>)
+	id 1hdrkG-003lXT-NW
+	for support@agilefitness.in; Thu, 20 Jun 2019 07:44:38 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=enetblaster; d=meinkfz.org;
+ h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type;
+ bh=9O2xRoz3oAr56tYJrMlKdNSCmzg=;
+ b=LFC7Q7kU/sdpuQO8u5xS05LcwQV4+MvDIKFFExSs+gqh0Ca1OJDbzUYnWMznmqStIn5wazxFNSAG
+   dxBpTBEWAN/r8MNij3EeJAl464/DtENZfX1biom50ZOOOxWcpUWVzIX4wn/UChnfQR6Bc1jj7iZw
+   W5QAJgZ0bX9DMEUxgRA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=enetblaster; d=australiaseoagency.com;
+ b=T5z3E/TPq5zBbs4jmmJOKqcprqiQJJpPeYYPcHummO7n81U72IxbExpn+Jq6+ITUoiifmtxAMAGu
+   KQKqBmppAWSeq+YVrbVBnVehdvsOfwsMxQJ6ou+22/9JeS+mM/UhbnMTEUFKg25YQmMxATDkf35F
+   EJvpfS6wcRHcTVLqEeE=;
+From: "Jodie Caronna" <jodie.Caronna@australiaseoagency.com>
+To: <support@agilefitness.in>
+Date: Thu, 20 Jun 2019 13:02:18 +0530
+Message-ID: <f7cc01d5273c$002e4110$008ac330$@australiaseoagency.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_F7CD_01D5276A.19E82AC0"
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AdUnNl5VleVR4nNRTk+ueAiJj/J4Cg==
+Content-Language: en-us
+X-Authenticated_sender: 
+X-Spam-Status: Yes, score=15.4
+X-Spam-Score: 154
+X-Spam-Bar: +++++++++++++++
+X-Spam-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DOS_OUTLOOK_TO_MX=1.449, HTML_MESSAGE=0.001, URIBL_BLACK=7, URIBL_DBL_SPAM_EIG=7, CMAE Analysis: v=2.3 cv=OIIJIxSB c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=ayAQqJKug8IrtXO3GHV5pQ==:17 a=dq6fvYVFJ5YA:10 a=DAwyPP_o2Byb1YXLmDAA:9 a=JzMJY0syeWdSfRfonJEA:9 a=CjuIK1q_8ugA:10 a=P2mxEHiHgmsUzJYU9FsA:9 a=lDNl2lIEhZKvKMjIUR5gOGDH5rM=:19 a=XBkOcbVpkpqaMfsu:21 a=gKO2Hq4RSVkA:10 a=UiCQ7L4-1S4A:10 a=hTZeC7Yk6K0A:10 a=frz4AuCg-hUA:10
+ 
+ *  7.0 URIBL_DBL_SPAM_EIG Contains a spam URL listed in the Spamhaus
+ *      DBL blocklist
+ *      [URIs: meinkfz.org]
+ *  7.0 URIBL_BLACK Contains an URL listed in the URIBL blacklist
+ *      [URIs: meinkfz.org]
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *       valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ *  1.4 DOS_OUTLOOK_TO_MX Delivered direct to MX with Outlook headers
+X-Spam-Flag: YES
+Subject: ***SPAM***  Website Traffic Report
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_F7CD_01D5276A.19E82AC0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+Hope you are fine.
+
+It is clear that you are dedicated to providing a remarkable content that
+educates the audience Your Website and Facebook says it all!
+
+As a business owner, the biggest challenge they face is to reach the target
+audience at the right place and at right time. 
+
+There are some surprising challenges which more than 60% of businesses not
+aware of.
+
+       
+
+. 65 % of Business faces difficulty to connect with their online audience.
+
+. Website contains major errors like bad backlinks, Website not compatible
+with Mobile, Website loading speed is too high etc.
+
+. In 2018, only 30% of small businesses had a mobile-friendly websites.
+
+. 80% of small B2B websites lacked a call-to-action.
+
+. Only 30% of SMEs uses Google my Business - Free Business Listing on Google
+
+Are the same challenges being faced by your business as well? 
+
+I have done a detailed research of your website & prepared a SEO audit
+report. This is for you, completely free at no charge
+
+In the report, I mentioned all the errors which need to be rectified in
+order to get Google page one Rankings.
+
+I hope you understand the importance of being there on Google top page.
+Isn't it?
+
+If we could show you how we can gain Google page1 rankings in a way that
+your website is more visible to target audience.
+
+Would that make sense to connect this week?
+
+I look forward to hearing from you - thanks!
+
+ 
+
+Thanks & Regards 
+
+Jodie Caronna
+
+Business Development Manager
+
+Contact No:- +65 3158 0551
+
+PS: I am not spamming. I have studied your website, prepared an audit report
+and believe I can help with your business promotion. If you still want us to
+not contact you, you can ignore this email or ask to remove and I will not
+contact again.
+
+ 
+
+
+------=_NextPart_000_F7CD_01D5276A.19E82AC0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, =
+div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, =
+div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, =
+div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US><div =
+class=3DWordSection1><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>Hi,</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>Hope you are fine.</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>It is clear that you are dedicated to providing a remarkable content =
+that educates the audience Your&nbsp;<strong><span =
+style=3D'font-family:"Calibri","sans-serif"'>Website and =
+Facebook</span></strong>&nbsp;says it all!</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>As a business owner, the&nbsp;<strong><span =
+style=3D'font-family:"Calibri","sans-serif"'>biggest =
+challenge</span></strong>&nbsp;they face is to reach =
+the&nbsp;<strong><span =
+style=3D'font-family:"Calibri","sans-serif"'>target audience at the =
+right place and at right time</span></strong>.&nbsp;</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>There are some surprising challenges which more than 60% of businesses =
+not aware of.</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'margin-left:47.25pt;text-indent:-.25in;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>&middot;&nbsp;65 % of Business faces difficulty to connect with their =
+online audience.</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'margin-left:47.25pt;text-indent:-.25in;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>&middot;&nbsp;Website contains major errors like&nbsp;<strong><span =
+style=3D'font-family:"Calibri","sans-serif"'>bad backlinks, Website not =
+compatible with Mobile, Website loading speed is too =
+high&nbsp;</span></strong>etc.</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'margin-left:47.25pt;text-indent:-.25in;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>&middot;&nbsp;In 2018, only 30% of small businesses had a =
+mobile-friendly websites.</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'margin-left:47.25pt;text-indent:-.25in;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>&middot;&nbsp;80% of small B2B websites lacked a&nbsp;<strong><span =
+style=3D'font-family:"Calibri","sans-serif"'>call-to-action</span></stron=
+g>.</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'margin-left:47.25pt;text-indent:-.25in;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>&middot;&nbsp;Only 30% of SMEs uses&nbsp;<strong><span =
+style=3D'font-family:"Calibri","sans-serif"'>Google my =
+Business</span></strong>&nbsp;-&nbsp;<strong><span =
+style=3D'font-family:"Calibri","sans-serif"'>Free Business Listing on =
+Google</span></strong></span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>Are the same challenges being faced by your business as =
+well?&nbsp;</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>I have done a detailed research of&nbsp;<strong><span =
+style=3D'font-family:"Calibri","sans-serif"'>your</span></strong>&nbsp;<s=
+trong><span =
+style=3D'font-family:"Calibri","sans-serif"'>website</span></strong>&nbsp=
+;&amp;&nbsp;prepared a&nbsp;<strong><span =
+style=3D'font-family:"Calibri","sans-serif"'>SEO audit =
+report</span></strong>. This is for you, completely&nbsp;<strong><span =
+style=3D'font-family:"Calibri","sans-serif"'>free</span></strong>&nbsp;at=
+ no charge</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>In the&nbsp;<strong><span =
+style=3D'font-family:"Calibri","sans-serif"'>report</span></strong>, I =
+mentioned all the errors which need to be rectified in order to get =
+Google page one</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'> <span =
+style=3D'color:black'>Rankings.</span><o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>I hope you understand the importance of being there on Google top page. =
+Isn&#8217;t it?</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>If we could show you how we can gain Google page1 rankings in a way =
+that your website is more visible to target audience.</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>Would that make sense to connect this week?</span><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p></o:p>=
+</span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:black'=
+>I look forward to hearing from you - thanks!<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;background:white'><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p><p class=3DMsoNormal =
+style=3D'line-height:200%;background:white'><strong><span =
+style=3D'font-size:11.0pt;line-height:200%;font-family:"Calibri","sans-se=
+rif";color:black;font-weight:normal'>Thanks &amp; Regards =
+<o:p></o:p></span></strong></p><p class=3DMsoNormal =
+style=3D'line-height:200%;background:white'><strong><span =
+style=3D'font-size:11.0pt;line-height:200%;font-family:"Calibri","sans-se=
+rif";color:black;font-weight:normal'>Jodie =
+Caronna<o:p></o:p></span></strong></p><p class=3DMsoNormal =
+style=3D'line-height:200%;background:white'><strong><span =
+style=3D'font-size:11.0pt;line-height:200%;font-family:"Calibri","sans-se=
+rif";color:black;font-weight:normal'>Business Development =
+Manager<o:p></o:p></span></strong></p><p class=3DMsoNormal =
+style=3D'line-height:200%;background:white'><strong><span =
+style=3D'font-size:11.0pt;line-height:200%;font-family:"Calibri","sans-se=
+rif";color:black;font-weight:normal'>Contact No:- </span></strong><span =
+style=3D'font-size:11.0pt;line-height:200%;font-family:"Calibri","sans-se=
+rif"'>+65 3158 0551<strong><span =
+style=3D'font-family:"Calibri","sans-serif";color:black;font-weight:norma=
+l'><o:p></o:p></span></strong></span></p><p class=3DMsoNormal =
+style=3D'line-height:200%;background:white'><strong><span =
+style=3D'font-size:11.0pt;line-height:200%;font-family:"Calibri","sans-se=
+rif";color:black'>PS: I am not spamming. I have studied your website, =
+prepared an&nbsp;audit report&nbsp;and believe I can help with your =
+business promotion. If you still want us to not contact you, you can =
+ignore this email or ask to&nbsp;remove&nbsp;and I will not contact =
+again.</span></strong><span =
+style=3D'font-family:"Calibri","sans-serif";color:black'><o:p></o:p></spa=
+n></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_F7CD_01D5276A.19E82AC0--
+

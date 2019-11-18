@@ -1,0 +1,218 @@
+Return-Path: <sunil.k@cravatexbrands.com>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net (Dovecot) with LMTP id Qa7XLwFGAFsk/w0AwqAP9w
+	for <support@agilefitness.in>; Sat, 19 May 2018 15:42:57 +0000
+Return-path: <sunil.k@cravatexbrands.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Sat, 19 May 2018 15:42:57 +0000
+Received: from mail-oi0-f47.google.com ([209.85.218.47]:38758)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <sunil.k@cravatexbrands.com>)
+	id 1fK40U-004D0g-30
+	for support@agilefitness.in; Sat, 19 May 2018 15:42:57 +0000
+Received: by mail-oi0-f47.google.com with SMTP id k17-v6so9675661oih.5
+        for <support@agilefitness.in>; Sat, 19 May 2018 08:43:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cravatexbrands-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=6iAfedeMpS4kQ0KbDcCg/AgceSRbEvLqaJAVirRjiKo=;
+        b=UXA6Cy9xCew3kWZhLePJUZNvV6HFSpyFHcPcQoovkoK/EApH1EWW/V+G6ycUqm584q
+         fC7X3bBBZsgiUXTXh426EX4rXC3W2z622+//WGv3+J2Cxi3pNdwjn+HULyGSZtqpxrNZ
+         D008wePN/rub7tK7lfj/vjvhoR7uQkyjeI5gSEQjIgCKOiB9aLQkoxUbwYS4pLkd0lvc
+         QUVR1B+/mur6933FB0yVgv/w3XvYkXV3BzMvfK8GBAKs0tWWCSwHJdgqGoNPAFk9431h
+         gCfmbvmkxV6ehwqHipfkbrej2Z8M5yGidJNZLY+jpPSchqlavxR9eAuY6KOZpru6RrOD
+         InKQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=6iAfedeMpS4kQ0KbDcCg/AgceSRbEvLqaJAVirRjiKo=;
+        b=eGS2zvkeIGRoSKH4yNqgcw6S3LGtJxh+xoHeykmJasi2uudq6ZCEGzemp2GS40IhJ+
+         8Peph23/1/QanZInsoiQdVNOdinEg+2OktavNmuSO5cavrUmv5Y3lVPF6sFtqFSrLOLD
+         Q1xqYyl0GdkwJPyJp8wAa4eOUN4Cip0QbUx4NoIJVOSrSOBO3iqmgbfDOUMSVLZdlUH4
+         sV2Aq9/njubFF5Ff6FGHtfTbSwzg8MHIPQK0sM/JV6hBZSTWsApfKbpEc4k+CTmk1Sne
+         SSj7vJpkSXSo3Gj4F+SKP0flAmdf1xMGh/evLoP1rxhoFti09gQhru3w5QvPnhyB9Ze5
+         8sow==
+X-Gm-Message-State: ALKqPweO0SdPczq1g9OumyfR/4m9cgJ3KfesxDioWE82qTixiFB0LXuu
+	ctiy/G92Wld4IpD7sHN5XccKtoFCnib7mKlxSOQlKoFObPzFqP0ckChTUwcKYslO0gKWGWt2tI8
+	5nC/BMP0m3gq86bmJStVTgzfvnGc=
+X-Google-Smtp-Source: AB8JxZraln8pv2chyQUQ/P9zN4SQN5x+sq5AvBlqpsLKn6T+l3Jc5E1G0yDm2hGnAjJJKqjWx038gT4CShMVDlxw1LM=
+X-Received: by 2002:aca:4b88:: with SMTP id y130-v6mr8421849oia.55.1526744578103;
+ Sat, 19 May 2018 08:42:58 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a9d:c46:0:0:0:0:0 with HTTP; Sat, 19 May 2018 08:42:57 -0700 (PDT)
+In-Reply-To: <6565b08519ff369238bfa9d3ba6993b0@agilefitness.in>
+References: <6565b08519ff369238bfa9d3ba6993b0@agilefitness.in>
+From: sunil Kumar Bangalore <sunil.k@cravatexbrands.com>
+Date: Sat, 19 May 2018 21:12:57 +0530
+Message-ID: <CAED9DWQ9+0NkZsDihdjCYp9k9vcLxTBrTpMkj6pkcWutUORnJA@mail.gmail.com>
+Subject: Re: Quotation for Gym Materials
+To: Agile Fitness <support@agilefitness.in>
+Cc: "gurushri.7@gmail.com" <gurushri.7@gmail.com>
+Content-Type: multipart/alternative; boundary="0000000000003db643056c90ec89"
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.6
+X-Spam-Score: -5
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H2=-0.605, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=RKqd4bq+ c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=VUJBJC2UJ8kA:10 a=5zhNbnXxdSArKrsyqvYA:9 a=S4q5eF2qi8hXKaSL:21 a=FHtcRUyLdkNwHi1w:21 a=QEXdDO2ut3YA:10 a=Myu47Mml6O4A:10 a=fRDdSwWurVasrZlZw7IA:9 a=mzn3slBHsfa7JjPv:21 a=F71dHhbojH2RJ9AO:21 a=ngWU4GV6U_uT0WJp:21 a=-FEs8UIgK8oA:10 a=NWVoK91CQyQA:10 a=j8C-InWTLMRXU152c6vT:22
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: imgur.com]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [209.85.218.47 listed in list.dnswl.org]
+ * -0.6 RCVD_IN_MSPIKE_H2 RBL: Average reputation (+2)
+ *      [209.85.218.47 listed in wl.mailspike.net]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--0000000000003db643056c90ec89
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear guru,
+
+Noted , will get back to you asap.
+
+Thanks and regards
+
+On Saturday, May 19, 2018, Agile Fitness <support@agilefitness.in> wrote:
+
+>
+> Dear Sir,
+>
+> Greetings from Agile Fitness Pvt. Ltd.
+>
+> Request you to provide the best possible quotation for the below
+> requirement .
+>
+> Semicomeercial Treadmill - 1
+> Secommercial Cross Trainer-1
+> upright bike-1
+> Recumburant Bike-1
+> LAT PULLDOWN/SEATED ROW-1
+> LEG EXTENSION/LEG CURL-1
+> Dumbell Stand-1
+> Olympic FID Bench-1
+> Dumbell-2.5x2 5x2 7.5x2    10x2 12.5*2
+> Weight Plates -2.5x4 5x4 7.5x4     10x4 12.5*
+> Bar - EZ,3ft,5ft,7ft  - 1
+> Stand for Olympic Plate-1
+> Flta Bench-1
+> Multi Purpose bench-1
+> --
+> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, s=
+ports
+> materials, Sports flooring ,AMC.
+>
+> Regards,
+> Sukdeep D S
+> Manager, Sales & service,
+> Agile fitness,Malleswaram,Bangalore-4.
+> Ph.:+91 9980111255 www.agilefitness.in
+>
+
+
+--=20
+[image: Cravatex Brands Limited]
+*Sunil kumar k.s*
+Area Sales Manager
+
+*CRAVATEX BRANDS LTD. *
+*#MyOffice*
+*No.33, 4th, B Cross,*
+*5th Block,*
+*Koramangala Industrial Estate*
+*Bangalore - 560 095*
+
+Handheld +91 99005 97694
+Landline   +91 8025525792 / 93
+http://www.cravatex.com/businesses.php
+
+--=20
+
+
+--0000000000003db643056c90ec89
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear guru,<div><br></div><div>Noted , will get back to you asap.</div><div>=
+<br></div><div>Thanks and regards<br><br>On Saturday, May 19, 2018, Agile F=
+itness &lt;<a href=3D"mailto:support@agilefitness.in">support@agilefitness.=
+in</a>&gt; wrote:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 =
+0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><br>
+Dear Sir,<br>
+<br>
+Greetings from Agile Fitness Pvt. Ltd.<br>
+<br>
+Request you to provide the best possible quotation for the below requiremen=
+t .<br>
+<br>
+Semicomeercial Treadmill - 1<br>
+Secommercial Cross Trainer-1<br>
+upright bike-1<br>
+Recumburant Bike-1<br>
+LAT PULLDOWN/SEATED ROW-1<br>
+LEG EXTENSION/LEG CURL-1<br>
+Dumbell Stand-1<br>
+Olympic FID Bench-1<br>
+Dumbell-2.5x2 5x2 7.5x2=C2=A0 =C2=A0 10x2 12.5*2<br>
+Weight Plates -2.5x4 5x4 7.5x4=C2=A0 =C2=A0 =C2=A010x4 12.5*<br>
+Bar - EZ,3ft,5ft,7ft=C2=A0 - 1<br>
+Stand for Olympic Plate-1<br>
+Flta Bench-1<br>
+Multi Purpose bench-1<br>
+-- <br>
+Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, spo=
+rts materials, Sports flooring ,AMC.<br>
+<br>
+Regards,<br>
+Sukdeep D S<br>
+Manager, Sales &amp; service,<br>
+Agile fitness,Malleswaram,Bangalore-<wbr>4.<br>
+Ph.:+91 9980111255 <a href=3D"http://www.agilefitness.in" target=3D"_blank"=
+>www.agilefitness.in</a><br>
+</blockquote></div><br><br>-- <br><div dir=3D"ltr"><div><div dir=3D"ltr"><d=
+iv style=3D"font-size:12.8px;color:rgb(136,136,136)"><table style=3D"color:=
+rgb(34,34,34);font-size:11.2px;width:623px"><tbody><tr><td style=3D"width:1=
+10px"><font face=3D"arial narrow, sans-serif"><img src=3D"http://i.imgur.co=
+m/9tp1GBY.jpg" alt=3D"Cravatex Brands Limited" width=3D"147" height=3D"200"=
+></font></td><td style=3D"width:632px"><div><font color=3D"#000000" face=3D=
+"arial, helvetica, sans-serif" size=3D"2"><b>Sunil kumar k.s</b></font></di=
+v><div><font color=3D"#000000" face=3D"arial, helvetica, sans-serif">Area S=
+ales Manager</font></div><div><font color=3D"#000000" face=3D"arial, helvet=
+ica, sans-serif"><br></font></div><div><b><font color=3D"#000000" face=3D"a=
+rial, helvetica, sans-serif">CRAVATEX BRANDS LTD.=C2=A0</font></b></div><di=
+v><b><font color=3D"#000000" face=3D"arial, helvetica, sans-serif">#MyOffic=
+e</font></b></div><div><font color=3D"#000000" face=3D"arial, helvetica, sa=
+ns-serif"><b>No.33, 4th, B Cross,</b></font></div><div><font color=3D"#0000=
+00" face=3D"arial, helvetica, sans-serif"><b>5th Block,</b></font></div><di=
+v><font color=3D"#000000" face=3D"arial, helvetica, sans-serif"><b>Koramang=
+ala Industrial Estate</b></font></div><div><b><font color=3D"#000000" face=
+=3D"arial, helvetica, sans-serif">Bangalore - 560 095</font></b></div><div>=
+<font color=3D"#000000" face=3D"arial, helvetica, sans-serif"><br></font></=
+div><div><font color=3D"#000000" face=3D"arial, helvetica, sans-serif">Hand=
+held +91 99005 97694 =C2=A0</font></div><div><font color=3D"#000000" face=
+=3D"arial, helvetica, sans-serif">Landline=C2=A0 =C2=A0+91 8025525792 / 93<=
+/font></div><div><a href=3D"http://www.cravatex.com/businesses.php" style=
+=3D"color:rgb(17,85,204);font-size:12.8px" target=3D"_blank"><font face=3D"=
+arial, helvetica, sans-serif">http://www.cravatex.com/businesses.php</font>=
+</a><font face=3D"arial narrow, sans-serif" color=3D"#000000"><br></font></=
+div><div><br></div><div><br></div></td></tr></tbody></table></div><div styl=
+e=3D"font-size:12.8px;color:rgb(136,136,136)">=C2=A0 =C2=A0=C2=A0<img src=
+=3D"https://drive.google.com/a/cravatexbrands.com/uc?id=3D18Tc3y_rwj8d9PlKK=
+1FIo6HHMD2Mwgwj3&amp;export=3Ddownload" width=3D"420" height=3D"144" style=
+=3D"font-size:12.8px;color:rgb(34,34,34)"></div></div></div></div><br>
+
+<br>
+<br>
+--0000000000003db643056c90ec89--

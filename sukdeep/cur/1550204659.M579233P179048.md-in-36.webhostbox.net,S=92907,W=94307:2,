@@ -1,0 +1,1400 @@
+Return-Path: <bounces@listserv.indiax.com>
+Delivered-To: sukdeep@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP id QJltIvM+ZlxouwIAwqAP9w
+	for <sukdeep@agilefitness.in>; Fri, 15 Feb 2019 04:24:19 +0000
+Return-path: <bounces@listserv.indiax.com>
+Envelope-to: sukdeep@agilefitness.in
+Delivery-date: Fri, 15 Feb 2019 04:24:19 +0000
+Received: from vps02.indiax.com ([104.239.140.139]:39164)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:AECDH-AES256-SHA:256)
+	(Exim 4.91)
+	(envelope-from <bounces@listserv.indiax.com>)
+	id 1guV2p-001A71-4U
+	for sukdeep@agilefitness.in; Fri, 15 Feb 2019 04:24:19 +0000
+Received: by vps02.indiax.com (Postfix, from userid 1093)
+	id 8EA9A7E609; Fri, 15 Feb 2019 04:23:58 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=altiussports.com;
+	s=2018; t=1550204638;
+	bh=DRFHtvBh4GrSJI98I7xSCcLpp3WkT+xbjnWFbk26vNE=;
+	h=Date:From:To:List-Archive:List-ID:List-Owner:List-Post:
+	 List-Subscribe:List-Unsubscribe:Subject:From;
+	b=QOPK6zbaCXio31idtlY71isaVf5RWHoDq0mT8TssjZh1aP7s6KkmDJcWfeyA0urbX
+	 pBDMC2zlaCutKMwRQUa40elGoHuAdyGQpCKRTgkVsCEAdiYV+fTDBuwPu5sD4JZLlR
+	 3xfIyCXZGRrlsi9NPVU1LSxua5GDqHk1UVUDhehKH1e52+oVb6gAGdlMofIMMNqiKh
+	 HM8UhpDo2yd230b6ODSW7cqbkpz6BO4slTtVmFs/KqyF3/mIMkUY+siNJVKewhbMl+
+	 lsC44pfFdC6J2DQ6EeEBpikRdbCowNKawGIhc2TlOqsrvlQqkPMkp2fWvYZ+nn8v9L
+	 wyZtRH6ERxrhg==
+Date: Fri, 15 Feb 2019 04:23:58 +0000
+From: "Altius Peak Newsletter from Altius Sports" <info@altiussports.com>
+To: "Altius Peak Newsletter from Altius Sports Subscriber" <sukdeep@agilefitness.in>
+X-Priority: 3
+Precedence: list
+List: altius
+List-Archive: <https://listserv.indiax.com/cgi-bin/mail.cgi/archive/altius/>
+List-ID: <altius.vps02.indiax.com>
+List-Owner: <info@altiussports.com>
+List-Post: NO
+List-Subscribe: <https://listserv.indiax.com/cgi-bin/mail.cgi/s/altius/sukdeep/agilefitness.in/>
+List-Unsubscribe: <mailto:info@altiussports.com?Subject=Unsubscribe%20from%20Altius%20Peak%20Newsletter%20from%20Altius%20Sports>, <https://listserv.indiax.com/cgi-bin/mail.cgi/t/RUbiTYubzuPViQIDFTea4SrNVA3hbE4aibgIQbB2/>
+List-URL: <https://listserv.indiax.com/cgi-bin/mail.cgi/list/altius/>
+X-BeenThere: https://listserv.indiax.com/cgi-bin/mail.cgi
+Message-ID: <20190214061855.46502023@altiussports.com>
+Feedback-ID: listserv-indiax
+X-Mailer: India Exchange List Server 11.2.6 Stable 11/13/18 
+Content-type: multipart/alternative; boundary="_----------=_1550125134207560"; charset=UTF-8
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+X-Preheader: With over 4 million square feet of sporting infrastructure successfully installed in India
+Subject: A complete turnkey solution for sports infrastructure
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-1.1
+X-Spam-Score: -10
+X-Spam-Bar: -
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HEADER_FROM_DIFFERENT_DOMAINS=0.001, HTML_FONT_LOW_CONTRAST=0.001, HTML_MESSAGE=0.001, MAILING_LIST_MULTI=-1, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, CMAE Analysis: v=2.3 cv=DYs5VMlW c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=0P1rlvIACxFfQIZ0rjpfXg==:17 a=IkcTkHD0fZMA:10 a=CFTnQlWoA9kA:10 a=-uNXE31MpBQA:10 a=r77TgQKjGQsHNAKrUKIA:9 a=hpvTk3a1jpJdE1ZCVQEA:9 a=G717aFlWaV7zQNo_:21 a=kyc-hVDV0_n2dAZo:21 a=QEXdDO2ut3YA:10 a=I2-w_OpZwaqvVbLrB9kA:9 a=TtJ2EaYk-irh7PKO:21 a=1XcVZ_GFG3xyl1Q5:21 a=qhXRk32uL4RLoQsB:21 a=_W_S_7VecoQA:10 a=5b7lfyYqXBhqCToAtBXO:22 a=p-dnK0njbqwfn1k4-x12:22 a=5EXng_2YBSJDjF3I7HXn:22
+ 
+ * -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+ *      domains are different
+ *  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or identical to
+ *       background
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -1.0 MAILING_LIST_MULTI Multiple indicators imply a widely-seen list
+ *      manager
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+--_----------=_1550125134207560
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Date: Thu, 14 Feb 2019 06:18:54 +0000
+
+
+With over 4 million square feet of sporting infrastructure successfully ins=
+talled in India
+
+__=20
+
+   \[\-\-xqmNqJctDM_TMP*|IF:MC_PREVIEW_TEXT|*DM_TMPxqmNqJct\-\-\]\[\-\-xqmN=
+qJctDM_TMP[if
+   !gte mso 9]>\[\-\-xqmNqJctDM_TMPDM_TMPxqmNqJct\-\-\]
+
+   *|MC_PREVIEW_TEXT|*\[\-\-xqmNqJctDM_TMP
+
+   \[\-\-xqmNqJctDM_TMP BEGIN TEMPLATE // DM_TMPxqmNqJct\-\-\]
+
+   \[\-\-xqmNqJctDM_TMP[if (gte mso 9)|(IE)]>
+
+   [1]
+
+   \[\-\-xqmNqJctDM_TMP[if (gte mso 9)|(IE)]>
+
+   \[\-\-xqmNqJctDM_TMP[if (gte mso 9)|(IE)]>
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+
+
+   About Altius
+   =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+   Altius Sports & Leisure Pvt Ltd provides a complete turnkey solution
+   for sports infrastructure including CAD design, construction,
+   manufacturing, installation, and maintenance. With over 4 million
+   square feet of sporting infrastructure successfully installed in
+   India, our in-house team helps you in creating your arena of dreams.
+   Our range of accredited and certified products are artificial turf,
+   running tracks, polyurethane, interlocking tiles, and vinyl. At
+   Altius, we simply call this our love of the sport.
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+   \[\-\-xqmNqJctDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPxqmNqJct\-\-\]
+
+   \[\-\-xqmNqJctDM_TMP[if gte mso 9]>
+
+   \[\-\-xqmNqJctDM_TMP[if gte mso 9]>
+
+   Our Services
+
+   \[\-\-xqmNqJctDM_TMP[if gte mso 9]>
+
+   \[\-\-xqmNqJctDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPxqmNqJct\-\-\]
+
+   \[\-\-xqmNqJctDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPxqmNqJct\-\-\]
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+
+   Design
+
+   Each installation is supported by a comprehensive CAD design showing
+   layout, colors, line markings, designs, measurements, etc.
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+   Altius Sports - CAD
+
+   \[\-\-xqmNqJctDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPxqmNqJct\-\-\]
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+
+   Fencing, lighting, and accessories
+
+   We also undertake court and field lighting, perimeter fencing and
+   supplies a range of fixed and mobile accessories such as nets and
+   goals, basis the client=E2=80=99s requirements.
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+   Altius Sports - Lighting, fencing
+
+   \[\-\-xqmNqJctDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPxqmNqJct\-\-\]
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+
+   Construction
+
+   From pre-site inspections to ensure we understand the unique
+   challenges of your site, to design and construction plans,
+   construction, including drainage and surrounds, we offer a full
+   solution.
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+   Altius Sports - Construction
+
+   \[\-\-xqmNqJctDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPxqmNqJct\-\-\]
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+
+   Manufacture
+
+   Our raw material and products are developed and manufactured such that
+   we are able to deliver world-class surfaces matched by meaningful
+   surface warranties.
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+   Altius Sports - Manufacture
+
+   \[\-\-xqmNqJctDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPxqmNqJct\-\-\]
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+
+   Installation
+
+   To ensure a quality installation, we have a team of expert installers
+   who are adept at their job and have specialized training and equipment
+   to carry out the same.
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+   Altius Sports - Installation
+
+   \[\-\-xqmNqJctDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPxqmNqJct\-\-\]
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+
+   Maintenance
+
+   To preserve the quality and playability of your playing surface, it is
+   important to regularly maintain it. We offer a maintenance service to
+   all owners of our installations.
+
+   \[\-\-xqmNqJctDM_TMP[if mso]>
+
+   Altius Sports - maintenance
+
+   \[\-\-xqmNqJctDM_TMP[if (gte mso 9)|(IE)]>
+
+   \[\-\-xqmNqJctDM_TMP[endif]--DM_TMPxqmNqJct\-\-\]\[\-\-xqmNqJctDM_TMP[if
+   (gte mso 9)|(IE)]>
+
+   \[\-\-xqmNqJctDM_TMP // END TEMPLATE DM_TMPxqmNqJct\-\-\]
+
+=20=20=20
+
+   [1] https://listserv.indiax.com/cgi-bin/mail.cgi/r/altius/425195602631/s=
+ukdeep/agilefitness.in/
+
+
+
+
+--=20
+=20
+Forward this Message to a Friend:
+https://listserv.indiax.com/cgi-bin/mail.cgi/archive/altius/20190214061855/=
+#forward_to_a_friend
+
+Subscription Reminder: You're Subscribed to, Altius Peak Newsletter from Al=
+tius Sports=20
+Using the address: sukdeep@agilefitness.in
+
+From: info@altiussports.com
+Altius Sports & Leisure Pvt. Ltd.=0D
+=0D
+38A/2, Jyotish Roy Road=0D
+=0D
+Kolkata 700 053=0D
+=0D
+India
+
+
+* Unsubscribe
+	https://listserv.indiax.com/cgi-bin/mail.cgi/t/RUbiTYubzuPViQIDFTea4SrNVA3=
+hbE4aibgIQbB2/
+
+
+
+--_----------=_1550125134207560
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 14 Feb 2019 06:18:54 +0000
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml" lang=3D"en" xml:lang=3D"en"><head><meta http-equiv=3D"Conte=
+nt-Type" content=3D"text/html; charset=3Dutf-8"><meta name=3D"viewport" con=
+tent=3D"width=3Ddevice-width"><title></title></head><body style=3D"-moz-box=
+-sizing:border-box;-ms-text-size-adjust:100%;-webkit-box-sizing:border-box;=
+-webkit-text-size-adjust:100%;Margin:0;box-sizing:border-box;color:#0a0a0a;=
+font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-=
+height:1.3;margin:0;min-width:100%;padding:0;text-align:left;width:100%!imp=
+ortant"><style>@media only screen{html{min-height:100%;background:#fff}}@me=
+dia only screen and (max-width:596px){.small-float-center{margin:0 auto!imp=
+ortant;float:none!important;text-align:center!important}.small-text-center{=
+text-align:center!important}.small-text-left{text-align:left!important}.sma=
+ll-text-right{text-align:right!important}}@media only screen and (max-width=
+:596px){.hide-for-large{display:block!important;width:auto!important;overfl=
+ow:visible!important;max-height:none!important;font-size:inherit!important;=
+line-height:inherit!important}}@media only screen and (max-width:596px){tab=
+le.body table.container .hide-for-large,table.body table.container .row.hid=
+e-for-large{display:table!important;width:100%!important}}@media only scree=
+n and (max-width:596px){table.body table.container .callout-inner.hide-for-=
+large{display:table-cell!important;width:100%!important}}@media only screen=
+ and (max-width:596px){table.body table.container .show-for-large{display:n=
+one!important;width:0;mso-hide:all;overflow:hidden}}@media only screen and =
+(max-width:596px){table.body img{width:auto;height:auto}table.body center{m=
+in-width:0!important}table.body .container{width:95%!important}table.body .=
+column,table.body .columns{height:auto!important;-moz-box-sizing:border-box=
+;-webkit-box-sizing:border-box;box-sizing:border-box;padding-left:16px!impo=
+rtant;padding-right:16px!important}table.body .column .column,table.body .c=
+olumn .columns,table.body .columns .column,table.body .columns .columns{pad=
+ding-left:0!important;padding-right:0!important}table.body .collapse .colum=
+n,table.body .collapse .columns{padding-left:0!important;padding-right:0!im=
+portant}td.small-1,th.small-1{display:inline-block!important;width:8.33333%=
+!important}td.small-2,th.small-2{display:inline-block!important;width:16.66=
+667%!important}td.small-3,th.small-3{display:inline-block!important;width:2=
+5%!important}td.small-4,th.small-4{display:inline-block!important;width:33.=
+33333%!important}td.small-5,th.small-5{display:inline-block!important;width=
+:41.66667%!important}td.small-6,th.small-6{display:inline-block!important;w=
+idth:50%!important}td.small-7,th.small-7{display:inline-block!important;wid=
+th:58.33333%!important}td.small-8,th.small-8{display:inline-block!important=
+;width:66.66667%!important}td.small-9,th.small-9{display:inline-block!impor=
+tant;width:75%!important}td.small-10,th.small-10{display:inline-block!impor=
+tant;width:83.33333%!important}td.small-11,th.small-11{display:inline-block=
+!important;width:91.66667%!important}td.small-12,th.small-12{display:inline=
+-block!important;width:100%!important}.column td.small-12,.column th.small-=
+12,.columns td.small-12,.columns th.small-12{display:block!important;width:=
+100%!important}table.body td.small-offset-1,table.body th.small-offset-1{ma=
+rgin-left:8.33333%!important;Margin-left:8.33333%!important}table.body td.s=
+mall-offset-2,table.body th.small-offset-2{margin-left:16.66667%!important;=
+Margin-left:16.66667%!important}table.body td.small-offset-3,table.body th.=
+small-offset-3{margin-left:25%!important;Margin-left:25%!important}table.bo=
+dy td.small-offset-4,table.body th.small-offset-4{margin-left:33.33333%!imp=
+ortant;Margin-left:33.33333%!important}table.body td.small-offset-5,table.b=
+ody th.small-offset-5{margin-left:41.66667%!important;Margin-left:41.66667%=
+!important}table.body td.small-offset-6,table.body th.small-offset-6{margin=
+-left:50%!important;Margin-left:50%!important}table.body td.small-offset-7,=
+table.body th.small-offset-7{margin-left:58.33333%!important;Margin-left:58=
+.33333%!important}table.body td.small-offset-8,table.body th.small-offset-8=
+{margin-left:66.66667%!important;Margin-left:66.66667%!important}table.body=
+ td.small-offset-9,table.body th.small-offset-9{margin-left:75%!important;M=
+argin-left:75%!important}table.body td.small-offset-10,table.body th.small-=
+offset-10{margin-left:83.33333%!important;Margin-left:83.33333%!important}t=
+able.body td.small-offset-11,table.body th.small-offset-11{margin-left:91.6=
+6667%!important;Margin-left:91.66667%!important}table.body table.columns td=
+.expander,table.body table.columns th.expander{display:none!important}table=
+.body .right-text-pad,table.body .text-pad-right{padding-left:10px!importan=
+t}table.body .left-text-pad,table.body .text-pad-left{padding-right:10px!im=
+portant}table.menu{width:100%!important}table.menu td,table.menu th{width:a=
+uto!important;display:inline-block!important}table.menu.small-vertical td,t=
+able.menu.small-vertical th,table.menu.vertical td,table.menu.vertical th{d=
+isplay:block!important}table.menu[align=3Dcenter]{width:auto!important}tabl=
+e.button.small-expand,table.button.small-expanded{width:100%!important}tabl=
+e.button.small-expand table,table.button.small-expanded table{width:100%}ta=
+ble.button.small-expand table a,table.button.small-expanded table a{text-al=
+ign:center!important;width:100%!important;padding-left:0!important;padding-=
+right:0!important}table.button.small-expand center,table.button.small-expan=
+ded center{min-width:0}}</style><span class=3D"preheader" style=3D"color:#f=
+ff;display:none!important;font-size:1px;line-height:1px;max-height:0;max-wi=
+dth:0;mso-hide:all!important;opacity:0;overflow:hidden;visibility:hidden">W=
+ith over 4 million square feet of sporting infrastructure successfully inst=
+alled in India</span><table class=3D"body" style=3D"Margin:0;background:#ff=
+f;border-collapse:collapse;border-spacing:0;color:#0a0a0a;font-family:Helve=
+tica,Arial,sans-serif;font-size:16px;font-weight:400;height:100%;line-heigh=
+t:1.3;margin:0;padding:0;text-align:left;vertical-align:top;width:100%"><tr=
+ style=3D"padding:0;text-align:left;vertical-align:top"><td class=3D"center=
+" align=3D"center" valign=3D"top" style=3D"-moz-hyphens:auto;-webkit-hyphen=
+s:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-famil=
+y:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;li=
+ne-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wr=
+ap:break-word"><center data-parsed=3D"" style=3D"min-width:580px;width:100%=
+"><table align=3D"center" class=3D"wrapper banner float-center" style=3D"Ma=
+rgin:0 auto;background:#fff;border-collapse:collapse;border-spacing:0;float=
+:none;margin:0 auto;padding:0;text-align:center;vertical-align:top;width:10=
+0%"><tr style=3D"padding:0;text-align:left;vertical-align:top"><td class=3D=
+"wrapper-inner" style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;bo=
+rder-collapse:collapse!important;color:#0a0a0a;font-family:Helvetica,Arial,=
+sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;marg=
+in:0;padding:20px;text-align:left;vertical-align:top;word-wrap:break-word">=
+<!-- <container> --><table class=3D"row collapse" style=3D"border-collapse:=
+collapse;border-spacing:0;padding:0;position:relative;text-align:left;verti=
+cal-align:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;ver=
+tical-align:top"><th class=3D"small-6 large-6 columns first" valign=3D"midd=
+le" style=3D"Margin:0 auto;color:#0a0a0a;font-family:Helvetica,Arial,sans-s=
+erif;font-size:16px;font-weight:400;line-height:1.3;margin:0 auto;padding:0=
+;padding-bottom:0;padding-left:0;padding-right:0;text-align:left;width:298p=
+x"><table style=3D"border-collapse:collapse;border-spacing:0;padding:0;text=
+-align:left;vertical-align:top;width:100%"><tr style=3D"padding:0;text-alig=
+n:left;vertical-align:top"><th style=3D"Margin:0;color:#0a0a0a;font-family:=
+Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;m=
+argin:0;padding:0;text-align:left"><a href=3D"" style=3D"Margin:0;color:#21=
+99e8;font-family:Helvetica,Arial,sans-serif;font-weight:400;line-height:1.3=
+;margin:0;padding:0;text-align:left;text-decoration:none"><img  src=3D"http=
+s://listserv.indiax.com/dada_mail_support_files/file_uploads/images/altius-=
+sports-tigerturf-logo.png" class=3D"banner_img" style=3D"-ms-interpolation-=
+mode:bicubic;border:none;clear:both;display:block;max-width:100%;outline:0;=
+text-decoration:none;width:auto"> </a></th></tr></table></th><th class=3D"s=
+mall-6 large-6 columns last" valign=3D"middle" style=3D"Margin:0 auto;color=
+:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:=
+400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:0;padding-left:0=
+;padding-right:0;text-align:left;width:298px"><table style=3D"border-collap=
+se:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;w=
+idth:100%"><tr style=3D"padding:0;text-align:left;vertical-align:top"><th s=
+tyle=3D"Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-=
+size:16px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:lef=
+t"><p class=3D"text-right" style=3D"Margin:0;Margin-bottom:10px;color:#0a0a=
+0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;li=
+ne-height:1.3;margin:0;margin-bottom:0;padding:0;text-align:right">With ove=
+r 4 million square feet of sporting infrastructure successfully installed i=
+n India</p></th></tr></table></th></tr></tbody></table><!-- </container> --=
+></td></tr></table><table class=3D"spacer float-center" style=3D"Margin:0 a=
+uto;border-collapse:collapse;border-spacing:0;float:none;margin:0 auto;padd=
+ing:0;text-align:center;vertical-align:top;width:100%"><tbody><tr style=3D"=
+padding:0;text-align:left;vertical-align:top"><td height=3D"25px" style=3D"=
+-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!im=
+portant;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:25px=
+;font-weight:400;hyphens:auto;line-height:25px;margin:0;mso-line-height-rul=
+e:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word=
+">&#xA0;</td></tr></tbody></table><table align=3D"center" class=3D"containe=
+r float-center" style=3D"Margin:0 auto;background:#fff;border-collapse:coll=
+apse;border-spacing:0;float:none;margin:0 auto;padding:0;text-align:center;=
+vertical-align:top;width:580px"><tbody><tr style=3D"padding:0;text-align:le=
+ft;vertical-align:top"><td style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;=
+Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-family:Helve=
+tica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-heig=
+ht:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:brea=
+k-word"> <small style=3D"color:#cacaca;font-size:80%"> having trouble viewi=
+ng this message? <a href=3D"https://listserv.indiax.com/cgi-bin/mail.cgi/ar=
+chive/altius/20190214061855/" style=3D"Margin:0;color:#2199e8;font-family:H=
+elvetica,Arial,sans-serif;font-weight:400;line-height:1.3;margin:0;padding:=
+0;text-align:left;text-decoration:none"> read it online </a> </small> </td>=
+</tr></tbody></table><table align=3D"center" class=3D"container float-cente=
+r" style=3D"Margin:0 auto;background:#fff;border-collapse:collapse;border-s=
+pacing:0;float:none;margin:0 auto;padding:0;text-align:center;vertical-alig=
+n:top;width:580px"><tbody><tr style=3D"padding:0;text-align:left;vertical-a=
+lign:top"><td style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;bord=
+er-collapse:collapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sa=
+ns-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;margin=
+:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word"><tabl=
+e class=3D"row" style=3D"border-collapse:collapse;border-spacing:0;display:=
+table;padding:0;position:relative;text-align:left;vertical-align:top;width:=
+100%"><tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><th=
+ class=3D"small-12 large-12 columns first last" style=3D"Margin:0 auto;colo=
+r:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight=
+:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:16px;padding-le=
+ft:16px;padding-right:16px;text-align:left;width:564px"><table style=3D"bor=
+der-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-a=
+lign:top;width:100%"><tr style=3D"padding:0;text-align:left;vertical-align:=
+top"><th style=3D"Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-s=
+erif;font-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0;text=
+-align:left"><table class=3D"spacer" style=3D"border-collapse:collapse;bord=
+er-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%"><tbod=
+y><tr style=3D"padding:0;text-align:left;vertical-align:top"><td height=3D"=
+25px" style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-colla=
+pse:collapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif=
+;font-size:25px;font-weight:400;hyphens:auto;line-height:25px;margin:0;mso-=
+line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-=
+wrap:break-word">&#xA0;</td></tr></tbody></table><!-- start message content=
+ --><!--*|IF:MC_PREVIEW_TEXT|*--><!--[if !gte mso 9]><!----><p><span class=
+=3D"mcnPreviewText" style=3D"font-size: 0px; line-height: 0px; max-height: =
+0px; max-width: 0px; opacity: 0; overflow: hidden; visibility: hidden; mso-=
+hide: all; display: none;">*|MC_PREVIEW_TEXT|*</span><!--<![endif]--><!--*|=
+END:IF|*--></p><center><table align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" height=3D"100%" id=3D"bodyTable" style=3D"border-colla=
+pse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; height: 100%; margin: 0; padd=
+ing: 0; width: 100%;" width=3D"100%"><tbody><tr><td align=3D"center" height=
+=3D"100%" id=3D"bodyCell" style=3D"mso-line-height-rule: exactly; -ms-text-=
+size-adjust: 100%; -webkit-text-size-adjust: 100%; height: 100%; margin: 0;=
+ padding: 0; width: 100%;" valign=3D"top" width=3D"100%"><!-- BEGIN TEMPLAT=
+E // --><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bo=
+rder-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" width=3D"100%"><tb=
+ody><tr><td align=3D"center"     background=3D"none" bgcolor=3D"#F7F7F7" da=
+ta-template-container=3D"" id=3D"templateHeader" style=3D"mso-line-height-r=
+ule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; b=
+ackground-color: #F7F7F7; background-image: none; background-repeat: no-rep=
+eat; background-position: center; background-size: cover; border-top: 0; bo=
+rder-bottom: 0; padding-top: 54px; padding-bottom: 54px;" valign=3D"top"><!=
+--[if (gte mso 9)|(IE)]><table align=3D"center" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"600" style=3D"width:600px;"><tr><td align=3D=
+"center" valign=3D"top" width=3D"600" style=3D"width:600px;"><![endif]--><t=
+able align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"templateContainer" style=3D"border-collapse: collapse; mso-table-lspac=
+e: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-siz=
+e-adjust: 100%; max-width: 600px;" width=3D"100%"><tbody><tr><td     backgr=
+ound=3D"none" bgcolor=3D"transparent" class=3D"headerContainer" style=3D"ms=
+o-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-=
+adjust: 100%; background-color: transparent; background-image: none; backgr=
+ound-repeat: no-repeat; background-position: center; background-size: cover=
+; border-top: 0; border-bottom: 0; padding-top: 0; padding-bottom: 0;" vali=
+gn=3D"top"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"mcnImageBlock" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust=
+: 100%; min-width: 100%;" width=3D"100%"><tbody class=3D"mcnImageBlockOuter=
+"><tr><td class=3D"mcnImageBlockInner" style=3D"mso-line-height-rule: exact=
+ly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding: 9p=
+x;" valign=3D"top"><table align=3D"left" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" class=3D"mcnImageContentContainer" style=3D"border-collapse:=
+ collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adju=
+st: 100%; -webkit-text-size-adjust: 100%; min-width: 100%;" width=3D"100%">=
+<tbody><tr><td align=3D"center" class=3D"mcnImageContent" style=3D"mso-line=
+-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust=
+: 100%; padding-right: 9px; padding-left: 9px; padding-top: 0; padding-bott=
+om: 0; text-align: center;" valign=3D"top"><a href=3D"https://listserv.indi=
+ax.com/cgi-bin/mail.cgi/r/altius/425195602631/sukdeep/agilefitness.in/" sty=
+le=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-te=
+xt-size-adjust: 100%;" target=3D"_self" title=3D""><img  align=3D"middle" a=
+lt=3D"" class=3D"mcnImage" src=3D"https://gallery.mailchimp.com/7fc57cdc092=
+5d35983695a26c/images/801fea8d-5aa0-45cb-a11a-ec24262fcd72.png" style=3D"-m=
+s-interpolation-mode: bicubic; border: 0; height: auto; outline: none; text=
+-decoration: none; max-width: 250px; padding-bottom: 0; vertical-align: bot=
+tom; display: inline;" width=3D"250"/> </a></td></tr></tbody></table></td><=
+/tr></tbody></table></td></tr></tbody></table><!--[if (gte mso 9)|(IE)]></t=
+d></tr></table><![endif]--></td></tr><tr><td align=3D"center"     backgroun=
+d=3D"none" bgcolor=3D"#FFFFFF" data-template-container=3D"" id=3D"templateB=
+ody" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%; background-color: #FFFFFF; background-image: =
+none; background-repeat: no-repeat; background-position: center; background=
+-size: cover; border-top: 0; border-bottom: 0; padding-top: 27px; padding-b=
+ottom: 54px;" valign=3D"top"><!--[if (gte mso 9)|(IE)]><table align=3D"cent=
+er" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600" style=3D=
+"width:600px;"><tr><td align=3D"center" valign=3D"top" width=3D"600" style=
+=3D"width:600px;"><![endif]--><table align=3D"center" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"templateContainer" style=3D"border-col=
+lapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-siz=
+e-adjust: 100%; -webkit-text-size-adjust: 100%; max-width: 600px;" width=3D=
+"100%"><tbody><tr><td     background=3D"none" bgcolor=3D"transparent" class=
+=3D"bodyContainer" style=3D"mso-line-height-rule: exactly; -ms-text-size-ad=
+just: 100%; -webkit-text-size-adjust: 100%; background-color: transparent; =
+background-image: none; background-repeat: no-repeat; background-position: =
+center; background-size: cover; border-top: 0; border-bottom: 0; padding-to=
+p: 0; padding-bottom: 0;" valign=3D"top"><table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"mcnTextBlock" style=3D"border-collapse: coll=
+apse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbod=
+y class=3D"mcnTextBlockOuter"><tr><td class=3D"mcnTextBlockInner" style=3D"=
+mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-siz=
+e-adjust: 100%; padding-top: 9px;" valign=3D"top"><!--[if mso]><table align=
+=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" s=
+tyle=3D"width:100%;"><tr><![endif]--><!--[if mso]><td valign=3D"top" width=
+=3D"600" style=3D"width:600px;"><![endif]--><table align=3D"left" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnTextContentContainer" s=
+tyle=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace:=
+ 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; max-width=
+: 100%; min-width: 100%;" width=3D"100%"><tbody><tr><td align=3D"left" clas=
+s=3D"mcnTextContent" style=3D"mso-line-height-rule: exactly; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; word-break: break-word; color=
+: #757575; font-family: Helvetica; font-size: 16px; line-height: 150%; text=
+-align: left; padding-top: 0; padding-right: 18px; padding-bottom: 9px; pad=
+ding-left: 18px;" valign=3D"top"><h1 style=3D"display: block; margin: 0; pa=
+dding: 0; color: #222222; font-family: Helvetica; font-size: 40px; font-sty=
+le: normal; font-weight: bold; line-height: 150%; letter-spacing: normal; t=
+ext-align: center;"><span style=3D"font-family:arial,helvetica neue,helveti=
+ca,sans-serif"><u>About Altius</u></span></h1><p style=3D"margin: 10px 0; p=
+adding: 0; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%; color: #757575; font-family: Helvetica; font-siz=
+e: 16px; line-height: 150%; text-align: center;"><span style=3D"font-size:1=
+6px"><span style=3D"color:#000000">Altius Sports &amp; Leisure Pvt Ltd prov=
+ides a complete turnkey solution for sports infrastructure including CAD de=
+sign, construction, manufacturing, installation, and maintenance. With over=
+ 4 million square feet of sporting infrastructure successfully installed in=
+ India, our in-house team helps you in creating your arena of dreams. Our r=
+ange of accredited and certified products are artificial turf, running trac=
+ks, polyurethane, interlocking tiles, and vinyl. At Altius, we simply call =
+this our love of the sport.</span></span></p></td></tr></tbody></table><!--=
+[if mso]></td><![endif]--><!--[if mso]></tr></table><![endif]--></td></tr><=
+/tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"mcnDividerBlock" style=3D"border-collapse: collapse; mso-table-lspace:=
+ 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-=
+adjust: 100%; min-width: 100%; table-layout: fixed;" width=3D"100%"><tbody =
+class=3D"mcnDividerBlockOuter"><tr><td class=3D"mcnDividerBlockInner" style=
+=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; min-width: 100%; padding: 0px 18px;"><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnDividerContent" style=3D"=
+border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -m=
+s-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-width: 100%; =
+border-top: 4px solid #000000;" width=3D"100%"><tbody><tr><td style=3D"mso-=
+line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-ad=
+just: 100%;">&nbsp;</td></tr></tbody></table><!--=20=20=20=20=20=20=20=20=
+=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnBoxedTextBlock" style=3D"border-collapse: collapse; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><!--[if gte =
+mso 9]><table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%"><![endif]--><tbody class=3D"mcnBoxedTextBlockOuter"><=
+tr><td class=3D"mcnBoxedTextBlockInner" style=3D"mso-line-height-rule: exac=
+tly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" valign=3D=
+"top"><!--[if gte mso 9]><td align=3D"center" valign=3D"top" "><![endif]-->=
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"mcnBoxedTextContentContainer" style=3D"border-collapse: collapse; mso-=
+table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody><tr><td =
+style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; padding-top: 9px; padding-left: 18px; padding-bott=
+om: 9px; padding-right: 18px;"><table bgcolor=3D"#FFFCFC" border=3D"0" cell=
+spacing=3D"0" class=3D"mcnTextContentContainer" style=3D"border-collapse: c=
+ollapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFCFC; border: =
+1px none; min-width: 100%;" width=3D"100%"><tbody><tr><td align=3D"center" =
+class=3D"mcnTextContent" style=3D"mso-line-height-rule: exactly; -ms-text-s=
+ize-adjust: 100%; -webkit-text-size-adjust: 100%; word-break: break-word; l=
+ine-height: 150%; padding: 18px; color: #F2F2F2; font-family: Helvetica; fo=
+nt-size: 6px; font-weight: normal; text-align: center;" valign=3D"top"><spa=
+n style=3D"font-size:25px"><span style=3D"color:#000000"><strong><span styl=
+e=3D"background-color:#FFFFFF">Our Services</span></strong></span></span></=
+td></tr></tbody></table></td></tr></tbody></table><!--[if gte mso 9]></td><=
+![endif]--><!--[if gte mso 9]></tr></table><![endif]--></td></tr></tbody></=
+table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnD=
+ividerBlock" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso=
+-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 1=
+00%; min-width: 100%; table-layout: fixed;" width=3D"100%"><tbody class=3D"=
+mcnDividerBlockOuter"><tr><td class=3D"mcnDividerBlockInner" style=3D"mso-l=
+ine-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adj=
+ust: 100%; min-width: 100%; padding: 0px 18px;"><table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" class=3D"mcnDividerContent" style=3D"border-co=
+llapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-si=
+ze-adjust: 100%; -webkit-text-size-adjust: 100%; min-width: 100%; border-to=
+p: 4px solid #000000;" width=3D"100%"><tbody><tr><td style=3D"mso-line-heig=
+ht-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100=
+%;">&nbsp;</td></tr></tbody></table><!--=20=20=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%; min-width: 100%; table-layout: fixed;" width=3D=
+"100%"><tbody class=3D"mcnDividerBlockOuter"><tr><td class=3D"mcnDividerBlo=
+ckInner" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%=
+; -webkit-text-size-adjust: 100%; min-width: 100%; padding: 27px 18px 0px;"=
+><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnDivide=
+rContent" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-ta=
+ble-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+; min-width: 100%;" width=3D"100%"><tbody><tr><td style=3D"mso-line-height-=
+rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"=
+>&nbsp;</td></tr></tbody></table><!--=20=20=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnTextBlock" style=3D"border-collapse: collapse; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody class=3D"m=
+cnTextBlockOuter"><tr><td class=3D"mcnTextBlockInner" style=3D"mso-line-hei=
+ght-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; padding-top: 9px;" valign=3D"top"><!--[if mso]><table align=3D"left" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"widt=
+h:100%;"><tr><![endif]--><!--[if mso]><td valign=3D"top" width=3D"600" styl=
+e=3D"width:600px;"><![endif]--><table align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" class=3D"mcnTextContentContainer" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; max-width: 100%; min-w=
+idth: 100%;" width=3D"100%"><tbody><tr><td align=3D"left" class=3D"mcnTextC=
+ontent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;=
+ -webkit-text-size-adjust: 100%; word-break: break-word; color: #757575; fo=
+nt-family: Helvetica; font-size: 16px; line-height: 150%; text-align: left;=
+ padding-top: 0; padding-right: 18px; padding-bottom: 9px; padding-left: 18=
+px;" valign=3D"top"><h3 style=3D"display: block; margin: 0; padding: 0; col=
+or: #444444; font-family: Helvetica; font-size: 22px; font-style: normal; f=
+ont-weight: bold; line-height: 150%; letter-spacing: normal; text-align: ce=
+nter;"><span style=3D"font-size:25px"><span style=3D"color:#000000">Design<=
+/span></span></h3><p style=3D"margin: 10px 0; padding: 0; mso-line-height-r=
+ule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; c=
+olor: #757575; font-family: Helvetica; font-size: 16px; line-height: 150%; =
+text-align: left;"><span style=3D"font-size:17px"><span style=3D"color:#000=
+000">Each installation is supported by a comprehensive CAD design showing l=
+ayout, colors, line markings, designs, measurements, etc.</span></span></p>=
+</td></tr></tbody></table><!--[if mso]></td><![endif]--><!--[if mso]></tr><=
+/table><![endif]--></td></tr></tbody></table><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" class=3D"mcnImageBlock" style=3D"border-collapse:=
+ collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adju=
+st: 100%; -webkit-text-size-adjust: 100%; min-width: 100%;" width=3D"100%">=
+<tbody class=3D"mcnImageBlockOuter"><tr><td class=3D"mcnImageBlockInner" st=
+yle=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-t=
+ext-size-adjust: 100%; padding: 9px;" valign=3D"top"><table align=3D"left" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentCo=
+ntainer" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+ min-width: 100%;" width=3D"100%"><tbody><tr><td align=3D"center" class=3D"=
+mcnImageContent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adju=
+st: 100%; -webkit-text-size-adjust: 100%; padding-right: 9px; padding-left:=
+ 9px; padding-top: 0; padding-bottom: 0; text-align: center;" valign=3D"top=
+"><img  align=3D"middle" alt=3D"Altius Sports - CAD" class=3D"mcnImage" src=
+=3D"https://listserv.indiax.com/dada_mail_support_files/file_uploads/images=
+/386_312_Design.png" style=3D"outline: currentcolor none medium; text-decor=
+ation: none; max-width: 386px; padding-bottom: 0px; vertical-align: bottom;=
+ border: 4px solid rgb(255, 102, 0); border-radius: 9%; display: inline; wi=
+dth: 386px; height: 312px;"/></td></tr></tbody></table></td></tr></tbody></=
+table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnD=
+ividerBlock" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso=
+-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 1=
+00%; min-width: 100%; table-layout: fixed;" width=3D"100%"><tbody class=3D"=
+mcnDividerBlockOuter"><tr><td class=3D"mcnDividerBlockInner" style=3D"mso-l=
+ine-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adj=
+ust: 100%; min-width: 100%; padding: 27px 18px 0px;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"mcnDividerContent" style=3D"bord=
+er-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-te=
+xt-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-width: 100%;" wid=
+th=3D"100%"><tbody><tr><td style=3D"mso-line-height-rule: exactly; -ms-text=
+-size-adjust: 100%; -webkit-text-size-adjust: 100%;">&nbsp;</td></tr></tbod=
+y></table><!--=20=20=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnTextBlock" style=3D"border-collapse: collapse; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody class=3D"m=
+cnTextBlockOuter"><tr><td class=3D"mcnTextBlockInner" style=3D"mso-line-hei=
+ght-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; padding-top: 9px;" valign=3D"top"><!--[if mso]><table align=3D"left" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"widt=
+h:100%;"><tr><![endif]--><!--[if mso]><td valign=3D"top" width=3D"600" styl=
+e=3D"width:600px;"><![endif]--><table align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" class=3D"mcnTextContentContainer" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; max-width: 100%; min-w=
+idth: 100%;" width=3D"100%"><tbody><tr><td align=3D"left" class=3D"mcnTextC=
+ontent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;=
+ -webkit-text-size-adjust: 100%; word-break: break-word; color: #757575; fo=
+nt-family: Helvetica; font-size: 16px; line-height: 150%; text-align: left;=
+ padding-top: 0; padding-right: 18px; padding-bottom: 9px; padding-left: 18=
+px;" valign=3D"top"><h3 style=3D"display: block; margin: 0; padding: 0; col=
+or: #444444; font-family: Helvetica; font-size: 22px; font-style: normal; f=
+ont-weight: bold; line-height: 150%; letter-spacing: normal; text-align: ce=
+nter;"><span style=3D"font-size:24px"><span style=3D"font-family:arial,helv=
+etica neue,helvetica,sans-serif"><span style=3D"color:#000000">Fencing, lig=
+hting, and accessories</span></span></span></h3><p style=3D"margin: 10px 0;=
+ padding: 0; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -we=
+bkit-text-size-adjust: 100%; color: #757575; font-family: Helvetica; font-s=
+ize: 16px; line-height: 150%; text-align: left;"><span style=3D"font-size:1=
+7px"><span style=3D"color:#000000">We also undertake court and field lighti=
+ng, perimeter fencing and supplies a range of fixed and mobile accessories =
+such as nets and goals, basis the client&rsquo;s requirements.</span></span=
+></p></td></tr></tbody></table><!--[if mso]></td><![endif]--><!--[if mso]><=
+/tr></table><![endif]--></td></tr></tbody></table><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"mcnImageBlock" style=3D"border-coll=
+apse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size=
+-adjust: 100%; -webkit-text-size-adjust: 100%; min-width: 100%;" width=3D"1=
+00%"><tbody class=3D"mcnImageBlockOuter"><tr><td class=3D"mcnImageBlockInne=
+r" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%; padding: 9px;" valign=3D"top"><table align=3D"l=
+eft" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnImageCont=
+entContainer" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: =
+100%; min-width: 100%;" width=3D"100%"><tbody><tr><td align=3D"center" clas=
+s=3D"mcnImageContent" style=3D"mso-line-height-rule: exactly; -ms-text-size=
+-adjust: 100%; -webkit-text-size-adjust: 100%; padding-right: 9px; padding-=
+left: 9px; padding-top: 0; padding-bottom: 0; text-align: center;" valign=
+=3D"top"><img  align=3D"middle" alt=3D"Altius Sports - Lighting, fencing" c=
+lass=3D"mcnImage" src=3D"https://listserv.indiax.com/dada_mail_support_file=
+s/file_uploads/images/386_312_lighting%2Cfencing.png" style=3D"outline: cur=
+rentcolor none medium; text-decoration: none; max-width: 386px; padding-bot=
+tom: 0px; vertical-align: bottom; border: 4px solid rgb(255, 102, 0); borde=
+r-radius: 9%; display: inline; width: 386px; height: 312px;"/></td></tr></t=
+body></table></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" class=3D"mcnDividerBlock" style=3D"border-collapse: col=
+lapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; min-width: 100%; table-layout: fixed;=
+" width=3D"100%"><tbody class=3D"mcnDividerBlockOuter"><tr><td class=3D"mcn=
+DividerBlockInner" style=3D"mso-line-height-rule: exactly; -ms-text-size-ad=
+just: 100%; -webkit-text-size-adjust: 100%; min-width: 100%; padding: 27px =
+18px 0px;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"mcnDividerContent" style=3D"border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-ad=
+just: 100%; min-width: 100%;" width=3D"100%"><tbody><tr><td style=3D"mso-li=
+ne-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adju=
+st: 100%;">&nbsp;</td></tr></tbody></table><!--=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnTextBlock" style=3D"border-collapse: collapse; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody class=3D"m=
+cnTextBlockOuter"><tr><td class=3D"mcnTextBlockInner" style=3D"mso-line-hei=
+ght-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; padding-top: 9px;" valign=3D"top"><!--[if mso]><table align=3D"left" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"widt=
+h:100%;"><tr><![endif]--><!--[if mso]><td valign=3D"top" width=3D"600" styl=
+e=3D"width:600px;"><![endif]--><table align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" class=3D"mcnTextContentContainer" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; max-width: 100%; min-w=
+idth: 100%;" width=3D"100%"><tbody><tr><td align=3D"left" class=3D"mcnTextC=
+ontent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;=
+ -webkit-text-size-adjust: 100%; word-break: break-word; color: #757575; fo=
+nt-family: Helvetica; font-size: 16px; line-height: 150%; text-align: left;=
+ padding-top: 0; padding-right: 18px; padding-bottom: 9px; padding-left: 18=
+px;" valign=3D"top"><h3 style=3D"display: block; margin: 0; padding: 0; col=
+or: #444444; font-family: Helvetica; font-size: 22px; font-style: normal; f=
+ont-weight: bold; line-height: 150%; letter-spacing: normal; text-align: ce=
+nter;"><span style=3D"font-size:24px"><span style=3D"font-family:arial,helv=
+etica neue,helvetica,sans-serif"><span style=3D"color:#000000">Construction=
+</span></span></span></h3><p style=3D"margin: 10px 0; padding: 0; mso-line-=
+height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust:=
+ 100%; color: #757575; font-family: Helvetica; font-size: 16px; line-height=
+: 150%; text-align: left;"><span style=3D"font-size:17px"><span style=3D"co=
+lor:#000000">From pre-site inspections to ensure we understand the unique c=
+hallenges of your site, to design and construction plans, construction, inc=
+luding drainage and surrounds, we offer a full solution.</span></span></p><=
+/td></tr></tbody></table><!--[if mso]></td><![endif]--><!--[if mso]></tr></=
+table><![endif]--></td></tr></tbody></table><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"mcnImageBlock" style=3D"border-collapse: =
+collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><=
+tbody class=3D"mcnImageBlockOuter"><tr><td class=3D"mcnImageBlockInner" sty=
+le=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-te=
+xt-size-adjust: 100%; padding: 9px;" valign=3D"top"><table align=3D"left" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentCon=
+tainer" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-tabl=
+e-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+min-width: 100%;" width=3D"100%"><tbody><tr><td align=3D"center" class=3D"m=
+cnImageContent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%; padding-right: 9px; padding-left: =
+9px; padding-top: 0; padding-bottom: 0; text-align: center;" valign=3D"top"=
+><img  align=3D"middle" alt=3D"Altius Sports - Construction" class=3D"mcnIm=
+age" src=3D"https://listserv.indiax.com/dada_mail_support_files/file_upload=
+s/images/386_312_Construction.png" style=3D"outline: currentcolor none medi=
+um; text-decoration: none; max-width: 386px; padding-bottom: 0px; vertical-=
+align: bottom; border: 4px solid rgb(255, 102, 0); border-radius: 9%; displ=
+ay: inline; width: 386px; height: 312px;"/></td></tr></tbody></table></td><=
+/tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"mcnDividerBlock" style=3D"border-collapse: collapse; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-=
+size-adjust: 100%; min-width: 100%; table-layout: fixed;" width=3D"100%"><t=
+body class=3D"mcnDividerBlockOuter"><tr><td class=3D"mcnDividerBlockInner" =
+style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; min-width: 100%; padding: 27px 18px 0px;"><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnDividerContent"=
+ style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-wid=
+th: 100%;" width=3D"100%"><tbody><tr><td style=3D"mso-line-height-rule: exa=
+ctly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">&nbsp;</=
+td></tr></tbody></table><!--=20=20=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnTextBlock" style=3D"border-collapse: collapse; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody class=3D"m=
+cnTextBlockOuter"><tr><td class=3D"mcnTextBlockInner" style=3D"mso-line-hei=
+ght-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; padding-top: 9px;" valign=3D"top"><!--[if mso]><table align=3D"left" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"widt=
+h:100%;"><tr><![endif]--><!--[if mso]><td valign=3D"top" width=3D"600" styl=
+e=3D"width:600px;"><![endif]--><table align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" class=3D"mcnTextContentContainer" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; max-width: 100%; min-w=
+idth: 100%;" width=3D"100%"><tbody><tr><td align=3D"left" class=3D"mcnTextC=
+ontent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;=
+ -webkit-text-size-adjust: 100%; word-break: break-word; color: #757575; fo=
+nt-family: Helvetica; font-size: 16px; line-height: 150%; text-align: left;=
+ padding-top: 0; padding-right: 18px; padding-bottom: 9px; padding-left: 18=
+px;" valign=3D"top"><h3 style=3D"display: block; margin: 0; padding: 0; col=
+or: #444444; font-family: Helvetica; font-size: 22px; font-style: normal; f=
+ont-weight: bold; line-height: 150%; letter-spacing: normal; text-align: ce=
+nter;"><span style=3D"font-family:arial,helvetica neue,helvetica,sans-serif=
+"><span style=3D"font-size:24px"><span style=3D"color:#000000">Manufacture<=
+/span></span></span></h3><p style=3D"margin: 10px 0; padding: 0; mso-line-h=
+eight-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: =
+100%; color: #757575; font-family: Helvetica; font-size: 16px; line-height:=
+ 150%; text-align: left;"><span style=3D"color:#000000"><span style=3D"font=
+-size:17px">Our raw material and products are developed and manufactured su=
+ch that we are able to deliver world-class surfaces matched by meaningful s=
+urface warranties.</span></span></p></td></tr></tbody></table><!--[if mso]>=
+</td><![endif]--><!--[if mso]></tr></table><![endif]--></td></tr></tbody></=
+table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnI=
+mageBlock" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-t=
+able-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100=
+%; min-width: 100%;" width=3D"100%"><tbody class=3D"mcnImageBlockOuter"><tr=
+><td class=3D"mcnImageBlockInner" style=3D"mso-line-height-rule: exactly; -=
+ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding: 9px;" v=
+align=3D"top"><table align=3D"left" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnImageContentContainer" style=3D"border-collapse: coll=
+apse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbod=
+y><tr><td align=3D"center" class=3D"mcnImageContent" style=3D"mso-line-heig=
+ht-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100=
+%; padding-right: 9px; padding-left: 9px; padding-top: 0; padding-bottom: 0=
+; text-align: center;" valign=3D"top"><img  align=3D"middle" alt=3D"Altius =
+Sports - Manufacture" class=3D"mcnImage" src=3D"https://listserv.indiax.com=
+/dada_mail_support_files/file_uploads/images/386_312_Manufacturing.png" sty=
+le=3D"outline: currentcolor none medium; text-decoration: none; max-width: =
+386px; padding-bottom: 0px; vertical-align: bottom; border: 4px solid rgb(2=
+55, 102, 0); border-radius: 9%; display: inline; width: 386px; height: 312p=
+x;"/></td></tr></tbody></table></td></tr></tbody></table><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnDividerBlock" style=3D"bo=
+rder-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-width: 100%; ta=
+ble-layout: fixed;" width=3D"100%"><tbody class=3D"mcnDividerBlockOuter"><t=
+r><td class=3D"mcnDividerBlockInner" style=3D"mso-line-height-rule: exactly=
+; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-width: 10=
+0%; padding: 27px 18px 0px;"><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnDividerContent" style=3D"border-collapse: collapse; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody><tr><=
+td style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%;">&nbsp;</td></tr></tbody></table><!--=20=20=20=
+=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnTextBlock" style=3D"border-collapse: collapse; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody class=3D"m=
+cnTextBlockOuter"><tr><td class=3D"mcnTextBlockInner" style=3D"mso-line-hei=
+ght-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; padding-top: 9px;" valign=3D"top"><!--[if mso]><table align=3D"left" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"widt=
+h:100%;"><tr><![endif]--><!--[if mso]><td valign=3D"top" width=3D"600" styl=
+e=3D"width:600px;"><![endif]--><table align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" class=3D"mcnTextContentContainer" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; max-width: 100%; min-w=
+idth: 100%;" width=3D"100%"><tbody><tr><td align=3D"left" class=3D"mcnTextC=
+ontent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;=
+ -webkit-text-size-adjust: 100%; word-break: break-word; color: #757575; fo=
+nt-family: Helvetica; font-size: 16px; line-height: 150%; text-align: left;=
+ padding-top: 0; padding-right: 18px; padding-bottom: 9px; padding-left: 18=
+px;" valign=3D"top"><h3 style=3D"display: block; margin: 0; padding: 0; col=
+or: #444444; font-family: Helvetica; font-size: 22px; font-style: normal; f=
+ont-weight: bold; line-height: 150%; letter-spacing: normal; text-align: ce=
+nter;"><span style=3D"font-family:arial,helvetica neue,helvetica,sans-serif=
+"><span style=3D"font-size:24px"><span style=3D"color:#000000">Installation=
+</span></span></span></h3><p style=3D"margin: 10px 0; padding: 0; mso-line-=
+height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust:=
+ 100%; color: #757575; font-family: Helvetica; font-size: 16px; line-height=
+: 150%; text-align: left;"><span style=3D"color:#000000"><span style=3D"fon=
+t-size:17px">To ensure a quality installation, we have a team of expert ins=
+tallers who are adept at their job and have specialized training and equipm=
+ent to carry out the same.</span></span></p></td></tr></tbody></table><!--[=
+if mso]></td><![endif]--><!--[if mso]></tr></table><![endif]--></td></tr></=
+tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"mcnImageBlock" style=3D"border-collapse: collapse; mso-table-lspace: 0p=
+t; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adj=
+ust: 100%; min-width: 100%;" width=3D"100%"><tbody class=3D"mcnImageBlockOu=
+ter"><tr><td class=3D"mcnImageBlockInner" style=3D"mso-line-height-rule: ex=
+actly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding:=
+ 9px;" valign=3D"top"><table align=3D"left" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"mcnImageContentContainer" style=3D"border-collap=
+se: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-a=
+djust: 100%; -webkit-text-size-adjust: 100%; min-width: 100%;" width=3D"100=
+%"><tbody><tr><td align=3D"center" class=3D"mcnImageContent" style=3D"mso-l=
+ine-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adj=
+ust: 100%; padding-right: 9px; padding-left: 9px; padding-top: 0; padding-b=
+ottom: 0; text-align: center;" valign=3D"top"><img  align=3D"middle" alt=3D=
+"Altius Sports - Installation" class=3D"mcnImage" src=3D"https://listserv.i=
+ndiax.com/dada_mail_support_files/file_uploads/images/386_312_Installation.=
+png" style=3D"outline: currentcolor none medium; text-decoration: none; max=
+-width: 386px; padding-bottom: 0px; vertical-align: bottom; border: 4px sol=
+id rgb(255, 102, 0); border-radius: 9%; display: inline; width: 386px; heig=
+ht: 312px;"/></td></tr></tbody></table></td></tr></tbody></table><table bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnDividerBlock" sty=
+le=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0=
+pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-width: =
+100%; table-layout: fixed;" width=3D"100%"><tbody class=3D"mcnDividerBlockO=
+uter"><tr><td class=3D"mcnDividerBlockInner" style=3D"mso-line-height-rule:=
+ exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-w=
+idth: 100%; padding: 27px 18px 0px;"><table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"mcnDividerContent" style=3D"border-collapse: col=
+lapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbo=
+dy><tr><td style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 10=
+0%; -webkit-text-size-adjust: 100%;">&nbsp;</td></tr></tbody></table><!--=
+=20=20=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnTextBlock" style=3D"border-collapse: collapse; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody class=3D"m=
+cnTextBlockOuter"><tr><td class=3D"mcnTextBlockInner" style=3D"mso-line-hei=
+ght-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; padding-top: 9px;" valign=3D"top"><!--[if mso]><table align=3D"left" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"widt=
+h:100%;"><tr><![endif]--><!--[if mso]><td valign=3D"top" width=3D"600" styl=
+e=3D"width:600px;"><![endif]--><table align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" class=3D"mcnTextContentContainer" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; max-width: 100%; min-w=
+idth: 100%;" width=3D"100%"><tbody><tr><td align=3D"left" class=3D"mcnTextC=
+ontent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;=
+ -webkit-text-size-adjust: 100%; word-break: break-word; color: #757575; fo=
+nt-family: Helvetica; font-size: 16px; line-height: 150%; text-align: left;=
+ padding-top: 0; padding-right: 18px; padding-bottom: 9px; padding-left: 18=
+px;" valign=3D"top"><h3 style=3D"display: block; margin: 0; padding: 0; col=
+or: #444444; font-family: Helvetica; font-size: 22px; font-style: normal; f=
+ont-weight: bold; line-height: 150%; letter-spacing: normal; text-align: ce=
+nter;"><span style=3D"font-family:arial,helvetica neue,helvetica,sans-serif=
+"><span style=3D"font-size:24px"><span style=3D"color:#000000">Maintenance<=
+/span></span></span></h3><p style=3D"margin: 10px 0; padding: 0; mso-line-h=
+eight-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: =
+100%; color: #757575; font-family: Helvetica; font-size: 16px; line-height:=
+ 150%; text-align: left;"><span style=3D"color:#000000"><span style=3D"font=
+-size:17px">To preserve the quality and playability of your playing surface=
+, it is important to regularly maintain it. We offer a maintenance service =
+to all owners of our installations.</span></span></p></td></tr></tbody></ta=
+ble><!--[if mso]></td><![endif]--><!--[if mso]></tr></table><![endif]--></t=
+d></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"mcnImageBlock" style=3D"border-collapse: collapse; mso-table-l=
+space: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody class=3D"mcnIma=
+geBlockOuter"><tr><td class=3D"mcnImageBlockInner" style=3D"mso-line-height=
+-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+ padding: 9px;" valign=3D"top"><table align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=3D"bord=
+er-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-te=
+xt-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-width: 100%;" wid=
+th=3D"100%"><tbody><tr><td align=3D"center" class=3D"mcnImageContent" style=
+=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; padding-right: 9px; padding-left: 9px; padding-top: 0; =
+padding-bottom: 0; text-align: center;" valign=3D"top"><img  align=3D"middl=
+e" alt=3D"Altius Sports - maintenance" class=3D"mcnImage" src=3D"https://li=
+stserv.indiax.com/dada_mail_support_files/file_uploads/images/386_312_Maint=
+enance.png" style=3D"outline: currentcolor none medium; text-decoration: no=
+ne; max-width: 386px; padding-bottom: 0px; vertical-align: bottom; border: =
+4px solid rgb(255, 102, 0); border-radius: 9%; display: inline; width: 386p=
+x; height: 312px;"/></td></tr></tbody></table></td></tr></tbody></table></t=
+d></tr></tbody></table><!--[if (gte mso 9)|(IE)]></td></tr></table><![endif=
+]--></td></tr><tr><td align=3D"center" style=3D"width:600px;" valign=3D"top=
+" width=3D"600"><!--[endif]----><!--[if (gte mso 9)|(IE)]></td></tr></table=
+><![endif]--></td></tr></tbody></table><!-- // END TEMPLATE --></td></tr></=
+tbody></table></center><!-- end message content --></th><th class=3D"expand=
+er" style=3D"Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;=
+font-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0!important=
+;text-align:left;visibility:hidden;width:0"></th></tr></table></th></tr></t=
+body></table></td></tr></tbody></table><table class=3D"spacer float-center"=
+ style=3D"Margin:0 auto;border-collapse:collapse;border-spacing:0;float:non=
+e;margin:0 auto;padding:0;text-align:center;vertical-align:top;width:100%">=
+<tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td heigh=
+t=3D"25px" style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-=
+collapse:collapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-=
+serif;font-size:25px;font-weight:400;hyphens:auto;line-height:25px;margin:0=
+;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top;=
+word-wrap:break-word">&#xA0;</td></tr></tbody></table><table align=3D"cente=
+r" class=3D"wrapper float-center" style=3D"Margin:0 auto;border-collapse:co=
+llapse;border-spacing:0;float:none;margin:0 auto;padding:0;text-align:cente=
+r;vertical-align:top;width:100%"><tr style=3D"padding:0;text-align:left;ver=
+tical-align:top"><td class=3D"wrapper-inner" style=3D"-moz-hyphens:auto;-we=
+bkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a=
+;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyph=
+ens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:=
+top;word-wrap:break-word"><table align=3D"center" class=3D"container" style=
+=3D"Margin:0 auto;background:#fff;border-collapse:collapse;border-spacing:0=
+;margin:0 auto;padding:0;text-align:inherit;vertical-align:top;width:580px"=
+><tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td styl=
+e=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collap=
+se!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size=
+:16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-=
+align:left;vertical-align:top;word-wrap:break-word"><table class=3D"row" st=
+yle=3D"border-collapse:collapse;border-spacing:0;display:table;padding:0;po=
+sition:relative;text-align:left;vertical-align:top;width:100%"><tbody><tr s=
+tyle=3D"padding:0;text-align:left;vertical-align:top"><th class=3D"small-12=
+ large-12 columns first last" style=3D"Margin:0 auto;color:#0a0a0a;font-fam=
+ily:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1=
+.3;margin:0 auto;padding:0;padding-bottom:16px;padding-left:16px;padding-ri=
+ght:16px;text-align:left;width:564px"><table style=3D"border-collapse:colla=
+pse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100=
+%"><tr style=3D"padding:0;text-align:left;vertical-align:top"><th style=3D"=
+Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16p=
+x;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left"><tabl=
+e class=3D"spacer" style=3D"border-collapse:collapse;border-spacing:0;paddi=
+ng:0;text-align:left;vertical-align:top;width:100%"><tbody><tr style=3D"pad=
+ding:0;text-align:left;vertical-align:top"><td height=3D"25px" style=3D"-mo=
+z-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!impor=
+tant;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:25px;fo=
+nt-weight:400;hyphens:auto;line-height:25px;margin:0;mso-line-height-rule:e=
+xactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">&=
+#xA0;</td></tr></tbody></table><table align=3D"center" class=3D"container" =
+style=3D"Margin:0 auto;background:#fff;border-collapse:collapse;border-spac=
+ing:0;margin:0 auto;padding:0;text-align:inherit;vertical-align:top;width:1=
+00%"><tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><td =
+style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:co=
+llapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-=
+size:16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;t=
+ext-align:left;vertical-align:top;word-wrap:break-word"><table class=3D"row=
+" style=3D"border-collapse:collapse;border-spacing:0;display:table;padding:=
+0;position:relative;text-align:left;vertical-align:top;width:100%"><tbody><=
+tr style=3D"padding:0;text-align:left;vertical-align:top"><th class=3D"smal=
+l-12 large-12 columns first last" style=3D"Margin:0 auto;color:#0a0a0a;font=
+-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-heig=
+ht:1.3;margin:0 auto;padding:0;padding-bottom:16px;padding-left:0!important=
+;padding-right:0!important;text-align:left;width:100%"><table style=3D"bord=
+er-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-al=
+ign:top;width:100%"><tr style=3D"padding:0;text-align:left;vertical-align:t=
+op"><th style=3D"Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-se=
+rif;font-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0;text-=
+align:left"><table class=3D"button small radius expand success" style=3D"Ma=
+rgin:0 0 16px 0;border-collapse:collapse;border-spacing:0;margin:0 0 16px 0=
+;padding:0;text-align:left;vertical-align:top;width:100%!important"><tr sty=
+le=3D"padding:0;text-align:left;vertical-align:top"><td style=3D"-moz-hyphe=
+ns:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;co=
+lor:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weig=
+ht:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vert=
+ical-align:top;word-wrap:break-word"><table style=3D"border-collapse:collap=
+se;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%=
+"><tr style=3D"padding:0;text-align:left;vertical-align:top"><td style=3D"-=
+moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;background:#65e394;border:0 =
+solid #65e394;border-collapse:collapse!important;border-radius:3px;color:#f=
+efefe;font-family:Helvetica,Arial,sans-serif;font-size:12px;font-weight:400=
+;hyphens:auto;line-height:1.3;margin:0;padding:5px 10px 5px 10px;text-align=
+:left;vertical-align:top;word-wrap:break-word"><center data-parsed=3D"" sty=
+le=3D"min-width:none!important;width:100%"><a href=3D"https://listserv.indi=
+ax.com/cgi-bin/mail.cgi/archive/altius/20190214061855/#forward_to_a_friend"=
+ align=3D"center" class=3D"float-center" style=3D"Margin:0;border:0 solid #=
+65e394;border-radius:3px;color:#fefefe;display:inline-block;font-family:Hel=
+vetica,Arial,sans-serif;font-size:12px;font-weight:700;line-height:1.3;marg=
+in:0;padding:5px 10px 5px 10px;padding-left:0;padding-right:0;text-align:ce=
+nter;text-decoration:none;width:100%"> Forward this Message to a Friend </a=
+></center></td></tr></table></td><td class=3D"expander" style=3D"-moz-hyphe=
+ns:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;co=
+lor:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weig=
+ht:400;hyphens:auto;line-height:1.3;margin:0;padding:0!important;text-align=
+:left;vertical-align:top;visibility:hidden;width:0;word-wrap:break-word"></=
+td></tr></table></th><th class=3D"expander" style=3D"Margin:0;color:#0a0a0a=
+;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line=
+-height:1.3;margin:0;padding:0!important;text-align:left;visibility:hidden;=
+width:0"></th></tr></table></th></tr></tbody></table></td></tr></tbody></ta=
+ble><h4 style=3D"Margin:0;Margin-bottom:10px;color:inherit;font-family:Helv=
+etica,Arial,sans-serif;font-size:24px;font-weight:400;line-height:1.3;margi=
+n:0;margin-bottom:10px;padding:0;text-align:left;word-wrap:normal"> <small =
+style=3D"color:#cacaca;font-size:80%"> Subscription Reminder </small> </h4>=
+<p style=3D"Margin:0;Margin-bottom:10px;color:#0a0a0a;font-family:Helvetica=
+,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0;m=
+argin-bottom:10px;padding:0;text-align:left">You're Subscribed to: <strong>=
+ <a href=3D"https://listserv.indiax.com/cgi-bin/mail.cgi/list/altius" style=
+=3D"Margin:0;color:#2199e8;font-family:Helvetica,Arial,sans-serif;font-weig=
+ht:400;line-height:1.3;margin:0;padding:0;text-align:left;text-decoration:n=
+one">Altius Peak Newsletter from Altius Sports</a> </strong> using the addr=
+ess: <strong>sukdeep@agilefitness.in</strong> </p><table align=3D"center" c=
+lass=3D"container" style=3D"Margin:0 auto;background:#fff;border-collapse:c=
+ollapse;border-spacing:0;margin:0 auto;padding:0;text-align:inherit;vertica=
+l-align:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;verti=
+cal-align:top"><td style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0=
+;border-collapse:collapse!important;color:#0a0a0a;font-family:Helvetica,Ari=
+al,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;m=
+argin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">=
+<table class=3D"row" style=3D"border-collapse:collapse;border-spacing:0;dis=
+play:table;padding:0;position:relative;text-align:left;vertical-align:top;w=
+idth:100%"><tbody><tr style=3D"padding:0;text-align:left;vertical-align:top=
+"><th class=3D"small-12 large-5 columns first" style=3D"Margin:0 auto;color=
+:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:=
+400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:16px;padding-lef=
+t:0!important;padding-right:0!important;text-align:left;width:41.66667%"><t=
+able style=3D"border-collapse:collapse;border-spacing:0;padding:0;text-alig=
+n:left;vertical-align:top;width:100%"><tr style=3D"padding:0;text-align:lef=
+t;vertical-align:top"><th style=3D"Margin:0;color:#0a0a0a;font-family:Helve=
+tica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin=
+:0;padding:0;text-align:left"><table class=3D"button tiny radius expanded" =
+style=3D"Margin:0 0 16px 0;border-collapse:collapse;border-spacing:0;margin=
+:0 0 16px 0;padding:0;text-align:left;vertical-align:top;width:100%!importa=
+nt"><tr style=3D"padding:0;text-align:left;vertical-align:top"><td style=3D=
+"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!i=
+mportant;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16p=
+x;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-alig=
+n:left;vertical-align:top;word-wrap:break-word"><table style=3D"border-coll=
+apse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top=
+;width:100%"><tr style=3D"padding:0;text-align:left;vertical-align:top"><td=
+ style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;background:#4faee=
+d;border:none;border-collapse:collapse!important;border-radius:3px;color:#f=
+efefe;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400=
+;hyphens:auto;line-height:1.3;margin:0;padding:4px 8px 4px 8px;text-align:l=
+eft;vertical-align:top;word-wrap:break-word"><center data-parsed=3D"" style=
+=3D"min-width:none!important;width:100%"><a href=3D"https://listserv.indiax=
+.com/cgi-bin/mail.cgi/profile_login/sukdeep/agilefitness.in/" align=3D"cent=
+er" class=3D"float-center" style=3D"Margin:0;border:0 solid #4faeed;border-=
+radius:3px;color:#fefefe;display:inline-block;font-family:Helvetica,Arial,s=
+ans-serif;font-size:10px;font-weight:400;line-height:1.3;margin:0;padding:4=
+px 8px 4px 8px;padding-left:0;padding-right:0;text-align:center;text-decora=
+tion:none;width:100%"> Manage Your Subscription </a></center></td></tr></ta=
+ble></td><td class=3D"expander" style=3D"-moz-hyphens:auto;-webkit-hyphens:=
+auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-family:=
+Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line=
+-height:1.3;margin:0;padding:0!important;text-align:left;vertical-align:top=
+;visibility:hidden;width:0;word-wrap:break-word"></td></tr></table></th></t=
+r></table></th><th class=3D"small-12 large-2 columns" style=3D"Margin:0 aut=
+o;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-=
+weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:16px;padd=
+ing-left:0!important;padding-right:0!important;text-align:left;width:16.666=
+67%"><table style=3D"border-collapse:collapse;border-spacing:0;padding:0;te=
+xt-align:left;vertical-align:top;width:100%"><tr style=3D"padding:0;text-al=
+ign:left;vertical-align:top"><th style=3D"Margin:0;color:#0a0a0a;font-famil=
+y:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3=
+;margin:0;padding:0;text-align:left"></th></tr></table></th><th class=3D"sm=
+all-12 large-5 columns last" style=3D"Margin:0 auto;color:#0a0a0a;font-fami=
+ly:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.=
+3;margin:0 auto;padding:0;padding-bottom:16px;padding-left:0!important;padd=
+ing-right:0!important;text-align:left;width:41.66667%"><table style=3D"bord=
+er-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-al=
+ign:top;width:100%"><tr style=3D"padding:0;text-align:left;vertical-align:t=
+op"><th style=3D"Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-se=
+rif;font-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0;text-=
+align:left"><table class=3D"button tiny radius expanded" style=3D"Margin:0 =
+0 16px 0;border-collapse:collapse;border-spacing:0;margin:0 0 16px 0;paddin=
+g:0;text-align:left;vertical-align:top;width:100%!important"><tr style=3D"p=
+adding:0;text-align:left;vertical-align:top"><td style=3D"-moz-hyphens:auto=
+;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#0a=
+0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;=
+hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-al=
+ign:top;word-wrap:break-word"><table style=3D"border-collapse:collapse;bord=
+er-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%"><tr s=
+tyle=3D"padding:0;text-align:left;vertical-align:top"><td style=3D"-moz-hyp=
+hens:auto;-webkit-hyphens:auto;Margin:0;background:#4faeed;border:none;bord=
+er-collapse:collapse!important;border-radius:3px;color:#fefefe;font-family:=
+Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line=
+-height:1.3;margin:0;padding:4px 8px 4px 8px;text-align:left;vertical-align=
+:top;word-wrap:break-word"><center data-parsed=3D"" style=3D"min-width:none=
+!important;width:100%"><a href=3D"https://listserv.indiax.com/cgi-bin/mail.=
+cgi/t/RUbiTYubzuPViQIDFTea4SrNVA3hbE4aibgIQbB2/" align=3D"center" class=3D"=
+float-center" style=3D"Margin:0;border:0 solid #4faeed;border-radius:3px;co=
+lor:#fefefe;display:inline-block;font-family:Helvetica,Arial,sans-serif;fon=
+t-size:10px;font-weight:400;line-height:1.3;margin:0;padding:4px 8px 4px 8p=
+x;padding-left:0;padding-right:0;text-align:center;text-decoration:none;wid=
+th:100%"> Unsubscribe Automatically </a></center></td></tr></table></td><td=
+ class=3D"expander" style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:=
+0;border-collapse:collapse!important;color:#0a0a0a;font-family:Helvetica,Ar=
+ial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;=
+margin:0;padding:0!important;text-align:left;vertical-align:top;visibility:=
+hidden;width:0;word-wrap:break-word"></td></tr></table></th></tr></table></=
+th></tr></tbody></table></td></tr></tbody></table></th></tr></table></th></=
+tr></tbody></table></td></tr></tbody></table></td></tr></table><table class=
+=3D"spacer float-center" style=3D"Margin:0 auto;border-collapse:collapse;bo=
+rder-spacing:0;float:none;margin:0 auto;padding:0;text-align:center;vertica=
+l-align:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;verti=
+cal-align:top"><td height=3D"25px" style=3D"-moz-hyphens:auto;-webkit-hyphe=
+ns:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-fami=
+ly:Helvetica,Arial,sans-serif;font-size:25px;font-weight:400;hyphens:auto;l=
+ine-height:25px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:=
+left;vertical-align:top;word-wrap:break-word">&#xA0;</td></tr></tbody></tab=
+le><table align=3D"center" class=3D"wrapper footer float-center" style=3D"M=
+argin:0 auto;background:#fff;border-collapse:collapse;border-spacing:0;floa=
+t:none;margin:0 auto;padding:0;text-align:center;vertical-align:top;width:1=
+00%"><tr style=3D"padding:0;text-align:left;vertical-align:top"><td class=
+=3D"wrapper-inner" style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0=
+;border-collapse:collapse!important;color:#0a0a0a;font-family:Helvetica,Ari=
+al,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;m=
+argin:0;padding:20px;text-align:left;vertical-align:top;word-wrap:break-wor=
+d"><table class=3D"row collapse" style=3D"border-collapse:collapse;border-s=
+pacing:0;padding:0;position:relative;text-align:left;vertical-align:top;wid=
+th:100%"><tbody><tr style=3D"padding:0;text-align:left;vertical-align:top">=
+<th class=3D"small-12 large-6 columns first" style=3D"Margin:0 auto;color:#=
+0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:40=
+0;line-height:1.3;margin:0 auto;padding:0;padding-bottom:0;padding-left:0;p=
+adding-right:0;text-align:left;width:298px"><table style=3D"border-collapse=
+:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;wid=
+th:100%"><tr style=3D"padding:0;text-align:left;vertical-align:top"><th sty=
+le=3D"Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-si=
+ze:16px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left"=
+><h4 style=3D"Margin:0;Margin-bottom:10px;color:inherit;font-family:Helveti=
+ca,Arial,sans-serif;font-size:24px;font-weight:400;line-height:1.3;margin:0=
+;margin-bottom:10px;padding:0;text-align:left;word-wrap:normal"> <small sty=
+le=3D"color:#cacaca;font-size:80%"> Contact </small> </h4><p style=3D"Margi=
+n:0;Margin-bottom:10px;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif=
+;font-size:16px;font-weight:400;line-height:1.3;margin:0;margin-bottom:0;pa=
+dding:0;text-align:left"> <a href=3D"http://www.altiussports.com/" style=3D=
+"Margin:0;color:#2199e8;font-family:Helvetica,Arial,sans-serif;font-weight:=
+400;line-height:1.3;margin:0;padding:0;text-align:left;text-decoration:none=
+">http://www.altiussports.com/</a> </p><p style=3D"Margin:0;Margin-bottom:1=
+0px;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;fon=
+t-weight:400;line-height:1.3;margin:0;margin-bottom:0;padding:0;text-align:=
+left"> <a href=3D"mailto:info@altiussports.com" style=3D"Margin:0;color:#21=
+99e8;font-family:Helvetica,Arial,sans-serif;font-weight:400;line-height:1.3=
+;margin:0;padding:0;text-align:left;text-decoration:none">info@altiussports=
+.com</a> </p><p style=3D"Margin:0;Margin-bottom:10px;color:#0a0a0a;font-fam=
+ily:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1=
+.3;margin:0;margin-bottom:0;padding:0;text-align:left"><p>Altius Sports &am=
+p; Leisure Pvt. Ltd.</p>
+
+<p>38A/2, Jyotish Roy Road</p>
+
+<p>Kolkata 700 053</p>
+
+<p>India</p>
+</p><p style=3D"Margin:0;Margin-bottom:10px;color:#0a0a0a;font-family:Helve=
+tica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin=
+:0;margin-bottom:0;padding:0;text-align:left"> <a href=3D"tel:%3C!--%20tmpl=
+_var%20list_settings.list_phone_number%20--%3E" style=3D"Margin:0;color:#21=
+99e8;font-family:Helvetica,Arial,sans-serif;font-weight:400;line-height:1.3=
+;margin:0;padding:0;text-align:left;text-decoration:none">+919836277678</a>=
+ </p></th></tr></table></th><th class=3D"small-12 large-6 columns last" sty=
+le=3D"Margin:0 auto;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;fo=
+nt-size:16px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;paddin=
+g-bottom:0;padding-left:0;padding-right:0;text-align:left;width:298px"><tab=
+le style=3D"border-collapse:collapse;border-spacing:0;padding:0;text-align:=
+left;vertical-align:top;width:100%"><tr style=3D"padding:0;text-align:left;=
+vertical-align:top"><th style=3D"Margin:0;color:#0a0a0a;font-family:Helveti=
+ca,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0=
+;padding:0;text-align:left"><h4 style=3D"Margin:0;Margin-bottom:10px;color:=
+inherit;font-family:Helvetica,Arial,sans-serif;font-size:24px;font-weight:4=
+00;line-height:1.3;margin:0;margin-bottom:10px;padding:0;text-align:left;wo=
+rd-wrap:normal"> <small style=3D"color:#cacaca;font-size:80%"> Connect </sm=
+all> </h4><table class=3D"button small facebook expand" style=3D"Margin:0 0=
+ 16px 0;border-collapse:collapse;border-spacing:0;margin:0 0 16px 0;padding=
+:0;text-align:left;vertical-align:top;width:100%!important"><tr style=3D"pa=
+dding:0;text-align:left;vertical-align:top"><td style=3D"-moz-hyphens:auto;=
+-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#0a0=
+a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;h=
+yphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-ali=
+gn:top;word-wrap:break-word"><table style=3D"border-collapse:collapse;borde=
+r-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%"><tr st=
+yle=3D"padding:0;text-align:left;vertical-align:top"><td style=3D"-moz-hyph=
+ens:auto;-webkit-hyphens:auto;Margin:0;background:#4c70ba!important;border:=
+2px solid #2199e8;border-collapse:collapse!important;border-color:#4c70ba;c=
+olor:#fefefe;font-family:Helvetica,Arial,sans-serif;font-size:12px;font-wei=
+ght:400;hyphens:auto;line-height:1.3;margin:0;padding:5px 10px 5px 10px;tex=
+t-align:left;vertical-align:top;word-wrap:break-word"><center data-parsed=
+=3D"" style=3D"min-width:0;width:100%"><a href=3D"http://facebook.com/altiu=
+ssports/" align=3D"center" class=3D"float-center" style=3D"Margin:0;border:=
+0 solid #4faeed;border-radius:3px;color:#fefefe;display:inline-block;font-f=
+amily:Helvetica,Arial,sans-serif;font-size:12px;font-weight:700;line-height=
+:1.3;margin:0;padding:5px 10px 5px 10px;padding-left:0;padding-right:0;text=
+-align:center;text-decoration:none;width:100%"> Facebook </a></center></td>=
+</tr></table></td><td class=3D"expander" style=3D"-moz-hyphens:auto;-webkit=
+-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;fon=
+t-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:=
+auto;line-height:1.3;margin:0;padding:0!important;text-align:left;vertical-=
+align:top;visibility:hidden;width:0;word-wrap:break-word"></td></tr></table=
+><table class=3D"button small twitter expand" style=3D"Margin:0 0 16px 0;bo=
+rder-collapse:collapse;border-spacing:0;margin:0 0 16px 0;padding:0;text-al=
+ign:left;vertical-align:top;width:100%!important"><tr style=3D"padding:0;te=
+xt-align:left;vertical-align:top"><td style=3D"-moz-hyphens:auto;-webkit-hy=
+phens:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-f=
+amily:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:aut=
+o;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;wor=
+d-wrap:break-word"><table style=3D"border-collapse:collapse;border-spacing:=
+0;padding:0;text-align:left;vertical-align:top;width:100%"><tr style=3D"pad=
+ding:0;text-align:left;vertical-align:top"><td style=3D"-moz-hyphens:auto;-=
+webkit-hyphens:auto;Margin:0;background:#4cbdf1!important;border:2px solid =
+#2199e8;border-collapse:collapse!important;border-color:#4cbdf1;color:#fefe=
+fe;font-family:Helvetica,Arial,sans-serif;font-size:12px;font-weight:400;hy=
+phens:auto;line-height:1.3;margin:0;padding:5px 10px 5px 10px;text-align:le=
+ft;vertical-align:top;word-wrap:break-word"><center data-parsed=3D"" style=
+=3D"min-width:0;width:100%"><a href=3D"https://twitter.com/NewsAltius" alig=
+n=3D"center" class=3D"float-center" style=3D"Margin:0;border:0 solid #4faee=
+d;border-radius:3px;color:#fefefe;display:inline-block;font-family:Helvetic=
+a,Arial,sans-serif;font-size:12px;font-weight:700;line-height:1.3;margin:0;=
+padding:5px 10px 5px 10px;padding-left:0;padding-right:0;text-align:center;=
+text-decoration:none;width:100%"> Twitter </a></center></td></tr></table></=
+td><td class=3D"expander" style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;M=
+argin:0;border-collapse:collapse!important;color:#0a0a0a;font-family:Helvet=
+ica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-heigh=
+t:1.3;margin:0;padding:0!important;text-align:left;vertical-align:top;visib=
+ility:hidden;width:0;word-wrap:break-word"></td></tr></table></th></tr></ta=
+ble></th></tr></tbody></table></td></tr></table> </center></td></tr></table=
+><!-- prevent Gmail on iOS font size manipulation --><div style=3D"display:=
+none;white-space:nowrap;font:15px courier;line-height:0"> &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div><!--open_img--><img src=3D=
+"https://listserv.indiax.com/cgi-bin/mail.cgi/spacer_image/altius/201902140=
+61855/sukdeep/agilefitness.in/spacer.png" width=3D"1" height=3D"1" alt=3D""=
+ /><!--/open_img-->
+</body></html>=
+
+--_----------=_1550125134207560--

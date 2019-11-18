@@ -1,0 +1,1336 @@
+Return-Path: <bounces@listserv.indiax.com>
+Delivered-To: sukdeep@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP id oDddIKDgilxFGQsAwqAP9w
+	for <sukdeep@agilefitness.in>; Thu, 14 Mar 2019 23:15:44 +0000
+Return-path: <bounces@listserv.indiax.com>
+Envelope-to: sukdeep@agilefitness.in
+Delivery-date: Thu, 14 Mar 2019 23:15:44 +0000
+Received: from vps02.indiax.com ([104.239.140.139]:60718)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:AECDH-AES256-SHA:256)
+	(Exim 4.91)
+	(envelope-from <bounces@listserv.indiax.com>)
+	id 1h4ZZZ-0037lg-A4
+	for sukdeep@agilefitness.in; Thu, 14 Mar 2019 23:15:44 +0000
+Received: by vps02.indiax.com (Postfix, from userid 1093)
+	id 5B5607E4DD; Thu, 14 Mar 2019 23:15:25 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=altiussports.com;
+	s=2018; t=1552605325;
+	bh=U5CUcheT9z7jlA0rEpd+6Wjp1ppLFYrm0Pu4r6CrdHI=;
+	h=Date:From:To:List-Archive:List-ID:List-Owner:List-Post:
+	 List-Subscribe:List-Unsubscribe:Subject:From;
+	b=Py4JF453GXTomfi8rV9jg8zWsnxPrhnFmwkm7PoNwkq11NYwH2yZpUt+3LCw90nU4
+	 Hj3xvvvoGVBkZfQUuu5jIdigKg/fGxlY4cFC+KFwELIanQd4RqkLf9A67O4uJPnmro
+	 JCiXEK6PD7RYEmP4Z/AB8ttP+0yrW8Swe7lAphMqxvjogpn2BdPlAmrz4aC/nsiegQ
+	 sEAu8M7WtunM1aJvXfpr/Pd5DnICyUONSAMjVLROtLMYY3HfjLodql9CeIIx+VTqHN
+	 nvaLOfJTd7hYJiFvuGUk/f3NzpMe/pQ+vZM20AZn6V6HJJH9fcjMMNmbMyL7dIMT2K
+	 DCTMrazXlozLw==
+Date: Thu, 14 Mar 2019 23:15:25 +0000
+From: "Altius Peak Newsletter from Altius Sports" <info@altiussports.com>
+To: "Altius Peak Newsletter from Altius Sports Subscriber" <sukdeep@agilefitness.in>
+X-Priority: 3
+Precedence: list
+List: altius
+List-Archive: <https://listserv.indiax.com/cgi-bin/mail.cgi/archive/altius/>
+List-ID: <altius.vps02.indiax.com>
+List-Owner: <info@altiussports.com>
+List-Post: NO
+List-Subscribe: <https://listserv.indiax.com/cgi-bin/mail.cgi/s/altius/sukdeep/agilefitness.in/>
+List-Unsubscribe: <mailto:info@altiussports.com?Subject=Unsubscribe%20from%20Altius%20Peak%20Newsletter%20from%20Altius%20Sports>, <https://listserv.indiax.com/cgi-bin/mail.cgi/t/FBaMjO5FsAf2YEaUIo924amK3XXjffa8otmORXci/>
+List-URL: <https://listserv.indiax.com/cgi-bin/mail.cgi/list/altius/>
+X-BeenThere: https://listserv.indiax.com/cgi-bin/mail.cgi
+Message-ID: <20190313011534.29661578@altiussports.com>
+Feedback-ID: listserv-indiax
+X-Mailer: India Exchange List Server 11.2.6 Stable 11/13/18 
+Content-type: multipart/alternative; boundary="_----------=_1552439734310220"; charset=UTF-8
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+X-Preheader: A whole range of sporting surfaces by Altius Sports
+Subject: Maintenance-friendly, Long-lasting, NZ Made
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-1.1
+X-Spam-Score: -10
+X-Spam-Bar: -
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HEADER_FROM_DIFFERENT_DOMAINS=0.001, HTML_FONT_LOW_CONTRAST=0.001, HTML_MESSAGE=0.001, MAILING_LIST_MULTI=-1, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=DYs5VMlW c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=0P1rlvIACxFfQIZ0rjpfXg==:17 a=IkcTkHD0fZMA:10 a=NTGMnVQrEZIA:10 a=-uNXE31MpBQA:10 a=r77TgQKjGQsHNAKrUKIA:9 a=BxOCYJrOF0EvFh-nccsA:9 a=R6mA5GLxth42FgtD:21 a=DpWrTa69D92T69AH:21 a=QEXdDO2ut3YA:10 a=Hk_6FjGRQfdsrQ3ezp8A:9 a=lDNl2lIEhZKvKMjIUR5gOGDH5rM=:19 a=B8wBTOtO_fqkhLow:21 a=QCYcvGsIQPbWOI99:21 a=urHeKMYVVti3Skxy:21 a=_W_S_7VecoQA:10 a=p-dnK0njbqwfn1k4-x12:22 a=5EXng_2YBSJDjF3I7HXn:22
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: agilefitness.in]
+ *  0.0 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+ *      domains are different
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ * -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or identical to
+ *       background
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -1.0 MAILING_LIST_MULTI Multiple indicators imply a widely-seen list
+ *      manager
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+--_----------=_1552439734310220
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Date: Wed, 13 Mar 2019 01:15:34 +0000
+
+
+A whole range of sporting surfaces by Altius Sports
+
+__=20
+
+   \[\-\-VCUnOk3UDM_TMP*|IF:MC_PREVIEW_TEXT|*DM_TMPVCUnOk3U\-\-\]\[\-\-VCUn=
+Ok3UDM_TMP[if
+   !gte mso 9]>\[\-\-VCUnOk3UDM_TMPDM_TMPVCUnOk3U\-\-\]
+
+   *|MC_PREVIEW_TEXT|*\[\-\-VCUnOk3UDM_TMP
+
+   \[\-\-VCUnOk3UDM_TMP BEGIN TEMPLATE // DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP BEGIN PREHEADER // DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP // END PREHEADER DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP BEGIN HEADER // DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP // END HEADER DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP BEGIN UPPER BODY // DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP[if mso]>
+
+   American International School Dhaka
+
+   \[\-\-VCUnOk3UDM_TMP[if mso]>
+
+   Altius Sports - AISD
+
+
+   TigerTurf brings to American International School Dhaka, Bangladesh
+   its first truly all-weather football field with an unlimited yarn
+   warranty and a fibre that is conventionally cooler than other fibres.
+   Play made possible 24x7, impervious to footwear - here's to complete
+   turnkey solutions from Altius Sports.
+
+   \[\-\-VCUnOk3UDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP[if mso]>
+
+   Embassy of Japan in India, New Delhi
+
+   \[\-\-VCUnOk3UDM_TMP[if mso]>
+
+   Altius Sports - Embassy of Japan in India
+
+
+   Embassy of Japan in India goes the TigerTurf way with our ITF
+   certified tennis courts using our ITF Certified Medium-Fast court that
+   is extremely hard wearing and uses a unique polyethylene texturized
+   monofilament yarn. This fibre exclusive fibre type encapsulates more
+   of the sand infill producing a surface that is far less sandy in
+   appearance.
+
+   \[\-\-VCUnOk3UDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP[if mso]>
+
+   British High Commission, New Delhi
+
+   \[\-\-VCUnOk3UDM_TMP[if mso]>
+
+   Altius Sports - British High Commission
+
+
+   British High Commission, New Delhi gets the TigerTurf upgrade with our
+   ITF Certified Tennis Surface that lasts up to 5 times longer than
+   conventional hard courts/acrylic courts in terms ofthe number of hours
+   of play. Another Ace by Altius Sports.
+
+   \[\-\-VCUnOk3UDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP[if mso]>
+
+   American Embassy School, New Delhi
+
+   \[\-\-VCUnOk3UDM_TMP[if mso]>
+
+   Altius Sports - American Embassy School, New Delhi
+
+
+   Even after 7 years of rigorous use, the campus of the American Embassy
+   School, New Delhi enjoys unlimited hours of play - all made possible
+   by our unique XP Pro yarn. Our "love of the sport" makes play possible
+   24 x 7 using our patented yarn technology and a base that drains, no
+   matter the amount of rainfall.
+
+   \[\-\-VCUnOk3UDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP // END UPPER BODY DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP BEGIN COLUMNS // DM_TMPVCUnOk3U\-\-\]
+
+   Altius Sports - Tiger Turf
+
+   Altius Sports - Logo
+
+   \[\-\-VCUnOk3UDM_TMP // END COLUMNS DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP BEGIN LOWER BODY // DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP
+
+   ---------------------------------------------------------------------
+
+   DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP[if gte mso 9]>
+
+   \[\-\-VCUnOk3UDM_TMP[if gte mso 9]>
+
+   With over 4 million square feet of playing surfaces installed in
+   India, our in-house team at Altius designs, manufactures, builds,
+   installs and maintains your arena of dreams.
+
+   \[\-\-VCUnOk3UDM_TMP[if gte mso 9]>
+
+   \[\-\-VCUnOk3UDM_TMP // END LOWER BODY DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP BEGIN FOOTER // DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP // END FOOTER DM_TMPVCUnOk3U\-\-\]
+
+   \[\-\-VCUnOk3UDM_TMP // END TEMPLATE DM_TMPVCUnOk3U\-\-\]
+
+
+
+--=20
+=20
+Forward this Message to a Friend:
+https://listserv.indiax.com/cgi-bin/mail.cgi/archive/altius/20190313011534/=
+#forward_to_a_friend
+
+Subscription Reminder: You're Subscribed to, Altius Peak Newsletter from Al=
+tius Sports=20
+Using the address: sukdeep@agilefitness.in
+
+From: info@altiussports.com
+Altius Sports & Leisure Pvt. Ltd.=0D
+=0D
+38A/2, Jyotish Roy Road=0D
+=0D
+Kolkata 700 053=0D
+=0D
+India
+
+
+* Unsubscribe
+	https://listserv.indiax.com/cgi-bin/mail.cgi/t/FBaMjO5FsAf2YEaUIo924amK3XX=
+jffa8otmORXci/
+
+
+
+--_----------=_1552439734310220
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 13 Mar 2019 01:15:34 +0000
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml" lang=3D"en" xml:lang=3D"en"><head><meta http-equiv=3D"Conte=
+nt-Type" content=3D"text/html; charset=3Dutf-8"><meta name=3D"viewport" con=
+tent=3D"width=3Ddevice-width"><title></title></head><body style=3D"-moz-box=
+-sizing:border-box;-ms-text-size-adjust:100%;-webkit-box-sizing:border-box;=
+-webkit-text-size-adjust:100%;Margin:0;box-sizing:border-box;color:#0a0a0a;=
+font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-=
+height:1.3;margin:0;min-width:100%;padding:0;text-align:left;width:100%!imp=
+ortant"><style>@media only screen{html{min-height:100%;background:#fff}}@me=
+dia only screen and (max-width:596px){.small-float-center{margin:0 auto!imp=
+ortant;float:none!important;text-align:center!important}.small-text-center{=
+text-align:center!important}.small-text-left{text-align:left!important}.sma=
+ll-text-right{text-align:right!important}}@media only screen and (max-width=
+:596px){.hide-for-large{display:block!important;width:auto!important;overfl=
+ow:visible!important;max-height:none!important;font-size:inherit!important;=
+line-height:inherit!important}}@media only screen and (max-width:596px){tab=
+le.body table.container .hide-for-large,table.body table.container .row.hid=
+e-for-large{display:table!important;width:100%!important}}@media only scree=
+n and (max-width:596px){table.body table.container .callout-inner.hide-for-=
+large{display:table-cell!important;width:100%!important}}@media only screen=
+ and (max-width:596px){table.body table.container .show-for-large{display:n=
+one!important;width:0;mso-hide:all;overflow:hidden}}@media only screen and =
+(max-width:596px){table.body img{width:auto;height:auto}table.body center{m=
+in-width:0!important}table.body .container{width:95%!important}table.body .=
+column,table.body .columns{height:auto!important;-moz-box-sizing:border-box=
+;-webkit-box-sizing:border-box;box-sizing:border-box;padding-left:16px!impo=
+rtant;padding-right:16px!important}table.body .column .column,table.body .c=
+olumn .columns,table.body .columns .column,table.body .columns .columns{pad=
+ding-left:0!important;padding-right:0!important}table.body .collapse .colum=
+n,table.body .collapse .columns{padding-left:0!important;padding-right:0!im=
+portant}td.small-1,th.small-1{display:inline-block!important;width:8.33333%=
+!important}td.small-2,th.small-2{display:inline-block!important;width:16.66=
+667%!important}td.small-3,th.small-3{display:inline-block!important;width:2=
+5%!important}td.small-4,th.small-4{display:inline-block!important;width:33.=
+33333%!important}td.small-5,th.small-5{display:inline-block!important;width=
+:41.66667%!important}td.small-6,th.small-6{display:inline-block!important;w=
+idth:50%!important}td.small-7,th.small-7{display:inline-block!important;wid=
+th:58.33333%!important}td.small-8,th.small-8{display:inline-block!important=
+;width:66.66667%!important}td.small-9,th.small-9{display:inline-block!impor=
+tant;width:75%!important}td.small-10,th.small-10{display:inline-block!impor=
+tant;width:83.33333%!important}td.small-11,th.small-11{display:inline-block=
+!important;width:91.66667%!important}td.small-12,th.small-12{display:inline=
+-block!important;width:100%!important}.column td.small-12,.column th.small-=
+12,.columns td.small-12,.columns th.small-12{display:block!important;width:=
+100%!important}table.body td.small-offset-1,table.body th.small-offset-1{ma=
+rgin-left:8.33333%!important;Margin-left:8.33333%!important}table.body td.s=
+mall-offset-2,table.body th.small-offset-2{margin-left:16.66667%!important;=
+Margin-left:16.66667%!important}table.body td.small-offset-3,table.body th.=
+small-offset-3{margin-left:25%!important;Margin-left:25%!important}table.bo=
+dy td.small-offset-4,table.body th.small-offset-4{margin-left:33.33333%!imp=
+ortant;Margin-left:33.33333%!important}table.body td.small-offset-5,table.b=
+ody th.small-offset-5{margin-left:41.66667%!important;Margin-left:41.66667%=
+!important}table.body td.small-offset-6,table.body th.small-offset-6{margin=
+-left:50%!important;Margin-left:50%!important}table.body td.small-offset-7,=
+table.body th.small-offset-7{margin-left:58.33333%!important;Margin-left:58=
+.33333%!important}table.body td.small-offset-8,table.body th.small-offset-8=
+{margin-left:66.66667%!important;Margin-left:66.66667%!important}table.body=
+ td.small-offset-9,table.body th.small-offset-9{margin-left:75%!important;M=
+argin-left:75%!important}table.body td.small-offset-10,table.body th.small-=
+offset-10{margin-left:83.33333%!important;Margin-left:83.33333%!important}t=
+able.body td.small-offset-11,table.body th.small-offset-11{margin-left:91.6=
+6667%!important;Margin-left:91.66667%!important}table.body table.columns td=
+.expander,table.body table.columns th.expander{display:none!important}table=
+.body .right-text-pad,table.body .text-pad-right{padding-left:10px!importan=
+t}table.body .left-text-pad,table.body .text-pad-left{padding-right:10px!im=
+portant}table.menu{width:100%!important}table.menu td,table.menu th{width:a=
+uto!important;display:inline-block!important}table.menu.small-vertical td,t=
+able.menu.small-vertical th,table.menu.vertical td,table.menu.vertical th{d=
+isplay:block!important}table.menu[align=3Dcenter]{width:auto!important}tabl=
+e.button.small-expand,table.button.small-expanded{width:100%!important}tabl=
+e.button.small-expand table,table.button.small-expanded table{width:100%}ta=
+ble.button.small-expand table a,table.button.small-expanded table a{text-al=
+ign:center!important;width:100%!important;padding-left:0!important;padding-=
+right:0!important}table.button.small-expand center,table.button.small-expan=
+ded center{min-width:0}}</style><span class=3D"preheader" style=3D"color:#f=
+ff;display:none!important;font-size:1px;line-height:1px;max-height:0;max-wi=
+dth:0;mso-hide:all!important;opacity:0;overflow:hidden;visibility:hidden">A=
+ whole range of sporting surfaces by Altius Sports</span><table class=3D"bo=
+dy" style=3D"Margin:0;background:#fff;border-collapse:collapse;border-spaci=
+ng:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;fo=
+nt-weight:400;height:100%;line-height:1.3;margin:0;padding:0;text-align:lef=
+t;vertical-align:top;width:100%"><tr style=3D"padding:0;text-align:left;ver=
+tical-align:top"><td class=3D"center" align=3D"center" valign=3D"top" style=
+=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collaps=
+e!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:=
+16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-a=
+lign:left;vertical-align:top;word-wrap:break-word"><center data-parsed=3D""=
+ style=3D"min-width:580px;width:100%"><table align=3D"center" class=3D"wrap=
+per banner float-center" style=3D"Margin:0 auto;background:#fff;border-coll=
+apse:collapse;border-spacing:0;float:none;margin:0 auto;padding:0;text-alig=
+n:center;vertical-align:top;width:100%"><tr style=3D"padding:0;text-align:l=
+eft;vertical-align:top"><td class=3D"wrapper-inner" style=3D"-moz-hyphens:a=
+uto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:=
+#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:4=
+00;hyphens:auto;line-height:1.3;margin:0;padding:20px;text-align:left;verti=
+cal-align:top;word-wrap:break-word"><!-- <container> --><table class=3D"row=
+ collapse" style=3D"border-collapse:collapse;border-spacing:0;padding:0;pos=
+ition:relative;text-align:left;vertical-align:top;width:100%"><tbody><tr st=
+yle=3D"padding:0;text-align:left;vertical-align:top"><th class=3D"small-6 l=
+arge-6 columns first" valign=3D"middle" style=3D"Margin:0 auto;color:#0a0a0=
+a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;lin=
+e-height:1.3;margin:0 auto;padding:0;padding-bottom:0;padding-left:0;paddin=
+g-right:0;text-align:left;width:298px"><table style=3D"border-collapse:coll=
+apse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:10=
+0%"><tr style=3D"padding:0;text-align:left;vertical-align:top"><th style=3D=
+"Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16=
+px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left"><a h=
+ref=3D"" style=3D"Margin:0;color:#2199e8;font-family:Helvetica,Arial,sans-s=
+erif;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left;tex=
+t-decoration:none"><img  src=3D"https://listserv.indiax.com/dada_mail_suppo=
+rt_files/file_uploads/images/altius-sports-tigerturf-logo.png" class=3D"ban=
+ner_img" style=3D"-ms-interpolation-mode:bicubic;border:none;clear:both;dis=
+play:block;max-width:100%;outline:0;text-decoration:none;width:auto"> </a><=
+/th></tr></table></th><th class=3D"small-6 large-6 columns last" valign=3D"=
+middle" style=3D"Margin:0 auto;color:#0a0a0a;font-family:Helvetica,Arial,sa=
+ns-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0 auto;paddi=
+ng:0;padding-bottom:0;padding-left:0;padding-right:0;text-align:left;width:=
+298px"><table style=3D"border-collapse:collapse;border-spacing:0;padding:0;=
+text-align:left;vertical-align:top;width:100%"><tr style=3D"padding:0;text-=
+align:left;vertical-align:top"><th style=3D"Margin:0;color:#0a0a0a;font-fam=
+ily:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1=
+.3;margin:0;padding:0;text-align:left"><p class=3D"text-right" style=3D"Mar=
+gin:0;Margin-bottom:10px;color:#0a0a0a;font-family:Helvetica,Arial,sans-ser=
+if;font-size:16px;font-weight:400;line-height:1.3;margin:0;margin-bottom:0;=
+padding:0;text-align:right">A whole range of sporting surfaces by Altius Sp=
+orts</p></th></tr></table></th></tr></tbody></table><!-- </container> --></=
+td></tr></table><table class=3D"spacer float-center" style=3D"Margin:0 auto=
+;border-collapse:collapse;border-spacing:0;float:none;margin:0 auto;padding=
+:0;text-align:center;vertical-align:top;width:100%"><tbody><tr style=3D"pad=
+ding:0;text-align:left;vertical-align:top"><td height=3D"25px" style=3D"-mo=
+z-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!impor=
+tant;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:25px;fo=
+nt-weight:400;hyphens:auto;line-height:25px;margin:0;mso-line-height-rule:e=
+xactly;padding:0;text-align:left;vertical-align:top;word-wrap:break-word">&=
+#xA0;</td></tr></tbody></table><table align=3D"center" class=3D"container f=
+loat-center" style=3D"Margin:0 auto;background:#fff;border-collapse:collaps=
+e;border-spacing:0;float:none;margin:0 auto;padding:0;text-align:center;ver=
+tical-align:top;width:580px"><tbody><tr style=3D"padding:0;text-align:left;=
+vertical-align:top"><td style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Mar=
+gin:0;border-collapse:collapse!important;color:#0a0a0a;font-family:Helvetic=
+a,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:=
+1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wrap:break-w=
+ord"> <small style=3D"color:#cacaca;font-size:80%"> having trouble viewing =
+this message? <a href=3D"https://listserv.indiax.com/cgi-bin/mail.cgi/archi=
+ve/altius/20190313011534/" style=3D"Margin:0;color:#2199e8;font-family:Helv=
+etica,Arial,sans-serif;font-weight:400;line-height:1.3;margin:0;padding:0;t=
+ext-align:left;text-decoration:none"> read it online </a> </small> </td></t=
+r></tbody></table><table align=3D"center" class=3D"container float-center" =
+style=3D"Margin:0 auto;background:#fff;border-collapse:collapse;border-spac=
+ing:0;float:none;margin:0 auto;padding:0;text-align:center;vertical-align:t=
+op;width:580px"><tbody><tr style=3D"padding:0;text-align:left;vertical-alig=
+n:top"><td style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-=
+collapse:collapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-=
+serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;=
+padding:0;text-align:left;vertical-align:top;word-wrap:break-word"><table c=
+lass=3D"row" style=3D"border-collapse:collapse;border-spacing:0;display:tab=
+le;padding:0;position:relative;text-align:left;vertical-align:top;width:100=
+%"><tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><th cl=
+ass=3D"small-12 large-12 columns first last" style=3D"Margin:0 auto;color:#=
+0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:40=
+0;line-height:1.3;margin:0 auto;padding:0;padding-bottom:16px;padding-left:=
+16px;padding-right:16px;text-align:left;width:564px"><table style=3D"border=
+-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-alig=
+n:top;width:100%"><tr style=3D"padding:0;text-align:left;vertical-align:top=
+"><th style=3D"Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-seri=
+f;font-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0;text-al=
+ign:left"><table class=3D"spacer" style=3D"border-collapse:collapse;border-=
+spacing:0;padding:0;text-align:left;vertical-align:top;width:100%"><tbody><=
+tr style=3D"padding:0;text-align:left;vertical-align:top"><td height=3D"25p=
+x" style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse=
+:collapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;fo=
+nt-size:25px;font-weight:400;hyphens:auto;line-height:25px;margin:0;mso-lin=
+e-height-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wra=
+p:break-word">&#xA0;</td></tr></tbody></table><!-- start message content --=
+><!--*|IF:MC_PREVIEW_TEXT|*--><!--[if !gte mso 9]><!----><p><span class=3D"=
+mcnPreviewText" style=3D"font-size: 0px; line-height: 0px; max-height: 0px;=
+ max-width: 0px; opacity: 0; overflow: hidden; visibility: hidden; mso-hide=
+: all; display: none;">*|MC_PREVIEW_TEXT|*</span><!--<![endif]--><!--*|END:=
+IF|*--></p><center><table align=3D"center" bgcolor=3D"#FAFAFA" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" height=3D"100%" id=3D"bodyTable" style=
+=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; height: 100%;=
+ margin: 0; padding: 0; width: 100%; background-color: #FAFAFA;" width=3D"1=
+00%"><tbody><tr><td align=3D"center" height=3D"100%" id=3D"bodyCell" style=
+=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; height: 100%; margin: 0; padding: 0; width: 100%; borde=
+r-top: 0;" valign=3D"top" width=3D"100%"><!-- BEGIN TEMPLATE // --><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"templateContainer" st=
+yle=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border: 1p=
+x solid #DDDDDD; border-top: 0;" width=3D"600"><tbody><tr><td align=3D"cent=
+er" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -we=
+bkit-text-size-adjust: 100%;" valign=3D"top"><!-- BEGIN PREHEADER // --><ta=
+ble bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=
+=3D"templatePreheader" style=3D"border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size=
+-adjust: 100%; background-color: #FFFFFF; border-top: 0; border-bottom: 0;"=
+ width=3D"600"><tbody><tr><td class=3D"preheaderContainer" style=3D"mso-lin=
+e-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjus=
+t: 100%; padding-top: 9px; padding-bottom: 9px;" valign=3D"top">&nbsp;</td>=
+</tr></tbody></table><!-- // END PREHEADER --></td></tr><tr><td align=3D"ce=
+nter" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%;" valign=3D"top"><!-- BEGIN HEADER // --><tab=
+le  background=3D"none" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" id=3D"templateHeader" style=3D"border-collapse: collapse;=
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; =
+-webkit-text-size-adjust: 100%; background-color: #ffffff; background-image=
+: none; background-repeat: no-repeat; background-position: center; backgrou=
+nd-size: cover; border-top: 0; border-bottom: 1px solid #E6E6E6;" width=3D"=
+600"><tbody><tr><td class=3D"headerContainer" style=3D"mso-line-height-rule=
+: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" val=
+ign=3D"top">&nbsp;</td></tr></tbody></table><!-- // END HEADER --></td></tr=
+><tr><td align=3D"center" style=3D"mso-line-height-rule: exactly; -ms-text-=
+size-adjust: 100%; -webkit-text-size-adjust: 100%;" valign=3D"top"><!-- BEG=
+IN UPPER BODY // --><table bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" id=3D"templateUpperBody" style=3D"border-collapse: col=
+lapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; border-top=
+: 0; border-bottom: 1px solid #E6E6E6;" width=3D"600"><tbody><tr><td class=
+=3D"upperBodyContainer" style=3D"mso-line-height-rule: exactly; -ms-text-si=
+ze-adjust: 100%; -webkit-text-size-adjust: 100%;" valign=3D"top"><table bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnTextBlock" style=
+=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-width: 10=
+0%;" width=3D"100%"><tbody class=3D"mcnTextBlockOuter"><tr><td class=3D"mcn=
+TextBlockInner" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%; padding-top: 9px;" valign=3D"top">=
+<!--[if mso]><table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"100%" style=3D"width:100%;"><tr><![endif]--><!--[if mso]>=
+<td valign=3D"top" width=3D"600" style=3D"width:600px;"><![endif]--><table =
+align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mc=
+nTextContentContainer" style=3D"border-collapse: collapse; mso-table-lspace=
+: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size=
+-adjust: 100%; max-width: 100%; min-width: 100%;" width=3D"100%"><tbody><tr=
+><td align=3D"center" class=3D"mcnTextContent" style=3D"mso-line-height-rul=
+e: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; wor=
+d-break: break-word; color: #606060; font-size: 18px; line-height: 150%; pa=
+dding: 0px 18px 9px; font-family: Arial, &quot; undefined: HelveticaNeue&qu=
+ot; undefined: ,Helvetica,sans-serif; font-style: normal; font-weight: norm=
+al; text-align: center;" valign=3D"top"><div style=3D"text-align: center;">=
+<span style=3D"font-size:20px"><strong><span style=3D"color:#000000"><span =
+style=3D"font-family:arial,helvetica neue,helvetica,sans-serif">American In=
+ternational School Dhaka</span></span></strong></span></div></td></tr></tbo=
+dy></table><!--[if mso]></td><![endif]--><!--[if mso]></tr></table><![endif=
+]--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"mcnCaptionBlock" style=3D"border-collapse: collapse; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -we=
+bkit-text-size-adjust: 100%;" width=3D"100%"><tbody class=3D"mcnCaptionBloc=
+kOuter"><tr><td class=3D"mcnCaptionBlockInner" style=3D"mso-line-height-rul=
+e: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; pad=
+ding: 9px;" valign=3D"top"><table align=3D"left" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"mcnCaptionBottomContent" style=3D"border-=
+collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-=
+size-adjust: 100%; -webkit-text-size-adjust: 100%;"><tbody><tr><td align=3D=
+"center" class=3D"mcnCaptionBottomImageContent" style=3D"mso-line-height-ru=
+le: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; pa=
+dding: 0 9px 9px 9px;" valign=3D"top"><img  alt=3D"Altius Sports - AISD" cl=
+ass=3D"mcnImage" src=3D"https://listserv.indiax.com/dada_mail_support_files=
+/file_uploads/images/Embassy_Emailer/AISD.png" style=3D"outline: currentcol=
+or none medium; text-decoration: none; vertical-align: bottom; max-width: 5=
+20px; border: 4px solid rgb(243, 114, 40); border-radius: 7%; width: 520px;=
+ height: 347px;"/></td></tr><tr><td align=3D"center" class=3D"mcnTextConten=
+t" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%; word-break: break-word; color: #606060; font-si=
+ze: 18px; line-height: 150%; text-align: center; padding: 0px 9px; font-fam=
+ily: Arial, &quot; undefined: HelveticaNeue&quot; undefined: ,Helvetica,san=
+s-serif;" valign=3D"top" width=3D"564"><div style=3D"text-align: justify;">=
+<br/><span style=3D"color:#000000"><span style=3D"font-size:18px"><span sty=
+le=3D"font-family:arial,helvetica neue,helvetica,sans-serif">TigerTurf brin=
+gs to American International School&nbsp;Dhaka, Bangladesh its first truly =
+all-weather football field with an unlimited yarn warranty and a&nbsp;</spa=
+n></span></span><span style=3D"color:#000000"><span style=3D"font-size:18px=
+"><span style=3D"font-family:arial,helvetica neue,helvetica,sans-serif">fib=
+re</span></span></span><span style=3D"color:#000000"><span style=3D"font-si=
+ze:18px"><span style=3D"font-family:arial,helvetica neue,helvetica,sans-ser=
+if"> that is conventionally cooler than other </span></span></span><span st=
+yle=3D"color:#000000"><span style=3D"font-size:18px"><span style=3D"font-fa=
+mily:arial,helvetica neue,helvetica,sans-serif">fibres</span></span></span>=
+<span style=3D"color:#000000"><span style=3D"font-size:18px"><span style=3D=
+"font-family:arial,helvetica neue,helvetica,sans-serif">. </span></span></s=
+pan><span style=3D"color:#000000"><span style=3D"font-size:18px"><span styl=
+e=3D"font-family:arial,helvetica neue,helvetica,sans-serif">Play</span></sp=
+an></span><span style=3D"color:#000000"><span style=3D"font-size:18px"><spa=
+n style=3D"font-family:arial,helvetica neue,helvetica,sans-serif"> made pos=
+sible 24x7, impervious to footwear - here&#39;s to complete turnkey solutio=
+ns from Altius Sports.</span></span></span></div></td></tr></tbody></table>=
+</td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; min-width: 100%; table-layout: fixed;" width=3D"10=
+0%"><tbody class=3D"mcnDividerBlockOuter"><tr><td class=3D"mcnDividerBlockI=
+nner" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%; min-width: 100%; padding: 18px;"><table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnDividerContent" st=
+yle=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-width:=
+ 100%; border-top: 2px none #EAEAEA;" width=3D"100%"><tbody><tr><td style=
+=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%;">&nbsp;</td></tr></tbody></table><!--=20=20=20=20=20=20=
+=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%; min-width: 100%; table-layout: fixed;" width=3D=
+"100%"><tbody class=3D"mcnDividerBlockOuter"><tr><td class=3D"mcnDividerBlo=
+ckInner" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%=
+; -webkit-text-size-adjust: 100%; min-width: 100%; padding: 0px 18px 10px;"=
+><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnDivide=
+rContent" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-ta=
+ble-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+; min-width: 100%; border-top: 4px solid #F37228;" width=3D"100%"><tbody><t=
+r><td style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%;">&nbsp;</td></tr></tbody></table><!--=20=20=
+=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnTextBlock" style=3D"border-collapse: collapse; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody class=3D"m=
+cnTextBlockOuter"><tr><td class=3D"mcnTextBlockInner" style=3D"mso-line-hei=
+ght-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; padding-top: 9px;" valign=3D"top"><!--[if mso]><table align=3D"left" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"widt=
+h:100%;"><tr><![endif]--><!--[if mso]><td valign=3D"top" width=3D"600" styl=
+e=3D"width:600px;"><![endif]--><table align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" class=3D"mcnTextContentContainer" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; max-width: 100%; min-w=
+idth: 100%;" width=3D"100%"><tbody><tr><td align=3D"center" class=3D"mcnTex=
+tContent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100=
+%; -webkit-text-size-adjust: 100%; word-break: break-word; color: #606060; =
+font-size: 18px; line-height: 150%; padding: 0px 18px 9px; font-family: Ari=
+al, &quot; undefined: HelveticaNeue&quot; undefined: ,Helvetica,sans-serif;=
+ font-style: normal; font-weight: normal; text-align: center;" valign=3D"to=
+p"><div style=3D"text-align: center;"><strong><span style=3D"color:#000000"=
+><span style=3D"font-size:20px"><span style=3D"font-family:arial,helvetica =
+neue,helvetica,sans-serif">Embassy of Japan in India, New Delhi</span></spa=
+n></span></strong></div></td></tr></tbody></table><!--[if mso]></td><![endi=
+f]--><!--[if mso]></tr></table><![endif]--></td></tr></tbody></table><table=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCaptionBlock"=
+ style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" width=
+=3D"100%"><tbody class=3D"mcnCaptionBlockOuter"><tr><td class=3D"mcnCaption=
+BlockInner" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%; padding: 9px;" valign=3D"top"><table a=
+lign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcn=
+CaptionBottomContent" style=3D"border-collapse: collapse; mso-table-lspace:=
+ 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-=
+adjust: 100%;"><tbody><tr><td align=3D"center" class=3D"mcnCaptionBottomIma=
+geContent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 10=
+0%; -webkit-text-size-adjust: 100%; padding: 0 9px 9px 9px;" valign=3D"top"=
+><img  alt=3D"Altius Sports - Embassy of Japan in India" class=3D"mcnImage"=
+ src=3D"https://listserv.indiax.com/dada_mail_support_files/file_uploads/im=
+ages/Embassy_Emailer/Japan_Embassy.png" style=3D"outline: currentcolor none=
+ medium; text-decoration: none; vertical-align: bottom; max-width: 520px; b=
+order: 4px solid rgb(243, 114, 40); border-radius: 7%; width: 520px; height=
+: 347px;"/></td></tr><tr><td align=3D"center" class=3D"mcnTextContent" styl=
+e=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-tex=
+t-size-adjust: 100%; word-break: break-word; color: #606060; font-size: 18p=
+x; line-height: 150%; text-align: center; padding: 0px 9px; font-family: Ar=
+ial, &quot; undefined: HelveticaNeue&quot; undefined: ,Helvetica,sans-serif=
+;" valign=3D"top" width=3D"564"><div style=3D"text-align: justify;"><br/><s=
+pan style=3D"color:#000000"><span style=3D"font-size:18px"><span style=3D"f=
+ont-family:arial,helvetica neue,helvetica,sans-serif">Embassy of Japan in I=
+ndia goes the TigerTurf way with our ITF certified tennis courts using&nbsp=
+;our ITF Certified Medium-Fast court that is extremely hard wearing and use=
+s a unique polyethylene texturized monofilament yarn. &nbsp;This&nbsp;</spa=
+n></span></span><span style=3D"font-size:18px"><span style=3D"font-family:a=
+rial,helvetica neue,helvetica,sans-serif"><span style=3D"color:#000000">fib=
+re</span></span></span><span style=3D"color:#000000"><span style=3D"font-si=
+ze:18px"><span style=3D"font-family:arial,helvetica neue,helvetica,sans-ser=
+if"> exclusive </span></span></span><span style=3D"font-size:18px"><span st=
+yle=3D"font-family:arial,helvetica neue,helvetica,sans-serif"><span style=
+=3D"color:#000000">fibre</span></span></span><span style=3D"color:#000000">=
+<span style=3D"font-size:18px"><span style=3D"font-family:arial,helvetica n=
+eue,helvetica,sans-serif"> type encapsulates more of the sand infill produc=
+ing a surface that is far less sandy in appearance.</span></span></span></d=
+iv></td></tr></tbody></table></td></tr></tbody></table><table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnDividerBlock" style=3D"bord=
+er-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-te=
+xt-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-width: 100%; tabl=
+e-layout: fixed;" width=3D"100%"><tbody class=3D"mcnDividerBlockOuter"><tr>=
+<td class=3D"mcnDividerBlockInner" style=3D"mso-line-height-rule: exactly; =
+-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-width: 100%=
+; padding: 18px;"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" c=
+lass=3D"mcnDividerContent" style=3D"border-collapse: collapse; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-=
+size-adjust: 100%; min-width: 100%; border-top: 2px none #EAEAEA;" width=3D=
+"100%"><tbody><tr><td style=3D"mso-line-height-rule: exactly; -ms-text-size=
+-adjust: 100%; -webkit-text-size-adjust: 100%;">&nbsp;</td></tr></tbody></t=
+able><!--=20=20=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%; min-width: 100%; table-layout: fixed;" width=3D=
+"100%"><tbody class=3D"mcnDividerBlockOuter"><tr><td class=3D"mcnDividerBlo=
+ckInner" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%=
+; -webkit-text-size-adjust: 100%; min-width: 100%; padding: 0px 18px 10px;"=
+><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnDivide=
+rContent" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-ta=
+ble-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+; min-width: 100%; border-top: 4px solid #F37228;" width=3D"100%"><tbody><t=
+r><td style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%;">&nbsp;</td></tr></tbody></table><!--=20=20=
+=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnTextBlock" style=3D"border-collapse: collapse; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody class=3D"m=
+cnTextBlockOuter"><tr><td class=3D"mcnTextBlockInner" style=3D"mso-line-hei=
+ght-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; padding-top: 9px;" valign=3D"top"><!--[if mso]><table align=3D"left" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"widt=
+h:100%;"><tr><![endif]--><!--[if mso]><td valign=3D"top" width=3D"600" styl=
+e=3D"width:600px;"><![endif]--><table align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" class=3D"mcnTextContentContainer" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; max-width: 100%; min-w=
+idth: 100%;" width=3D"100%"><tbody><tr><td align=3D"center" class=3D"mcnTex=
+tContent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100=
+%; -webkit-text-size-adjust: 100%; word-break: break-word; color: #606060; =
+font-size: 18px; line-height: 150%; padding: 0px 18px 9px; font-family: Ari=
+al, &quot; undefined: HelveticaNeue&quot; undefined: ,Helvetica,sans-serif;=
+ font-style: normal; font-weight: normal; text-align: center;" valign=3D"to=
+p"><div style=3D"text-align: center;"><strong><span style=3D"color:#000000"=
+><span style=3D"font-size:20px"><span style=3D"font-family:arial,helvetica =
+neue,helvetica,sans-serif">British High Commission, New Delhi</span></span>=
+</span></strong></div></td></tr></tbody></table><!--[if mso]></td><![endif]=
+--><!--[if mso]></tr></table><![endif]--></td></tr></tbody></table><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCaptionBlock" s=
+tyle=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace:=
+ 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" width=3D=
+"100%"><tbody class=3D"mcnCaptionBlockOuter"><tr><td class=3D"mcnCaptionBlo=
+ckInner" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%=
+; -webkit-text-size-adjust: 100%; padding: 9px;" valign=3D"top"><table alig=
+n=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCap=
+tionBottomContent" style=3D"border-collapse: collapse; mso-table-lspace: 0p=
+t; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adj=
+ust: 100%;"><tbody><tr><td align=3D"center" class=3D"mcnCaptionBottomImageC=
+ontent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;=
+ -webkit-text-size-adjust: 100%; padding: 0 9px 9px 9px;" valign=3D"top"><i=
+mg  alt=3D"Altius Sports - British High Commission" class=3D"mcnImage" src=
+=3D"https://listserv.indiax.com/dada_mail_support_files/file_uploads/images=
+/Embassy_Emailer/British_High_Commission.png" style=3D"outline: currentcolo=
+r none medium; text-decoration: none; vertical-align: bottom; max-width: 52=
+0px; border: 4px solid rgb(243, 114, 40); border-radius: 7%; width: 520px; =
+height: 347px;"/></td></tr><tr><td align=3D"center" class=3D"mcnTextContent=
+" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%; word-break: break-word; color: #606060; font-siz=
+e: 18px; line-height: 150%; text-align: center; padding: 0px 9px; font-fami=
+ly: Arial, &quot; undefined: HelveticaNeue&quot; undefined: ,Helvetica,sans=
+-serif;" valign=3D"top" width=3D"564"><div style=3D"text-align: justify;"><=
+br/><span style=3D"color:#000000"><span style=3D"font-size:18px"><span styl=
+e=3D"font-family:arial,helvetica neue,helvetica,sans-serif">British High Co=
+mmission, New Delhi gets the TigerTurf upgrade with our ITF Certified Tenni=
+s Surface that lasts up to 5 times longer than conventional hard courts/acr=
+ylic courts in terms of</span></span></span><span style=3D"color:#000000"><=
+span style=3D"font-size:18px"><span style=3D"font-family:arial,helvetica ne=
+ue,helvetica,sans-serif">the number</span></span></span><span style=3D"colo=
+r:#000000"><span style=3D"font-size:18px"><span style=3D"font-family:arial,=
+helvetica neue,helvetica,sans-serif"> of hours of play. Another Ace by Alti=
+us Sports.</span></span></span></div></td></tr></tbody></table></td></tr></=
+tbody></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"mcnDividerBlock" style=3D"border-collapse: collapse; mso-table-lspace: =
+0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-a=
+djust: 100%; min-width: 100%; table-layout: fixed;" width=3D"100%"><tbody c=
+lass=3D"mcnDividerBlockOuter"><tr><td class=3D"mcnDividerBlockInner" style=
+=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; min-width: 100%; padding: 18px;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"mcnDividerContent" style=3D"bord=
+er-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-te=
+xt-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-width: 100%; bord=
+er-top: 2px none #EAEAEA;" width=3D"100%"><tbody><tr><td style=3D"mso-line-=
+height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust:=
+ 100%;">&nbsp;</td></tr></tbody></table><!--=20=20=20=20=20=20=20=20=20=20=
+=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%; min-width: 100%; table-layout: fixed;" width=3D=
+"100%"><tbody class=3D"mcnDividerBlockOuter"><tr><td class=3D"mcnDividerBlo=
+ckInner" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%=
+; -webkit-text-size-adjust: 100%; min-width: 100%; padding: 0px 18px 10px;"=
+><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnDivide=
+rContent" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-ta=
+ble-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+; min-width: 100%; border-top: 4px solid #F37228;" width=3D"100%"><tbody><t=
+r><td style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%;">&nbsp;</td></tr></tbody></table><!--=20=20=
+=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnTextBlock" style=3D"border-collapse: collapse; mso-ta=
+ble-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody class=3D"m=
+cnTextBlockOuter"><tr><td class=3D"mcnTextBlockInner" style=3D"mso-line-hei=
+ght-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%; padding-top: 9px;" valign=3D"top"><!--[if mso]><table align=3D"left" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"widt=
+h:100%;"><tr><![endif]--><!--[if mso]><td valign=3D"top" width=3D"600" styl=
+e=3D"width:600px;"><![endif]--><table align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" class=3D"mcnTextContentContainer" style=3D"borde=
+r-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; max-width: 100%; min-w=
+idth: 100%;" width=3D"100%"><tbody><tr><td align=3D"center" class=3D"mcnTex=
+tContent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100=
+%; -webkit-text-size-adjust: 100%; word-break: break-word; color: #606060; =
+font-size: 18px; line-height: 150%; padding: 0px 18px 9px; font-family: Ari=
+al, &quot; undefined: HelveticaNeue&quot; undefined: ,Helvetica,sans-serif;=
+ font-style: normal; font-weight: normal; text-align: center;" valign=3D"to=
+p"><div style=3D"text-align: center;"><span style=3D"font-size:20px"><stron=
+g><span style=3D"font-family:arial,helvetica neue,helvetica,sans-serif"><sp=
+an style=3D"color:#000000">American Embassy School, New Delhi</span></span>=
+</strong></span></div></td></tr></tbody></table><!--[if mso]></td><![endif]=
+--><!--[if mso]></tr></table><![endif]--></td></tr></tbody></table><table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCaptionBlock" s=
+tyle=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace:=
+ 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" width=3D=
+"100%"><tbody class=3D"mcnCaptionBlockOuter"><tr><td class=3D"mcnCaptionBlo=
+ckInner" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%=
+; -webkit-text-size-adjust: 100%; padding: 9px;" valign=3D"top"><table alig=
+n=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnCap=
+tionBottomContent" style=3D"border-collapse: collapse; mso-table-lspace: 0p=
+t; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adj=
+ust: 100%;"><tbody><tr><td align=3D"center" class=3D"mcnCaptionBottomImageC=
+ontent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;=
+ -webkit-text-size-adjust: 100%; padding: 0 9px 9px 9px;" valign=3D"top"><i=
+mg  alt=3D"Altius Sports - American Embassy School, New Delhi" class=3D"mcn=
+Image" src=3D"https://listserv.indiax.com/dada_mail_support_files/file_uplo=
+ads/images/Embassy_Emailer/American_Embassy_School.png" style=3D"outline: c=
+urrentcolor none medium; text-decoration: none; vertical-align: bottom; max=
+-width: 520px; border: 4px solid rgb(243, 114, 40); border-radius: 7%; widt=
+h: 520px; height: 347px;"/></td></tr><tr><td align=3D"center" class=3D"mcnT=
+extContent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%; word-break: break-word; color: #606060=
+; font-size: 18px; line-height: 150%; text-align: center; padding: 0px 9px;=
+ font-family: Arial, &quot; undefined: HelveticaNeue&quot; undefined: ,Helv=
+etica,sans-serif;" valign=3D"top" width=3D"564"><div style=3D"text-align: j=
+ustify;"><br/><span style=3D"color:#000000"><span style=3D"font-size:18px">=
+<span style=3D"font-family:arial,helvetica neue,helvetica,sans-serif"><stro=
+ng>Even after 7 years of rigorous use</strong>, the campus of the American =
+Embassy School, New Delhi enjoys unlimited hours of play - all made possibl=
+e by our unique XP Pro yarn. Our &quot;love of the sport&quot; makes play p=
+ossible 24 x 7 using our patented yarn technology and a base that drains, n=
+o matter the amount of rainfall.</span></span></span></div></td></tr></tbod=
+y></table></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"mcnDividerBlock" style=3D"border-collapse: collap=
+se; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100=
+%; -webkit-text-size-adjust: 100%; min-width: 100%; table-layout: fixed;" w=
+idth=3D"100%"><tbody class=3D"mcnDividerBlockOuter"><tr><td class=3D"mcnDiv=
+iderBlockInner" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%; min-width: 100%; padding: 18px;"><=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnDividerC=
+ontent" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-tabl=
+e-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+min-width: 100%; border-top: 2px none #EAEAEA;" width=3D"100%"><tbody><tr><=
+td style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%;">&nbsp;</td></tr></tbody></table><!--=20=20=20=
+=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table></td></tr></tbody></table><!-- // END UPPER BO=
+DY --></td></tr><tr><td align=3D"center" style=3D"mso-line-height-rule: exa=
+ctly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" valign=
+=3D"top"><!-- BEGIN COLUMNS // --><table bgcolor=3D"#FFFFFF" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" id=3D"templateColumns" style=3D"border-c=
+ollapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-s=
+ize-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF=
+; border-top: 0; border-bottom: 0;" width=3D"600"><tbody><tr><td align=3D"l=
+eft" class=3D"columnsContainer" style=3D"mso-line-height-rule: exactly; -ms=
+-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" valign=3D"top" wi=
+dth=3D"50%"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"templateColumn" style=3D"border-collapse: collapse; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-ad=
+just: 100%;" width=3D"100%"><tbody><tr><td class=3D"leftColumnContainer" st=
+yle=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-t=
+ext-size-adjust: 100%;" valign=3D"top"><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" class=3D"mcnImageBlock" style=3D"border-collapse: colla=
+pse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 10=
+0%; -webkit-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody=
+ class=3D"mcnImageBlockOuter"><tr><td class=3D"mcnImageBlockInner" style=3D=
+"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-si=
+ze-adjust: 100%; padding: 9px;" valign=3D"top"><table align=3D"left" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContaine=
+r" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-w=
+idth: 100%;" width=3D"100%"><tbody><tr><td align=3D"center" class=3D"mcnIma=
+geContent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 10=
+0%; -webkit-text-size-adjust: 100%; padding-right: 9px; padding-left: 9px; =
+padding-top: 0; padding-bottom: 0; text-align: center;" valign=3D"top"><img=
+  align=3D"middle" alt=3D"Altius Sports - Tiger Turf" class=3D"mcnImage" sr=
+c=3D"https://listserv.indiax.com/dada_mail_support_files/file_uploads/image=
+s/tigerturf_logo.png" style=3D"border: 0px none; outline: currentcolor none=
+ medium; text-decoration: none; max-width: 200px; padding-bottom: 0px; vert=
+ical-align: bottom; border-radius: 2%; display: inline; width: 200px; heigh=
+t: 61px;"/></td></tr></tbody></table></td></tr></tbody></table></td></tr></=
+tbody></table></td><td align=3D"left" class=3D"columnsContainer" style=3D"m=
+so-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size=
+-adjust: 100%;" valign=3D"top" width=3D"50%"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" class=3D"templateColumn" style=3D"border-collapse=
+: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adj=
+ust: 100%; -webkit-text-size-adjust: 100%;" width=3D"100%"><tbody><tr><td c=
+lass=3D"rightColumnContainer" style=3D"mso-line-height-rule: exactly; -ms-t=
+ext-size-adjust: 100%; -webkit-text-size-adjust: 100%;" valign=3D"top"><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnImageBlock"=
+ style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-wid=
+th: 100%;" width=3D"100%"><tbody class=3D"mcnImageBlockOuter"><tr><td class=
+=3D"mcnImageBlockInner" style=3D"mso-line-height-rule: exactly; -ms-text-si=
+ze-adjust: 100%; -webkit-text-size-adjust: 100%; padding: 9px;" valign=3D"t=
+op"><table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"mcnImageContentContainer" style=3D"border-collapse: collapse; mso-=
+table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody><tr><td =
+align=3D"center" class=3D"mcnImageContent" style=3D"mso-line-height-rule: e=
+xactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding=
+-right: 9px; padding-left: 9px; padding-top: 0; padding-bottom: 0; text-ali=
+gn: center;" valign=3D"top"><img  align=3D"middle" alt=3D"Altius Sports - L=
+ogo" class=3D"mcnImage" src=3D"https://listserv.indiax.com/dada_mail_suppor=
+t_files/file_uploads/images/altius%20logo%202.png" style=3D"border: 0px non=
+e; outline: currentcolor none medium; text-decoration: none; max-width: 250=
+px; padding-bottom: 0px; vertical-align: bottom; display: inline; width: 25=
+0px; height: 100px;"/></td></tr></tbody></table></td></tr></tbody></table><=
+/td></tr></tbody></table></td></tr></tbody></table><!-- // END COLUMNS --><=
+/td></tr><tr><td align=3D"center" style=3D"mso-line-height-rule: exactly; -=
+ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" valign=3D"top">=
+<!-- BEGIN LOWER BODY // --><table bgcolor=3D"#FFFFFF" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" id=3D"templateLowerBody" style=3D"border-colla=
+pse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #FFFFFF; bo=
+rder-top: 0; border-bottom: 1px solid #E6E6E6;" width=3D"600"><tbody><tr><t=
+d class=3D"lowerBodyContainer" style=3D"mso-line-height-rule: exactly; -ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" valign=3D"top"><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnDividerBlo=
+ck" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rs=
+pace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; min-=
+width: 100%; table-layout: fixed;" width=3D"100%"><tbody class=3D"mcnDivide=
+rBlockOuter"><tr><td class=3D"mcnDividerBlockInner" style=3D"mso-line-heigh=
+t-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+; min-width: 100%; padding: 10px 18px;"><table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"mcnDividerContent" style=3D"border-collapse: =
+collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%; min-width: 100%; border-top: 4px s=
+olid #F37228;" width=3D"100%"><tbody><tr><td style=3D"mso-line-height-rule:=
+ exactly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">&nbs=
+p;</td></tr></tbody></table><!--=20=20=20=20=20=20=20=20=20=20=20=20
+                <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;">
+                <hr class=3D"mcnDividerContent" style=3D"border-bottom-colo=
+r:none; border-left-color:none; border-right-color:none; border-bottom-widt=
+h:0; border-left-width:0; border-right-width:0; margin-top:0; margin-right:=
+0; margin-bottom:0; margin-left:0;" />
+--></td></tr></tbody></table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"mcnBoxedTextBlock" style=3D"border-collapse: collapse; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><!--[if gte =
+mso 9]><table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%"><![endif]--><tbody class=3D"mcnBoxedTextBlockOuter"><=
+tr><td class=3D"mcnBoxedTextBlockInner" style=3D"mso-line-height-rule: exac=
+tly; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" valign=3D=
+"top"><!--[if gte mso 9]><td align=3D"center" valign=3D"top" "><![endif]-->=
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"mcnBoxedTextContentContainer" style=3D"border-collapse: collapse; mso-=
+table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%; min-width: 100%;" width=3D"100%"><tbody><tr><td =
+style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; padding-top: 9px; padding-left: 18px; padding-bott=
+om: 9px; padding-right: 18px;"><table bgcolor=3D"#FF9900" border=3D"0" cell=
+spacing=3D"0" class=3D"mcnTextContentContainer" style=3D"border-collapse: c=
+ollapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust=
+: 100%; -webkit-text-size-adjust: 100%; background-color: #FF9900; min-widt=
+h: 100%;" width=3D"100%"><tbody><tr><td align=3D"center" class=3D"mcnTextCo=
+ntent" style=3D"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; =
+-webkit-text-size-adjust: 100%; word-break: break-word; line-height: 150%; =
+padding: 18px; color: #222222; font-family: Helvetica; font-size: 14px; fon=
+t-weight: normal; text-align: center;" valign=3D"top"><div style=3D"text-al=
+ign: center;"><span style=3D"color:#000000"><span style=3D"font-size:20px">=
+<span style=3D"font-family:arial,helvetica neue,helvetica,sans-serif">With =
+over 4 million square feet of playing surfaces installed in India, our in-h=
+ouse team at Altius designs, manufactures, builds, installs and maintains y=
+our arena of dreams.</span></span></span></div></td></tr></tbody></table></=
+td></tr></tbody></table><!--[if gte mso 9]></td><![endif]--><!--[if gte mso=
+ 9]></tr></table><![endif]--></td></tr></tbody></table></td></tr></tbody></=
+table><!-- // END LOWER BODY --></td></tr><tr><td align=3D"center" style=3D=
+"mso-line-height-rule: exactly; -ms-text-size-adjust: 100%; -webkit-text-si=
+ze-adjust: 100%;" valign=3D"top"><!-- BEGIN FOOTER // --><table bgcolor=3D"=
+#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"templateFoo=
+ter" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-r=
+space: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; bac=
+kground-color: #FFFFFF; border-top: 0; border-bottom: 0;" width=3D"600"><tb=
+ody><tr><td class=3D"footerContainer" style=3D"mso-line-height-rule: exactl=
+y; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; padding-top:=
+ 9px; padding-bottom: 9px;" valign=3D"top">&nbsp;</td></tr></tbody></table>=
+<!-- // END FOOTER --></td></tr></tbody></table><!-- // END TEMPLATE --></t=
+d></tr></tbody></table></center><!-- end message content --></th><th class=
+=3D"expander" style=3D"Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,s=
+ans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0=
+!important;text-align:left;visibility:hidden;width:0"></th></tr></table></t=
+h></tr></tbody></table></td></tr></tbody></table><table class=3D"spacer flo=
+at-center" style=3D"Margin:0 auto;border-collapse:collapse;border-spacing:0=
+;float:none;margin:0 auto;padding:0;text-align:center;vertical-align:top;wi=
+dth:100%"><tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"=
+><td height=3D"25px" style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin=
+:0;border-collapse:collapse!important;color:#0a0a0a;font-family:Helvetica,A=
+rial,sans-serif;font-size:25px;font-weight:400;hyphens:auto;line-height:25p=
+x;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-=
+align:top;word-wrap:break-word">&#xA0;</td></tr></tbody></table><table alig=
+n=3D"center" class=3D"wrapper float-center" style=3D"Margin:0 auto;border-c=
+ollapse:collapse;border-spacing:0;float:none;margin:0 auto;padding:0;text-a=
+lign:center;vertical-align:top;width:100%"><tr style=3D"padding:0;text-alig=
+n:left;vertical-align:top"><td class=3D"wrapper-inner" style=3D"-moz-hyphen=
+s:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;col=
+or:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weigh=
+t:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;verti=
+cal-align:top;word-wrap:break-word"><table align=3D"center" class=3D"contai=
+ner" style=3D"Margin:0 auto;background:#fff;border-collapse:collapse;border=
+-spacing:0;margin:0 auto;padding:0;text-align:inherit;vertical-align:top;wi=
+dth:580px"><tbody><tr style=3D"padding:0;text-align:left;vertical-align:top=
+"><td style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-colla=
+pse:collapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif=
+;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;paddi=
+ng:0;text-align:left;vertical-align:top;word-wrap:break-word"><table class=
+=3D"row" style=3D"border-collapse:collapse;border-spacing:0;display:table;p=
+adding:0;position:relative;text-align:left;vertical-align:top;width:100%"><=
+tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><th class=
+=3D"small-12 large-12 columns first last" style=3D"Margin:0 auto;color:#0a0=
+a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;l=
+ine-height:1.3;margin:0 auto;padding:0;padding-bottom:16px;padding-left:16p=
+x;padding-right:16px;text-align:left;width:564px"><table style=3D"border-co=
+llapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:t=
+op;width:100%"><tr style=3D"padding:0;text-align:left;vertical-align:top"><=
+th style=3D"Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;f=
+ont-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0;text-align=
+:left"><table class=3D"spacer" style=3D"border-collapse:collapse;border-spa=
+cing:0;padding:0;text-align:left;vertical-align:top;width:100%"><tbody><tr =
+style=3D"padding:0;text-align:left;vertical-align:top"><td height=3D"25px" =
+style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:co=
+llapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-=
+size:25px;font-weight:400;hyphens:auto;line-height:25px;margin:0;mso-line-h=
+eight-rule:exactly;padding:0;text-align:left;vertical-align:top;word-wrap:b=
+reak-word">&#xA0;</td></tr></tbody></table><table align=3D"center" class=3D=
+"container" style=3D"Margin:0 auto;background:#fff;border-collapse:collapse=
+;border-spacing:0;margin:0 auto;padding:0;text-align:inherit;vertical-align=
+:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;vertical-ali=
+gn:top"><td style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border=
+-collapse:collapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sans=
+-serif;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0=
+;padding:0;text-align:left;vertical-align:top;word-wrap:break-word"><table =
+class=3D"row" style=3D"border-collapse:collapse;border-spacing:0;display:ta=
+ble;padding:0;position:relative;text-align:left;vertical-align:top;width:10=
+0%"><tbody><tr style=3D"padding:0;text-align:left;vertical-align:top"><th c=
+lass=3D"small-12 large-12 columns first last" style=3D"Margin:0 auto;color:=
+#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:4=
+00;line-height:1.3;margin:0 auto;padding:0;padding-bottom:16px;padding-left=
+:0!important;padding-right:0!important;text-align:left;width:100%"><table s=
+tyle=3D"border-collapse:collapse;border-spacing:0;padding:0;text-align:left=
+;vertical-align:top;width:100%"><tr style=3D"padding:0;text-align:left;vert=
+ical-align:top"><th style=3D"Margin:0;color:#0a0a0a;font-family:Helvetica,A=
+rial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0;pad=
+ding:0;text-align:left"><table class=3D"button small radius expand success"=
+ style=3D"Margin:0 0 16px 0;border-collapse:collapse;border-spacing:0;margi=
+n:0 0 16px 0;padding:0;text-align:left;vertical-align:top;width:100%!import=
+ant"><tr style=3D"padding:0;text-align:left;vertical-align:top"><td style=
+=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collaps=
+e!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:=
+16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-a=
+lign:left;vertical-align:top;word-wrap:break-word"><table style=3D"border-c=
+ollapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:=
+top;width:100%"><tr style=3D"padding:0;text-align:left;vertical-align:top">=
+<td style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;background:#65=
+e394;border:0 solid #65e394;border-collapse:collapse!important;border-radiu=
+s:3px;color:#fefefe;font-family:Helvetica,Arial,sans-serif;font-size:12px;f=
+ont-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:5px 10px 5px 1=
+0px;text-align:left;vertical-align:top;word-wrap:break-word"><center data-p=
+arsed=3D"" style=3D"min-width:none!important;width:100%"><a href=3D"https:/=
+/listserv.indiax.com/cgi-bin/mail.cgi/archive/altius/20190313011534/#forwar=
+d_to_a_friend" align=3D"center" class=3D"float-center" style=3D"Margin:0;bo=
+rder:0 solid #65e394;border-radius:3px;color:#fefefe;display:inline-block;f=
+ont-family:Helvetica,Arial,sans-serif;font-size:12px;font-weight:700;line-h=
+eight:1.3;margin:0;padding:5px 10px 5px 10px;padding-left:0;padding-right:0=
+;text-align:center;text-decoration:none;width:100%"> Forward this Message t=
+o a Friend </a></center></td></tr></table></td><td class=3D"expander" style=
+=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collaps=
+e!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:=
+16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0!import=
+ant;text-align:left;vertical-align:top;visibility:hidden;width:0;word-wrap:=
+break-word"></td></tr></table></th><th class=3D"expander" style=3D"Margin:0=
+;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-w=
+eight:400;line-height:1.3;margin:0;padding:0!important;text-align:left;visi=
+bility:hidden;width:0"></th></tr></table></th></tr></tbody></table></td></t=
+r></tbody></table><h4 style=3D"Margin:0;Margin-bottom:10px;color:inherit;fo=
+nt-family:Helvetica,Arial,sans-serif;font-size:24px;font-weight:400;line-he=
+ight:1.3;margin:0;margin-bottom:10px;padding:0;text-align:left;word-wrap:no=
+rmal"> <small style=3D"color:#cacaca;font-size:80%"> Subscription Reminder =
+</small> </h4><p style=3D"Margin:0;Margin-bottom:10px;color:#0a0a0a;font-fa=
+mily:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:=
+1.3;margin:0;margin-bottom:10px;padding:0;text-align:left">You're Subscribe=
+d to: <strong> <a href=3D"https://listserv.indiax.com/cgi-bin/mail.cgi/list=
+/altius" style=3D"Margin:0;color:#2199e8;font-family:Helvetica,Arial,sans-s=
+erif;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left;tex=
+t-decoration:none">Altius Peak Newsletter from Altius Sports</a> </strong> =
+using the address: <strong>sukdeep@agilefitness.in</strong> </p><table alig=
+n=3D"center" class=3D"container" style=3D"Margin:0 auto;background:#fff;bor=
+der-collapse:collapse;border-spacing:0;margin:0 auto;padding:0;text-align:i=
+nherit;vertical-align:top;width:100%"><tbody><tr style=3D"padding:0;text-al=
+ign:left;vertical-align:top"><td style=3D"-moz-hyphens:auto;-webkit-hyphens=
+:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-family=
+:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;lin=
+e-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;word-wra=
+p:break-word"><table class=3D"row" style=3D"border-collapse:collapse;border=
+-spacing:0;display:table;padding:0;position:relative;text-align:left;vertic=
+al-align:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;vert=
+ical-align:top"><th class=3D"small-12 large-5 columns first" style=3D"Margi=
+n:0 auto;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16p=
+x;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:16=
+px;padding-left:0!important;padding-right:0!important;text-align:left;width=
+:41.66667%"><table style=3D"border-collapse:collapse;border-spacing:0;paddi=
+ng:0;text-align:left;vertical-align:top;width:100%"><tr style=3D"padding:0;=
+text-align:left;vertical-align:top"><th style=3D"Margin:0;color:#0a0a0a;fon=
+t-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;line-hei=
+ght:1.3;margin:0;padding:0;text-align:left"><table class=3D"button tiny rad=
+ius expanded" style=3D"Margin:0 0 16px 0;border-collapse:collapse;border-sp=
+acing:0;margin:0 0 16px 0;padding:0;text-align:left;vertical-align:top;widt=
+h:100%!important"><tr style=3D"padding:0;text-align:left;vertical-align:top=
+"><td style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-colla=
+pse:collapse!important;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif=
+;font-size:16px;font-weight:400;hyphens:auto;line-height:1.3;margin:0;paddi=
+ng:0;text-align:left;vertical-align:top;word-wrap:break-word"><table style=
+=3D"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;ver=
+tical-align:top;width:100%"><tr style=3D"padding:0;text-align:left;vertical=
+-align:top"><td style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;ba=
+ckground:#4faeed;border:none;border-collapse:collapse!important;border-radi=
+us:3px;color:#fefefe;font-family:Helvetica,Arial,sans-serif;font-size:16px;=
+font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:4px 8px 4px 8=
+px;text-align:left;vertical-align:top;word-wrap:break-word"><center data-pa=
+rsed=3D"" style=3D"min-width:none!important;width:100%"><a href=3D"https://=
+listserv.indiax.com/cgi-bin/mail.cgi/profile_login/sukdeep/agilefitness.in/=
+" align=3D"center" class=3D"float-center" style=3D"Margin:0;border:0 solid =
+#4faeed;border-radius:3px;color:#fefefe;display:inline-block;font-family:He=
+lvetica,Arial,sans-serif;font-size:10px;font-weight:400;line-height:1.3;mar=
+gin:0;padding:4px 8px 4px 8px;padding-left:0;padding-right:0;text-align:cen=
+ter;text-decoration:none;width:100%"> Manage Your Subscription </a></center=
+></td></tr></table></td><td class=3D"expander" style=3D"-moz-hyphens:auto;-=
+webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#0a0a=
+0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hy=
+phens:auto;line-height:1.3;margin:0;padding:0!important;text-align:left;ver=
+tical-align:top;visibility:hidden;width:0;word-wrap:break-word"></td></tr><=
+/table></th></tr></table></th><th class=3D"small-12 large-2 columns" style=
+=3D"Margin:0 auto;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font=
+-size:16px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-=
+bottom:16px;padding-left:0!important;padding-right:0!important;text-align:l=
+eft;width:16.66667%"><table style=3D"border-collapse:collapse;border-spacin=
+g:0;padding:0;text-align:left;vertical-align:top;width:100%"><tr style=3D"p=
+adding:0;text-align:left;vertical-align:top"><th style=3D"Margin:0;color:#0=
+a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400=
+;line-height:1.3;margin:0;padding:0;text-align:left"></th></tr></table></th=
+><th class=3D"small-12 large-5 columns last" style=3D"Margin:0 auto;color:#=
+0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:40=
+0;line-height:1.3;margin:0 auto;padding:0;padding-bottom:16px;padding-left:=
+0!important;padding-right:0!important;text-align:left;width:41.66667%"><tab=
+le style=3D"border-collapse:collapse;border-spacing:0;padding:0;text-align:=
+left;vertical-align:top;width:100%"><tr style=3D"padding:0;text-align:left;=
+vertical-align:top"><th style=3D"Margin:0;color:#0a0a0a;font-family:Helveti=
+ca,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0=
+;padding:0;text-align:left"><table class=3D"button tiny radius expanded" st=
+yle=3D"Margin:0 0 16px 0;border-collapse:collapse;border-spacing:0;margin:0=
+ 0 16px 0;padding:0;text-align:left;vertical-align:top;width:100%!important=
+"><tr style=3D"padding:0;text-align:left;vertical-align:top"><td style=3D"-=
+moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!imp=
+ortant;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;=
+font-weight:400;hyphens:auto;line-height:1.3;margin:0;padding:0;text-align:=
+left;vertical-align:top;word-wrap:break-word"><table style=3D"border-collap=
+se:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;w=
+idth:100%"><tr style=3D"padding:0;text-align:left;vertical-align:top"><td s=
+tyle=3D"-moz-hyphens:auto;-webkit-hyphens:auto;Margin:0;background:#4faeed;=
+border:none;border-collapse:collapse!important;border-radius:3px;color:#fef=
+efe;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;h=
+yphens:auto;line-height:1.3;margin:0;padding:4px 8px 4px 8px;text-align:lef=
+t;vertical-align:top;word-wrap:break-word"><center data-parsed=3D"" style=
+=3D"min-width:none!important;width:100%"><a href=3D"https://listserv.indiax=
+.com/cgi-bin/mail.cgi/t/FBaMjO5FsAf2YEaUIo924amK3XXjffa8otmORXci/" align=3D=
+"center" class=3D"float-center" style=3D"Margin:0;border:0 solid #4faeed;bo=
+rder-radius:3px;color:#fefefe;display:inline-block;font-family:Helvetica,Ar=
+ial,sans-serif;font-size:10px;font-weight:400;line-height:1.3;margin:0;padd=
+ing:4px 8px 4px 8px;padding-left:0;padding-right:0;text-align:center;text-d=
+ecoration:none;width:100%"> Unsubscribe Automatically </a></center></td></t=
+r></table></td><td class=3D"expander" style=3D"-moz-hyphens:auto;-webkit-hy=
+phens:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-f=
+amily:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:aut=
+o;line-height:1.3;margin:0;padding:0!important;text-align:left;vertical-ali=
+gn:top;visibility:hidden;width:0;word-wrap:break-word"></td></tr></table></=
+th></tr></table></th></tr></tbody></table></td></tr></tbody></table></th></=
+tr></table></th></tr></tbody></table></td></tr></tbody></table></td></tr></=
+table><table class=3D"spacer float-center" style=3D"Margin:0 auto;border-co=
+llapse:collapse;border-spacing:0;float:none;margin:0 auto;padding:0;text-al=
+ign:center;vertical-align:top;width:100%"><tbody><tr style=3D"padding:0;tex=
+t-align:left;vertical-align:top"><td height=3D"25px" style=3D"-moz-hyphens:=
+auto;-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color=
+:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:25px;font-weight:=
+400;hyphens:auto;line-height:25px;margin:0;mso-line-height-rule:exactly;pad=
+ding:0;text-align:left;vertical-align:top;word-wrap:break-word">&#xA0;</td>=
+</tr></tbody></table><table align=3D"center" class=3D"wrapper footer float-=
+center" style=3D"Margin:0 auto;background:#fff;border-collapse:collapse;bor=
+der-spacing:0;float:none;margin:0 auto;padding:0;text-align:center;vertical=
+-align:top;width:100%"><tr style=3D"padding:0;text-align:left;vertical-alig=
+n:top"><td class=3D"wrapper-inner" style=3D"-moz-hyphens:auto;-webkit-hyphe=
+ns:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-fami=
+ly:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;l=
+ine-height:1.3;margin:0;padding:20px;text-align:left;vertical-align:top;wor=
+d-wrap:break-word"><table class=3D"row collapse" style=3D"border-collapse:c=
+ollapse;border-spacing:0;padding:0;position:relative;text-align:left;vertic=
+al-align:top;width:100%"><tbody><tr style=3D"padding:0;text-align:left;vert=
+ical-align:top"><th class=3D"small-12 large-6 columns first" style=3D"Margi=
+n:0 auto;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16p=
+x;font-weight:400;line-height:1.3;margin:0 auto;padding:0;padding-bottom:0;=
+padding-left:0;padding-right:0;text-align:left;width:298px"><table style=3D=
+"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertic=
+al-align:top;width:100%"><tr style=3D"padding:0;text-align:left;vertical-al=
+ign:top"><th style=3D"Margin:0;color:#0a0a0a;font-family:Helvetica,Arial,sa=
+ns-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0;padding:0;=
+text-align:left"><h4 style=3D"Margin:0;Margin-bottom:10px;color:inherit;fon=
+t-family:Helvetica,Arial,sans-serif;font-size:24px;font-weight:400;line-hei=
+ght:1.3;margin:0;margin-bottom:10px;padding:0;text-align:left;word-wrap:nor=
+mal"> <small style=3D"color:#cacaca;font-size:80%"> Contact </small> </h4><=
+p style=3D"Margin:0;Margin-bottom:10px;color:#0a0a0a;font-family:Helvetica,=
+Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0;ma=
+rgin-bottom:0;padding:0;text-align:left"> <a href=3D"http://www.altiussport=
+s.com/" style=3D"Margin:0;color:#2199e8;font-family:Helvetica,Arial,sans-se=
+rif;font-weight:400;line-height:1.3;margin:0;padding:0;text-align:left;text=
+-decoration:none">http://www.altiussports.com/</a> </p><p style=3D"Margin:0=
+;Margin-bottom:10px;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;fo=
+nt-size:16px;font-weight:400;line-height:1.3;margin:0;margin-bottom:0;paddi=
+ng:0;text-align:left"> <a href=3D"mailto:info@altiussports.com" style=3D"Ma=
+rgin:0;color:#2199e8;font-family:Helvetica,Arial,sans-serif;font-weight:400=
+;line-height:1.3;margin:0;padding:0;text-align:left;text-decoration:none">i=
+nfo@altiussports.com</a> </p><p style=3D"Margin:0;Margin-bottom:10px;color:=
+#0a0a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:4=
+00;line-height:1.3;margin:0;margin-bottom:0;padding:0;text-align:left"><p>A=
+ltius Sports &amp; Leisure Pvt. Ltd.</p>
+
+<p>38A/2, Jyotish Roy Road</p>
+
+<p>Kolkata 700 053</p>
+
+<p>India</p>
+</p><p style=3D"Margin:0;Margin-bottom:10px;color:#0a0a0a;font-family:Helve=
+tica,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin=
+:0;margin-bottom:0;padding:0;text-align:left"> <a href=3D"tel:%3C!--%20tmpl=
+_var%20list_settings.list_phone_number%20--%3E" style=3D"Margin:0;color:#21=
+99e8;font-family:Helvetica,Arial,sans-serif;font-weight:400;line-height:1.3=
+;margin:0;padding:0;text-align:left;text-decoration:none">+919836277678</a>=
+ </p></th></tr></table></th><th class=3D"small-12 large-6 columns last" sty=
+le=3D"Margin:0 auto;color:#0a0a0a;font-family:Helvetica,Arial,sans-serif;fo=
+nt-size:16px;font-weight:400;line-height:1.3;margin:0 auto;padding:0;paddin=
+g-bottom:0;padding-left:0;padding-right:0;text-align:left;width:298px"><tab=
+le style=3D"border-collapse:collapse;border-spacing:0;padding:0;text-align:=
+left;vertical-align:top;width:100%"><tr style=3D"padding:0;text-align:left;=
+vertical-align:top"><th style=3D"Margin:0;color:#0a0a0a;font-family:Helveti=
+ca,Arial,sans-serif;font-size:16px;font-weight:400;line-height:1.3;margin:0=
+;padding:0;text-align:left"><h4 style=3D"Margin:0;Margin-bottom:10px;color:=
+inherit;font-family:Helvetica,Arial,sans-serif;font-size:24px;font-weight:4=
+00;line-height:1.3;margin:0;margin-bottom:10px;padding:0;text-align:left;wo=
+rd-wrap:normal"> <small style=3D"color:#cacaca;font-size:80%"> Connect </sm=
+all> </h4><table class=3D"button small facebook expand" style=3D"Margin:0 0=
+ 16px 0;border-collapse:collapse;border-spacing:0;margin:0 0 16px 0;padding=
+:0;text-align:left;vertical-align:top;width:100%!important"><tr style=3D"pa=
+dding:0;text-align:left;vertical-align:top"><td style=3D"-moz-hyphens:auto;=
+-webkit-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#0a0=
+a0a;font-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;h=
+yphens:auto;line-height:1.3;margin:0;padding:0;text-align:left;vertical-ali=
+gn:top;word-wrap:break-word"><table style=3D"border-collapse:collapse;borde=
+r-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%"><tr st=
+yle=3D"padding:0;text-align:left;vertical-align:top"><td style=3D"-moz-hyph=
+ens:auto;-webkit-hyphens:auto;Margin:0;background:#4c70ba!important;border:=
+2px solid #2199e8;border-collapse:collapse!important;border-color:#4c70ba;c=
+olor:#fefefe;font-family:Helvetica,Arial,sans-serif;font-size:12px;font-wei=
+ght:400;hyphens:auto;line-height:1.3;margin:0;padding:5px 10px 5px 10px;tex=
+t-align:left;vertical-align:top;word-wrap:break-word"><center data-parsed=
+=3D"" style=3D"min-width:0;width:100%"><a href=3D"http://facebook.com/altiu=
+ssports/" align=3D"center" class=3D"float-center" style=3D"Margin:0;border:=
+0 solid #4faeed;border-radius:3px;color:#fefefe;display:inline-block;font-f=
+amily:Helvetica,Arial,sans-serif;font-size:12px;font-weight:700;line-height=
+:1.3;margin:0;padding:5px 10px 5px 10px;padding-left:0;padding-right:0;text=
+-align:center;text-decoration:none;width:100%"> Facebook </a></center></td>=
+</tr></table></td><td class=3D"expander" style=3D"-moz-hyphens:auto;-webkit=
+-hyphens:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;fon=
+t-family:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:=
+auto;line-height:1.3;margin:0;padding:0!important;text-align:left;vertical-=
+align:top;visibility:hidden;width:0;word-wrap:break-word"></td></tr></table=
+><table class=3D"button small twitter expand" style=3D"Margin:0 0 16px 0;bo=
+rder-collapse:collapse;border-spacing:0;margin:0 0 16px 0;padding:0;text-al=
+ign:left;vertical-align:top;width:100%!important"><tr style=3D"padding:0;te=
+xt-align:left;vertical-align:top"><td style=3D"-moz-hyphens:auto;-webkit-hy=
+phens:auto;Margin:0;border-collapse:collapse!important;color:#0a0a0a;font-f=
+amily:Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:aut=
+o;line-height:1.3;margin:0;padding:0;text-align:left;vertical-align:top;wor=
+d-wrap:break-word"><table style=3D"border-collapse:collapse;border-spacing:=
+0;padding:0;text-align:left;vertical-align:top;width:100%"><tr style=3D"pad=
+ding:0;text-align:left;vertical-align:top"><td style=3D"-moz-hyphens:auto;-=
+webkit-hyphens:auto;Margin:0;background:#4cbdf1!important;border:2px solid =
+#2199e8;border-collapse:collapse!important;border-color:#4cbdf1;color:#fefe=
+fe;font-family:Helvetica,Arial,sans-serif;font-size:12px;font-weight:400;hy=
+phens:auto;line-height:1.3;margin:0;padding:5px 10px 5px 10px;text-align:le=
+ft;vertical-align:top;word-wrap:break-word"><center data-parsed=3D"" style=
+=3D"min-width:0;width:100%"><a href=3D"https://twitter.com/NewsAltius" alig=
+n=3D"center" class=3D"float-center" style=3D"Margin:0;border:0 solid #4faee=
+d;border-radius:3px;color:#fefefe;display:inline-block;font-family:Helvetic=
+a,Arial,sans-serif;font-size:12px;font-weight:700;line-height:1.3;margin:0;=
+padding:5px 10px 5px 10px;padding-left:0;padding-right:0;text-align:center;=
+text-decoration:none;width:100%"> Twitter </a></center></td></tr></table></=
+td><td class=3D"expander" style=3D"-moz-hyphens:auto;-webkit-hyphens:auto;M=
+argin:0;border-collapse:collapse!important;color:#0a0a0a;font-family:Helvet=
+ica,Arial,sans-serif;font-size:16px;font-weight:400;hyphens:auto;line-heigh=
+t:1.3;margin:0;padding:0!important;text-align:left;vertical-align:top;visib=
+ility:hidden;width:0;word-wrap:break-word"></td></tr></table></th></tr></ta=
+ble></th></tr></tbody></table></td></tr></table> </center></td></tr></table=
+><!-- prevent Gmail on iOS font size manipulation --><div style=3D"display:=
+none;white-space:nowrap;font:15px courier;line-height:0"> &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </div><!--open_img--><img src=3D=
+"https://listserv.indiax.com/cgi-bin/mail.cgi/spacer_image/altius/201903130=
+11534/sukdeep/agilefitness.in/spacer.png" width=3D"1" height=3D"1" alt=3D""=
+ /><!--/open_img-->
+</body></html>=
+
+--_----------=_1552439734310220--

@@ -1,0 +1,996 @@
+Return-Path: <PGopalan@infinera.com>
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net (Dovecot) with LMTP id QVBeKpmIelsgCAIAwqAP9w
+	; Mon, 20 Aug 2018 09:23:37 +0000
+Return-path: <PGopalan@infinera.com>
+Envelope-to: support@agilefitness.in,
+ gururaj@agilefitness.in
+Delivery-date: Mon, 20 Aug 2018 09:23:37 +0000
+Received: from mail-eopbgr700054.outbound.protection.outlook.com ([40.107.70.54]:65353 helo=NAM04-SN1-obe.outbound.protection.outlook.com)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <PGopalan@infinera.com>)
+	id 1frgPM-000bgu-PZ; Mon, 20 Aug 2018 09:23:37 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=infinera.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=VsEg8e28mYUIrDt3VQNUwfvjXyq3PM48UC245q1dsL8=;
+ b=qc8mynDqfkaIrUFiboEszSVeyPIfTH2Sy8ouC4cpDf51DWvmi5mgi76fJmhgqZxKCXTrCPNBbSc9c52pWT1k3uTMliQ2ee/YfK5bJf8ikPLkkjfaJfrHHozmzV8LEzZPw2eVSSy6rC2hZgvPBGaY8lH7r7+SMuMaspzipNnyHro=
+Received: from SN1PR10MB0992.namprd10.prod.outlook.com (10.164.24.150) by
+ SN1PR10MB0528.namprd10.prod.outlook.com (10.163.134.147) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.1059.23; Mon, 20 Aug 2018 09:23:14 +0000
+Received: from SN1PR10MB0992.namprd10.prod.outlook.com
+ ([fe80::135:96f9:949a:1e20]) by SN1PR10MB0992.namprd10.prod.outlook.com
+ ([fe80::135:96f9:949a:1e20%4]) with mapi id 15.20.1059.023; Mon, 20 Aug 2018
+ 09:23:13 +0000
+From: Pradeep Kezhakketil Gopalan Shivanarayanan <PGopalan@infinera.com>
+To: Agile Fitness <support@agilefitness.in>, Sukdeep D S
+	<sukdeepds@gmail.com>, "gururaj@agilefitness.in" <gururaj@agilefitness.in>
+CC: Chethan Sreedharachar <CSreedharachar@infinera.com>
+Subject: RE: Need SOW and Quote for the contract renewal - 1-Oct-18 to
+ 30-Sep-19
+Thread-Topic: Need SOW and Quote for the contract renewal - 1-Oct-18 to
+ 30-Sep-19
+Thread-Index: AdQu2lAOp9kLIHulTQWDWm92/XI9DQJjQ2uQ
+Importance: high
+X-Priority: 1
+Date: Mon, 20 Aug 2018 09:23:12 +0000
+Message-ID:
+ <SN1PR10MB099254CA09D8D490D0BF1E80AF320@SN1PR10MB0992.namprd10.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-mcafeedlp-tag-0: {B7A9B49A-0E9E-4696-8DE5-C6B1148F23D0}
+x-mcafeedlp-tagged: True
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=PGopalan@infinera.com; 
+x-originating-ip: [182.76.161.227]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics:
+ 1;SN1PR10MB0528;6:l6aUywCwQN944uJGrxQIW1/SSWb1PyutzAHJWhKgP2x9nOh5H/QtfEzVgSNgVUeliu0Jih9mjcoOMI6WGGadf4Ugh2eFjYhKXc7iNXHhyF4560xwPKCB5NIAqxj1mAKankE8WBJPTzns6/X6XSg3LIWAmLUmaVnqk7eXvv8gSbJfdgNNmmvUcqqMJvEUp787Bs8krH7sgI3xztNmaOwoyOTFEddWhWlRkE42yJSOzMTm8uQX8r4sZGxIeY2pGVMBEJd/RWJ4YglUNefrpKsPn5MU5nqxMOT/e7N4ocn5HESEE8C81reC5lrCs1SaOHd4/a2ezUKwBBe/tjslnHeGHWrDUpxF6b9aZg6DcK7RUtUghWoja77aqbJA6soqe0jOZy1Qm2xMfVjpKAvMUfOnXZZ3WEVL1PMov9u0R3m83YXgbzYV3/qw0rOitb2FoeGg7y0/6hl21sWIs7QdLJGhag==;5:GNdLJ+kcLOEfP8wIqBV3urBv82gWjbPFVwbLwIKa5LJ3KqeXmwg/YriCSwRuywLmVGDc5ZF3m/a9lBJ/2shdGCe/bqCn2yCSYzA8SAeXceFUcmpyb+5fEXJ9usbIf62ljfHSrKPZEW21oxgnQiWu9e+ishpiiuGAtumBYN7fLg8=;7:Ehrb8rRAfrIJRlPDGYJTDjTwcvO535VhUsD+rZomPvHI50bLZY9LmDSC9nc0sPRBWhrxPVAMNBfMY8EgAzYFimqLVj4jL5LR8ztj72jLXEhzEXBnWWziBs5S/t4iWr21p/p4doG2CdcpQJdPqhUpwOry4JMSAACJKR6SAHapPJy32e4jM457VU/Lh93NVnpVcB3HJnHCc6v8jIx0DblhcZP/xeVLvZV4lv2Dbt3cNNkqBoBc7VpdE0nlfAnKJFx7
+x-ms-exchange-antispam-srfa-diagnostics: SOS;SOR;
+x-forefront-antispam-report:
+ SFV:SKI;SCL:-1;SFV:NSPM;SFS:(10009020)(396003)(366004)(39860400002)(376002)(136003)(346002)(199004)(189003)(14454004)(105586002)(53546011)(6506007)(80792005)(72206003)(478600001)(102836004)(476003)(486006)(790700001)(6116002)(186003)(26005)(3846002)(68736007)(81686011)(2900100001)(81156014)(8676002)(81166006)(106356001)(5250100002)(99286004)(7696005)(2501003)(7736002)(74316002)(8936002)(86362001)(55016002)(6306002)(316002)(54896002)(14444005)(236005)(53936002)(110136005)(25786009)(9686003)(53946003)(4326008)(256004)(5660300001)(6246003)(229853002)(107886003)(2906002)(6436002)(97736004)(66066001)(33656002)(566174002)(39060400002)(606006);DIR:OUT;SFP:1101;SCL:1;SRVR:SN1PR10MB0528;H:SN1PR10MB0992.namprd10.prod.outlook.com;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;A:1;MX:1;
+x-ms-office365-filtering-correlation-id: fc02fcf3-6be3-490f-32a6-08d6067e8dc7
+x-microsoft-antispam:
+ BCL:0;PCL:0;RULEID:(7020095)(4652040)(8989137)(4534165)(4627221)(201703031133081)(201702281549075)(8990107)(5600074)(711020)(2017052603328)(7153060)(7193020);SRVR:SN1PR10MB0528;
+x-ms-traffictypediagnostic: SN1PR10MB0528:
+x-microsoft-antispam-prvs:
+ <SN1PR10MB0528AE22FC338AE664A40C68AF320@SN1PR10MB0528.namprd10.prod.outlook.com>
+x-exchange-antispam-report-test:
+ UriScan:(28532068793085)(43178223235956)(85827821059158)(21748063052155);
+x-ms-exchange-senderadcheck: 1
+x-exchange-antispam-report-cfa-test:
+ BCL:0;PCL:0;RULEID:(8211001083)(6040522)(2401047)(8121501046)(5005006)(93006095)(93001095)(3002001)(10201501046)(3231311)(944501410)(52105095)(149027)(150027)(6041310)(201703131423095)(201702281528075)(20161123555045)(201703061421075)(201703061406153)(20161123562045)(20161123558120)(20161123560045)(20161123564045)(201708071742011)(7699016);SRVR:SN1PR10MB0528;BCL:0;PCL:0;RULEID:;SRVR:SN1PR10MB0528;
+x-forefront-prvs: 0770F75EA9
+received-spf: None (protection.outlook.com: infinera.com does not designate
+ permitted sender hosts)
+x-microsoft-antispam-message-info:
+ +jrwZoMgvBbcvzGGD1zRdDPyYStBmUEojU9V3zClXD/Jst/cEJAyrGsDp54vwo36ORnUruxNUVOjCsD4oq7oGeLR7/zQKUYYwS3xbQ8/ehfHE3GapSrDnMo6R8wLOMnLU8vSqrbJrrl3yiO0BlSaWq6iLEYZUrorxx8Aj+Ut0w0jE2gsNJZzP4YEmz+8Oh+6Pxu2V536JcDsTKjkIbrRgwHjhjRC8+WFUlTFpN53iY2jKR2PRxf6Qy99INcZQP0/mVHxJucuTZghQIK2/ZWFvMxpZlxkojKXxgxZBBTboFxagONGre+4AsFYcyZsIksF/hbGXVytL+Tk0huj9/cJbKIkEQz+sBw3UgZ2LRVCM+0=
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_SN1PR10MB099254CA09D8D490D0BF1E80AF320SN1PR10MB0992namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: infinera.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: fc02fcf3-6be3-490f-32a6-08d6067e8dc7
+X-MS-Exchange-CrossTenant-originalarrivaltime: 20 Aug 2018 09:23:13.0929
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 285643de-5f5b-4b03-a153-0ae2dc8aaf77
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1PR10MB0528
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FILL_THIS_FORM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=RKqd4bq+ c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=Dd7FI52_JmgA:10 a=bk0mnUHELA0A:10 a=EA-xz7Ek-MwA:10 a=xqWC_Br6kY4A:10 a=dapMudl6Dx4A:10 a=4pqBI2ChTjgA:10 a=Z0_YTErNzvlnEIRTGOUA:9 a=xjEwKXVaD5DheZpi:21 a=vIm-8r3GZpVwnKkE:21 a=CjuIK1q_8ugA:10 a=5Ia-qPvGymoA:10 a=vJN60REdRtmMk2VCCr0A:9 a=225EY10ZNOrFYuFD:21 a=czQXM9eFM_teMtnS:21 a=mVmfR01KOKaVltZl:21 a=gKO2Hq4RSVkA:10 a=UiCQ7L4-1S4A:10 a=hTZeC7Yk6K0A:10 a=frz4AuCg-hUA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: myinfinera.com]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [40.107.70.54 listed in list.dnswl.org]
+ * -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ *  0.0 FILL_THIS_FORM Fill in a form with personal information
+X-Spam-Flag: NO
+
+--_000_SN1PR10MB099254CA09D8D490D0BF1E80AF320SN1PR10MB0992namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Sukdeep/Guru,
+
+Soft reminder, requesting you to share the SOW and Quote for the contract r=
+enewal - 1-Oct-18 to 30-Sep-19. Also let us know the when are you free, so =
+that will share the calendar for the discussion. Before the discussion plea=
+se share the SOW and Quote.
+
+
+AMC Tracker - 2018 -19
+
+Sl No.
+
+Description of the AMC
+
+Vendor Name & Contact details
+
+Location & Equipment of AMC Carried out
+
+PO #
+
+ZN #
+
+Serial #
+
+Model #
+
+Installation Date
+
+AMC Period Start Date
+
+AMC Period End date
+
+Renewal Due Date
+
+Remarks
+
+Depart
+
+
+
+68
+
+Gym Instructor
+
+Agile Fitness
+
+PSB-L1-GYM ROOM
+
+INO1726
+
+
+
+
+
+
+
+
+
+1-Oct-17
+
+30-Sep-18
+
+52
+
+
+
+FACILITES
+
+
+
+
+
+
+
+Regards,
+Pradeep K G S | Facilities Engineer- India | PGopalan@infinera.com<mailto:P=
+Gopalan@infinera.com>
+Infinera India Pvt. Ltd.,
+Prestige Solitaire , 401,
+Level 3, 6, Brunton Road,
+Bangalore 560-025.
+-------------------------------------------
+#25/1, MG Road,
+Shankar Narayana Building 2
+Bangalore-560001.
+
+Office   :  +91-80-6673-1795
+Mobile  :  +91-7899-901-570
+
+Have a Site Services Issue?  Contact me on extn: +91-80-6673-1795 / Mobile =
+No. +91-7899-901-570
+or open a BSC HelpDesk Ticket<http://helpdesk.myinfinera.com/_layouts/Infin=
+era.helpdesk/NewHelpDeskRequest.aspx>. We're here to help!
+
+From: Pradeep Kezhakketil Gopalan Shivanarayanan
+Sent: Wednesday, August 08, 2018 11:12 AM
+To: 'Agile Fitness' <support@agilefitness.in>; 'Sukdeep D S' <sukdeepds@gma=
+il.com>; 'gururaj@agilefitness.in' <gururaj@agilefitness.in>
+Cc: Chethan Sreedharachar <CSreedharachar@infinera.com>
+Subject: Need SOW and Quote for the contract renewal - 1-Oct-18 to 30-Sep-1=
+9
+Importance: High
+
+Hi Sukdeep/Guru,
+
+As per the discussion requesting you to share the SOW and Quote for the con=
+tract renewal - 1-Oct-18 to 30-Sep-19. Also let us know the when are you fr=
+ee, so that will share the calendar for the discussion. Before the discussi=
+on please share the SOW and Quote.
+
+
+AMC Tracker - 2018 -19
+
+Sl No.
+
+Description of the AMC
+
+Vendor Name & Contact details
+
+Location & Equipment of AMC Carried out
+
+PO #
+
+ZN #
+
+Serial #
+
+Model #
+
+Installation Date
+
+AMC Period Start Date
+
+AMC Period End date
+
+Renewal Due Date
+
+Remarks
+
+Depart
+
+
+
+68
+
+Gym Instructor
+
+Agile Fitness
+
+PSB-L1-GYM ROOM
+
+INO1726
+
+
+
+
+
+
+
+
+
+1-Oct-17
+
+30-Sep-18
+
+52
+
+
+
+FACILITES
+
+
+
+
+
+Regards,
+Pradeep K G S | Facilities Engineer- India | PGopalan@infinera.com<mailto:P=
+Gopalan@infinera.com>
+Infinera India Pvt. Ltd.,
+Prestige Solitaire , 401,
+Level 3, 6, Brunton Road,
+Bangalore 560-025.
+-------------------------------------------
+#25/1, MG Road,
+Shankar Narayana Building 2
+Bangalore-560001.
+
+Office   :  +91-80-6673-1795
+Mobile  :  +91-7899-901-570
+
+Have a Site Services Issue?  Contact me on extn: +91-80-6673-1795 / Mobile =
+No. +91-7899-901-570
+or open a BSC HelpDesk Ticket<http://helpdesk.myinfinera.com/_layouts/Infin=
+era.helpdesk/NewHelpDeskRequest.aspx>. We're here to help!
+
+
+--_000_SN1PR10MB099254CA09D8D490D0BF1E80AF320SN1PR10MB0992namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Arial Narrow";
+	panose-1:2 11 6 6 2 2 2 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Hi Sukdeep/Guru,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Soft reminder, requesting you to share the SOW and Q=
+uote for the contract renewal - 1-Oct-18 to 30-Sep-19. Also let us know the=
+ when are you free, so that will share the calendar for the discussion. Bef=
+ore the discussion please share the
+ SOW and Quote. <o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"0" style=3D"width:1234.9pt;margin-left:-.15pt;border-collap=
+se:collapse">
+<tbody>
+<tr style=3D"height:39.15pt">
+<td width=3D"1650" nowrap=3D"" colspan=3D"15" valign=3D"bottom" style=3D"wi=
+dth:1234.9pt;border:solid windowtext 1.0pt;background:#92D050;padding:0in 5=
+.4pt 0in 5.4pt;height:39.15pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:22.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;co=
+lor:black">AMC Tracker - 2018 -19<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:22.1pt">
+<td width=3D"63" nowrap=3D"" valign=3D"bottom" style=3D"width:46.9pt;border=
+:solid windowtext 1.0pt;border-top:none;background:#FABF8F;padding:0in 5.4p=
+t 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Sl No.<o:p></o:p></span></b></p>
+</td>
+<td width=3D"152" nowrap=3D"" valign=3D"bottom" style=3D"width:114.25pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;=
+height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Description of the AMC<o:p></o:p></span></b></p>
+</td>
+<td width=3D"150" nowrap=3D"" valign=3D"bottom" style=3D"width:112.55pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;=
+height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Vendor Name &amp; Contact details<o:p></o:p></span></b></p>
+</td>
+<td width=3D"201" nowrap=3D"" valign=3D"bottom" style=3D"width:150.85pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;=
+height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Location &amp; Equipment of AMC Carried out<o:p></o:p></span>=
+</b></p>
+</td>
+<td width=3D"118" nowrap=3D"" valign=3D"bottom" style=3D"width:88.2pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;he=
+ight:22.1pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;font-family:&quot=
+;Arial Narrow&quot;,sans-serif;color:black">PO #<o:p></o:p></span></b></p>
+</td>
+<td width=3D"56" nowrap=3D"" valign=3D"bottom" style=3D"width:42.05pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;he=
+ight:22.1pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;font-family:&quot=
+;Arial Narrow&quot;,sans-serif;color:black">ZN #<o:p></o:p></span></b></p>
+</td>
+<td width=3D"88" nowrap=3D"" valign=3D"bottom" style=3D"width:66.15pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;he=
+ight:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Serial #<o:p></o:p></span></b></p>
+</td>
+<td width=3D"92" nowrap=3D"" valign=3D"bottom" style=3D"width:69.0pt;border=
+-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-righ=
+t:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;hei=
+ght:22.1pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;font-family:&quot=
+;Arial Narrow&quot;,sans-serif;color:black">Model #<o:p></o:p></span></b></=
+p>
+</td>
+<td width=3D"147" nowrap=3D"" valign=3D"bottom" style=3D"width:110.45pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;=
+height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Installation Date<o:p></o:p></span></b></p>
+</td>
+<td width=3D"108" nowrap=3D"" valign=3D"bottom" style=3D"width:80.9pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;he=
+ight:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">AMC Period Start Date<o:p></o:p></span></b></p>
+</td>
+<td width=3D"103" nowrap=3D"" valign=3D"bottom" style=3D"width:77.1pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;he=
+ight:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">AMC Period End date<o:p></o:p></span></b></p>
+</td>
+<td width=3D"119" nowrap=3D"" valign=3D"bottom" style=3D"width:89.15pt;bord=
+er-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-ri=
+ght:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;h=
+eight:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Renewal Due Date<o:p></o:p></span></b></p>
+</td>
+<td width=3D"123" nowrap=3D"" valign=3D"bottom" style=3D"width:92.05pt;bord=
+er-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-ri=
+ght:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;h=
+eight:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Remarks<o:p></o:p></span></b></p>
+</td>
+<td width=3D"127" nowrap=3D"" valign=3D"bottom" style=3D"width:94.95pt;bord=
+er-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-ri=
+ght:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;h=
+eight:22.1pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;font-family:&quot=
+;Arial Narrow&quot;,sans-serif;color:black">Depart<o:p></o:p></span></b></p=
+>
+</td>
+<td width=3D"4" style=3D"width:.3pt;padding:0in 0in 0in 0in;height:22.1pt">
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"height:22.1pt">
+<td width=3D"63" nowrap=3D"" style=3D"width:46.9pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-family:&quot;Arial Narrow&quot;,sans-serif;color:black">68<o:p=
+></o:p></span></p>
+</td>
+<td width=3D"152" nowrap=3D"" valign=3D"bottom" style=3D"width:114.25pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Gym Instructor<o:p></o:p=
+></span></p>
+</td>
+<td width=3D"150" valign=3D"bottom" style=3D"width:112.55pt;border-top:none=
+;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid w=
+indowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Agile Fitness<o:p></o:p>=
+</span></p>
+</td>
+<td width=3D"201" nowrap=3D"" valign=3D"bottom" style=3D"width:150.85pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial Narrow&quot;,=
+sans-serif">PSB-L1-GYM ROOM<o:p></o:p></span></p>
+</td>
+<td width=3D"118" nowrap=3D"" valign=3D"bottom" style=3D"width:88.2pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial Narrow&quot;,sans-serif;color:black">INO1726<o:p></o:p></span></p>
+</td>
+<td width=3D"56" nowrap=3D"" valign=3D"bottom" style=3D"width:42.05pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial Narrow&quot;,sans-serif;color:black">&nbsp;<o:p></o:p></span></p>
+</td>
+<td width=3D"88" nowrap=3D"" valign=3D"bottom" style=3D"width:66.15pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;co=
+lor:black">&nbsp;<o:p></o:p></span></p>
+</td>
+<td width=3D"92" nowrap=3D"" valign=3D"bottom" style=3D"width:69.0pt;border=
+-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-righ=
+t:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;co=
+lor:black">&nbsp;<o:p></o:p></span></p>
+</td>
+<td width=3D"147" nowrap=3D"" valign=3D"bottom" style=3D"width:110.45pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;co=
+lor:black">&nbsp;<o:p></o:p></span></p>
+</td>
+<td width=3D"108" nowrap=3D"" valign=3D"bottom" style=3D"width:80.9pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;co=
+lor:black">1-Oct-17<o:p></o:p></span></p>
+</td>
+<td width=3D"103" nowrap=3D"" valign=3D"bottom" style=3D"width:77.1pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;co=
+lor:black">30-Sep-18<o:p></o:p></span></p>
+</td>
+<td width=3D"119" nowrap=3D"" valign=3D"bottom" style=3D"width:89.15pt;bord=
+er-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-ri=
+ght:solid windowtext 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;hei=
+ght:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">52<o:p></o:p></span></p>
+</td>
+<td width=3D"123" nowrap=3D"" valign=3D"bottom" style=3D"width:92.05pt;bord=
+er-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-ri=
+ght:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial Narrow&quot;,=
+sans-serif;color:black">&nbsp;<o:p></o:p></span></p>
+</td>
+<td width=3D"127" nowrap=3D"" valign=3D"bottom" style=3D"width:94.95pt;bord=
+er-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-ri=
+ght:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">FACILITES<o:p></o:p></sp=
+an></p>
+</td>
+<td width=3D"4" style=3D"width:.3pt;padding:0in 0in 0in 0in;height:22.1pt">
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Regards,<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Pradeep K G S</span><s=
+pan style=3D"color:#365F91"> |
+</span><span style=3D"color:#8496B0">Facilities Engineer&#8211; India</span=
+><span style=3D"color:#365F91"> |
+</span><u><span style=3D"color:#0F243E"><a href=3D"mailto:PGopalan@infinera=
+.com"><span style=3D"color:blue">PGopalan@infinera.com</span></a></span></u=
+><span style=3D"font-size:12.0pt;color:#365F91"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span lang=3D"EN" s=
+tyle=3D"color:#548DD4">Infinera India Pvt. Ltd.</span></b><b><span style=3D=
+"color:#548DD4">,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#548DD4">Prestige
+</span><span lang=3D"EN" style=3D"font-size:9.0pt;color:#8496B0">Solitaire =
+, 401, <o:p>
+</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Level 3, 6, Brunton Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Bangalore 560-025.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">---------------------------------------=
+----<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:9.0pt;color:#8496B0">#25/1, MG Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:9.0pt;color:#8496B0">Shankar Narayana Building 2<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:9.0pt;color:#8496B0">Bangalore-560001.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:9.0pt;color:#8496B0"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN" style=3D"font-size:9.0pt;color:#54=
+8DD4">Office&nbsp;&nbsp; :&nbsp; &#43;91-80-6673-1795<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN" style=3D"font-size:9.0pt;color:#54=
+8DD4">Mobile&nbsp; :&nbsp; &#43;91-7899-901-570<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><b><i><span style=3D"font-size:10.0pt;color:#C00000"=
+>Have a Site Services Issue?&nbsp; Contact me on extn</span></i></b><b><i><=
+span style=3D"font-size:10.0pt;color:red">:&nbsp;</span></i></b><b><i><span=
+ lang=3D"EN" style=3D"font-size:10.0pt;color:#C00000">&#43;91-80-6673-1795<=
+/span></i></b><b><i><span style=3D"font-size:10.0pt;color:#C00000">
+ / Mobile No.</span></i></b><b><span style=3D"font-size:10.0pt;color:#C0000=
+0"> <i><span lang=3D"EN">&#43;91-7899-901-570</span></i></span></b><b><i><s=
+pan style=3D"font-size:10.0pt;color:#C00000"><o:p></o:p></span></i></b></p>
+<p class=3D"MsoNormal"><b><i><span style=3D"font-size:10.0pt;color:#C00000"=
+>or open a
+</span></i></b><span style=3D"color:#1F497D"><a href=3D"http://helpdesk.myi=
+nfinera.com/_layouts/Infinera.helpdesk/NewHelpDeskRequest.aspx"><b><i><span=
+ style=3D"font-size:10.0pt;color:blue">BSC HelpDesk Ticket</span></i></b></=
+a></span><b><i><span style=3D"font-size:10.0pt;color:#C00000">.
+ We're here to help!</span></i></b><span style=3D"font-size:10.0pt;color:#1=
+F497D"><o:p></o:p></span></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Pradeep Kezhakketil Gopalan Shivanaraya=
+nan <br>
+<b>Sent:</b> Wednesday, August 08, 2018 11:12 AM<br>
+<b>To:</b> 'Agile Fitness' &lt;support@agilefitness.in&gt;; 'Sukdeep D S' &=
+lt;sukdeepds@gmail.com&gt;; 'gururaj@agilefitness.in' &lt;gururaj@agilefitn=
+ess.in&gt;<br>
+<b>Cc:</b> Chethan Sreedharachar &lt;CSreedharachar@infinera.com&gt;<br>
+<b>Subject:</b> Need SOW and Quote for the contract renewal - 1-Oct-18 to 3=
+0-Sep-19<br>
+<b>Importance:</b> High<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Hi Sukdeep/Guru,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">As per the discussion requesting you to share the SO=
+W and Quote for the contract renewal - 1-Oct-18 to 30-Sep-19. Also let us k=
+now the when are you free, so that will share the calendar for the discussi=
+on. Before the discussion please share
+ the SOW and Quote. <o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"0" style=3D"width:1234.9pt;margin-left:-.15pt;border-collap=
+se:collapse">
+<tbody>
+<tr style=3D"height:39.15pt">
+<td width=3D"1650" nowrap=3D"" colspan=3D"15" valign=3D"bottom" style=3D"wi=
+dth:1234.9pt;border:solid windowtext 1.0pt;background:#92D050;padding:0in 5=
+.4pt 0in 5.4pt;height:39.15pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:22.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;co=
+lor:black">AMC Tracker - 2018 -19<o:p></o:p></span></p>
+</td>
+</tr>
+<tr style=3D"height:22.1pt">
+<td width=3D"63" nowrap=3D"" valign=3D"bottom" style=3D"width:46.9pt;border=
+:solid windowtext 1.0pt;border-top:none;background:#FABF8F;padding:0in 5.4p=
+t 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Sl No.<o:p></o:p></span></b></p>
+</td>
+<td width=3D"152" nowrap=3D"" valign=3D"bottom" style=3D"width:114.25pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;=
+height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Description of the AMC<o:p></o:p></span></b></p>
+</td>
+<td width=3D"150" nowrap=3D"" valign=3D"bottom" style=3D"width:112.55pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;=
+height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Vendor Name &amp; Contact details<o:p></o:p></span></b></p>
+</td>
+<td width=3D"201" nowrap=3D"" valign=3D"bottom" style=3D"width:150.85pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;=
+height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Location &amp; Equipment of AMC Carried out<o:p></o:p></span>=
+</b></p>
+</td>
+<td width=3D"118" nowrap=3D"" valign=3D"bottom" style=3D"width:88.2pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;he=
+ight:22.1pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;font-family:&quot=
+;Arial Narrow&quot;,sans-serif;color:black">PO #<o:p></o:p></span></b></p>
+</td>
+<td width=3D"56" nowrap=3D"" valign=3D"bottom" style=3D"width:42.05pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;he=
+ight:22.1pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;font-family:&quot=
+;Arial Narrow&quot;,sans-serif;color:black">ZN #<o:p></o:p></span></b></p>
+</td>
+<td width=3D"88" nowrap=3D"" valign=3D"bottom" style=3D"width:66.15pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;he=
+ight:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Serial #<o:p></o:p></span></b></p>
+</td>
+<td width=3D"92" nowrap=3D"" valign=3D"bottom" style=3D"width:69.0pt;border=
+-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-righ=
+t:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;hei=
+ght:22.1pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;font-family:&quot=
+;Arial Narrow&quot;,sans-serif;color:black">Model #<o:p></o:p></span></b></=
+p>
+</td>
+<td width=3D"147" nowrap=3D"" valign=3D"bottom" style=3D"width:110.45pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;=
+height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Installation Date<o:p></o:p></span></b></p>
+</td>
+<td width=3D"108" nowrap=3D"" valign=3D"bottom" style=3D"width:80.9pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;he=
+ight:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">AMC Period Start Date<o:p></o:p></span></b></p>
+</td>
+<td width=3D"103" nowrap=3D"" valign=3D"bottom" style=3D"width:77.1pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;he=
+ight:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">AMC Period End date<o:p></o:p></span></b></p>
+</td>
+<td width=3D"119" nowrap=3D"" valign=3D"bottom" style=3D"width:89.15pt;bord=
+er-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-ri=
+ght:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;h=
+eight:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Renewal Due Date<o:p></o:p></span></b></p>
+</td>
+<td width=3D"123" nowrap=3D"" valign=3D"bottom" style=3D"width:92.05pt;bord=
+er-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-ri=
+ght:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;h=
+eight:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><b><spa=
+n style=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif=
+;color:black">Remarks<o:p></o:p></span></b></p>
+</td>
+<td width=3D"127" nowrap=3D"" valign=3D"bottom" style=3D"width:94.95pt;bord=
+er-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-ri=
+ght:solid windowtext 1.0pt;background:#FABF8F;padding:0in 5.4pt 0in 5.4pt;h=
+eight:22.1pt">
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;font-family:&quot=
+;Arial Narrow&quot;,sans-serif;color:black">Depart<o:p></o:p></span></b></p=
+>
+</td>
+<td width=3D"4" style=3D"width:.3pt;padding:0in 0in 0in 0in;height:22.1pt">
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</td>
+</tr>
+<tr style=3D"height:22.1pt">
+<td width=3D"63" nowrap=3D"" style=3D"width:46.9pt;border:solid windowtext =
+1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-family:&quot;Arial Narrow&quot;,sans-serif;color:black">68<o:p=
+></o:p></span></p>
+</td>
+<td width=3D"152" nowrap=3D"" valign=3D"bottom" style=3D"width:114.25pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Gym Instructor<o:p></o:p=
+></span></p>
+</td>
+<td width=3D"150" valign=3D"bottom" style=3D"width:112.55pt;border-top:none=
+;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid w=
+indowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">Agile Fitness<o:p></o:p>=
+</span></p>
+</td>
+<td width=3D"201" nowrap=3D"" valign=3D"bottom" style=3D"width:150.85pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial Narrow&quot;,=
+sans-serif">PSB-L1-GYM ROOM<o:p></o:p></span></p>
+</td>
+<td width=3D"118" nowrap=3D"" valign=3D"bottom" style=3D"width:88.2pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial Narrow&quot;,sans-serif;color:black">INO1726<o:p></o:p></span></p>
+</td>
+<td width=3D"56" nowrap=3D"" valign=3D"bottom" style=3D"width:42.05pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ar=
+ial Narrow&quot;,sans-serif;color:black">&nbsp;<o:p></o:p></span></p>
+</td>
+<td width=3D"88" nowrap=3D"" valign=3D"bottom" style=3D"width:66.15pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;co=
+lor:black">&nbsp;<o:p></o:p></span></p>
+</td>
+<td width=3D"92" nowrap=3D"" valign=3D"bottom" style=3D"width:69.0pt;border=
+-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-righ=
+t:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;co=
+lor:black">&nbsp;<o:p></o:p></span></p>
+</td>
+<td width=3D"147" nowrap=3D"" valign=3D"bottom" style=3D"width:110.45pt;bor=
+der-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-r=
+ight:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;co=
+lor:black">&nbsp;<o:p></o:p></span></p>
+</td>
+<td width=3D"108" nowrap=3D"" valign=3D"bottom" style=3D"width:80.9pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;co=
+lor:black">1-Oct-17<o:p></o:p></span></p>
+</td>
+<td width=3D"103" nowrap=3D"" valign=3D"bottom" style=3D"width:77.1pt;borde=
+r-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-rig=
+ht:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"font-size:12.0pt;font-family:&quot;Arial Narrow&quot;,sans-serif;co=
+lor:black">30-Sep-18<o:p></o:p></span></p>
+</td>
+<td width=3D"119" nowrap=3D"" valign=3D"bottom" style=3D"width:89.15pt;bord=
+er-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-ri=
+ght:solid windowtext 1.0pt;background:white;padding:0in 5.4pt 0in 5.4pt;hei=
+ght:22.1pt">
+<p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center"><span s=
+tyle=3D"color:black">52<o:p></o:p></span></p>
+</td>
+<td width=3D"123" nowrap=3D"" valign=3D"bottom" style=3D"width:92.05pt;bord=
+er-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-ri=
+ght:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial Narrow&quot;,=
+sans-serif;color:black">&nbsp;<o:p></o:p></span></p>
+</td>
+<td width=3D"127" nowrap=3D"" valign=3D"bottom" style=3D"width:94.95pt;bord=
+er-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-ri=
+ght:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:22.1pt">
+<p class=3D"MsoNormal"><span style=3D"color:black">FACILITES<o:p></o:p></sp=
+an></p>
+</td>
+<td width=3D"4" style=3D"width:.3pt;padding:0in 0in 0in 0in;height:22.1pt">
+<p class=3D"MsoNormal">&nbsp;<o:p></o:p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Regards,<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Pradeep K G S</span><s=
+pan style=3D"color:#365F91"> |
+</span><span style=3D"color:#8496B0">Facilities Engineer&#8211; India</span=
+><span style=3D"color:#365F91"> |
+</span><u><span style=3D"color:#0F243E"><a href=3D"mailto:PGopalan@infinera=
+.com"><span style=3D"color:blue">PGopalan@infinera.com</span></a></span></u=
+><span style=3D"font-size:12.0pt;color:#365F91"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span lang=3D"EN" s=
+tyle=3D"color:#548DD4">Infinera India Pvt. Ltd.</span><span style=3D"color:=
+#548DD4">,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#548DD4">Prestige
+</span><span lang=3D"EN" style=3D"font-size:9.0pt;color:#8496B0">Solitaire =
+, 401, <o:p>
+</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Level 3, 6, Brunton Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Bangalore 560-025.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">---------------------------------------=
+----<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:9.0pt;color:#8496B0">#25/1, MG Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:9.0pt;color:#8496B0">Shankar Narayana Building 2<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:9.0pt;color:#8496B0">Bangalore-560001.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:9.0pt;color:#8496B0"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN" style=3D"font-size:9.0pt;color:#54=
+8DD4">Office&nbsp;&nbsp; :&nbsp; &#43;91-80-6673-1795<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN" style=3D"font-size:9.0pt;color:#54=
+8DD4">Mobile&nbsp; :&nbsp; &#43;91-7899-901-570<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><b><i><span style=3D"font-size:10.0pt;color:#C00000"=
+>Have a Site Services Issue?&nbsp; Contact me on extn</span></i></b><b><i><=
+span style=3D"font-size:10.0pt;color:red">:&nbsp;</span></i></b><b><i><span=
+ lang=3D"EN" style=3D"font-size:10.0pt;color:#C00000">&#43;91-80-6673-1795<=
+/span></i></b><b><i><span style=3D"font-size:10.0pt;color:#C00000">
+ / Mobile No.</span></i></b><b><span style=3D"font-size:10.0pt;color:#C0000=
+0"> </span>
+</b><b><i><span lang=3D"EN" style=3D"font-size:10.0pt;color:#C00000">&#43;9=
+1-7899-901-570</span></i></b><b><i><span style=3D"font-size:10.0pt;color:#C=
+00000"><o:p></o:p></span></i></b></p>
+<p class=3D"MsoNormal"><b><i><span style=3D"font-size:10.0pt;color:#C00000"=
+>or open a
+</span></i></b><span style=3D"color:#1F497D"><a href=3D"http://helpdesk.myi=
+nfinera.com/_layouts/Infinera.helpdesk/NewHelpDeskRequest.aspx"><b><i><span=
+ style=3D"font-size:10.0pt;color:blue">BSC HelpDesk Ticket</span></i></b></=
+a></span><b><i><span style=3D"font-size:10.0pt;color:#C00000">.
+ We're here to help!</span></i></b><span style=3D"font-size:10.0pt;color:#1=
+F497D"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_SN1PR10MB099254CA09D8D490D0BF1E80AF320SN1PR10MB0992namp_--

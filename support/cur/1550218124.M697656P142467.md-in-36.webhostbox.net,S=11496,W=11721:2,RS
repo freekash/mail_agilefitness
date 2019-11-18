@@ -1,0 +1,225 @@
+Return-Path: <PGopalan@infinera.com>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP id 6PGDKYxzZlyDLAIAwqAP9w
+	for <support@agilefitness.in>; Fri, 15 Feb 2019 08:08:44 +0000
+Return-path: <PGopalan@infinera.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Fri, 15 Feb 2019 08:08:44 +0000
+Received: from mail-eopbgr720071.outbound.protection.outlook.com ([40.107.72.71]:17472 helo=NAM05-CO1-obe.outbound.protection.outlook.com)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <PGopalan@infinera.com>)
+	id 1guYY0-000fH9-Og
+	for support@agilefitness.in; Fri, 15 Feb 2019 08:08:44 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=infinera.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=t11FuV3TxrQ/PBRhRMxDSNirsQTVVtSPe5yasLMG8H4=;
+ b=ObfjdtgmedHjC6jhoQIxwPF0w8GGBlY5gkK+GlEC/sFDOE18BXhhbwS4q99sIjmFuc5Kv6Y6gXCIMzynayI81uOpzYke4QoJrbCnvOoVLFC3xFYaQg0ETRtJ8cDY774Ru6znXi4gx1BCEAkraTtoyE6Mze+aPyUljbq9zG3wBdQ=
+Received: from BYAPR10MB3285.namprd10.prod.outlook.com (20.179.157.18) by
+ BYAPR10MB3415.namprd10.prod.outlook.com (20.179.158.224) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.1601.17; Fri, 15 Feb 2019 08:08:21 +0000
+Received: from BYAPR10MB3285.namprd10.prod.outlook.com
+ ([fe80::1150:8d57:e999:2481]) by BYAPR10MB3285.namprd10.prod.outlook.com
+ ([fe80::1150:8d57:e999:2481%6]) with mapi id 15.20.1601.023; Fri, 15 Feb 2019
+ 08:08:21 +0000
+From: Pradeep Kezhakketil Gopalan Shivanarayanan <PGopalan@infinera.com>
+To: gurappa p <gurappap@gmail.com>, Agile Fitness <support@agilefitness.in>,
+	sukdeepds <sukdeepds@gmail.com>
+CC: Chethan Sreedharachar <CSreedharachar@infinera.com>
+Subject: Need quote for gym mats - PSB 
+Thread-Topic: Need quote for gym mats - PSB 
+Thread-Index: AdTFBYOuEj7YdM6IR4asi9XynCw1jg==
+Importance: high
+X-Priority: 1
+Date: Fri, 15 Feb 2019 08:08:21 +0000
+Message-ID:
+ <BYAPR10MB32850FA157B53F870A75AA5FAF600@BYAPR10MB3285.namprd10.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-mcafeedlp-tag-0: {B7A9B49A-0E9E-4696-8DE5-C6B1148F23D0}
+x-mcafeedlp-tagged: True
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=PGopalan@infinera.com; 
+x-originating-ip: [182.76.161.227]
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 9b4029f4-5a96-4b5c-66e6-08d6931cc0a3
+x-microsoft-antispam:
+ BCL:0;PCL:0;RULEID:(2390118)(7020095)(4652040)(8989299)(4534185)(4627221)(201703031133081)(201702281549075)(8990200)(5600110)(711020)(4605077)(2017052603328)(7153060)(7193020);SRVR:BYAPR10MB3415;
+x-ms-traffictypediagnostic: BYAPR10MB3415:
+x-microsoft-exchange-diagnostics:
+ =?us-ascii?Q?1;BYAPR10MB3415;23:qZkq5d6BlD755R0Fi2RlBoK8oMr0aE0K49vb7+zI2?=
+ =?us-ascii?Q?2ZfOxP1207Ox7YBJh9CpvuIk4OaedWD1qOvzvWDeanCOax7qQuxZtfPBAJ82?=
+ =?us-ascii?Q?j/2c3otulGn9uc28L6i26wqOF7AoJiD77KFaKtZyqsbfFY/vZmWMvjgch37J?=
+ =?us-ascii?Q?OmUyGR6evCIJWHRjMoAzAB9ATULVwCoG/Hp1BbQNpDiQxRCfHk49Is7/DOBE?=
+ =?us-ascii?Q?SPu7Th6SiETQzNaaDZiW1R6BOc92tl8s2NtZ3Jp22xoadg2AWGlXiGdwNUR4?=
+ =?us-ascii?Q?b09SGKF+CDZXdnZSWzzrIqs4MXt6kh6clKIZ5rXSEdLNUkv3QBBteyYDTDUW?=
+ =?us-ascii?Q?Tm5lV/QOl8aRLatj+SDc/8fFJAKZJYgMELlVeDmHQBr1AtEHeFPz3w2QL77R?=
+ =?us-ascii?Q?y69nuRPotPLlpiXpegbZeKkmtz4x0VFZAKmrUaA57VfrSpfX+6xaQb/HXUJv?=
+ =?us-ascii?Q?kzn6sLbqHU6LGhr6QL9hsFl5KBMuS2P+LEKlTCqH/UWL4jUzOLYr/LZ5+Qfw?=
+ =?us-ascii?Q?NNL8dQzLdJHZPO17JqAVQtWOpp03JMItBrkKMUqqeQITdq9uUo+71fZhVBsd?=
+ =?us-ascii?Q?+5DNyMrPDFQYJufqVdYJl6a+6H33RLMbo/wtUYFEN2CV6mTBPRd62emOnwJd?=
+ =?us-ascii?Q?gOfPZJt/BpUULzQ1wcSinuQzV5/5liCFk/11gJAiCeV/6grSHp3RKPcV7Zy1?=
+ =?us-ascii?Q?HeElAp8eZ6bCHaWtvpy6IgQz6hflThMODtqy52IvxOSag7TVLrvPOoMXREio?=
+ =?us-ascii?Q?XC97xm2DRpqaBCORKfwbVHrCC16At2ytw11PeRkGS6ahS9aTCtWUMaxuQPri?=
+ =?us-ascii?Q?KKxeO7YJvYbh8nKJ6Yk/koJlsVxdexthIxm5PFEq7IG/+CF/EPvEbvcY6DZW?=
+ =?us-ascii?Q?yJKxfl4IO5Ig+7nZnmKknU+gx82PDa1Wf4oIZl4elLimtyPQnjgX/2dwMmCM?=
+ =?us-ascii?Q?pqW+TZP5pIUFUgSjcNnOiGATuBEYc1hK5HvOSByWyHGX7Hwumgs33rmHOkbP?=
+ =?us-ascii?Q?/iQb0akh09ovxDPk7uymBEItdHfwwIkFOyFalKDDlma+dOdag2sK5R16sfKM?=
+ =?us-ascii?Q?H0rhAjhhd5FtmtNv/844HDCQqTnqQw/L8bGd/Q1ZGQ+8twWZro3PPBEyTXkj?=
+ =?us-ascii?Q?TgiDKToQBaKHEZu/fGSIgWeB2UacvbyRs6Htp9Uz94eafkIvg/Bnu5IfEGrx?=
+ =?us-ascii?Q?P0OThJd+VxFrvu/QPjRsQwdKIjafdGaz/N/SDM6pfe84Mdx0KA3EPrpX5Ka5?=
+ =?us-ascii?Q?Cc5dYZuFlJONWJI6Ew=3D?=
+x-microsoft-antispam-prvs:
+ <BYAPR10MB3415FE76F03CBB91FD6BFBF8AF600@BYAPR10MB3415.namprd10.prod.outlook.com>
+x-forefront-prvs: 09497C15EB
+x-forefront-antispam-report:
+ SFV:NSPM;SFS:(10009020)(376002)(346002)(366004)(39860400002)(396003)(136003)(189003)(199004)(476003)(26005)(105586002)(66066001)(81686011)(14454004)(316002)(72206003)(74316002)(106356001)(7736002)(790700001)(9686003)(68736007)(71200400001)(2906002)(71190400001)(9326002)(99286004)(55016002)(256004)(4326008)(3846002)(6116002)(54896002)(6306002)(558084003)(6436002)(86362001)(4743002)(81166006)(53936002)(7696005)(107886003)(8676002)(186003)(80792005)(8936002)(81156014)(102836004)(478600001)(25786009)(110136005)(6506007)(78486014)(486006)(97736004)(33656002);DIR:OUT;SFP:1101;SCL:1;SRVR:BYAPR10MB3415;H:BYAPR10MB3285.namprd10.prod.outlook.com;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;MX:1;A:1;
+received-spf: None (protection.outlook.com: infinera.com does not designate
+ permitted sender hosts)
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam-message-info:
+ w3MytHpAyM+wi+cIKXYd08sklexImvrwFR3eQEb2BoXAeFFwFrGU7B+2IloYocV2MkIphBqefKE9t9JjAc5hJcsiGhZ3MwriFnKJheRQ3MznRcQmTbFUVjRcbsdhmefh87KzfVM+euWCLrHCCQIn5jTjRdHauOahNK2E16zM1gRAcmJ9VtXjqk4lKKlll5mL1QXDPOn4eg4fzGiG+9Mw9RczV7hGcC40rLJLTq0D0BLFCqo0r5bpfLeynL2Xmb5quo+dczxSkv3fQayhByiyBvvVcGFfkp67PbAssH/9FlH88l7kUQrMq63u2hlmOQfyudNXdFaTZe5cg+VYhXCQjNaG3VQdLA2wFoXGpxOwuvqlQNyvz0j51q6nl+NdRavR3W/rjXIpb1nPQgoLS4/orq40748M8cBak4TO5rBzxZQ=
+Content-Type: multipart/alternative;
+	boundary="_000_BYAPR10MB32850FA157B53F870A75AA5FAF600BYAPR10MB3285namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: infinera.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 9b4029f4-5a96-4b5c-66e6-08d6931cc0a3
+X-MS-Exchange-CrossTenant-originalarrivaltime: 15 Feb 2019 08:08:21.8024
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 285643de-5f5b-4b03-a153-0ae2dc8aaf77
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BYAPR10MB3415
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, CMAE Analysis: v=2.3 cv=DYs5VMlW c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=Dd7FI52_JmgA:10 a=bk0mnUHELA0A:10 a=Ulnduxy1yykA:10 a=xqWC_Br6kY4A:10 a=CFTnQlWoA9kA:10 a=4pqBI2ChTjgA:10 a=IPeBMp0hb77N3j1JMCMA:9 a=CjuIK1q_8ugA:10 a=Ey51Wx_1_rvcwTjf2AUA:9 a=lDNl2lIEhZKvKMjIUR5gOGDH5rM=:19 a=euILN-xJjDKv5Ar7:21 a=gKO2Hq4RSVkA:10 a=UiCQ7L4-1S4A:10 a=hTZeC7Yk6K0A:10 a=frz4AuCg-hUA:10
+ 
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [40.107.72.71 listed in list.dnswl.org]
+ * -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+--_000_BYAPR10MB32850FA157B53F870A75AA5FAF600BYAPR10MB3285namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Sukdeep,
+
+Requesting you to share the quote for the gym mats Black - same as in the P=
+SB gym asap. Total 10 quantity.
+
+
+Regards,
+Pradeep K G S | Facilities Engineer- India
+Infinera India Pvt. Ltd.,
+Prestige Solitaire , 401,
+Level 3, 6, Brunton Road,
+Bangalore 560-025.
+
+
+--_000_BYAPR10MB32850FA157B53F870A75AA5FAF600BYAPR10MB3285namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Hi Sukdeep,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Requesting you to share the quote for the gym mats B=
+lack &#8211; same as in the PSB gym asap. Total 10 quantity.
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Regards,<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Pradeep K G S</span><s=
+pan style=3D"color:#365F91"> |
+</span><span style=3D"color:#8496B0">Facilities Engineer&#8211; India</span=
+><span style=3D"color:#365F91">
+</span><span style=3D"font-size:12.0pt;color:#365F91"><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span lang=3D"EN" s=
+tyle=3D"color:#548DD4">Infinera India Pvt. Ltd.</span></b><b><span style=3D=
+"color:#548DD4">,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#548DD4">Prestige
+</span><span lang=3D"EN" style=3D"font-size:9.0pt;color:#8496B0">Solitaire =
+, 401, <o:p>
+</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Level 3, 6, Brunton Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Bangalore 560-025.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_BYAPR10MB32850FA157B53F870A75AA5FAF600BYAPR10MB3285namp_--

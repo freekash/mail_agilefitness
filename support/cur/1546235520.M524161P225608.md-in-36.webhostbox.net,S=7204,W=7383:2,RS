@@ -1,0 +1,179 @@
+Return-Path: <sasikala@ocean.net.in>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP id GIAqH4CuKVxIcQMAwqAP9w
+	for <support@agilefitness.in>; Mon, 31 Dec 2018 05:52:00 +0000
+Return-path: <sasikala@ocean.net.in>
+Envelope-to: support@agilefitness.in
+Delivery-date: Mon, 31 Dec 2018 05:52:00 +0000
+Received: from mail-vs1-f48.google.com ([209.85.217.48]:34377)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <sasikala@ocean.net.in>)
+	id 1gdqUU-000yGs-5n
+	for support@agilefitness.in; Mon, 31 Dec 2018 05:52:00 +0000
+Received: by mail-vs1-f48.google.com with SMTP id y27so16095101vsi.1
+        for <support@agilefitness.in>; Sun, 30 Dec 2018 21:51:49 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=ocean-net-in.20150623.gappssmtp.com; s=20150623;
+        h=from:references:in-reply-to:mime-version:thread-index:date
+         :message-id:subject:to:cc:content-transfer-encoding;
+        bh=xXC2tu+EyEiFLGNajB+sA/+svRP1YdmBlSIUhjeKpvQ=;
+        b=y0zu4sdizo1Cz8S6wuMsEU26bBP4ZXe8gDzU75SYzFoyww4h78v+oSJFnHTgcdSycp
+         9HWTCNhqGkMHsNm0KtyWIl4K+AJVPBpn6JLHiBBNpwrvUgvi2aU/ddh2DZ2I+edsKd4B
+         l/zhOT2IyrA46NSKA97UEv2WdCUkKYgTTrtAJhErZ1KapTLp2plKfMalxRd+R0eipVnY
+         W6CGATVf4+3IpFRmSfNCfovkKAz8RiFz4FQud8DyoEzxlncXG/Zqg34bYCr1yso2Bmh8
+         A91rjd3RibsrCLVk40tiMIu76JQHnNboSrVcaeWgOQUrgBkBA3rYKn/pynfEkC1axSpw
+         yg0A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:references:in-reply-to:mime-version
+         :thread-index:date:message-id:subject:to:cc
+         :content-transfer-encoding;
+        bh=xXC2tu+EyEiFLGNajB+sA/+svRP1YdmBlSIUhjeKpvQ=;
+        b=jYVNzzFVFh6BM08OJ3l9aoqCZdYnisKTAhYo68smA3LJhrssujkJVxPhEvKoeZmNfB
+         ULTxA5hOnUy8YEXwuV1+5xKHDT4BSKam4pmn1lZpf/Qoi+UI4ZyAhm3k7e4GUgMwXcj/
+         tk6eSPI0b1anc1kDjB4dtxuHEuXgoJKpzfk9B/PAXmkqW97KR5BQvcR4ooD9sh6+fiwM
+         OxP89SwDTbcQC11+CTVEqr3EDQc1mcfZQktWv6JijRbH4msY3aXy+ZTNtBioOAhvNiT1
+         W1w9iCWE6VxSeceoi4LumIyjQZrMZFHFgkZTpeyweyE5eCNddp6bO3SO/F+Lzf41bbf+
+         QE4g==
+X-Gm-Message-State: AA+aEWaakJm3eXTXHX/rfVS3bbV+vCd0lh7pKEXnltptuKU3jdONK2Mn
+	lZAMKDzlyKiCDQGGNm9828WGd9d3lzgIq4kpCjk8FFG2
+X-Google-Smtp-Source: AFSGD/WKet+mXm91FHsr1vkSTU/wbDcDyevVasr1pLV94O2zQDcDIxe3Uyj89i6nbYS9ymMe13VBJCbv7hCjd98+KnY=
+X-Received: by 2002:a67:8904:: with SMTP id l4mr14365159vsd.239.1546235501002;
+ Sun, 30 Dec 2018 21:51:41 -0800 (PST)
+From: Sasi Kala <sasikala@ocean.net.in>
+References: <4e7d2f362eb76706236c332e21efc202@mail.gmail.com> <0443ca4832bc45c2c655404af0bd5d7c@agilefitness.in>
+In-Reply-To: <0443ca4832bc45c2c655404af0bd5d7c@agilefitness.in>
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQKTBxxebyBW5iCp+xaw2t33H8ryMAHCeuI/pA13UIA=
+Date: Mon, 31 Dec 2018 11:21:38 +0530
+Message-ID: <e6198d9fc6d06c2d3c3cbf58db66db40@mail.gmail.com>
+Subject: RE: Dell project - image and quote reuest
+To: Agile Fitness <support@agilefitness.in>
+Cc: sukdeep@agilefitness.in, Rajesh R <rajesh.r@ocean.net.in>, 
+	Sabari Vasan <sabarivasan@ocean.net.in>, Purchase Ocean <purchase@ocean.net.in>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H2=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=DYs5VMlW c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=IkcTkHD0fZMA:10 a=MKtGQD3n3ToA:10 a=2ur7OfE09M0A:10 a=ZlUWZ3eGjmIA:10 a=ZZnuYtJkoWoA:10 a=pSMEJ6xHzDc7vJBTo0UA:9 a=bUOUoTBhV06LgxuL:21 a=tV4CPKMedeK6YkF0:21 a=QEXdDO2ut3YA:10 a=-FEs8UIgK8oA:10 a=NWVoK91CQyQA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: agilefitness.in]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [209.85.217.48 listed in list.dnswl.org]
+ * -0.0 RCVD_IN_MSPIKE_H2 RBL: Average reputation (+2)
+ *      [209.85.217.48 listed in wl.mailspike.net]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+X-Spam-Flag: NO
+
+Sir
+Pls share image for Foose ball table  around  Rs.15000/-
+
+-----Original Message-----
+From: Agile Fitness [mailto:support@agilefitness.in]
+Sent: 31 December 2018 11:08
+To: Sasi Kala
+Cc: sukdeep@agilefitness.in; Rajesh R; Sabari Vasan; Purchase Ocean;
+support@agilefitness.in
+Subject: Re: Dell project - image and quote reuest
+
+Dear Sasikala,
+
+Greetings from M/s,Agile Fitness Pvt. Ltd.
+
+Please find the attached quotation .
+
+Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, spo=
+rts
+materials, Sports flooring ,AMC.
+
+Regards,
+Sukdeep D S
+Manager, Sales & service,
+Agile fitness,Malleswaram,Bangalore-4.
+Ph.:+91 9980111255 www.agilefitness.in
+
+
+On 2018-12-29 07:12, Sasi Kala wrote:
+> Dear Sir
+>
+> As discussed, pls send image with Price for further process
+>
+> Table tennis board
+>
+> 3
+>
+> nos
+>
+> Images required
+>
+> Foose ball board
+>
+> 3
+>
+> nos
+>
+> Images required
+>
+> THANKS  AND  REGARDS
+>
+> J.SASIKALA
+>
+> MANAGER =E2=80=93 PROCUREMENT
+>
+> +91 97101 99956
+>
+> WAT APP NO. +91 9884647677
+>
+> OCEAN LIFESPACES INDIA PRIVATE LIMITED.
+>
+> MF-1, Industrial Estate, CIPET Hostel Road,
+>
+> Guindy, Chennai - 600 032. Tamil Nadu, India.
+>
+> 0 =E2=80=93 73977 70825(M)  | +91-44-2225 9900 (Board) | +91-44-2225 9912
+> (Direct)
+>
+>    www.ocean.net.in [1]
+>
+> Andhara Pradesh | Haryana | Karnataka | Kerala | Maharashtra |
+> Pudhucherry | Telangana
+>
+> Please consider the environment before printing this email
+>
+> DISCLAIMER: This e-mail message may contain confidential, proprietary
+> or legally privileged information, which is intended only for the
+> named recipients above. It should not be used by anyone who is not the
+> original intended recipient. If you have received this message in
+> error, please delete it immediately and notify the sender. If you are
+> not the intended recipient, you are notified that you are strictly
+> prohibited from using, copying, altering, or disclosing the contents
+> of this message.
+>
+> The recipient acknowledges that Ocean Lifespaces India Private Limited
+> is unable to exercise control or ensure or guarantee the integrity of
+> / over the contents of the information contained in e-mail
+> transmissions and further acknowledges that any views expressed in
+> this message are those of the individual sender and no binding nature
+> of the message shall be implied or assumed unless the sender does so
+> expressly with due authority of Ocean Lifespaces India Private
+> Limited. Ocean Lifespaces India Private Limited accepts no
+> responsibility for loss or damage arising from the use of the
+> information transmitted by this email including damage from virus.
+>
+>
+>
+> Links:
+> ------
+> [1] http://www.ocean.net.in/

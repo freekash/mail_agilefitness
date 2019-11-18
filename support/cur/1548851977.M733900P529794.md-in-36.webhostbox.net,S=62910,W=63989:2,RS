@@ -1,0 +1,1079 @@
+Return-Path: <srungar.sid@gmail.com>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP id +NqrKwmbUVyCFQgAwqAP9w
+	for <support@agilefitness.in>; Wed, 30 Jan 2019 12:39:37 +0000
+Return-path: <srungar.sid@gmail.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Wed, 30 Jan 2019 12:39:37 +0000
+Received: from mail-lf1-f52.google.com ([209.85.167.52]:42793)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <srungar.sid@gmail.com>)
+	id 1gop9N-002FWX-2W
+	for support@agilefitness.in; Wed, 30 Jan 2019 12:39:37 +0000
+Received: by mail-lf1-f52.google.com with SMTP id l10so17248237lfh.9
+        for <support@agilefitness.in>; Wed, 30 Jan 2019 04:39:25 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=eY3hp6sH4sVO2oR25TnTfefzZeIzhpFyOUA0aP6BO10=;
+        b=GVS8wKEYiElepob9EztlI6mlxKTSaIp7fFifCRVbEuKixS+gwpmqNMtkhF96dnvRc7
+         udRW42cdCyFDqi8RXluvr4Cx2s3vEB/kv3LqKb9VbESJNfV5gsK3Aj994JOcTMGNXctO
+         xk6XLZk3eNaCdy13tGi28PzvdAAX0M2oHZlHyxNf6QdTSSBlbV54OCDd4uPCHWiCnyZE
+         dtmtDXkCoXBr1jY34VRX2BmGFmk6yTW0b0Wr6rrHSyp2UvfNeW7xOPCqy+nSYLVds4lL
+         MsmFpj75WL56QjA8VdGeX1+aIsbkCq5Z4pWrACBicOCdddRt8FQhFhyWQ3fGKAu8gyM7
+         3/ag==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=eY3hp6sH4sVO2oR25TnTfefzZeIzhpFyOUA0aP6BO10=;
+        b=WOkuQgICkhtO0VA+cqj1k4td82uiJY6gMMrHChOHFX4ZVo0N6Oa9cETRm7VH6w5o/E
+         sDHY6qo6xy9euAXEo4Oc9+69rEy2YCxZycyFNhOUs5x/dwHaAFb7nFUHNK6a5ssCfDZd
+         ZIifiOTD4pfY8nQowJi++nhVjAf1gSPXgGuqEhqJHgvZkkcjzfx8VHSyj5z/XHf5qSGc
+         qsYjBkuWGLrW+mQOWRUro0G+qXyjl5CUb0AY5AWzvb+YFFUCBj42CqDJef0JSJwW5WEd
+         m43vj9pTYtgs5qLInnbSvaqdGPkc/6rBSK984oqxeGGmjH2j04Nd+lQflMLrjaizTXkl
+         axVQ==
+X-Gm-Message-State: AJcUukdD8wy9Jg3Ttim1WWt8ua82cgT25WSA2xvI4kHTHjZhT+l6kd2o
+	y/I2iQaK5WChP09zToD/WXfPYG/2xwiNf9QbhBbnSTQO
+X-Google-Smtp-Source: ALg8bN6vfWRpl401q1MMwpifeU2qAVfePyN5tzaIs8CYaXRd5/iBfesn62ubYPq4+nJyY1/W7DmiFSw5o3h2kpNNKKU=
+X-Received: by 2002:a19:4849:: with SMTP id v70mr25085251lfa.62.1548851953218;
+ Wed, 30 Jan 2019 04:39:13 -0800 (PST)
+MIME-Version: 1.0
+References: <CADn1Y2Bjy38ETMu7zoeye2mHRQ9nUpvRuDRuj-HMqSYHwd_XAQ@mail.gmail.com>
+ <CADn1Y2CpQ5v3bnOc-EwyUhXquG4o6r0OS_A+z8cuW44_4XOmtA@mail.gmail.com>
+ <CADn1Y2D0eHmZA4CbK0BXF2+6wBvk7J8BFOJNMmczVu81G3QZxQ@mail.gmail.com>
+ <CADn1Y2Bqt3uqXJpQ2eMSPC0atTPWhojkJybQxsdB3__ahHamRQ@mail.gmail.com>
+ <CADn1Y2Aa_zXDA-VbcmKk1DefVKeHzfPs4VPSg3Rhb4+=80pUGQ@mail.gmail.com>
+ <CADn1Y2BPqQkkZVU2n-+bQOf1n7fNMqhe++xL+eVjWyOy_P2E8Q@mail.gmail.com>
+ <b9cce4021f8dc4b84bf20f0acdd34e69@agilefitness.in> <CADn1Y2ANJXDw=CCRzpufbu+0tkaOT2M+C4PRNgMxWgVgZQoMhw@mail.gmail.com>
+ <dc4af90c6b6fc651f71885e4beee8148@agilefitness.in> <CADn1Y2Cy0jWznUoUpaNzKxjrON-eDnGFtPzrXXb1J28sYiPUJA@mail.gmail.com>
+ <2cac950cbaa4f965e935a24073499761@agilefitness.in>
+In-Reply-To: <2cac950cbaa4f965e935a24073499761@agilefitness.in>
+From: Srungar Interior Decorators <srungar.sid@gmail.com>
+Date: Wed, 30 Jan 2019 18:09:24 +0530
+Message-ID: <CADn1Y2CrJzJZ4j=4A=YqKqAxWUPkR7fYJ87SQ6Gr-kaAf5jN6w@mail.gmail.com>
+Subject: Re: .Quote required for below BOQ....
+To: Agile Fitness <support@agilefitness.in>
+Content-Type: multipart/mixed; boundary="0000000000007b71d40580ac3262"
+X-Authenticated_sender: 
+X-Spam-Status: No, score=0.9
+X-Spam-Score: 9
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, FREEMAIL_REPLY=1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001, T_FREEMAIL_DOC_PDF=0.01, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=DYs5VMlW c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=x7bEGLp0ZPQA:10 a=amilYPikmbUA:10 a=3JhidrIBZZsA:10 a=qM-Z1nkAS_qBPt8QkRkA:9 a=7PVo5w9KA6z2O5Ck:21 a=62cxDPKmeE-DopqA:21 a=QEXdDO2ut3YA:10 a=-FEs8UIgK8oA:10 a=NWVoK91CQyQA:10 a=m0a0MJni7XvZhpcoyoQA:9 a=qhrs24kh15XJIXru:21 a=1cdPCHVfjA7t4PCV:21 a=-dmO1FV2gTpscsvx:21 a=sshmrDQO1sLddvwtrFYA:9 a=n3BslyFRqc0A:10 a=rls1ZAiwvL0A:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: yahoo.co.in]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [209.85.167.52 listed in list.dnswl.org]
+ *  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+ *      (srungar.sid[at]gmail.com)
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ *  1.0 FREEMAIL_REPLY From and body contain different freemails
+ *  0.0 T_FREEMAIL_DOC_PDF MS document or PDF attachment, from freemail
+X-Spam-Flag: NO
+
+--0000000000007b71d40580ac3262
+Content-Type: multipart/alternative; boundary="0000000000007b71d10580ac3260"
+
+--0000000000007b71d10580ac3260
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+--=20
+Dear Sir,
+
+Plz go through the attached advance payment advice
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Thanking You,
+
+Srungar Interior Decorators
+#13, 18th Main, Freedom Fighter Nagar, Laggere Main Road, Bangalore -560058=
+.
+ : 080 - 28396858/9900129683.
+Mail.Id: srungar.sid@gmail.com
+           s_srungarinteriordecorators@yahoo.co.in
+
+On Tue, Jan 29, 2019 at 2:37 PM Agile Fitness <support@agilefitness.in>
+wrote:
+
+> Dear Sir / Madam,
+>
+> Greetings From Agile Fitness Pvt. Ltd.
+>
+> Item mentioned in PO are exactly as in the BOQ.  Thanks for Placing the
+> order with PO . We will update you back with the delivery date
+>
+> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, s=
+ports
+> materials, Sports flooring ,AMC.
+>
+> Regards,
+> Sukdeep D S
+> Manager, Sales & service,
+> Agile fitness,Malleswaram,Bangalore-4.
+> Ph.:+91 9980111255 www.agilefitness.in
+>
+> On 2019-01-29 08:56, Srungar Interior Decorators wrote:
+> > Dear Sir,
+> >
+> > Pls go through the attached Purchase Order.
+> >
+> > =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+> > Thanking You,
+> >
+> > Srungar Interior Decorators
+> > #13, 18th Main, Freedom Fighter Nagar, Laggere Main Road, Bangalore
+> > -560058.
+> >  : 080 - 28396858/9900129683.
+> > Mail.Id: srungar.sid@gmail.com
+> >            s_srungarinteriordecorators@yahoo.co.in
+> >
+> > On Wed, Jan 23, 2019 at 11:46 AM Agile Fitness
+> > <support@agilefitness.in> wrote:
+> >
+> >> Dear Sir / Madam,
+> >>
+> >> Greetings from Agile Fitness Pvt. Ltd.
+> >>
+> >> Please find the attached quote with the best posssible price .
+> >> QUoted
+> >> price includes all TAXEs and transportation.
+> >>
+> >> All the  requested items need to be imported and not available in
+> >> Indian
+> >> market hence needs around 20 days from the date of PO ..
+> >> --
+> >> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers=
+,
+> >> sports
+> >> materials, Sports flooring ,AMC.
+> >>
+> >> Regards,
+> >> Sukdeep D S
+> >> Manager, Sales & service,
+> >> Agile fitness,Malleswaram,Bangalore-4.
+> >> Ph.:+91 9980111255 www.agilefitness.in [1]
+> >>
+> >> On 2019-01-23 05:59, Srungar Interior Decorators wrote:
+> >>> Dear sir,
+> >>>
+> >>> Pls share the revised quote.
+> >>>
+> >>> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+> >>> Thanking You,
+> >>>
+> >>> Srungar Interior Decorators
+> >>> #13, 18th Main, Freedom Fighter Nagar, Laggere Main Road,
+> >> Bangalore
+> >>> -560058.
+> >>> : 080 - 28396858/9900129683.
+> >>> Mail.Id: srungar.sid@gmail.com
+> >>> s_srungarinteriordecorators@yahoo.co.in
+> >>>
+> >>> On Tue, Jan 22, 2019 at 3:31 PM Agile Fitness
+> >>> <support@agilefitness.in> wrote:
+> >>>
+> >>>> Dear Sir / Madam,
+> >>>>
+> >>>> Greetings From Agile Fitness Pvt. Ltd.
+> >>>>
+> >>>> Please find the attached quote and provided quote meets all the
+> >>>> requested criterias
+> >>>> --
+> >>>> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness traine=
+rs,
+> >>>> sports
+> >>>> materials, Sports flooring ,AMC.
+> >>>>
+> >>>> Regards,
+> >>>> Sukdeep D S
+> >>>> Manager, Sales & service,
+> >>>> Agile fitness,Malleswaram,Bangalore-4.
+> >>>> Ph.:+91 9980111255 www.agilefitness.in [1] [1]
+> >>>>
+> >>>> On 2019-01-16 10:12, Srungar Interior Decorators wrote:
+> >>>>> Dear Sir/Madam,
+> >>>>>
+> >>>>> As discussed, Pls share the quote for below BOQ.
+> >>>>>
+> >>>>> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+> >>>>> Thanking You,
+> >>>>>
+> >>>>> Srungar Interior Decorators
+> >>>>> #13, 18th Main, Freedom Fighter Nagar, Laggere Main Road,
+> >>>> Bangalore
+> >>>>> -560058.
+> >>>>> : 080 - 28396858/9900129683.
+> >>>>> Mail.Id: srungar.sid@gmail.com
+> >>>>> s_srungarinteriordecorators@yahoo.co.in
+> >>>>
+> >>>> Dear Sir / Madam,
+> >>>>
+> >>>> Greetings From AGile Fitness Pvt. Ltd.
+> >>>>
+> >>>> Please find the attached quote .
+> >>>> --
+> >>>> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness traine=
+rs,
+> >>>> sports
+> >>>> materials, Sports flooring ,AMC.
+> >>>>
+> >>>> Regards,
+> >>>> Sukdeep D S
+> >>>> Manager, Sales & service,
+> >>>> Agile fitness,Malleswaram,Bangalore-4.
+> >>>> Ph.:+91 9980111255 www.agilefitness.in [1] [1]
+> >>>
+> >>>
+> >>>
+> >>> Links:
+> >>> ------
+> >>> [1] http://www.agilefitness.in
+> >> Dear Sir / Madam,
+> >>
+> >> Greetings from Agile Fitness Pvt. Ltd.
+> >>
+> >> Please find the attached quote with the best posssible price .
+> >> QUoted
+> >> price includes all TAXEs and transportation.
+> >>
+> >> All the  requested items need to be imported and not available in
+> >> Indian
+> >> market hence needs around 20 days from the date of PO ..
+> >> --
+> >> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers=
+,
+> >> sports
+> >> materials, Sports flooring ,AMC.
+> >>
+> >> Regards,
+> >> Sukdeep D S
+> >> Manager, Sales & service,
+> >> Agile fitness,Malleswaram,Bangalore-4.
+> >> Ph.:+91 9980111255 www.agilefitness.in [1]
+> >
+> > --
+> >
+> >
+> > Links:
+> > ------
+> > [1] http://www.agilefitness.in
+>
+> Dear Sir / Madam,
+>
+> Greetings From Agile Fitness Pvt. Ltd.
+>
+> Item mentioned in PO are exactly as in the BOQ.  Thanks for Placing the
+> order with PO . We will update you back with the delivery date
+>
+> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, s=
+ports
+> materials, Sports flooring ,AMC.
+>
+> Regards,
+> Sukdeep D S
+> Manager, Sales & service,
+> Agile fitness,Malleswaram,Bangalore-4.
+> Ph.:+91 9980111255 www.agilefitness.in
+>
+
+--0000000000007b71d10580ac3260
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr">--=C2=A0<br><div dir=3D"=
+ltr" class=3D"gmail_signature"><div dir=3D"ltr"><div dir=3D"ltr"><span styl=
+e=3D"font-size:13px">Dear Sir,</span><br style=3D"font-size:13px"><br clear=
+=3D"all" style=3D"font-size:12.7273px"><div><span style=3D"font-size:12.727=
+3px">Plz go through the attached advance payment advice</span></div><div><b=
+r></div><div>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</div><div>Thanking You,=
+</div><div>=C2=A0</div><div>Srungar Interior Decorators</div><div>#13, 18th=
+ Main, Freedom Fighter Nagar, Laggere Main Road, Bangalore -560058.</div><d=
+iv><span lang=3D"EN-IN" style=3D"font-size:11pt;color:blue;font-family:&quo=
+t;Comic Sans MS&quot;"><img height=3D"16" src=3D"https://mail.google.com/ma=
+il/u/0/?ui=3D2&amp;ik=3Da5060f644c&amp;view=3Datt&amp;th=3D12f58f4d642dfca3=
+&amp;attid=3D0.0.1&amp;disp=3Demb&amp;realattid=3Df8b2e07658e208d3_0.3" wid=
+th=3D"24"></span>=C2=A0: 080 - 28396858/9900129683.</div><div>Mail.Id:=C2=
+=A0<a href=3D"mailto:srungar.sid@gmail.com" target=3D"_blank">srungar.sid@g=
+mail.com</a></div><div>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0<a href=3D"mailto:s_srungarinteriordecorators@yahoo.co.in" t=
+arget=3D"_blank">s_srungarinteriordecorators@yahoo.co.in</a></div></div></d=
+iv></div></div><br><div class=3D"gmail_quote"><div dir=3D"ltr" class=3D"gma=
+il_attr">On Tue, Jan 29, 2019 at 2:37 PM Agile Fitness &lt;<a href=3D"mailt=
+o:support@agilefitness.in">support@agilefitness.in</a>&gt; wrote:<br></div>=
+<blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-=
+left:1px solid rgb(204,204,204);padding-left:1ex">Dear Sir / Madam,<br>
+<br>
+Greetings From Agile Fitness Pvt. Ltd.<br>
+<br>
+Item mentioned in PO are exactly as in the BOQ.=C2=A0 Thanks for Placing th=
+e <br>
+order with PO . We will update you back with the delivery date<br>
+<br>
+Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, spo=
+rts <br>
+materials, Sports flooring ,AMC.<br>
+<br>
+Regards,<br>
+Sukdeep D S<br>
+Manager, Sales &amp; service,<br>
+Agile fitness,Malleswaram,Bangalore-4.<br>
+Ph.:+91 9980111255 <a href=3D"http://www.agilefitness.in" rel=3D"noreferrer=
+" target=3D"_blank">www.agilefitness.in</a><br>
+<br>
+On 2019-01-29 08:56, Srungar Interior Decorators wrote:<br>
+&gt; Dear Sir,<br>
+&gt; <br>
+&gt; Pls go through the attached Purchase Order.<br>
+&gt; <br>
+&gt; =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<br>
+&gt; Thanking You,<br>
+&gt; <br>
+&gt; Srungar Interior Decorators<br>
+&gt; #13, 18th Main, Freedom Fighter Nagar, Laggere Main Road, Bangalore<br=
+>
+&gt; -560058.<br>
+&gt;=C2=A0 : 080 - 28396858/9900129683.<br>
+&gt; Mail.Id: <a href=3D"mailto:srungar.sid@gmail.com" target=3D"_blank">sr=
+ungar.sid@gmail.com</a><br>
+&gt;=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <a href=3D"mailto:s_srungarin=
+teriordecorators@yahoo.co.in" target=3D"_blank">s_srungarinteriordecorators=
+@yahoo.co.in</a><br>
+&gt; <br>
+&gt; On Wed, Jan 23, 2019 at 11:46 AM Agile Fitness<br>
+&gt; &lt;<a href=3D"mailto:support@agilefitness.in" target=3D"_blank">suppo=
+rt@agilefitness.in</a>&gt; wrote:<br>
+&gt; <br>
+&gt;&gt; Dear Sir / Madam,<br>
+&gt;&gt; <br>
+&gt;&gt; Greetings from Agile Fitness Pvt. Ltd.<br>
+&gt;&gt; <br>
+&gt;&gt; Please find the attached quote with the best posssible price .<br>
+&gt;&gt; QUoted<br>
+&gt;&gt; price includes all TAXEs and transportation.<br>
+&gt;&gt; <br>
+&gt;&gt; All the=C2=A0 requested items need to be imported and not availabl=
+e in<br>
+&gt;&gt; Indian<br>
+&gt;&gt; market hence needs around 20 days from the date of PO ..<br>
+&gt;&gt; --<br>
+&gt;&gt; Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trai=
+ners,<br>
+&gt;&gt; sports<br>
+&gt;&gt; materials, Sports flooring ,AMC.<br>
+&gt;&gt; <br>
+&gt;&gt; Regards,<br>
+&gt;&gt; Sukdeep D S<br>
+&gt;&gt; Manager, Sales &amp; service,<br>
+&gt;&gt; Agile fitness,Malleswaram,Bangalore-4.<br>
+&gt;&gt; Ph.:+91 9980111255 <a href=3D"http://www.agilefitness.in" rel=3D"n=
+oreferrer" target=3D"_blank">www.agilefitness.in</a> [1]<br>
+&gt;&gt; <br>
+&gt;&gt; On 2019-01-23 05:59, Srungar Interior Decorators wrote:<br>
+&gt;&gt;&gt; Dear sir,<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; Pls share the revised quote.<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<br>
+&gt;&gt;&gt; Thanking You,<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; Srungar Interior Decorators<br>
+&gt;&gt;&gt; #13, 18th Main, Freedom Fighter Nagar, Laggere Main Road,<br>
+&gt;&gt; Bangalore<br>
+&gt;&gt;&gt; -560058.<br>
+&gt;&gt;&gt; : 080 - 28396858/9900129683.<br>
+&gt;&gt;&gt; Mail.Id: <a href=3D"mailto:srungar.sid@gmail.com" target=3D"_b=
+lank">srungar.sid@gmail.com</a><br>
+&gt;&gt;&gt; <a href=3D"mailto:s_srungarinteriordecorators@yahoo.co.in" tar=
+get=3D"_blank">s_srungarinteriordecorators@yahoo.co.in</a><br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; On Tue, Jan 22, 2019 at 3:31 PM Agile Fitness<br>
+&gt;&gt;&gt; &lt;<a href=3D"mailto:support@agilefitness.in" target=3D"_blan=
+k">support@agilefitness.in</a>&gt; wrote:<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt;&gt; Dear Sir / Madam,<br>
+&gt;&gt;&gt;&gt; <br>
+&gt;&gt;&gt;&gt; Greetings From Agile Fitness Pvt. Ltd.<br>
+&gt;&gt;&gt;&gt; <br>
+&gt;&gt;&gt;&gt; Please find the attached quote and provided quote meets al=
+l the<br>
+&gt;&gt;&gt;&gt; requested criterias<br>
+&gt;&gt;&gt;&gt; --<br>
+&gt;&gt;&gt;&gt; Agile Fitness: Fitness equipment=E2=80=99s, Certified fitn=
+ess trainers,<br>
+&gt;&gt;&gt;&gt; sports<br>
+&gt;&gt;&gt;&gt; materials, Sports flooring ,AMC.<br>
+&gt;&gt;&gt;&gt; <br>
+&gt;&gt;&gt;&gt; Regards,<br>
+&gt;&gt;&gt;&gt; Sukdeep D S<br>
+&gt;&gt;&gt;&gt; Manager, Sales &amp; service,<br>
+&gt;&gt;&gt;&gt; Agile fitness,Malleswaram,Bangalore-4.<br>
+&gt;&gt;&gt;&gt; Ph.:+91 9980111255 <a href=3D"http://www.agilefitness.in" =
+rel=3D"noreferrer" target=3D"_blank">www.agilefitness.in</a> [1] [1]<br>
+&gt;&gt;&gt;&gt; <br>
+&gt;&gt;&gt;&gt; On 2019-01-16 10:12, Srungar Interior Decorators wrote:<br=
+>
+&gt;&gt;&gt;&gt;&gt; Dear Sir/Madam,<br>
+&gt;&gt;&gt;&gt;&gt; <br>
+&gt;&gt;&gt;&gt;&gt; As discussed, Pls share the quote for below BOQ.<br>
+&gt;&gt;&gt;&gt;&gt; <br>
+&gt;&gt;&gt;&gt;&gt; =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<br>
+&gt;&gt;&gt;&gt;&gt; Thanking You,<br>
+&gt;&gt;&gt;&gt;&gt; <br>
+&gt;&gt;&gt;&gt;&gt; Srungar Interior Decorators<br>
+&gt;&gt;&gt;&gt;&gt; #13, 18th Main, Freedom Fighter Nagar, Laggere Main Ro=
+ad,<br>
+&gt;&gt;&gt;&gt; Bangalore<br>
+&gt;&gt;&gt;&gt;&gt; -560058.<br>
+&gt;&gt;&gt;&gt;&gt; : 080 - 28396858/9900129683.<br>
+&gt;&gt;&gt;&gt;&gt; Mail.Id: <a href=3D"mailto:srungar.sid@gmail.com" targ=
+et=3D"_blank">srungar.sid@gmail.com</a><br>
+&gt;&gt;&gt;&gt;&gt; <a href=3D"mailto:s_srungarinteriordecorators@yahoo.co=
+.in" target=3D"_blank">s_srungarinteriordecorators@yahoo.co.in</a><br>
+&gt;&gt;&gt;&gt; <br>
+&gt;&gt;&gt;&gt; Dear Sir / Madam,<br>
+&gt;&gt;&gt;&gt; <br>
+&gt;&gt;&gt;&gt; Greetings From AGile Fitness Pvt. Ltd.<br>
+&gt;&gt;&gt;&gt; <br>
+&gt;&gt;&gt;&gt; Please find the attached quote .<br>
+&gt;&gt;&gt;&gt; --<br>
+&gt;&gt;&gt;&gt; Agile Fitness: Fitness equipment=E2=80=99s, Certified fitn=
+ess trainers,<br>
+&gt;&gt;&gt;&gt; sports<br>
+&gt;&gt;&gt;&gt; materials, Sports flooring ,AMC.<br>
+&gt;&gt;&gt;&gt; <br>
+&gt;&gt;&gt;&gt; Regards,<br>
+&gt;&gt;&gt;&gt; Sukdeep D S<br>
+&gt;&gt;&gt;&gt; Manager, Sales &amp; service,<br>
+&gt;&gt;&gt;&gt; Agile fitness,Malleswaram,Bangalore-4.<br>
+&gt;&gt;&gt;&gt; Ph.:+91 9980111255 <a href=3D"http://www.agilefitness.in" =
+rel=3D"noreferrer" target=3D"_blank">www.agilefitness.in</a> [1] [1]<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; Links:<br>
+&gt;&gt;&gt; ------<br>
+&gt;&gt;&gt; [1] <a href=3D"http://www.agilefitness.in" rel=3D"noreferrer" =
+target=3D"_blank">http://www.agilefitness.in</a><br>
+&gt;&gt; Dear Sir / Madam,<br>
+&gt;&gt; <br>
+&gt;&gt; Greetings from Agile Fitness Pvt. Ltd.<br>
+&gt;&gt; <br>
+&gt;&gt; Please find the attached quote with the best posssible price .<br>
+&gt;&gt; QUoted<br>
+&gt;&gt; price includes all TAXEs and transportation.<br>
+&gt;&gt; <br>
+&gt;&gt; All the=C2=A0 requested items need to be imported and not availabl=
+e in<br>
+&gt;&gt; Indian<br>
+&gt;&gt; market hence needs around 20 days from the date of PO ..<br>
+&gt;&gt; --<br>
+&gt;&gt; Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trai=
+ners,<br>
+&gt;&gt; sports<br>
+&gt;&gt; materials, Sports flooring ,AMC.<br>
+&gt;&gt; <br>
+&gt;&gt; Regards,<br>
+&gt;&gt; Sukdeep D S<br>
+&gt;&gt; Manager, Sales &amp; service,<br>
+&gt;&gt; Agile fitness,Malleswaram,Bangalore-4.<br>
+&gt;&gt; Ph.:+91 9980111255 <a href=3D"http://www.agilefitness.in" rel=3D"n=
+oreferrer" target=3D"_blank">www.agilefitness.in</a> [1]<br>
+&gt; <br>
+&gt; --<br>
+&gt; <br>
+&gt; <br>
+&gt; Links:<br>
+&gt; ------<br>
+&gt; [1] <a href=3D"http://www.agilefitness.in" rel=3D"noreferrer" target=
+=3D"_blank">http://www.agilefitness.in</a><br>
+<br>
+Dear Sir / Madam,<br>
+<br>
+Greetings From Agile Fitness Pvt. Ltd.<br>
+<br>
+Item mentioned in PO are exactly as in the BOQ.=C2=A0 Thanks for Placing th=
+e <br>
+order with PO . We will update you back with the delivery date<br>
+<br>
+Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, spo=
+rts <br>
+materials, Sports flooring ,AMC.<br>
+<br>
+Regards,<br>
+Sukdeep D S<br>
+Manager, Sales &amp; service,<br>
+Agile fitness,Malleswaram,Bangalore-4.<br>
+Ph.:+91 9980111255 <a href=3D"http://www.agilefitness.in" rel=3D"noreferrer=
+" target=3D"_blank">www.agilefitness.in</a><br>
+</blockquote></div><br clear=3D"all"><div><br></div><br><div dir=3D"ltr" cl=
+ass=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div>
+<div>=C2=A0</div></div></div></div></div></div></div></div>
+
+--0000000000007b71d10580ac3260--
+--0000000000007b71d40580ac3262
+Content-Type: application/pdf; name="Sid 399 Agile fitness Pvt ltd.pdf"
+Content-Disposition: attachment; 
+	filename="Sid 399 Agile fitness Pvt ltd.pdf"
+Content-Transfer-Encoding: base64
+Content-ID: <f_jrj6gsml0>
+X-Attachment-Id: f_jrj6gsml0
+
+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
+qX3vf7t4QVzOGbVhup8uJ8vyUSdqTXlcw0HTuppPVjdcP/XAEfc3Lt/PBYuO/YMfppfDXsMF6xMf
+OelSCp2X9xxC+e66f3eOHZt4LvfDf+W4U8ddPu7jJ83vG//8XdqRf+4eldPCGB/eoSta7KvdF9eP
+7Lsv/p2ubTuv6BzLJyWrL+qHNxmnjSrEhWu5U/kT8+Ele4Md8vXFHjHtO2+Dp1D296NBvkaxKLYf
+81d3G093ePlgYLPhRp0+sRxX/bdyfcxv/5bXSIq7YCiBdHn1eXl1f+fr43Q7y/b19TeP3DvwVb6R
+r9ZRfL6Vvz689A+lBDS/n5VQ/FWrUMdHFb/E9mX4trzV75bvzesPBlgimv/k+6qqnf+4UX+t9wm5
++S25eod/bS69/yno1633drjG4gbTtHweXN7OsigWs1u/eeyLoVpDre8nn3OtHBVmkHjbeHUcf7/i
+InSs7uIX67fBfQketbi30xbrv7mKjnHL0hKXPH1/Qj7dn3H57N2aWeX64695rERTd6DuBy4rLAf7
+kOS6bulek+X9onyg7QeajplQ4vV4PL/mjPnQ31z+F8lRej5lbmRzdHJlYW0KZW5kb2JqCjYgMCBv
+YmoKNzY2MgplbmRvYmoKNCAwIG9iago8PC9UeXBlL1BhZ2UvTWVkaWFCb3ggWzAgMCA1OTUgODQy
+XQovUm90YXRlIDAvUGFyZW50IDMgMCBSCi9SZXNvdXJjZXM8PC9Qcm9jU2V0Wy9QREYgL0ltYWdl
+QyAvVGV4dF0KL0V4dEdTdGF0ZSAxNiAwIFIKL1hPYmplY3QgMTcgMCBSCi9Gb250IDE4IDAgUgo+
+PgovQ29udGVudHMgNSAwIFIKPj4KZW5kb2JqCjMgMCBvYmoKPDwgL1R5cGUgL1BhZ2VzIC9LaWRz
+IFsKNCAwIFIKXSAvQ291bnQgMQovUm90YXRlIDA+PgplbmRvYmoKMSAwIG9iago8PC9UeXBlIC9D
+YXRhbG9nIC9QYWdlcyAzIDAgUgo+PgplbmRvYmoKNyAwIG9iago8PC9UeXBlL0V4dEdTdGF0ZQov
+T1BNIDE+PmVuZG9iagoxNiAwIG9iago8PC9SNwo3IDAgUj4+CmVuZG9iagoxNyAwIG9iago8PC9S
+MTUKMTUgMCBSL1IxNAoxNCAwIFIvUjEzCjEzIDAgUi9SMTIKMTIgMCBSPj4KZW5kb2JqCjE1IDAg
+b2JqCjw8L1N1YnR5cGUvSW1hZ2UKL0NvbG9yU3BhY2UvRGV2aWNlUkdCCi9XaWR0aCAyMTgKL0hl
+aWdodCAxMTIKL0JpdHNQZXJDb21wb25lbnQgOAovRmlsdGVyL0ZsYXRlRGVjb2RlCi9EZWNvZGVQ
+YXJtczw8L1ByZWRpY3RvciAxNQovQ29sdW1ucyAyMTgKL0NvbG9ycyAzPj4vTGVuZ3RoIDEzOTQ+
+PnN0cmVhbQp4nO3cXWhbZRjA8fc97VbWOWmxruvaKtQVFaGDoXMgSGW0syqlvZg3E1YQhN34gSgI
+fuAY6ISBeCMoSAW9ceiFCNMO16G7UphSFYTO4axlWF2nWxvbrsnr6RqTnJNzkpM0p33S9/+7arN8
+nJF/nycn/dDT09MKkEGTI9ZKz/HGk/sv514SKcekie2IsO5oZRyty7xtWI7fTevPJtWZKX3xX5Ui
+R5Siqc7sblL9beq+raakMANynEyoIz/or6fKDBzI6Go0h3eaHVtCr+Db1/4cz06rp751Li/Ed4Sw
+S52jjt2d6m6OdGVPjueuqgNnnNnFuI4Mdqp11Lv3pu5pKn7NbI4LSTX4lXNhJt4jg53cV5Mn9ppN
+Nf7LQ5f1B+f16z/xehFxObrLPNxa5KQ4m2PfKWdiNv6Dgq0G2tUrXckNTqGRl85xZlHvOcFoRIx6
+W9Sh203nFs+ADF7Wkwm170tntQ8QNnFz7G8z3dsK7et0judndP8o0xExcnPsbjb97RFyHL+qB0+T
+I2Lk5nj/VjNwS4RlTY6IW2COPuSIVUKOEIRlDUGYjhCEHCEIyxqCMB0hCDlCEJY1BGE6QhByhCAs
+awjCdIQg5AhBWNYQhOkIQcgRgrCsIQjTEYKQIwRhWUMQpiMEIUcIYuOyNurkPwf3J6JeffeNb4zc
+EO0vYYY+4h9vX3r+heW/z1r/7N8NXSu6N889u/+XYdUw1FOxe1xTNk7HEnNMW0lGMeU4P9xwaVSp
+B45vJ8fqVV6Oro0Hzjb1dpTziDHkmG5Rrf8cLVrWRePIPutLKrC4K8WeHH2sztF1baT3zw+/SX8i
+5rknR0tzNOr87JFdV8aXP5MyIO3JkWXtlzsgK3tqXDZ7cvQhR2XGnr54bFjl3SR7+fUm8k6S0qM0
+8FQme9vO125+8dAG7xlPWl5qAdfJe7jqRY4Vy7Gl71xeKNFz3DeffT3gl3tGb2GOLGu/nGXtecpz
+chyqHx32v3kUNPaCchyqV8OJkBaV71b25ehje47eU5mhm95/sy7zTzlT87psEO6jLIz11OU1FJBj
+Rs5q9j5otuwMXjtamqPnrUfvc+9NKnQ4Rckx8EhyHtp/5/bkyLL+/5r+zegZjcqXVHgWxXMMuW3Y
+a1ZlU44+6znHkuS3m5tLgW8hFs0x7KuiwFcOOdqcY/Aizkmq0GlEsRzDtzw5WrWsi8s7h/DcVWVy
+9L8GCDxUa3P0Wc85rvBbLORYWeRIjoLYvqzJURSmIzkKQo7kKAjLmhwFYTpWf44F34qqLuRYrTmG
+/ZBRVWNZV2uOAT8QVP1dMh2rNseg7y0J+cWJspFjtea4zPt7t+X/JrgQNi5riGXjdIRY5AhBWNYQ
+hOkIQcgRgrCsIQjTEYKQIwRhWUMQpiMEIUcIwrKGIExHCEKOEIRlDUGYjhCEHCEIyxqCMB0hCDlC
+EJY1BGE6QhByhCAsawhS0nRUg6ed1Tow2Ggpx2Yz0B4hx19n1SOnyBExcnPsa1U9LancC4OX9V/z
+unuEZY0YuTkO3Wa6GiNMx8WU2fN5zVxytQ4N9nlwu3p1p9lcGyFH18vf608mGJCIy3N3qYMdKd+F
+wcva9XtC9Y/qhRRFovJqtPpir9m2qdBoVLk5uj66oA+PkSMq78k7zBOdRVpUvhxdb/2s3xmnSFTS
+o7eal7pMYFWhyzrj49/00R91gtMarNhGxzxzp3qsI7jFfAE5uqbm1Hu/6E8n9JVrlT082GJzrXqo
+1Ty+w7TVl3Cr4ByXuas+sajmkiq5FHfxxQ9opR2t6mqMm2OUiVh8WQNrhRwhCDlizfg2tSJHiJLO
+MdMpH/DBqn0QmiMgATlCEHKEIOQIQcgRgpAjBPkPmTpgSQplbmRzdHJlYW0KZW5kb2JqCjE0IDAg
+b2JqCjw8L1N1YnR5cGUvSW1hZ2UKL0NvbG9yU3BhY2UvRGV2aWNlUkdCCi9XaWR0aCA1NzUKL0hl
+aWdodCA4MQovQml0c1BlckNvbXBvbmVudCA4Ci9GaWx0ZXIvRmxhdGVEZWNvZGUKL0RlY29kZVBh
+cm1zPDwvUHJlZGljdG9yIDE1Ci9Db2x1bW5zIDU3NQovQ29sb3JzIDM+Pi9MZW5ndGggMjE4NT4+
+c3RyZWFtCnic7d3Lq01vHMfxr1IoyYiS20DJRMxIEaVM5JIYkIlClJTyRygDZSAUGR3qcIqBSygJ
+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
+NzEx0fiRezusreP6twi6jyRIex5BnXsnev7B85e7Z6w86vfFWsj12MGQfvmfJpA/X2mtSr6HOOTg
+9cfVR61t/1h5/mNUlyVy6v1rz9OqWP4PVyi7auUmd+uzNtwvPYj6kYx8epn88zptQ05e7Z4Gh7e5
+L6RXJ9JLSK8K6dWF9MpBeuUgvTqRXkJ6VUivLqRXDtIrx1DumAcAYKhILwBAeUgvAEB5SC8AQHlI
+LwBAeUgvAEB5SC8AQHlILwBAeUgvAEB5SC8AQHlILwBAeUgvAEB5SC8AQHlILwBAeUgvAEB5SC8A
+QHlILwBAeUgvAEB5SC8AQHlILwBAeUgvAEB5SC8AQHlILwBAeUgvAEB5SC8AQHlILwBAeUgvAEB5
+SC8AQHlILwBAeUgvAEB5SC8AQHn+AY/vxmgKZW5kc3RyZWFtCmVuZG9iagoxMyAwIG9iago8PC9T
+dWJ0eXBlL0ltYWdlCi9Db2xvclNwYWNlL0RldmljZVJHQgovV2lkdGggMTE4NwovSGVpZ2h0IDEy
+NQovQml0c1BlckNvbXBvbmVudCA4Ci9GaWx0ZXIvRmxhdGVEZWNvZGUKL0RlY29kZVBhcm1zPDwv
+UHJlZGljdG9yIDE1Ci9Db2x1bW5zIDExODcKL0NvbG9ycyAzPj4vTGVuZ3RoIDQ2ODM+PnN0cmVh
+bQp4nO3dP8skyX0H8NlIiZX4JZydOBcbG3EIh44u3dQIHBw4uhewqQKDcHrpIoxDY+4VnC8XBiOQ
+E2WHjUJh47vbvX1meurPr+rX3bNbz+cT7jPVVdVd3VXf7p7ZF7/5/R8vAAAAfDx+/tM/tT/wQtID
+AAD4uPST3jd/+O9zmgIAAMAuPvnJ/7U/8OLbb789pykAAACcQ9IDAABYjaQHAACwGkkPAABgNZIe
+AADAaiQ9AACA1Uh6AAAAq5H0AAAAViPpAQAArEbSAwAAWI2kBwAAsBpJDwAAYDWSHgAAwGokPQAA
+gNVIegAAAKuR9AAAAFYj6QEAAKxG0gMAAFiNpAcAALAaSQ8AAGA1kh4AAMBqJD0AAIDVSHoAAACr
+kfQAAABWI+kBAACsRtIDAABYjaQHAACwGkkPAABgNZIeAADAaiQ9AACA1Uh6AAAAq5H0AAAAViPp
+AQAArEbSAwAAWI2kBwAAsBpJDwAAYDWSHgAAwGokPQAAgNVIegAAAKuR9AAAAFYj6QEAAKxG0gMA
+AFiNpAcAALAaSQ8AAGA1kh4AAMBqDk16v/unv/nZF1/f/NOrN9/+6tPDKuT5eRpkL19/869/98mj
+27Obrz7/88++HDtjxoq8+/SN6X34fmP9yu/rjfdxqmzhOlRy3fdgkVu1ptw3OrybM/sqV3OibKbW
+bOniliZmnasBcNKcdX6NN252u2m64qvPP7/86uxd83RoTj8ux/X3IXsSnqnDkl55qbTYYpzHWzTp
+TaxS40VKGe/a6J68PtlblbfzU7vZibK97r5zQNJLNDqzry69PreLz5fNNTrT5mZTJL2uzb4X9e5M
+3Hnbt+bLuZUf19/H7Ul4pg5KerUZ38nNzlZMetfLrokHdIkE8SR+qt5usVoulLcqpTNlwz3OJr3t
++Its44j+xhpfKZ0om+hvrs3dzUl6PXcDzkx944GP1R5S+XFVPnRPwjN1TNK7nmfXWX/zIVou6U3c
+XY8X2Syobz+5+WNsf27XiLEUcPOpm03c15ope/OR3ZcWredGt/vl+q+3/dm9v43X8Lr5J1F2vr/J
+NhfExiQ/urqGvnz59dcrXU13Iul9+FsGao5Jek9ns/mCYy2V9Ca+2TpSJHIHZux5Yux7ZDdt7MSx
+7QcyZW//uvf4uGrZ3aZ77w7W/57s79XfykevUThRdr6/yTYXJL/b+PxcX0Lf/O2/fLbM5XQ/kt6H
+v2WgRtLj47ZM0qu8vzbxtajAa4ytfdVdeJc+2ao89pWp8oHMlN38ad+VRTN9BHZh5WDk+ht6A7By
+dc6Une9vrt7mJ59YU7bcDqZf/NtDfxjmAyXpffhbBmokPT5uKyS9+7fN3lw+a8+HE0XCp2Xsc9cr
+9Nevf/tFdXkYDJjFJX+m7KYzuw6P4GPEYKJ++lSuv8Fzodi8TNn5/ubqvRMek7y33bMP/g3QD5Ok
+9+FvGaj5Lum9uV0zNl9Eemfq2/z9L6TUt/zW9gs3X3Vanqni/cbutxC6Qt3dWo4vNI/4zyky/Qpd
+mysfKnxH6q7i0p6J/0JAYaW4LRzb9SeMxkjFb7fW2ecTRQZ+8iHywYEHAeH7Ps1DOV729t/3DHqd
+PBa9+VDoXKq/mceX+5Qdv4Ow5yPXPR9O9c6B8lyX6UOxxt3mo6r7gxK923C3gXcGzrTzZsnCOIvM
+Ma0lzR7rjWvVaSsVjsYG6mh/a78d1bzfF9qy/6IL9vPi5eVyezpdn3WDP3s9kPSmflD7em399/95
+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
+THqX3n7OnBoDK9zx0okvhsy3OtXf3sFuF0+UTbU60+Z2W/ZLev12TtZ3RtLLvPpWerMuMdOdPkve
+TjJ/+Y+12qtVFxrcej001qp+4R+K/a44t3alBmqrv90Nf9fqX19+WTmBDtuTkh5UNJPeW6UTr7O2
+nXvNslsg+X2ZsSpyM+t9vVNfMJkoXbZTv+6aVliTPDTpFSei2GX/hNEYt3/SG74VO1L7yKr6fqKP
+779M2e4Ko19ucv0w3+pUfx+2q3c+SpOn12FJr9bO+abWa9wz6V21eKKd1/29Lr7vTHfYLHk/yWw3
+EKh6c8z775dGN1zcfGFCm7kAJQZqs7+9NzWbZ9Ahe1LSg4pA0gMA+DjNvoIN8NGT9ACAZUl6wLMl
+6QEAy5L0gGdL0gMAliXpAc+WpAcALEvSA54tSQ8AWJakBzxbkh4AsCxJD3i2JD0AYFmSHvBsSXoA
+AACrkfQAAABWI+kBAACsRtIDAABYjaQHAACwGkkPAABgNZIeAADAaiQ9AACA1Uh6AAAAq5H0AAAA
+ViPpAQAArEbSAwAAWI2kBwAAsBpJDwAAYDWSHgAAwGokPQAAgNVIegAAAKuR9AAAAFYj6QEAAKxG
+0gMAAFiNpAcAALAaSQ8AAGA1kh4AAMBqJD0AAIDVSHoAAACrkfQAAABWI+kBAACsRtIDAABYjaQH
+AACwGkkPAABgNZIeAADAaiQ9AACA1bz45//646PbAAAAwIC//rM/tT/w4je/l/QAAAA+Jj//aS/p
+/fsf/uecpgAAALCLv/jJ/7Y/4Ht6AAAAq5H0AAAAViPpAQAArEbSAwAAWI2kBwAAsBpJDwAAYDWS
+HgAAwGr+H+HCdy0KZW5kc3RyZWFtCmVuZG9iagoxMiAwIG9iago8PC9TdWJ0eXBlL0ltYWdlCi9D
+b2xvclNwYWNlL0RldmljZVJHQgovV2lkdGggMTE4NwovSGVpZ2h0IDEyNQovQml0c1BlckNvbXBv
+bmVudCA4Ci9GaWx0ZXIvRmxhdGVEZWNvZGUKL0RlY29kZVBhcm1zPDwvUHJlZGljdG9yIDE1Ci9D
+b2x1bW5zIDExODcKL0NvbG9ycyAzPj4vTGVuZ3RoIDQ3MjU+PnN0cmVhbQp4nO3dvaokSXoG4JoR
+yJOjKxDDgpAv2hc0QiBH1rjHFQIZ484FtCVYY0HIbbetdRaEmCsY1pcjdu+gZetnQZrp03WqKuP/
+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
+AACrkfQAAABWc5v0vpbzAAAAHtxt0gMAAODRPSe9//zDVx//9+t7NwYAAIAJnpMeAAAAy5D0AAAA
+ViPpAQAArEbSAwAAWI2kBwAAsBpJDwAAYDWSHgAAwGr+D8fdybYKZW5kc3RyZWFtCmVuZG9iagox
+OCAwIG9iago8PC9SMTEKMTEgMCBSL1I5CjkgMCBSPj4KZW5kb2JqCjE5IDAgb2JqCjw8L1N1YnR5
+cGUvVHlwZTFDL0ZpbHRlci9GbGF0ZURlY29kZS9MZW5ndGggMjAgMCBSPj5zdHJlYW0KeJxVVglY
+E9fanhgyGQGxkg4oaBLFBRBBEZRFUJG9ARQUL4gisksCFJDFgrVqa+VgvbVarbWCoIhWBVHUsii4
+a1GwohIwoAnYuFWrtt/knvD0Pwn39n/6JM/MmZmzfOd93/N+H48yGUHxeDzT4GR5fnJeemKC4cmJ
+s+Vx40dwE/gIZ/7HXVckmEDJ9j8dhcz5yNykcvwHf1pydmOgfjQUfkDxebzC7fsWZWUX5aSnpuVJ
+7ZdFLneYPt3p/9/M8vT0lK4p+t8XqX9ybnpqpnQqaeQny7OyFcmZed7SRaS3XJ6eKE2VF2Wn5UoT
+kpKSkwzDohPkyRnSwHR5enZ2Vr7UfpGD1HXmzFkzyMU1PF2xZl2uNCohM1cqk0Ymp66TJ+T84yVF
+UR6yhUWZiWF+WUkx4YuykyP8UxYH5ATmpkUG5aVHBa9bGpKfUSBPiP5IsWa5dIbzzFmus93c58z1
+8PSiqBnUJCqWiqD8KWfKjlpMBVBelAs1mVpCBVIzqSlUEDWLmkpFUdOopVQINZuyp5ZRoZQb5UBF
+U+6UI7WcklH/osIoP2ou5USFU4soD4pHWVCjqTGUJSWiPqRYyoqypsZS4ygbypbyJGxQJpSYTPc9
+1cubxovjvRrhOuLrEa0jXvCX8I+bmJmkmBwy6RPYCT4SlAnqaFt6BX1L6CssEO5h7Jgw5kummmlm
++keKRgaOjBv5h+lY0zDTGtO/zDzMvM3CzFaZnTZ7aO5l3mT+elToqKZRv1qkWNy3+B2OWXCtSKUT
+lvN6tXxYqFOwzkMKLkaF9bSFzgVVQKySm1nO4zIhi32AswTvaLxLpxBgcxrvHVIIfqO7IUsA3yhZ
+XEyDOTwWWHBf4kyV7kMyZixXweIpeidswzkJXGkI0FdmeGxIKSxJQ+M+RSXbi3YwC4T7N+3fehBV
+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
+v6ZBLP4SX2vobOtsO3kJX8HjBd1JzcTQH5RXV3EUn1Cea3P26TTTI/jjoupMpQruiMlTzO2ZHjnF
+x0MYFXWYcckY+Qv3cnfOP1pdh466dA8UP9tfdaACK3dUHu/VQw9tW2ilnf9L5zANdkTyzpWeEUFq
+e85tlVMQGhM38z7comfg55LAeXGaBzPNxCTdfsczPZMNLxDEO5lBCSgLbvPi80SguRLAoLj6O+BJ
+JQuxHPkx/A1SYRtLlnMqd5PXixHd8yBa7GBpyeI8qpWiiiWCNFshzcI4iPJ0sPACd0dUT3rUrJe1
+1HIzlN1WfuaemZqwy5rF5cAGnKEXb4SQQE2p2NzI72rZ9yt8RglXFOCz5ioJJ+GvphF1pQ60XM3V
+lo/GsHLgtCPfUfnenip9aQXGxvLNFUGCI30LjsTZ9SaXXanp3tnaU9qrHcKfnurrV2pKse1QRf17
+SojiSDxYeU33ytzspLcKXZ1dJ5zX63S9tR01Rw42HA1W/dv/v8/rECW1ZmYEavqG/u+Jnbx5vnOo
+56x9m454vJYfrMUAxZP1nxH0WlbR5hzdO/1bzybjNJxbkr1FqekbkepINQC5oGWgH+7zxEW04OJU
+xS1ih1STrBYOfH0hdDb41vr5QegxP3+E/gPKrtB5CmVuZHN0cmVhbQplbmRvYmoKMjIgMCBvYmoK
+MTc3MAplbmRvYmoKMTEgMCBvYmoKPDwvQmFzZUZvbnQvUFBJUFdOK0hlbHZldGljYS9Gb250RGVz
+Y3JpcHRvciAxMCAwIFIvVHlwZS9Gb250Ci9GaXJzdENoYXIgMzIvTGFzdENoYXIgMTIxL1dpZHRo
+c1sKMjc4IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDMzMyAyNzggMAo1NTYgNTU2IDU1NiA1NTYg
+NTU2IDU1NiA1NTYgNTU2IDU1NiA1NTYgMjc4IDAgMCAwIDAgMAowIDY2NyA2NjcgNzIyIDcyMiA2
+NjcgNjExIDc3OCA3MjIgMjc4IDAgNjY3IDU1NiA4MzMgNzIyIDc3OAo2NjcgMCA3MjIgNjY3IDYx
+MSAwIDY2NyA5NDQgMCA2NjcgMCAwIDAgMCAwIDAKMCA1NTYgNTU2IDUwMCA1NTYgNTU2IDI3OCAw
+IDU1NiAyMjIgMCA1MDAgMjIyIDgzMyA1NTYgNTU2CjU1NiAwIDMzMyA1MDAgMjc4IDU1NiA1MDAg
+NzIyIDAgNTAwXQovRW5jb2RpbmcvV2luQW5zaUVuY29kaW5nL1N1YnR5cGUvVHlwZTE+PgplbmRv
+YmoKOSAwIG9iago8PC9CYXNlRm9udC9WRERMT1ErSGVsdmV0aWNhLUJvbGQvRm9udERlc2NyaXB0
+b3IgOCAwIFIvVHlwZS9Gb250Ci9GaXJzdENoYXIgMzIvTGFzdENoYXIgMTIxL1dpZHRoc1sKMjc4
+IDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDMzMyAwIDAKMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAg
+MCAwIDAgMAowIDcyMiAwIDAgNzIyIDY2NyA2MTEgMCAwIDAgMCAwIDAgMCA3MjIgMAo2NjcgMCAw
+IDAgNjExIDAgMCAwIDAgMCAwIDAgMCAwIDAgMAowIDU1NiAwIDU1NiA2MTEgNTU2IDAgNjExIDAg
+Mjc4IDAgNTU2IDI3OCA4ODkgNjExIDYxMQowIDAgMCA1NTYgMzMzIDAgMCA3NzggMCA1NTZdCi9F
+bmNvZGluZy9XaW5BbnNpRW5jb2RpbmcvU3VidHlwZS9UeXBlMT4+CmVuZG9iagoxMCAwIG9iago8
+PC9UeXBlL0ZvbnREZXNjcmlwdG9yL0ZvbnROYW1lL1BQSVBXTitIZWx2ZXRpY2EvRm9udEJCb3hb
+MCAtMjE4IDkyOSA3NDFdL0ZsYWdzIDQKL0FzY2VudCA3NDEKL0NhcEhlaWdodCA3NDEKL0Rlc2Nl
+bnQgLTIxOAovSXRhbGljQW5nbGUgMAovU3RlbVYgMTM5Ci9NaXNzaW5nV2lkdGggMjc4Ci9DaGFy
+U2V0KC90d28vTC9BL3kvbi9jL3RocmVlL00vQi9vL2QvWS9mb3VyL04vQy9wL2UvZml2ZS9PL0Qv
+Zi9zaXgvUC9FL3Ivc2V2ZW4vRi9zL2gvZWlnaHQvUi9HL3QvaS9uaW5lL1MvSC91L2NvbG9uL1Qv
+SS92L2svdy9sL2EvVi9LL20vYi9XL3NwYWNlL2h5cGhlbi9wZXJpb2QvemVyby9vbmUpL0ZvbnRG
+aWxlMyAxOSAwIFI+PgplbmRvYmoKOCAwIG9iago8PC9UeXBlL0ZvbnREZXNjcmlwdG9yL0ZvbnRO
+YW1lL1ZERExPUStIZWx2ZXRpY2EtQm9sZC9Gb250QkJveFswIC0yMTkgODI0IDcyOV0vRmxhZ3Mg
+NAovQXNjZW50IDcyOQovQ2FwSGVpZ2h0IDcyOQovRGVzY2VudCAtMjE5Ci9JdGFsaWNBbmdsZSAw
+Ci9TdGVtViAxMjMKL01pc3NpbmdXaWR0aCAyNzgKL0NoYXJTZXQoL0EveS9uL2Mvby9kL04vZS9E
+L1AvRS9nL0Yvcy90L2kvVC9rL3cvbC9hL20vc3BhY2UvaHlwaGVuKS9Gb250RmlsZTMgMjEgMCBS
+Pj4KZW5kb2JqCjIgMCBvYmoKPDwvUHJvZHVjZXIoR1BMIEdob3N0c2NyaXB0IDguMTUpCi9DcmVh
+dGlvbkRhdGUoRDoyMDE5MDEzMDE3NTg0OSkKL01vZERhdGUoRDoyMDE5MDEzMDE3NTg0OSkKL1Rp
+dGxlKGRvY3VtZW50MSkKL0NyZWF0b3IoUFNjcmlwdDUuZGxsIFZlcnNpb24gNS4yLjIpCi9BdXRo
+b3IodXNlcik+PmVuZG9iagp4cmVmCjAgMjMKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDA4MDE5
+IDAwMDAwIG4gCjAwMDAwMjkzNjUgMDAwMDAgbiAKMDAwMDAwNzk1MSAwMDAwMCBuIAowMDAwMDA3
+NzY3IDAwMDAwIG4gCjAwMDAwMDAwMTUgMDAwMDAgbiAKMDAwMDAwNzc0NyAwMDAwMCBuIAowMDAw
+MDA4MDY3IDAwMDAwIG4gCjAwMDAwMjkwOTEgMDAwMDAgbiAKMDAwMDAyODMzMiAwMDAwMCBuIAow
+MDAwMDI4NzE4IDAwMDAwIG4gCjAwMDAwMjc4ODUgMDAwMDAgbiAKMDAwMDAxNzA3MiAwMDAwMCBu
+IAowMDAwMDEyMTg1IDAwMDAwIG4gCjAwMDAwMDk3OTkgMDAwMDAgbiAKMDAwMDAwODIwMyAwMDAw
+MCBuIAowMDAwMDA4MTA4IDAwMDAwIG4gCjAwMDAwMDgxMzggMDAwMDAgbiAKMDAwMDAyMjAwMSAw
+MDAwMCBuIAowMDAwMDIyMDQyIDAwMDAwIG4gCjAwMDAwMjU5ODcgMDAwMDAgbiAKMDAwMDAyNjAw
+OCAwMDAwMCBuIAowMDAwMDI3ODY0IDAwMDAwIG4gCnRyYWlsZXIKPDwgL1NpemUgMjMgL1Jvb3Qg
+MSAwIFIgL0luZm8gMiAwIFIKL0lEIFsoIp00gxYHZkxO5WgTJcE3+SkoIp00gxYHZkxO5WgTJcE3
++SldCj4+CnN0YXJ0eHJlZgoyOTU0MwolJUVPRgo=
+--0000000000007b71d40580ac3262--

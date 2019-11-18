@@ -1,0 +1,127 @@
+Return-Path: <bounce-63680404@bounce.mail-zg367.getresponse.com>
+Delivered-To: Sukdeep@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP id 4CQGIqtOSVz96wkAwqAP9w
+	for <Sukdeep@agilefitness.in>; Thu, 24 Jan 2019 05:35:39 +0000
+Return-path: <bounce-63680404@bounce.mail-zg367.getresponse.com>
+Envelope-to: Sukdeep@agilefitness.in
+Delivery-date: Thu, 24 Jan 2019 05:35:39 +0000
+Received: from mta-23.gamma.getresponse.com ([104.160.65.23]:57115)
+	by md-in-36.webhostbox.net with esmtp (Exim 4.91)
+	(envelope-from <bounce-63680404@bounce.mail-zg367.getresponse.com>)
+	id 1gmXfp-002pAr-6e
+	for Sukdeep@agilefitness.in; Thu, 24 Jan 2019 05:35:39 +0000
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="UTF-8"
+Date: Thu, 24 Jan 2019 05:35:23 +0000
+DKIM-Signature: a=rsa-sha256; b=NHI5bSkvm3B6bj/wLhzmJAQqB8vVvhCvrUv0QBgFejrQ5wFfHTlfb3UB0RwdpZSmOhx0IH8kNcKHanWc7BMEKCQSWdV1Zs99tzy2JyY7y5CMdWEd318pGsDxf1c+sye1QHphCvtIlQoED5UP5zEFOynBadfJ3cNeMZYD71p0oPk=; bh=U8quQLm/7tv2vfs61nNAEHlOryf4pB1+to3PJp9d8Ks=; c=simple/simple; d=mail-zg367.getresponse.com; h=From:To:Subject:Message-ID:List-Unsubscribe; s=k1024c; v=1;
+DKIM-Signature: a=rsa-sha256; b=YO0otHqxfuP+iZ3rkP0z5MYOr0w0LvQDYrLDyVkKMYax8cJ6qplxAMWKxpfTYVNl9K3MYF4RTIMW2SRu/lgVf4Ro1jm3tS/r1/d4gLnx+kWqQYK8J8wy/m5qViPsSB/ol2v0+0V3SwLbWpkLY47pjyCfMYM5sgPF/0OvUpwWdaY=; bh=U8quQLm/7tv2vfs61nNAEHlOryf4pB1+to3PJp9d8Ks=; c=simple/simple; d=connect-kelltontech.com; h=From:To:Subject:Message-ID:List-Unsubscribe; s=4370cabd; v=1;
+From: "Barbie" <barbie@connect-kelltontech.com>
+List-Unsubscribe: <https://app.getresponse.com/one_click_unsubscribe.html?x=a62b&m=5emPZ&s=Ye4grA&u=zlICr&y=T&>, <mailto:listunsubscribe@mail-zg367.getresponse.com?subject=s56bRf2lXBXKs%2BJJni2srnWZvXQk0gH6eiCwWaT4%2F9Ue8%2FzQhfKGVY72bDnqjnPDucuc0DuJtyLiiMC%2F3gtxU3G00XCaVUqguIpnAbqvq4P0MlOsUg1cMtOQ%2FUC1AqRuQVJae9l8Jd%2FimR5vVKCoj2LUoQ%3D%3D>
+Message-ID: <xserial.s56bRf2lXBXKs+JJni2srnWZvXQk0gH6eiCwWaT4/9Ue8/zQhfKGVY72bDnqjnPDucuc0DuJtyLiiMC/3gtxU3G00XCaVUqguIpnAbqvq4P0MlOsUg1cMtOQ/UC1AqRuQVJae9l8Jd/imR5vVKCoj2LUoQ==@mail-zg367.getresponse.com>
+MIME-Version: 1.0
+Reply-To: barbie@connect-kelltontech.com
+Require-Recipient-Valid-Since: Sukdeep@agilefitness.in; Mon, 21 Jan 2019 12:23:17 +0000
+Subject: Follow up - Can we discuss & Meet
+To: "Sukdeep Subbegowda" <Sukdeep@agilefitness.in>
+X-Complaints-To: abuse@mail-zg367.getresponse.com
+X-Authenticated_sender: 
+X-Spam-Status: No, score=1.6
+X-Spam-Score: 16
+X-Spam-Bar: +
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HEADER_FROM_DIFFERENT_DOMAINS=0.001, HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=DYs5VMlW c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=rhUrP1DbJyB1w5x1oLbdwg==:17 a=IkcTkHD0fZMA:10 a=3JhidrIBZZsA:10 a=-uNXE31MpBQA:10 a=aPuTBxQadku3IK_C7aMA:9 a=ob5VaelWhD3YY1SK:21 a=QEXdDO2ut3YA:10 a=Ca_mBNqp7SMA:10 a=J_1fJTa8prIA:10 a=LQ8dOly78yMA:10 a=Orgxfy1ZgbUA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: getresponse.com]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [104.160.65.23 listed in list.dnswl.org]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+ *      domains are different
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  1.1 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ *  0.6 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+X-Spam-Flag: NO
+
+Hello Sukdeep Subbegowda=0D=0A<p>Greetings!</p>=0D=0A<p>I wanted to take a =
+gentle follow up with you with respect to the email shared on the Date 17th=
+ January 2019&nbsp;</p>=0D=0A<p>To re-iterate, Kellton Tech Solutions Ltd a=
+ global IT services company offering a complete spectrum of mobility servic=
+es from envisioning and consulting to mobile-based business solutions and m=
+obile technology services. Around the globe and accelerate their digital tr=
+ansformation journey&nbsp;</p>=0D=0A<p>I&rsquo;d be happy to know and under=
+stand if you are looking to explore any new initiatives/requirements in the=
+ near future wherein a technology company like us could partner with you an=
+d work on the mutual synergies between both organizations.</p>=0D=0A<p>Plea=
+se let me know your convenient time and I shall send an invite for the same=
+.</p>=0D=0A<p>Best Regards</p>=0D=0A<p>Barbie&nbsp;Dutta</p>=0D=0A<p>Sr. Ma=
+nager- Business Development</p>=0D=0A<p>+91-9999344329</p>=0D=0A<p>--------=
+---------------------------------------------------------------------------=
+---------------------------------------------------&nbsp;</p>=0D=0A<p>From:=
+barbie@connect-kelltontech.com</p>=0D=0A<p>To:Sukdeep@agilefitness.in</p>=
+=0D=0A<p>Date: Thursday, January 17th&nbsp;</p>=0D=0A<p>Subject: Can we con=
+nect &amp; discuss</p>=0D=0AHello Sukdeep Subbegowda=0D=0A<p>Greetings!</p>=
+=0D=0A<p>I would like to introduce you to Kellton Tech Solutions, a CMMI Le=
+vel 5 company with strong expertise in&nbsp;<strong><em>Mobile-based busine=
+ss solutions and Mobile Technology Services</em></strong>. We have delivere=
+d more than 200+ projects in recent years with more than 135+ happy and con=
+tinuing clients across the globe. To name a few: &nbsp;<strong><em>Religare=
+, Aegon &amp; Paytm etc.</em></strong></p>=0D=0A<p>We serve our clients wit=
+h the&nbsp;<strong><em>best in class developers with immense experience in =
+the domain.</em></strong></p>=0D=0A<p>Major offering in Mobile Application =
+includes the following;</p>=0D=0A<ul>=0D=0A<li><strong><em>IOS Application =
+Development</em></strong></li>=0D=0A<li><strong><em>Android Application Dev=
+elopment</em></strong></li>=0D=0A<li><strong><em>Mobile Application Design<=
+/em></strong></li>=0D=0A<li><strong><em>Progressive Web App Development</em=
+></strong></li>=0D=0A<li><strong><em>Hybrid Application Development</em></s=
+trong></li>=0D=0A<li><strong><em>Enterprise Mobility</em></strong></li>=0D=
+=0A</ul>=0D=0A<p>I'm reaching out to understand if you would be&nbsp;intere=
+sted in a quick introductory&nbsp;call&nbsp;sometime this week or next&nbsp=
+;so we can let you know more about our offerings and solutions, we have del=
+ivered so far and how we can help you with any of your Digital initiatives.=
+</p>=0D=0A<p>Please let me know your convenient time and I shall send an in=
+vite for the same.</p>=0D=0A<p>To know more, please&nbsp;https://www.kellto=
+ntech.com/enterprise-mobility-services</p>=0D=0A<p>Best Regards</p>=0D=0A<p=
+>Barbie&nbsp;Dutta</p>=0D=0A<p>Sr. Manager- Business Development</p>=0D=0A<=
+p>+91-9999344329</p>=0D=0A<table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" align=3D"center" border=3D"0" class=3D"wrapper">=0A    <tr>=0A    =
+    <td valign=3D"top" align=3D"center" class=3D"column" width=3D"auto" sty=
+le=3D"min-width: 320px;margin: 0px; padding: 0px;">=0A            <table bo=
+rder=3D"0" align=3D"left" cellpadding=3D"0" cellspacing=3D"0">=0A          =
+      <tr>=0A                    <td align=3D"left" valign=3D"middle" style=
+=3D"margin: 0; padding:0; padding-left:10px;padding-top:10px">=0A          =
+              <span style=3D"font-family: Arial, Helvetica, sans-serif;colo=
+r: #939598;font-size: 10px;">=0A=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=0A                        </span=
+>=0A                    </td>=0A                </tr>=0A                <tr=
+>=0A                    <td align=3D"left" valign=3D"middle" style=3D"margi=
+n: 0; padding: 0; padding-left:10px;padding-top:10px">=0A                  =
+      <span style=3D"font-family: Arial, Helvetica, sans-serif; color: #939=
+598; font-size: 10px;">=0A                            You may <a href=3D"ht=
+tps://app.getresponse.com/unsubscribe.html?x=3Da62b&m=3D5emPZ&mc=3DJ0&s=3DY=
+e4grA&u=3DzlICr&y=3DS&pt=3Dunsubscribe" style=3D"color: #0985f5; text-decor=
+ation: underline;">unsubscribe</a> or <a href=3D"https://app.getresponse.co=
+m/change_details.html?x=3Da62b&m=3D5emPZ&s=3DYe4grA&u=3DzlICr&y=3DT&pt=3Dch=
+ange_details" style=3D"color:#0985f5; text-decoration: underline;">change y=
+our contact details</a> at any time.=0A                        </span>=0A  =
+                  </td>=0A                </tr>=0A            </table>=0A  =
+      </td>=0A        <td valign=3D"top" align=3D"right" style=3D"margin: 0=
+px; padding:0px;padding-top:10px;">=0A            <table border=3D"0" align=
+=3D"right" cellpadding=3D"0" cellspacing=3D"0">=0A                <tr>=0A  =
+                  <td align=3D"right" valign=3D"top" style=3D"margin: 0; pa=
+dding: 0;padding-right:10px;">=0A                        <a href=3D"https:/=
+/app.getresponse.com/referral.html?x=3Da62b&c=3DyiTL3&u=3DzlICr&y=3Dw&">=0A=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=0A                        </a>=0A                    </td>=0A    =
+            </tr>=0A            </table>=0A        </td>=0A    </tr>=0A</ta=
+ble><img src=3D"https://app.getresponse.com/open.html?x=3Da62b&m=3D5emPZ&mc=
+=3DJ0&s=3DYe4grA&u=3DzlICr&y=3DS&" width=3D"0" height=3D"0" border=3D"0" />=

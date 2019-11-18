@@ -1,0 +1,197 @@
+Return-Path: <>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP id CCDoNbrFoFvNagQAwqAP9w
+	for <support@agilefitness.in>; Tue, 18 Sep 2018 09:30:34 +0000
+Return-path: <>
+Envelope-to: support@agilefitness.in
+Delivery-date: Tue, 18 Sep 2018 09:30:34 +0000
+Received: from mail-by2nam01hn0207.outbound.protection.outlook.com ([104.47.34.207]:25597 helo=NAM01-BY2-obe.outbound.protection.outlook.com)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.91)
+	id 1g2CL0-001cUt-H7
+	for support@agilefitness.in; Tue, 18 Sep 2018 09:30:34 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=infinera.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=GRC71B5no7w6GwUhk7kWxAo5HdIQgLSQavedSISoZtI=;
+ b=wRsrkMGM26z+kCCDGVmc/zvaXxrhzPU2s9wTvaadM81lb430kwDzgwx+G8XTcrrzsV0tI3uUnB4q2nwnVKKRbTeR4snqum+ImpQeqv9i902wqbf5GvFFtJxIv3wat8PxweMu3Wqjci9t0RKHaw/Rxfc68FWf9oUK0VRaTlc7s04=
+Received: from SN1PR10MB0992.namprd10.prod.outlook.com (10.164.24.150) by
+ SN1PR10MB0431.namprd10.prod.outlook.com (10.162.102.23) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.1143.17; Tue, 18 Sep 2018 09:30:17 +0000
+Received: from SN1PR10MB0992.namprd10.prod.outlook.com ([::1]) by
+ SN1PR10MB0992.namprd10.prod.outlook.com ([fe80::15aa:e9a6:40e0:c459%3]) with
+ Microsoft SMTP Server id 15.20.1143.014; Tue, 18 Sep 2018 09:30:17 +0000
+From: Pradeep Kezhakketil Gopalan Shivanarayanan <PGopalan@infinera.com>
+To: Agile Fitness <support@agilefitness.in>
+Subject: Automatic reply: FW: Need SOW and Quote for the contract renewal -
+ 1-Oct-18 to 30-Sep-19
+Thread-Topic: FW: Need SOW and Quote for the contract renewal - 1-Oct-18 to
+ 30-Sep-19
+Thread-Index:
+ AdQu2lAOp9kLIHulTQWDWm92/XI9DQJjQ2uQAA07PgABS4RF0ADJQ9MwAPl9mwAAMVJGgAAAXPpwANW2tdAAJfhugAAHLrEgAAI/JgABYGJwAAAABlJY
+Date: Tue, 18 Sep 2018 09:30:17 +0000
+Message-ID:
+ <46f7088d7ebb46dd904bac6889fecc1e@SN1PR10MB0992.namprd10.prod.outlook.com>
+References:
+ <SN1PR10MB099254CA09D8D490D0BF1E80AF320@SN1PR10MB0992.namprd10.prod.outlook.com>
+ <f5f2a0f1e9366f80b6545704e49c3574@agilefitness.in>
+ <SN1PR10MB0992AB30369E49D67C5E12C9AF0F0@SN1PR10MB0992.namprd10.prod.outlook.com>
+ <CY1PR10MB09814F3B705161AAD3EC2CBBAF020@CY1PR10MB0981.namprd10.prod.outlook.com>
+ <5f874cbe848bf235a5af81e4776560f8@agilefitness.in>
+ <SN1PR10MB099230AFC39A67EED021D45BAF050@SN1PR10MB0992.namprd10.prod.outlook.com>
+ <62647e73b197f13303fd16afe0c548b9@agilefitness.in>
+ <SN1PR10MB0992FF8E481EEA52DB975CCDAF040@SN1PR10MB0992.namprd10.prod.outlook.com>
+ <060332c3b1106b7d6d6889c7c89920ed@agilefitness.in>,<189b1aa77e9dd8aeff250e8c30d45ad0@agilefitness.in>
+In-Reply-To: <189b1aa77e9dd8aeff250e8c30d45ad0@agilefitness.in>
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: PGopalan@infinera.com
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is ) smtp.mailfrom=<>; 
+x-ms-exchange-parent-message-id:
+ <189b1aa77e9dd8aeff250e8c30d45ad0@agilefitness.in>
+auto-submitted: auto-generated
+x-ms-exchange-generated-message-source: Mailbox Rules Agent
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 3eafc58c-57ba-4cae-6b89-08d61d495854
+x-microsoft-antispam:
+ BCL:0;PCL:0;RULEID:(7020095)(4652040)(8989299)(4534165)(4627221)(201703031133081)(8559020)(8990200)(5600074)(711020)(2017052603328)(7153060);SRVR:SN1PR10MB0431;
+x-microsoft-exchange-diagnostics:
+ 1;SN1PR10MB0431;6:GN4/YFR6rvJG0isZ4UyfemnGn9IyGZsMm06ugoEUnYZK4LLh014dgvmQ3odB36rWbueODNmDfLQOxH6Hrpv9u7f0eEmJMA1Kro4lntsUrq6KPpJYxbgeiG8SguaOouHTyYjcHed781DYSdvgbERAjafEE9B8iulR0sAdgvDUzTiEdlV9ADw5lV+qpD6IYypxYYoIy46r6/bUktj2xshHjqdoYrJIvXA2wBwevxM+fYo4/pvLVMgOusIpA0M2EpqXcfFFeNfvEhI5BlQ7iDSaPFUeh3y/xRPESguP/ViqAHO9nD61ikNdd3Odgq0XPAUSUakqkxnKiTgaWCpfOs/PwzJP+CdZuHpne/7qzpStBGXrbtdZrvyDaR4NemC9v++mZJup5pLYDGj6EeLRAgAK3ObMFxdB9ha7/J9xxCuoBmXdhv+AWpU8B4RCFTJM6HdmG5iDUPWmbw6ZMYH+F4Tjxw==;5:6wx3JzLNRmrlO5Amf7fDlPM08lLRx2hrgVy1cbnquQJIl6IuvHnMGnIJJkZiT6uev+11pf4Ij20rB9iFW8hRMiDtwC2OXkoxORe9wgSBFpq2F+u46A+z1+fBYGIi7Hz5TJ4zacELnJ7flrVGxPonyyCEXKrmC3ATn9MfxDd+1yk=;7:LhYQUaq+jMSoop1m99u9hhhtIFZM6j3p3cWFjGPdqduBgXFUGbAaPDKV+30QT+vhh8gaqImtwFMTWilbSCccxAfoXSM49Q/Eyzfb1bubeZklKZy0MghP+WJ/1IgDShSunGnDLb5SaSlzT0bMyIdNC+x4lvEcUjwozm9KxQeRmoabcPBc1vEXCES46yKULb4qUEQVaTxrlVf2MSVZ7/LnbD7F7aONYps2xDuGlWsWpxhen67jjWzv3h2OtvhLw4ce
+x-ms-traffictypediagnostic: SN1PR10MB0431:
+x-microsoft-antispam-prvs:
+ <SN1PR10MB0431F0EC7EB6F90300D6C00CB81D0@SN1PR10MB0431.namprd10.prod.outlook.com>
+x-exchange-antispam-report-test:
+ UriScan:(28532068793085)(43178223235956)(21748063052155);
+x-ms-exchange-senderadcheck: 1
+x-exchange-antispam-report-cfa-test:
+ BCL:0;PCL:0;RULEID:(8211001083)(6040522)(2401047)(5005006)(8121501046)(93006095)(3002001)(3231355)(944501410)(52105095)(10201501046)(149027)(150027)(6041310)(20161123560045)(201703131423095)(201702281528075)(20161123555045)(201703061421075)(201703061750153)(20161123562045)(20161123558120)(20161123564045)(201708071742011)(7699050);SRVR:SN1PR10MB0431;BCL:0;PCL:0;RULEID:;SRVR:SN1PR10MB0431;
+x-forefront-prvs: 0799B1B2D7
+x-forefront-antispam-report:
+ SFV:NSPM;SFS:(10009020)(50650200002)(396003)(366004)(346002)(376002)(39860400002)(136003)(189003)(199004)(14444005)(446003)(108616005)(6916009)(6436002)(498600001)(42882007)(3110400002)(53096004)(476003)(316002)(93886005)(24736004)(76176011)(2906002)(11346002)(99286004)(68736007)(7696005)(256004)(25786009)(8936002)(6506007)(74316002)(106356001)(36005)(486006)(53936002)(105586002)(81166006)(566174002)(78352004)(81156014)(97736004)(558084003)(8676002)(102836004)(54896002)(9686003)(55016002)(5660300001)(6306002)(111220200004)(3720700003)(80100003);DIR:OUT;SFP:1501;SCL:1;SRVR:SN1PR10MB0431;H:SN1PR10MB0992.namprd10.prod.outlook.com;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;MX:0;A:0;
+received-spf: None (protection.outlook.com:
+ SN1PR10MB0992.namprd10.prod.outlook.com does not designate permitted sender
+ hosts)
+x-microsoft-antispam-message-info:
+ u9Qe1Ya+3JQmzms8F1E//sewUF9O433d9jjCe0N0p/SflW46iCGCHAyj1mzA9rr1/cL2Vq9eJZWPt7yw1ea+V2v9pTYAdylvh6+C06NNgsbQ7YunpIlaup/TUO3yx6f6UKJLWvDuF7irTruo2fMGWUgi4R3ACgPILmzsM4TDuAbAp4dwxjT4FW6ynyhap5EnL8DR97jA95WErvFy1IKJp0BtN+uPNJgwGsiu9XCxnu0YZD4AZV/nGbcZTANidhE1C1XGo/Wgsp+KJ3Ch1CjyB0+IFr9pLIiOxGGpK2vNxtGyS7yPX4MYXl3IgN/QOvCyMF2xvc4Bp/MCS9jrn0tv6NPyebW0+0yUjDYFVz1XtZY=
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_46f7088d7ebb46dd904bac6889fecc1eSN1PR10MB0992namprd10pr_"
+MIME-Version: 1.0
+X-OriginatorOrg: infinera.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 3eafc58c-57ba-4cae-6b89-08d61d495854
+X-MS-Exchange-CrossTenant-originalarrivaltime: 18 Sep 2018 09:30:17.0619
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 285643de-5f5b-4b03-a153-0ae2dc8aaf77
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1PR10MB0431
+X-Authenticated_sender: 
+X-Spam-Status: No, score=0.4
+X-Spam-Score: 4
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, KAM_NUMSUBJECT=0.5, RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=X5d81lbe c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=XLwk/flg9bK2IbKqzd+p90dOJos=:19 a=HdXb1eDgNi0A:10 a=xqWC_Br6kY4A:10 a=JBFolyDoGHsA:10 a=NhGpMqpLbmgA:10 a=4pqBI2ChTjgA:10 a=jmdcTMp_Gj4A:10 a=ZZnuYtJkoWoA:10 a=4cna53cZCuFznSQFduYA:9 a=CjuIK1q_8ugA:10 a=wtmh_RjIWP5FVpBW:21 a=gKO2Hq4RSVkA:10 a=UiCQ7L4-1S4A:10 a=hTZeC7Yk6K0A:10 a=frz4AuCg-hUA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: infinera.com]
+ *  0.5 KAM_NUMSUBJECT Subject ends in numbers
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [104.47.34.207 listed in list.dnswl.org]
+ * -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+X-Spam-Flag: NO
+
+--_000_46f7088d7ebb46dd904bac6889fecc1eSN1PR10MB0992namprd10pr_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi, I will be on full day training today with no access to Phone and Mails.=
+ Any help required please raise a helpdesk ticket for quick response. Thank=
+s.
+
+Regards
+Pradeep K G S
+
+
+
+--_000_46f7088d7ebb46dd904bac6889fecc1eSN1PR10MB0992namprd10pr_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style>
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt;text-autospace:none"><=
+span style=3D"font-size:10.0pt;font-family:&quot;Times New Roman&quot;,seri=
+f">Hi, I will be on full day training today with no access to Phone and Mai=
+ls. Any help required please raise a helpdesk ticket
+ for quick response. Thanks.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:10.0pt;font-family:&quot;Times New Roman&quot;,serif"><br>
+Regards<br>
+Pradeep K G S<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt;text-autospace:none"><=
+span style=3D"font-size:10.0pt;font-family:&quot;Times New Roman&quot;,seri=
+f"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:8.5pt;font-family:&quot;Segoe UI&quot;,sans-serif"><o:p>&nbsp;</o:p></sp=
+an></p>
+</div>
+</body>
+</html>
+
+--_000_46f7088d7ebb46dd904bac6889fecc1eSN1PR10MB0992namprd10pr_--

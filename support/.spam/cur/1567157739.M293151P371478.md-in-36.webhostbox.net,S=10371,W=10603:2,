@@ -1,0 +1,232 @@
+Return-Path: <jane@seocompanysg.com>
+Delivered-To: support+spam@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP
+	id CAdiEevtaF0WqwUAwqAP9w
+	(envelope-from <jane@seocompanysg.com>)
+	for <support+spam@agilefitness.in>; Fri, 30 Aug 2019 09:35:39 +0000
+Return-path: <jane@seocompanysg.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Fri, 30 Aug 2019 09:35:39 +0000
+Received: from server12.naverpro.site ([157.245.99.183]:40860)
+	by md-in-36.webhostbox.net with esmtp (Exim 4.92)
+	(envelope-from <jane@seocompanysg.com>)
+	id 1i3dJd-001tnD-Ld
+	for support@agilefitness.in; Fri, 30 Aug 2019 09:35:39 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=asdzxcv; d=seocompanysg.com;
+ h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type;
+ bh=yxO671fbamsAC/6sFGe+fEaLwGI=;
+ b=AF34d4oZHPWHQHCFZp8t1V8utwaLrA0Cbv9DI0lErFEgJa8zUw6ZIXCs9++4A6RUhWXlYNbRXyvV
+   WCkr9aoiQWolOiCUeZQ2dxVBBlUpkRvoxyQJ1yHAKdw+CXk7ZwYKmcg93vqzgQ7sRenpL5TN2xkY
+   BJ2w4ETAHwYcS3LKHLY=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=asdzxcv; d=seocompanysg.com;
+ h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type; i=jane@seocompanysg.com;
+ bh=yxO671fbamsAC/6sFGe+fEaLwGI=;
+ b=kcLVkOFvV/aW5pTtvtZy+hzzvgauU5qx2Je/t1K9/aXC0YRKalrzipWxj/NdFCCDOSvuTjA1KXhv
+   LiI8fkAGuyBUnCfxvEtxZ5fXCWjtHjO080EmOezWnDSTah1TmtNIKaCBBaOE0C2ImiSQWWsmRU9s
+   PQgSa3YrK4toE7A7pmA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=asdzxcv; d=seocompanysg.com;
+ b=PDtbyZTLi6ZilvQrrDn+Y6PzLoLFRCS1TdcY0E9RRZalg8yrgiEYLwrYqkaPe3W50b8hJ0NRHjTR
+   sDD2qhVHwNxdV1J+fXUNKXZDdiwKTKsZIaqWvAqFtFbwEy5pGybgwOi6dZZkIgvNN/iGX4j/k4p8
+   AntKqvBaW6Mb1qGBWDo=;
+From: "Jane Wong                   " <jane@seocompanysg.com>
+To: <support@agilefitness.in>
+Date: Fri, 30 Aug 2019 15:03:40 +0530
+Message-ID: <1b2f01d55f16$43eb48f0$cbc1dad0$@seocompanysg.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_1B30_01D55F44.5DA42130"
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AdVfFaKtVOgbhnjOQIaKZfMlKrUTTA==
+Content-Language: en-us
+X-Authenticated_sender: 
+X-Spam-Status: Yes, score=8.2
+X-Spam-Score: 82
+X-Spam-Bar: ++++++++
+X-Spam-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, DKIM_VALID_EF=-0.1, DOS_OUTLOOK_TO_MX=1.449, HTML_MESSAGE=0.001, URIBL_BLACK=7
+ 
+ *  7.0 URIBL_BLACK Contains an URL listed in the URIBL blacklist
+ *      [URIs: seocompanysg.com]
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *       valid
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from
+ *      author's domain
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.1 DKIM_VALID_EF Message has a valid DKIM or DK signature from
+ *      envelope-from domain
+ *  1.4 DOS_OUTLOOK_TO_MX Delivered direct to MX with Outlook headers
+X-Spam-Flag: YES
+Subject: ***SPAM***  you and your competitors
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_1B30_01D55F44.5DA42130
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+Hope you are well.
+
+I was going through your website and I found it impressive!!! However, when
+I search for your business keywords I see your competitors ranked on 1st
+page whereas I am unable to see your website anywhere on the first page of
+search engine results.
+
+Over 85% of online searchers focus on the 1st page of any search engine
+result. 
+
+I was just going through your website and would like to share some
+observations pertaining to it. Though your website is great and has all the
+information that prospective customers of your niche will search for, it has
+a lot of scope for getting optimized in line with Search Engine Guidelines.
+I'm not just saying this because I have to but can back it with facts and
+relevant information.
+
+We have conducted a meticulous SEO audit of your website and found that it
+can give you more return than it might be giving you at present. We would be
+happy to share a free of cost and no obligations audit and keywords
+recommendation report so that you can have a clear picture of what can be
+done to optimize your website further.
+
+Let me know if you are interested, I will send you a free of cost and no
+obligations audit and keywords recommendation report for your website?
+
+ 
+
+Thanks & Regards,
+
+Jane Wong                   
+
+Business Development Manager
+
+Contact No:- +65 3158 0551
+
+ 
+
+PS: I have studied your website, prepared an audit report and believe I can
+help with your business promotion. If you still want us to not contact you,
+ask to remove and I will not contact again.
+
+ 
+
+ 
+
+
+------=_NextPart_000_1B30_01D55F44.5DA42130
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US><div =
+class=3DWordSection1><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:#222222'>Hi,<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:#222222'>Hope you are =
+well.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:#222222'>I was going through your =
+website and I found it impressive!!! However, when I search for your =
+business keywords I see your competitors ranked on 1st page whereas I am =
+unable to see your website anywhere on the first page of search engine =
+results.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:#222222'>Over&nbsp;85% of online =
+searchers focus on the 1<sup>st</sup>&nbsp;page of any search engine =
+result.<b>&nbsp;</b></span><span =
+style=3D'color:black'><o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>I was just going through your =
+website and would like to share some observations pertaining to it. =
+Though your website is great and has all the information that =
+prospective customers of your niche will search for, it has a lot of =
+scope for getting optimized in line with Search Engine Guidelines. =
+I&#8217;m not just saying this because I have to but can back it with =
+facts and relevant information.<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>We have conducted a meticulous =
+SEO audit of your website and found that it can give you more return =
+than it might be giving you at present. We would be happy to share a =
+free of cost and no obligations audit and keywords recommendation report =
+so that you can have a clear picture of what can be done to optimize =
+your website further.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><b><span style=3D'color:black'>Let me know if you are =
+interested, I will send you a free of cost and no obligations audit and =
+keywords recommendation report for your =
+website?<o:p></o:p></span></b></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><b><span =
+style=3D'color:black'><o:p>&nbsp;</o:p></span></b></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>Thanks &amp; =
+Regards,<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>Jane =
+Wong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>Business Development =
+Manager<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'>Contact No:- <span lang=3DEN>+65 3158 0551</span><span =
+style=3D'color:black'><o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:#222222'>&nbsp;</span><span =
+style=3D'color:black'><o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'background:white'><span style=3D'color:#222222'>PS: I have =
+studied your website, prepared an audit report and believe I can help =
+with your business promotion. If you still want us to not contact you, =
+ask to remove and I will not contact again.</span><o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_1B30_01D55F44.5DA42130--
+

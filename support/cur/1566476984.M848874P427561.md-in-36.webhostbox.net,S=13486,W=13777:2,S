@@ -1,0 +1,291 @@
+Received: from mail-eopbgr700087.outbound.protection.outlook.com ([40.107.70.87]:13792 helo=NAM04-SN1-obe.outbound.protection.outlook.com)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <PGopalan@infinera.com>)
+	id 1i0mDe-001n3J-Ea
+	for support@agilefitness.in; Thu, 22 Aug 2019 12:29:44 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=SA8aDe1rIccJNoFq1zF/YSgBrC2wr4GDXZ3XwPT/fUJN6QrZb3zwSn1ldVDexiM1OJV7oYfUliYJ5FpYJIh7Tndksw9+fSFhvevCvOPuz5Gr4VdmEGo9HjrmjbaU2e5uMfiMwI4l6nFpEImGcxc1Tc10u8tgh93a7fhW0lz2Lz0vT7pTSO3BAVzzQU2uI9cCe/94Jl9oel4ovpYwIbXvfAZER0/v2zrOe7hd6p9bbgBhgWd92uEhheyrSiASHsya4UKBXHv8JJ60a1dPOHjpsc7VU5laxXQfc13yo7MSSh7MzaP3ng2CrcdxU6urXu7aEuX9oLE0JFW87IxWOtYAZw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=3Z037jTTfGldZXgCRcCES7ZhOJZ8oZtH4rYL2EE4Etw=;
+ b=KAs/rC0h59i61zVsU6qt31HHiI2FrVAQYP2vtJLViV0DB3HGUlgkjEHgeKPwdFFzdpVKw1PhPewz2QtDaSqd0rudYT5MyVzcm/7d02VTRCREdWrJwRowHtqAMr+sgr+/vY03pHc9nEIGdpOg5BKAwDa0DDBOUjZC30RN33w4tcwK6hVa1Z4VGRE2yDH69XQgehxeP9c0CvDw/0M7uaU9T0g/GCXWGiMmcdeXFt85q6JZN+JFaQLGZ/2XmOmjiqP21nShQd8Y5C10p3yUjch99u2XsnAjHrq1fAd8S3J2pRxM6n8c7M2yP/3JxGpv9PKq8kZdXLseAgauRV1Ljy1ifw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=infinera.com; dmarc=pass action=none header.from=infinera.com;
+ dkim=pass header.d=infinera.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=infinera.com;
+ s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=3Z037jTTfGldZXgCRcCES7ZhOJZ8oZtH4rYL2EE4Etw=;
+ b=ZJ4LLg6gDIyEgF7jybmvLHDkuA4H05+NM77BYbJZ9GaUztjHnxTtFHpLN04EmguSG3q8H2vY5Qz5joXHVPMjuHkbJXlAo5+Dc1vy2hFKK73LtcZnb7l1bpq4yxlOeb1ZDRjPzeh4UzZJXpIMLJiZwES38LHdYBOgM83lTbqhPo4=
+Received: from BYAPR10MB3688.namprd10.prod.outlook.com (20.179.88.204) by
+ BYAPR10MB3430.namprd10.prod.outlook.com (20.177.187.205) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2178.18; Thu, 22 Aug 2019 12:29:19 +0000
+Received: from BYAPR10MB3688.namprd10.prod.outlook.com
+ ([fe80::4899:ef6c:79e0:37a3]) by BYAPR10MB3688.namprd10.prod.outlook.com
+ ([fe80::4899:ef6c:79e0:37a3%3]) with mapi id 15.20.2178.020; Thu, 22 Aug 2019
+ 12:29:19 +0000
+From: Pradeep Kezhakketil Gopalan Shivanarayanan <PGopalan@infinera.com>
+To: 'Sukdeep D S' <sukdeepds@gmail.com>, Agile Fitness
+	<support@agilefitness.in>
+CC: Chethan Sreedharachar <CSreedharachar@infinera.com>
+Subject: RE: Need quote for renewal - 1st oct 2019 to 30th Sept 2020
+Thread-Topic: Need quote for renewal - 1st oct 2019 to 30th Sept 2020
+Thread-Index: AdVWbvTUTQM0P4zPTBez1sDCUkWn8wCdjz9w
+Date: Thu, 22 Aug 2019 12:29:19 +0000
+Message-ID:
+ <BYAPR10MB368819718CBA9189FBFF9C9FAFA50@BYAPR10MB3688.namprd10.prod.outlook.com>
+References:
+ <BYAPR10MB36886A6DD8F988B038EE84A9AFA80@BYAPR10MB3688.namprd10.prod.outlook.com>
+In-Reply-To:
+ <BYAPR10MB36886A6DD8F988B038EE84A9AFA80@BYAPR10MB3688.namprd10.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=PGopalan@infinera.com; 
+x-originating-ip: [182.76.161.229]
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 6bb85e9b-d0b5-4f1c-2f0d-08d726fc5b0f
+x-microsoft-antispam:
+ BCL:0;PCL:0;RULEID:(2390118)(7020095)(4652040)(8989299)(5600166)(711020)(4605104)(1401327)(4534185)(4627221)(201703031133081)(201702281549075)(8990200)(2017052603328)(7193020);SRVR:BYAPR10MB3430;
+x-ms-traffictypediagnostic: BYAPR10MB3430:
+x-ms-exchange-purlcount: 2
+x-ms-exchange-transport-forked: True
+x-microsoft-antispam-prvs:
+ <BYAPR10MB3430B026E6DB98753D330C31AFA50@BYAPR10MB3430.namprd10.prod.outlook.com>
+x-ms-oob-tlc-oobclassifiers: OLM:4303;
+x-forefront-prvs: 01371B902F
+x-forefront-antispam-report:
+ SFV:NSPM;SFS:(10009020)(4636009)(136003)(39850400004)(396003)(366004)(346002)(376002)(189003)(199004)(66446008)(52536014)(7736002)(33656002)(229853002)(6506007)(53546011)(5660300002)(4744005)(102836004)(80792005)(6436002)(86362001)(107886003)(478600001)(53936002)(110136005)(4326008)(9326002)(26005)(81156014)(7696005)(8936002)(8676002)(99286004)(81166006)(76176011)(2906002)(14454004)(66066001)(25786009)(6246003)(316002)(486006)(256004)(476003)(6116002)(76116006)(66946007)(66476007)(66556008)(64756008)(11346002)(446003)(14444005)(790700001)(3846002)(9686003)(71190400001)(186003)(71200400001)(74316002)(55016002)(54896002)(6306002);DIR:OUT;SFP:1101;SCL:1;SRVR:BYAPR10MB3430;H:BYAPR10MB3688.namprd10.prod.outlook.com;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;MX:1;A:1;
+received-spf: None (protection.outlook.com: infinera.com does not designate
+ permitted sender hosts)
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam-message-info:
+ t22caKRaPh39u0JezuNecs27NbFXz2jSUwlHXZ9j8M8OOGmW1bZQ0vQBEMA3ahaUsgxDWyp4Kl7suKqAq2j5UUPykBTvx5IKD8fr9yw2KdYg3TiRFPZdMva3qho2/lNmk8WCMovC5u7n4+RkDbeHmAftFx30bP/me/7bsm5LY7Kji+HRb6U8qkfPCwbol+mzCjHVTqF6C15vJ0OJuVJFCZuULxMZbxkrtrtkk2H9FIZOpFNVw11E/i2pCNCWMpDNB5/wEal8kalfLDvPGCAM7J4B3hF+dge0sTZoxnmfYKfToME4wGX6kvjH3StwEwcYSOecbugIr4+5Xy/5EXOTsql9yRLUfEW4YF+5x7qu1NGLxpEo2fYZt+C4dZmkx8/l9pXOX+34WpjQyaQJWJo55cBmu2jdKg/ZSFT+BCgUykw=
+Content-Type: multipart/alternative;
+	boundary="_000_BYAPR10MB368819718CBA9189FBFF9C9FAFA50BYAPR10MB3688namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: infinera.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 6bb85e9b-d0b5-4f1c-2f0d-08d726fc5b0f
+X-MS-Exchange-CrossTenant-originalarrivaltime: 22 Aug 2019 12:29:19.6101
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 285643de-5f5b-4b03-a153-0ae2dc8aaf77
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: 5K3T7Q79GKsY55+FtCD9KyD5Twa1+QJIHN8KpB/0+pBJ7EM10biN7MRDiYXZUUMCQCk8Wv1BWJ445g0GD8HZ1A==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BYAPR10MB3430
+X-Authenticated_sender: 
+X-Spam-Status: No, score=0.1
+X-Spam-Score: 1
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, HTML_MESSAGE=0.001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was
+ *      blocked.  See
+ *      http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: infinera.com]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ * -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *       valid
+X-Spam-Flag: NO
+X-BoxTrapper-Match: white: 4: pgopalan@infinera.com
+
+--_000_BYAPR10MB368819718CBA9189FBFF9C9FAFA50BYAPR10MB3688namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Sukdeep,
+
+Reminder 1...
+
+Regards,
+Pradeep K G S | Facilities Engineer- India
+Infinera India Pvt. Ltd.,
+Prestige Solitaire , 401,
+Level 3, 6, Brunton Road,
+Bangalore 560-025.
+
+
+From: Pradeep Kezhakketil Gopalan Shivanarayanan
+Sent: Monday, August 19, 2019 2:48 PM
+To: 'Sukdeep D S' <sukdeepds@gmail.com>; Agile Fitness <support@agilefitnes=
+s.in>
+Cc: Chethan Sreedharachar <CSreedharachar@infinera.com>
+Subject: Need quote for renewal - 1st oct 2019 to 30th Sept 2020
+Importance: High
+
+Hi Sukdeep,
+
+Requesting you to share the quote for the renewal of the contract asap.
+
+
+
+
+Regards,
+Pradeep K G S | Facilities Engineer- India
+Infinera India Pvt. Ltd.,
+Prestige Solitaire , 401,
+Level 3, 6, Brunton Road,
+Bangalore 560-025.
+
+
+
+--_000_BYAPR10MB368819718CBA9189FBFF9C9FAFA50BYAPR10MB3688namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Hi Sukdeep,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Reminder 1&#8230;<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Regards,<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Pradeep K G S</span><s=
+pan style=3D"color:#365F91"> |
+</span><span style=3D"color:#8496B0">Facilities Engineer&#8211; India</span=
+><span style=3D"color:#365F91">
+</span><span style=3D"font-size:12.0pt;color:#365F91"><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span lang=3D"EN" s=
+tyle=3D"color:#548DD4">Infinera India Pvt. Ltd.</span></b><b><span style=3D=
+"color:#548DD4">,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#548DD4">Prestige
+</span><span lang=3D"EN" style=3D"font-size:9.0pt;color:#8496B0">Solitaire =
+, 401, <o:p>
+</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Level 3, 6, Brunton Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Bangalore 560-025.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Pradeep Kezhakketil Gopalan Shivanaraya=
+nan <br>
+<b>Sent:</b> Monday, August 19, 2019 2:48 PM<br>
+<b>To:</b> 'Sukdeep D S' &lt;sukdeepds@gmail.com&gt;; Agile Fitness &lt;sup=
+port@agilefitness.in&gt;<br>
+<b>Cc:</b> Chethan Sreedharachar &lt;CSreedharachar@infinera.com&gt;<br>
+<b>Subject:</b> Need quote for renewal - 1st oct 2019 to 30th Sept 2020<br>
+<b>Importance:</b> High<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Hi Sukdeep,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Requesting you to share the quote for the renewal of=
+ the contract asap.
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Regards,<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Pradeep K G S</span><s=
+pan style=3D"color:#365F91"> |
+</span><span style=3D"color:#8496B0">Facilities Engineer&#8211; India</span=
+><span style=3D"color:#365F91">
+</span><span style=3D"font-size:12.0pt;color:#365F91"><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span lang=3D"EN" s=
+tyle=3D"color:#548DD4">Infinera India Pvt. Ltd.</span><span style=3D"color:=
+#548DD4">,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#548DD4">Prestige
+</span><span lang=3D"EN" style=3D"font-size:9.0pt;color:#8496B0">Solitaire =
+, 401, <o:p>
+</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Level 3, 6, Brunton Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Bangalore 560-025.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_BYAPR10MB368819718CBA9189FBFF9C9FAFA50BYAPR10MB3688namp_--
+

@@ -1,0 +1,181 @@
+Return-Path: <frederick@trinityht.com>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net (Dovecot) with LMTP id oZ1RNPpmBlsUYg0AwqAP9w
+	for <support@agilefitness.in>; Thu, 24 May 2018 07:17:14 +0000
+Return-path: <frederick@trinityht.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Thu, 24 May 2018 07:17:14 +0000
+Received: from relay.openradix.in ([43.241.37.235]:33440)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:AECDH-AES256-SHA:256)
+	(Exim 4.89)
+	(envelope-from <frederick@trinityht.com>)
+	id 1fLkUo-0042Ex-Eu
+	for support@agilefitness.in; Thu, 24 May 2018 07:17:14 +0000
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by relay.openradix.in (Postfix) with ESMTP id 98F83223BBA
+	for <support@agilefitness.in>; Thu, 24 May 2018 12:47:19 +0530 (IST)
+Received: from relay.openradix.in ([127.0.0.1])
+	by localhost (relay.openradix.in [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id Bwr9wd06uUBM for <support@agilefitness.in>;
+	Thu, 24 May 2018 12:47:14 +0530 (IST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by relay.openradix.in (Postfix) with ESMTP id C321C223C1C
+	for <support@agilefitness.in>; Thu, 24 May 2018 12:47:13 +0530 (IST)
+DKIM-Filter: OpenDKIM Filter v2.10.3 relay.openradix.in C321C223C1C
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=trinityht.com;
+	s=DCBE0E42-FCD8-11E7-A481-C4477489DFA4; t=1527146233;
+	bh=we6aZFNymndehrTawxyUe8KvKgUlUhXvVdXq8I6JtsU=;
+	h=From:To:MIME-Version:Date:Message-ID;
+	b=VwXsiMtlEzDEYgU4EyY2AkDrW8r6RNUyLMw+a3mSdYX/s5l8mL5jP5l87I4E9z0eC
+	 kRbz0ifaGYQ5QUcUMzy4IdSsB6A6tc6QsvUn7IBGSBf+Q3UdOIlx5+VoyVIp65S1I8
+	 IC5o+8CBv1Ll3jR7mCxATBgSVoywRPuVNSkxKqpM4AER+FAzhWlE7NHSTRfLSxjoqe
+	 rQ4ZWKCHZ6NiJaYLhCCzSpOKy2Z0MqZ85qqMZ/ySiy1wDXS8qyfGUv99LOlSK9l+qj
+	 GUleDnp76J37cH9/CJuiaS20TOU+dxURwkFzkBJATQOG//RoiY5d53JlgTJEpjN6xR
+	 FQX3G/zLUJOng==
+X-Virus-Scanned: amavisd-new at openradix.in
+Received: from relay.openradix.in ([127.0.0.1])
+	by localhost (relay.openradix.in [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id DzkBs_MUDSDV for <support@agilefitness.in>;
+	Thu, 24 May 2018 12:47:13 +0530 (IST)
+Received: from mail.qispine.com (mail.ewrealty.in [118.185.230.89])
+	by relay.openradix.in (Postfix) with ESMTPSA id C7B6D223C3E
+	for <support@agilefitness.in>; Thu, 24 May 2018 12:47:12 +0530 (IST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.qispine.com (Postfix) with ESMTP id 7FE09B8565F5;
+	Thu, 24 May 2018 12:47:12 +0530 (IST)
+Received: from mail.qispine.com ([127.0.0.1])
+	by localhost (mail.qispine.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id u6RKNeWlkDSB; Thu, 24 May 2018 12:47:12 +0530 (IST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.qispine.com (Postfix) with ESMTP id 639CFB8565F1;
+	Thu, 24 May 2018 12:47:12 +0530 (IST)
+X-Virus-Scanned: amavisd-new at qispine.com
+Received: from mail.qispine.com ([127.0.0.1])
+	by localhost (mail.qispine.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id hO4D2FdNnrBt; Thu, 24 May 2018 12:47:12 +0530 (IST)
+Received: from f4.my.com (f4.my.com [185.30.176.114])
+	by mail.qispine.com (Postfix) with ESMTPSA id 12536B8565F5
+	for <support@agilefitness.in>; Thu, 24 May 2018 12:47:12 +0530 (IST)
+From: frederick@trinityht.com
+To: =?UTF-8?B?QWdpbGUgRml0bmVzcw==?= <support@agilefitness.in>
+Subject: =?UTF-8?B?UmVbMl06IE9mZmVyIEZvciBGaXRuZXNzIEVxdWlwbWVudHMgLSBBZ2lsZSBG?=
+ =?UTF-8?B?aXRuZXNzIC0gVEhUL0JMUi9BRi8xODE5LzIxNi8wMQ==?=
+MIME-Version: 1.0
+X-Mailer: My.com Mailer 1.0
+Date: Thu, 24 May 2018 10:17:08 +0300
+X-Letter-Fingerprint: PtvGKzhLCe8pXvk1HDSfXeXvm0jHzBvG
+Reply-To: frederick@trinityht.com
+X-Priority: 3 (Normal)
+Message-ID: <1527146228.409640411@f4.my.com>
+Content-Type: multipart/alternative;
+	boundary="--ALT--McRK8q5A1527146228"
+X-DMARC-Policy: no
+X-Mailru-MI: 800
+X-Mailru-Sender: 281A943F63F52B67E9B8DAD3586DE80C0FA52DFC168124E7B1FE34C87D49F1541D7EF27BECE7DC98A71371FFBD40D9C464B4353600F0E433BB857A6CA39DA86E16FEDAC78673AA1858F7F8B97CC9C3700D4ABDE8C577C2ED
+X-Mras: OK
+X-Spam: undefined
+In-Reply-To: <e493ffb31b9f50fa9423578806a2f231@agilefitness.in>
+References: <1527070279.761185050@f16.my.com>
+ <e493ffb31b9f50fa9423578806a2f231@agilefitness.in>
+X-Sophos-smtpxy-version: 1.0.6.3
+X-Sophos-AV-Policy: Block_Compressed
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, T_SPF_PERMERROR=0.01, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=RKqd4bq+ c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=/qu416i2NyzXzsMd2XyTEA==:17 a=VUJBJC2UJ8kA:10 a=BUN5P_S1O9ne0H4hQBsA:9 a=8z6zorgX40VnZ2Rp:21 a=eJPVixxaW_1L8TTA:21 a=QEXdDO2ut3YA:10 a=gIWsvFrmZj2cB-6TcdsA:9 a=WqRRN8j93BAA11U4:21 a=vyVPK3-sHMaCRorr:21 a=kO5OAvauB-Jfq0-o:21 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=-FEs8UIgK8oA:10 a=NWVoK91CQyQA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: agilefitness.in]
+ *  0.0 T_SPF_PERMERROR SPF: test of record failed (permerror)
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+X-Spam-Flag: NO
+
+
+----ALT--McRK8q5A1527146228
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+CkNhbiB5b3UgbGV0IG1lIGtub3cgd2hhdCBtb2RlbCB0aGlzIGlzID8KCi0tClJlZ2FyZHMsCkZy
+ZWRlcmljayBHb21legpSZWdpb25hbCBNYW5hZ2VyIC0gU291dGgKVHJpbml0eSBIZWFsdGh0ZWNo
+Cis5MTk4ODYzNTk5OTUgVGh1cnNkYXksIDI0IE1heSAyMDE4LCAwMDoyMnAubS4gKzA1OjMwIGZy
+b20gQWdpbGUgRml0bmVzcyAgc3VwcG9ydEBhZ2lsZWZpdG5lc3MuaW4gOgoKPgo+RGVhciBGcmVk
+ZXJpY2sgR29tZXosCj4KPkdyZWV0aW5nIEZyb20gQWdpbGUgZml0bmVzcyBQdnQuIEx0ZC4KPgo+
+V0Ugd291bGQgbGlrZSB0byBoYXZlIHRoZSBhdHRhY2hlZCBvbmUgLCBwbGVhc2UgbGV0IHVzIGtu
+b3cgdGhlIE1SUCAsIAo+RGlzY291bnQgUHJpY2UgYW5kIGV4cGVjdGVkIHRpbWUgb2YgZGVsaWV2
+ZXJ5IC4KPi0tIAo+QWdpbGUgRml0bmVzczogRml0bmVzcyBlcXVpcG1lbnTigJlzLCBDZXJ0aWZp
+ZWQgZml0bmVzcyB0cmFpbmVycywgc3BvcnRzIAo+bWF0ZXJpYWxzLCBTcG9ydHMgZmxvb3Jpbmcg
+LEFNQy4KPgo+UmVnYXJkcywKPlN1a2RlZXAgRCBTCj5NYW5hZ2VyLCBTYWxlcyAmIHNlcnZpY2Us
+Cj5BZ2lsZSBmaXRuZXNzLE1hbGxlc3dhcmFtLEJhbmdhbG9yZS00Lgo+UGguOis5MSA5OTgwMTEx
+MjU1ICB3d3cuYWdpbGVmaXRuZXNzLmluCj4KPk9uIDIwMTgtMDUtMjMgMTA6MTEsICBmcmVkZXJp
+Y2tAdHJpbml0eWh0LmNvbSB3cm90ZToKPj4gRGVhciBNci4gR3VydXJhaiwKPj4gUGxlYXNlIGZp
+bmQgYXR0YWNoZWQgb3VyIG9mZmVyIGZvciB5b3VyIHBlcnVzYWwuCj4+IAo+PiBGZWVsIGZyZWUg
+dG8gY29udGFjdCB1cyBpbiBjYXNlIG9mIGFueSBjbGFyaWZpY2F0aW9ucy4KPj4gCj4+IC0tCj4+
+IFJlZ2FyZHMsCj4+IAo+PiBGcmVkZXJpY2sgR29tZXoKPj4gUmVnaW9uYWwgTWFuYWdlciAtIFNv
+dXRoCj4+IFRyaW5pdHkgSGVhbHRodGVjaAo+PiArOTE5ODg2MzU5OTk1Cj4KPgo+RGVhciBGcmVk
+ZXJpY2sgR29tZXosCj4KPkdyZWV0aW5nIEZyb20gQWdpbGUgZml0bmVzcyBQdnQuIEx0ZC4KPgo+
+V0Ugd291bGQgbGlrZSB0byBoYXZlIHRoZSBhdHRhY2hlZCBvbmUgLCBwbGVhc2UgbGV0IHVzIGtu
+b3cgdGhlIE1SUCAsIAo+RGlzY291bnQgUHJpY2UgYW5kIGV4cGVjdGVkIHRpbWUgb2YgZGVsaWV2
+ZXJ5IC4KPi0tIAo+QWdpbGUgRml0bmVzczogRml0bmVzcyBlcXVpcG1lbnTigJlzLCBDZXJ0aWZp
+ZWQgZml0bmVzcyB0cmFpbmVycywgc3BvcnRzIAo+bWF0ZXJpYWxzLCBTcG9ydHMgZmxvb3Jpbmcg
+LEFNQy4KPgo+UmVnYXJkcywKPlN1a2RlZXAgRCBTCj5NYW5hZ2VyLCBTYWxlcyAmIHNlcnZpY2Us
+Cj5BZ2lsZSBmaXRuZXNzLE1hbGxlc3dhcmFtLEJhbmdhbG9yZS00Lgo+UGguOis5MSA5OTgwMTEx
+MjU1ICB3d3cuYWdpbGVmaXRuZXNzLmlu
+
+----ALT--McRK8q5A1527146228
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+CjxIVE1MPjxCT0RZPjxwIHN0eWxlPSJtYXJnaW4tdG9wOiAwcHg7IiBkaXI9Imx0ciI+Q2FuIHlv
+dSBsZXQgbWUga25vdyB3aGF0IG1vZGVsIHRoaXMgaXMgPzxicj48YnI+PC9wPiAKPHAgZGlyPSJs
+dHIiPi0tPGJyPiBSZWdhcmRzLDwvcD4gCjxkaXYgaWQ9Im1haWwtYXBwLWF1dG8tZGVmYXVsdC1z
+aWduYXR1cmUiPgogPHAgZGlyPSJsdHIiPkZyZWRlcmljayBHb21lejxicj4gUmVnaW9uYWwgTWFu
+YWdlciAtIFNvdXRoPGJyPiBUcmluaXR5IEhlYWx0aHRlY2g8YnI+ICs5MTk4ODYzNTk5OTU8L3A+
+CjwvZGl2PlRodXJzZGF5LCAyNCBNYXkgMjAxOCwgMDA6MjJwLm0uICswNTozMCBmcm9tIEFnaWxl
+IEZpdG5lc3MgPGEgaHJlZj0ibWFpbHRvOnN1cHBvcnRAYWdpbGVmaXRuZXNzLmluIj5zdXBwb3J0
+QGFnaWxlZml0bmVzcy5pbjwvYT46PGJyPjxicj48YmxvY2txdW90ZSBpZD0ibWFpbC1hcHAtYXV0
+by1xdW90ZSIgc3R5bGU9ImJvcmRlci1sZWZ0OjFweCBzb2xpZCAjRkMyQzM4OyBtYXJnaW46MHB4
+IDBweCAwcHggMTBweDsgcGFkZGluZzowcHggMHB4IDBweCAxMHB4OyIgY2l0ZT0iMTUyNzE0NDc4
+MzAwMDAwNDEzMjEiPgoJCgoKCiAgICAKCgoKCgoKCgoKCQoJCgoKCQoJCgkKCQoJCgoJCgkKCgkK
+CQoKCgo8ZGl2IGNsYXNzPSJqcy1oZWxwZXIganMtcmVhZG1zZy1tc2ciPgoJPHN0eWxlIHR5cGU9
+InRleHQvY3NzIj48L3N0eWxlPgogCTxkaXYgPgoJCTxiYXNlIHRhcmdldD0iX3NlbGYiIGhyZWY9
+Imh0dHBzOi8vZS1hai5teS5jb20vIiAvPgoJCQoJCQk8ZGl2IGlkPSJzdHlsZV8xNTI3MTQ0Nzgz
+MDAwMDA0MTMyMV9CT0RZIj48YnI+CkRlYXIgRnJlZGVyaWNrIEdvbWV6LDxicj4KPGJyPgpHcmVl
+dGluZyBGcm9tIEFnaWxlIGZpdG5lc3MgUHZ0LiBMdGQuPGJyPgo8YnI+CldFIHdvdWxkIGxpa2Ug
+dG8gaGF2ZSB0aGUgYXR0YWNoZWQgb25lICwgcGxlYXNlIGxldCB1cyBrbm93IHRoZSBNUlAgLCA8
+YnI+CkRpc2NvdW50IFByaWNlIGFuZCBleHBlY3RlZCB0aW1lIG9mIGRlbGlldmVyeSAuPGJyPgot
+LSA8YnI+CkFnaWxlIEZpdG5lc3M6IEZpdG5lc3MgZXF1aXBtZW504oCZcywgQ2VydGlmaWVkIGZp
+dG5lc3MgdHJhaW5lcnMsIHNwb3J0cyA8YnI+Cm1hdGVyaWFscywgU3BvcnRzIGZsb29yaW5nICxB
+TUMuPGJyPgo8YnI+ClJlZ2FyZHMsPGJyPgpTdWtkZWVwIEQgUzxicj4KTWFuYWdlciwgU2FsZXMg
+JmFtcDsgc2VydmljZSw8YnI+CkFnaWxlIGZpdG5lc3MsTWFsbGVzd2FyYW0sQmFuZ2Fsb3JlLTQu
+PGJyPgpQaC46KzkxIDk5ODAxMTEyNTUgPGEgaHJlZj0iaHR0cDovL3d3dy5hZ2lsZWZpdG5lc3Mu
+aW4iIHRhcmdldD0iX2JsYW5rIiA+d3d3LmFnaWxlZml0bmVzcy5pbjwvYT48YnI+Cjxicj4KT24g
+MjAxOC0wNS0yMyAxMDoxMSwgPGEgaHJlZj0ibWFpbHRvOmZyZWRlcmlja0B0cmluaXR5aHQuY29t
+Ij5mcmVkZXJpY2tAdHJpbml0eWh0LmNvbTwvYT4gd3JvdGU6PGJyPgomZ3Q7IERlYXIgTXIuIEd1
+cnVyYWosPGJyPgomZ3Q7IFBsZWFzZSBmaW5kIGF0dGFjaGVkIG91ciBvZmZlciBmb3IgeW91ciBw
+ZXJ1c2FsLjxicj4KJmd0OyA8YnI+CiZndDsgRmVlbCBmcmVlIHRvIGNvbnRhY3QgdXMgaW4gY2Fz
+ZSBvZiBhbnkgY2xhcmlmaWNhdGlvbnMuPGJyPgomZ3Q7IDxicj4KJmd0OyAtLTxicj4KJmd0OyBS
+ZWdhcmRzLDxicj4KJmd0OyA8YnI+CiZndDsgRnJlZGVyaWNrIEdvbWV6PGJyPgomZ3Q7IFJlZ2lv
+bmFsIE1hbmFnZXIgLSBTb3V0aDxicj4KJmd0OyBUcmluaXR5IEhlYWx0aHRlY2g8YnI+CiZndDsg
+KzkxOTg4NjM1OTk5NTxicj4KPGJyPgo8YnI+CkRlYXIgRnJlZGVyaWNrIEdvbWV6LDxicj4KPGJy
+PgpHcmVldGluZyBGcm9tIEFnaWxlIGZpdG5lc3MgUHZ0LiBMdGQuPGJyPgo8YnI+CldFIHdvdWxk
+IGxpa2UgdG8gaGF2ZSB0aGUgYXR0YWNoZWQgb25lICwgcGxlYXNlIGxldCB1cyBrbm93IHRoZSBN
+UlAgLCA8YnI+CkRpc2NvdW50IFByaWNlIGFuZCBleHBlY3RlZCB0aW1lIG9mIGRlbGlldmVyeSAu
+PGJyPgotLSA8YnI+CkFnaWxlIEZpdG5lc3M6IEZpdG5lc3MgZXF1aXBtZW504oCZcywgQ2VydGlm
+aWVkIGZpdG5lc3MgdHJhaW5lcnMsIHNwb3J0cyA8YnI+Cm1hdGVyaWFscywgU3BvcnRzIGZsb29y
+aW5nICxBTUMuPGJyPgo8YnI+ClJlZ2FyZHMsPGJyPgpTdWtkZWVwIEQgUzxicj4KTWFuYWdlciwg
+U2FsZXMgJmFtcDsgc2VydmljZSw8YnI+CkFnaWxlIGZpdG5lc3MsTWFsbGVzd2FyYW0sQmFuZ2Fs
+b3JlLTQuPGJyPgpQaC46KzkxIDk5ODAxMTEyNTUgPGEgaHJlZj0iaHR0cDovL3d3dy5hZ2lsZWZp
+dG5lc3MuaW4iIHRhcmdldD0iX2JsYW5rIiA+d3d3LmFnaWxlZml0bmVzcy5pbjwvYT48L2Rpdj4K
+CQkJCgkJCgkJPGJhc2UgdGFyZ2V0PSJfc2VsZiIgaHJlZj0iaHR0cHM6Ly9lLWFqLm15LmNvbS8i
+IC8+Cgk8L2Rpdj4KCgkKPC9kaXY+CgoKPC9ibG9ja3F1b3RlPjwvQk9EWT48L0hUTUw+Cg==
+
+----ALT--McRK8q5A1527146228--

@@ -1,0 +1,211 @@
+Return-Path: <AblSI8oPERbi/W6CcqwksoQ==_1129869101893_9AvR0ITBEeiePdSuUqRaCQ==@in.constantcontact.com>
+Delivered-To: sukdeep@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net (Dovecot) with LMTP id CZyfGyfKTluURAAAwqAP9w
+	for <sukdeep@agilefitness.in>; Wed, 18 Jul 2018 05:03:35 +0000
+Return-path: <AblSI8oPERbi/W6CcqwksoQ==_1129869101893_9AvR0ITBEeiePdSuUqRaCQ==@in.constantcontact.com>
+Envelope-to: sukdeep@agilefitness.in
+Delivery-date: Wed, 18 Jul 2018 05:03:35 +0000
+Received: from ccm166.constantcontact.com ([208.75.123.166]:58093)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <AblSI8oPERbi/W6CcqwksoQ==_1129869101893_9AvR0ITBEeiePdSuUqRaCQ==@in.constantcontact.com>)
+	id 1ffecd-000Eg0-Tb
+	for sukdeep@agilefitness.in; Wed, 18 Jul 2018 05:03:35 +0000
+Received: from [10.252.1.140] ([10.252.1.140:42111] helo=p2-jbemailsyndicator30.ctct.net)
+	by 10.249.245.24 (envelope-from <AblSI8oPERbi/W6CcqwksoQ==_1129869101893_9AvR0ITBEeiePdSuUqRaCQ==@in.constantcontact.com>)
+	(ecelerity 4.2.1.52273 r(Core:4.2.1.11)) with ESMTP
+	id BB/CB-49745-61ACE4B5; Wed, 18 Jul 2018 01:03:18 -0400
+DKIM-Signature: v=1; q=dns/txt; a=rsa-sha256; c=relaxed/relaxed; s=2020174704; d=connect-kelltontech.net; h=date:mime-version:subject:X-Feedback-ID:message-id:from:reply-to:list-unsubscribe:list-unsubscribe-post:to; bh=mcVPPZsrZ3vqn2JOo0a9hop14eAZq8CwHknp0giySBk=; b=SpA3tcIYyLhifwhXO9GqST7QEU/YtY5OxEYULk4hLQ559JTNKXpEQa/HcSPx+nCaR5jqwoaQUwRtbNQ5h28BtH6TXu2ZCxkqIlPmzNcmfqg9I2jerUxtA449SAB6BhVTYZe2Ju9Yzl8VC1kW22H/Syv+Dwrh1ZT38ZnidUJAIVI=
+DKIM-Signature: v=1; q=dns/txt; a=rsa-sha256; c=relaxed/relaxed; s=1000073432; d=auth.ccsend.com; h=date:mime-version:subject:X-Feedback-ID:message-id:from:reply-to:list-unsubscribe:list-unsubscribe-post:to; bh=mcVPPZsrZ3vqn2JOo0a9hop14eAZq8CwHknp0giySBk=; b=CSdSpMzo4/5OcD6yTGDsCTt/Xv3w06yURr/eMV0u44CROd5j0lLOQpU2zD/PB63k5nDWHhGFMzhFoO04iWJqFXAF5GTDB9922h1F99gtRF9ObLetn0/YW76qtvo58+YRlJ+IFrlLIXLg6qd1VkymEuAPsqH+kJQsH3kyd7WIIMM=
+Message-ID: <1130956449709.1129869101893.1880035932.0.60103JL.2002@scheduler.constantcontact.com>
+Date: Wed, 18 Jul 2018 01:03:18 -0400 (EDT)
+From: Barbie Dutta <barbie.dutta@connect-kelltontech.net>
+Reply-To: barbie.dutta@connect-kelltontech.net
+To: sukdeep@agilefitness.in
+Subject: Looking for Mobile Application Development- Lets Connect
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_498490430_1194474773.1531890198841"
+List-Unsubscribe: <https://visitor.constantcontact.com/do?p=un&m=001QS2d-W8VkLRacMr63h5NEA%3D%3D&se=001IpwyIOQ40jvz9lncr3Tc-g%3D%3D&t=001EkZLEx15CcE%3D&llr=f9sexi7ab>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-Campaign-Activity-ID: 6e5488f2-83c4-45b8-bf5b-a09cab092ca1
+X-Channel-ID: f40bd1d0-84c1-11e8-9e3d-d4ae52a45a09
+X-Mailer: Roving Constant Contact 2012 (http://www.constantcontact.com)
+X-Return-Path-Hint: AblSI8oPERbi/W6CcqwksoQ==_1129869101893_9AvR0ITBEeiePdSuUqRaCQ==@in.constantcontact.com
+X-Roving-Campaignid: 1130956449709
+X-Roving-Id: 1129869101893.1880035932
+X-Feedback-ID: f40bd1d0-84c1-11e8-9e3d-d4ae52a45a09:6e5488f2-83c4-45b8-bf5b-a09cab092ca1:1129869101893:CTCT
+X-CTCT-ID: f3ca8310-84c1-11e8-9e34-d4ae52a45a09
+X-Authenticated_sender: 
+X-Spam-Status: No, score=0.2
+X-Spam-Score: 2
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HEADER_FROM_DIFFERENT_DOMAINS=0.25, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H3=-0.01, RCVD_IN_MSPIKE_WL=-0.01, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=RKqd4bq+ c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=I7yKVtExNdoerB0AG/yIkQ==:17 a=KGjhK52YXX0A:10 a=R9QF1RCXAYgA:10 a=-uNXE31MpBQA:10 a=d9B2TaBE80UA:10 a=tzqtNZ443vjq7QmP5_QA:9 a=U6znkMyEi6bwnHZ8:21 a=Umifb_BRBXLPoh0Y:21 a=QEXdDO2ut3YA:10 a=yTpBmkvJJn8A:10 a=-FEs8UIgK8oA:10 a=NWVoK91CQyQA:10 a=9IWq-HiZ1pp_5LKDc1oA:9 a=s6kZ4eeUYmJTfyCS:21
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: constantcontact.in]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [208.75.123.166 listed in list.dnswl.org]
+ * -0.0 RCVD_IN_MSPIKE_H3 RBL: Good reputation (+3)
+ *      [208.75.123.166 listed in wl.mailspike.net]
+ *  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level mail
+ *      domains are different
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.0 RCVD_IN_MSPIKE_WL Mailspike good senders
+X-Spam-Flag: NO
+
+------=_Part_498490430_1194474773.1531890198841
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear Sukdeep Subbegowda,
+
+Forward email
+http://ui.constantcontact.com/sa/fwtf.jsp?llr=f9sexi7ab&m=1129869101893&ea=barbie.dutta%40kelltontech.com&a=1130956449709
+
+
+
+
+
+This email was sent to sukdeep@agilefitness.in by barbie.dutta@connect-kelltontech.net.
+
+Update Profile/Email Address
+https://visitor.constantcontact.com/do?p=oo&m=001QS2d-W8VkLRacMr63h5NEA%3D%3D&ch=f40bd1d0-84c1-11e8-9e3d-d4ae52a45a09&ca=6e5488f2-83c4-45b8-bf5b-a09cab092ca1
+
+
+Instant removal with SafeUnsubscribe(TM)
+https://visitor.constantcontact.com/do?p=un&m=001QS2d-W8VkLRacMr63h5NEA%3D%3D&ch=f40bd1d0-84c1-11e8-9e3d-d4ae52a45a09&ca=6e5488f2-83c4-45b8-bf5b-a09cab092ca1
+
+
+Privacy Policy:
+https://www.constantcontact.in/legal/service-provider
+
+
+
+
+
+
+
+
+Kellton Tech Solutions Limited | Plot No 404-405, 4th & 6th Floor, iLABS Centre | Udyog Vihar, Phase III, | Sector 19, | Gurugram, | 122016 | India
+
+
+
+
+
+
+
+
+
+------=_Part_498490430_1194474773.1531890198841
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<head ><meta /></head><body ><img alt=3D" " height=3D"1" src=3D"http://r20.=
+rs6.net/on.jsp?a=3D1129869101893&r=3D3&c=3Df3ca8310-84c1-11e8-9e34-d4ae52a4=
+5a09&d=3D1130956449709&ch=3Df40bd1d0-84c1-11e8-9e3d-d4ae52a45a09&ca=3D6e548=
+8f2-83c4-45b8-bf5b-a09cab092ca1&o=3Dhttps://imgssl.constantcontact.com/ui/i=
+mages1/s.gif" width=3D"1"/>
+Dear Sukdeep Subbegowda,
+<!-- If your HTML code DOES NOT include the html, head, and body tags,
+paste your custom HTML code between the START and END comments  -->
+<!--    START    -->
+<p>Greetings!</p>
+<p>I would like to connect with you from Kellton Tech Solutions, a global I=
+T services company offering a complete spectrum of mobility services from e=
+nvisioning and consulting to mobile-based business solutions and mobile tec=
+hnology services.</p>
+<p>Drawing on our deep knowledge of mobility and industry best practices an=
+d prior experience, we can help you develop&nbsp;</p>
+<ul>
+<li><strong><em>Enterprise Mobility Solutions</em></strong></li>
+<li><strong><em>Android Application Development</em></strong></li>
+<li><strong><em>iOS Application Development</em></strong></li>
+<li><strong><em>Progressive Web App Development</em></strong></li>
+<li><strong><em>Hybrid Application Development</em></strong></li>
+</ul>
+<p>Hence, I wanted to touch base with you to know and understand if you wou=
+ld be interested for a quick introductory call sometime this week or next s=
+o we can let you know more about our offerings and work on the mutual syner=
+gies we could explore between both organizations.&nbsp;</p>
+<p>Look forward to hearing from you.</p>
+<p>For more information, visit&nbsp;<a alt=3D"https://www.kelltontech.com/e=
+nterprise-mobility" href=3D"http://r20.rs6.net/tn.jsp?f=3D001na4fFuCMlAgspm=
+FVT7Lsr40KLHc1jobE0z_4gXAKHkql_kyWMMN53tpQEL-c6uWtEHJzBndRjyyWBkuDDTQhFDqDl=
+IRd6xCwaGJrI0mL2COjUIWBgZoV2aVyYeR9MwPwBQuasImj8lgry00BfT0-KOHCqaM1dZDe7RPh=
+dfkPZGpmA7JKaXahmi2wER-mqDimNeoJn7n7m0s=3D&c=3DjFizRRaeo2SChNx4TOIAnlojxWAh=
+Zbb2msR-a1mX6CYV11VQRFI-ug=3D=3D&ch=3DuzVVMrggmxS4a-ceRIXZF6SpzPIiHt0MJ4C9y=
+bpKV9BpxNTFIMLVew=3D=3D">https://www.kelltontech.com/enterprise-mobility</a=
+></p>
+<p>Best Regards</p>
+<p>Barbie Dutta Mudoi</p>
+<p>Senior Manager-Business Development</p>
+<p>Skype -barbie.dutta2</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!--     END     -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"footerContain=
+er" style=3D"background-color:#ffffff" width=3D"100%" ><tr ><td class=3D"Hi=
+deInMobile" ><img border=3D"0" height=3D"5" hspace=3D"0" src=3D"https://img=
+ssl.constantcontact.com/letters/images/sys/S.gif" vspace=3D"0" width=3D"1" =
+/></td><td align=3D"center" style=3D"background-color:#FFFFFF;" valign=3D"t=
+op" width=3D"610" ><div align=3D"center" style=3D"max-width:610px;margin-le=
+ft:auto;margin-right:auto;" ><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"margin-left:auto;margin-right:auto;" width=3D"100%" ><tr=
+ ><td align=3D"center" style=3D"padding: 15px 10px 15px 10px;" valign=3D"to=
+p" width=3D"100%" ><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"margin-left:auto;margin-right:auto;" width=3D"100%" ><tr ><td alig=
+n=3D"center" style=3D"padding-bottom: 15px;" valign=3D"top" width=3D"100%" =
+><div id=3D"LETTER.PHYSICALADDRESS" style=3D"font-family:Verdana,Geneva,san=
+s-serif; font-size:13px; color:#5d5d5d;" ><span class=3D"FooterColumn" >Kel=
+lton Tech Solutions Limited<span class=3D"HideInMobile" >,</span></span><sp=
+an class=3D"FooterColumn" > Plot=C2=A0No=C2=A0404-405,=C2=A04th=C2=A0&=C2=
+=A06th=C2=A0Floor,=C2=A0iLABS=C2=A0Centre<span class=3D"HideInMobile" >,</s=
+pan></span><span class=3D"FooterColumn" > Udyog=C2=A0Vihar,=C2=A0Phase=C2=
+=A0III,<span class=3D"HideInMobile" >,</span></span><span class=3D"FooterCo=
+lumn" > Sector=C2=A019,<span class=3D"HideInMobile" >,</span></span><span c=
+lass=3D"FooterColumn" >=C2=A0Gurugram,<span class=3D"HideInMobile" >,</span=
+>=C2=A0122016=C2=A0India</span></div></td></tr><tr ><td align=3D"center" va=
+lign=3D"top" width=3D"100%" ><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%" ><tr ><td align=3D"center" style=3D"padding-bottom=
+:5px;" valign=3D"top" width=3D"100%" ><div class=3D"FooterText" style=3D"fo=
+nt-family:Verdana,Geneva,sans-serif; font-size:12px; color:#5d5d5d; line-he=
+ight:1.4;" ><a class=3D"hideInRplyFwd" href=3D"https://visitor.constantcont=
+act.com/do?p=3Dun&m=3D001QS2d-W8VkLRacMr63h5NEA%3D%3D&ch=3Df40bd1d0-84c1-11=
+e8-9e3d-d4ae52a45a09&ca=3D6e5488f2-83c4-45b8-bf5b-a09cab092ca1" id=3D"unsub=
+scribeLink" style=3D"color:#5d5d5d;" target=3D"_blank"><span id=3D"unsubscr=
+ibeLinkText">SafeUnsubscribe&trade;</span> sukdeep@agilefitness.in</a></div=
+></td></tr></table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" ><tr ><td align=3D"center" valign=3D"top" width=3D"100%" ><d=
+iv class=3D"FooterText" style=3D"font-family:Verdana,Geneva,sans-serif; fon=
+t-size:12px; color:#5d5d5d; line-height:1.4;" ><span class=3D"FooterColumn"=
+ ><a href=3D"http://ui.constantcontact.com/sa/fwtf.jsp?llr=3Df9sexi7ab&m=3D=
+1129869101893&ea=3Dbarbie.dutta%40kelltontech.com&a=3D1130956449709" id=3D"=
+fwtfLink" style=3D"color:#5d5d5d;" target=3D"_blank">Forward email</a>=C2=
+=A0<span class=3D"HideInMobile" >|=C2=A0</span></span><span class=3D"Footer=
+Column" ><a class=3D"hideInRplyFwd" href=3D"https://visitor.constantcontact=
+.com/do?p=3Doo&m=3D001QS2d-W8VkLRacMr63h5NEA%3D%3D&ch=3Df40bd1d0-84c1-11e8-=
+9e3d-d4ae52a45a09&ca=3D6e5488f2-83c4-45b8-bf5b-a09cab092ca1" id=3D"updatePr=
+ofileLink" style=3D"color:#5d5d5d;" target=3D"_blank">Update Profile</a><sp=
+an class=3D"HideInMobile hideInRplyFwd" >=C2=A0|=C2=A0</span></span><span c=
+lass=3D"FooterColumn" ><a href=3D"https://www.constantcontact.in/legal/serv=
+ice-provider" id=3D"privacyLink" style=3D"color:#5d5d5d;" target=3D"_blank"=
+>About our service provider</a></span></div></td></tr></table><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" ><tr ><td align=
+=3D"center" style=3D"padding-top:5px;" valign=3D"top" width=3D"100%" ><div =
+class=3D"FooterText" style=3D"font-family:Verdana,Geneva,sans-serif; font-s=
+ize:12px; color:#5d5d5d;" >Sent by <a href=3D"mailto:barbie.dutta@connect-k=
+elltontech.net" id=3D"sentByEmailLink" style=3D"color:#5d5d5d;">barbie.dutt=
+a@connect-kelltontech.net</a></div></td></tr></table></td></tr></table></td=
+></tr></table></div></td><td class=3D"HideInMobile" ><img border=3D"0" heig=
+ht=3D"5" hspace=3D"0" src=3D"https://imgssl.constantcontact.com/letters/ima=
+ges/sys/S.gif" vspace=3D"0" width=3D"1" /></td></tr></table></body>
+------=_Part_498490430_1194474773.1531890198841--

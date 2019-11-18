@@ -1,0 +1,150 @@
+Return-Path: <sithara.mce@gmail.com>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net (Dovecot) with LMTP id KXWqEhs18Fq6xgEAwqAP9w
+	for <support@agilefitness.in>; Mon, 07 May 2018 11:14:35 +0000
+Return-path: <sithara.mce@gmail.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Mon, 07 May 2018 11:14:35 +0000
+Received: from mail-qt0-f175.google.com ([209.85.216.175]:40021)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <sithara.mce@gmail.com>)
+	id 1fFe6A-000YiW-VM
+	for support@agilefitness.in; Mon, 07 May 2018 11:14:35 +0000
+Received: by mail-qt0-f175.google.com with SMTP id h2-v6so35650368qtp.7
+        for <support@agilefitness.in>; Mon, 07 May 2018 04:14:36 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=/qpmH4Ii0iI0NGvc8BUksdvghKfSWo9zgGjSchJnPv8=;
+        b=TnpjKcgw/Z99jfyVHaGr6KnLDEuLEzclTRmrgGYPfNrRm3sDuJvwe3A2F/fEWKLY/b
+         gzM2xSdoYAGwXtZ8w320r6jAzE+TCQeesxFfBdXuvizUKfPW5LvrsxN8S07dRvK0g7iQ
+         qny/Kk+UEvgIDUsSdCY/ZCyu3ej4P8CnPt6SutdFPyBT7ePHsFFYdZZlRPPFWEE3/9KB
+         ycvQjNOnAXrqq4SJZy22n+xT2Bk/OeWytRVQKXQECTm3aDztsNVeS/mJEYxcORKEw2bR
+         1vn+9AtHNkXduiEd5v48+28vN40EqzS3XjQi5mB+cXjztMoeOUJ8CBletdrTFFbFNkPZ
+         RqYA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=/qpmH4Ii0iI0NGvc8BUksdvghKfSWo9zgGjSchJnPv8=;
+        b=fn7hrexBv9CLhxcQhPjcCuEgwyHAS4yDPIVQhiz///hP+3j5CT0rpEbDR6KGMpYbmh
+         MxDYns4iRhCQN7htOXh2R+q+Hv0Dlk9T2ElETEv8aDSEWFnDzRgINHKDuUIarFqK6xfa
+         f+NpH7K2MTiGbJ2R4fIueJ6OSFFXfA8wMaI0AOjOmyQfyS6/m57jOcqpsqHx6NKZP7Vr
+         VjCYI5DmlVTxgHyyREOKoWbquI3ACJDvzNWbFyAJ11WgAtSs7kMa8joClyhzmV03oPHC
+         HqJGon2u8qbEVFl3rCdj6Mu2bStx1Ll6wUYGr+1QfqCOuvpIzT1IDa5acG76t35ngeLb
+         Lh6Q==
+X-Gm-Message-State: ALQs6tAPkJp4bDinWsnOAbp3A1zK90oD5PvgW6JJMQvQUN1Mt1L1Mz5n
+	3ZkUzKQdJ+5esaZ+Q4OGw4aq4RkLL5gRYC9yv6Y=
+X-Google-Smtp-Source: AB8JxZoHpLGHdlEkX9xfRkKpj4t20buE2tUzMaNIITBRAW8Hj379zi9LTc9JXnmgXlyKpJhFiVB9APRtUqunf2XnR/4=
+X-Received: by 2002:a0c:bd89:: with SMTP id n9-v6mr16846352qvg.153.1525691668213;
+ Mon, 07 May 2018 04:14:28 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.12.177.90 with HTTP; Mon, 7 May 2018 04:14:27 -0700 (PDT)
+Received: by 10.12.177.90 with HTTP; Mon, 7 May 2018 04:14:27 -0700 (PDT)
+In-Reply-To: <fab51467e30311bba44f03f158abb47c@agilefitness.in>
+References: <fab51467e30311bba44f03f158abb47c@agilefitness.in>
+From: Sithara Ram <sithara.mce@gmail.com>
+Date: Mon, 7 May 2018 04:14:27 -0700
+Message-ID: <CAO9a=LLx9JYqy4beLCW=fojnOBHvXtM_jeESKSD6VcWO4kPFmQ@mail.gmail.com>
+Subject: Re: Quotation for Gym and sports Materials
+To: Agile Fitness <support@agilefitness.in>
+Cc: Guru Raj <gurushri.7@gmail.com>, sukdeep ds <sukdeepds@gmail.com>, sathish.s@hbc.com
+Content-Type: multipart/alternative; boundary="000000000000ebb32c056b9bc5fa"
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H3=-0.01, RCVD_IN_MSPIKE_WL=-0.01, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=RKqd4bq+ c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=x7bEGLp0ZPQA:10 a=V3Yk72mI4AQA:10 a=VUJBJC2UJ8kA:10 a=3T9Lr09jxUw8MeWEPnwA:9 a=QEXdDO2ut3YA:10 a=wmOkb_aPuc9W4o85ljMA:9 a=uuqKI0hdCZLy6Rb1:21 a=-FEs8UIgK8oA:10 a=NWVoK91CQyQA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: agilefitness.in]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+ *      (sithara.mce[at]gmail.com)
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [209.85.216.175 listed in list.dnswl.org]
+ * -0.0 RCVD_IN_MSPIKE_H3 RBL: Good reputation (+3)
+ *      [209.85.216.175 listed in wl.mailspike.net]
+ * -0.0 RCVD_IN_MSPIKE_WL Mailspike good senders
+X-Spam-Flag: NO
+
+--000000000000ebb32c056b9bc5fa
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pls reply to my previous mail
+
+On 7 May 2018 4:02 pm, "Agile Fitness" <support@agilefitness.in> wrote:
+
+> Dear sir ,
+>
+> Greetings From Agile Fitness Pvt. Ltd.
+>
+> Please find the attached quotation for gym and sports materials. Here you
+> can find 4 different quotations.
+>
+>    > Precore Gym materials
+>    > AVON Gym materials
+>    > Sports Flooring
+>    > Sports materials quotation
+>
+> Gym Layout is in last page of  gym quotation.
+>
+> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, s=
+ports
+> materials, Sports flooring ,AMC.
+>
+> Regards,
+> Sukdeep D S
+> Manager, Sales & service,
+> Agile fitness,Malleswaram,Bangalore-4.
+> Ph.:+91 9980111255 www.agilefitness.in
+>
+
+--000000000000ebb32c056b9bc5fa
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Pls reply to my previous mail</div><div class=3D"gmail_ex=
+tra"><br><div class=3D"gmail_quote">On 7 May 2018 4:02 pm, &quot;Agile Fitn=
+ess&quot; &lt;<a href=3D"mailto:support@agilefitness.in">support@agilefitne=
+ss.in</a>&gt; wrote:<br type=3D"attribution"><blockquote class=3D"gmail_quo=
+te" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"=
+>Dear sir ,<br>
+<br>
+Greetings From Agile Fitness Pvt. Ltd.<br>
+<br>
+Please find the attached quotation for gym and sports materials. Here you c=
+an find 4 different quotations.<br>
+<br>
+=C2=A0 =C2=A0&gt; Precore Gym materials<br>
+=C2=A0 =C2=A0&gt; AVON Gym materials<br>
+=C2=A0 =C2=A0&gt; Sports Flooring<br>
+=C2=A0 =C2=A0&gt; Sports materials quotation<br>
+<br>
+Gym Layout is in last page of=C2=A0 gym quotation.<br>
+<br>
+Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, spo=
+rts materials, Sports flooring ,AMC.<br>
+<br>
+Regards,<br>
+Sukdeep D S<br>
+Manager, Sales &amp; service,<br>
+Agile fitness,Malleswaram,Bangalore-<wbr>4.<br>
+Ph.:+91 9980111255 <a href=3D"http://www.agilefitness.in" rel=3D"noreferrer=
+" target=3D"_blank">www.agilefitness.in</a><br>
+</blockquote></div></div>
+
+--000000000000ebb32c056b9bc5fa--

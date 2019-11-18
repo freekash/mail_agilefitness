@@ -1,0 +1,662 @@
+Received: from mail-eopbgr750071.outbound.protection.outlook.com ([40.107.75.71]:29806 helo=NAM02-BL2-obe.outbound.protection.outlook.com)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <PGopalan@infinera.com>)
+	id 1iErUA-003dxx-IX
+	for support@agilefitness.in; Mon, 30 Sep 2019 08:56:58 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=h385Gu38VJpaGxjpYf9scU4A2zJpdAowWtjSvKtkitH3/2qy9bmpbf39LZic+ou204JCXF2FhnP/vOpFrjVgoJD+gi8NzoX1NjSW7xzFEt5Be2MRjljKnDaddgJN+4UWweoCoFFwvsbm0NRMRvic3kaE4oLc4Rga1olE17A356BCA+Ee8KnG5aF4ewzwetpYjEfIiRevrT5WGcl8uY27LyX1rtPgaREjC7FbMawa/J7bFLsBsvza07WC5VLsm1DG53oDRSeZnMHG7+Ts+3uFUDBuL+W0dIqPXqn93vjSFXpVoraPQaO2hrWaurhX0xwrxtU1puVh+X/clZqTOVD4yA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=ybfZOPEDxsVEGdaEVWVXBovX7Y7Ps+YmE7Q/KQLbE7Q=;
+ b=BfPny0dwA9lLo2OWsg4y8Ufmx0CF8/KHv7dij8r5S3tr7cIK8pWq74DjyFufgwOYzHe7SEdhIfvimHHVsq4TZKkvR64dUwB99zc7uCO5qqOG15yfHHhqG3gEQnupXFM7f2aMLlVKmcbtjq9CfYr1xHeODv7TaPBQE3wcAWXFIxOkyOLjm+TnO938834UVULG09wFbCh7LebRa0SXdt3JW3TpfbxbAvqcVxBEEoHSyxhVZod46GWLJDU/qlQlARTspfbQR+uLQcXmBFyFuyQR0+fFxkuv9l1jiMtxSY+W1roJYyLgqo/PsvMveIUj114dev13EZbt8YSzSn9efEZSyw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=infinera.com; dmarc=pass action=none header.from=infinera.com;
+ dkim=pass header.d=infinera.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=infinera.com;
+ s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=ybfZOPEDxsVEGdaEVWVXBovX7Y7Ps+YmE7Q/KQLbE7Q=;
+ b=AAu/s4/QnpTJQn16AO7vYF5CrT8RO0LMvwwvtpHhgGlLGqNDiZIFVTb2kXhGBqyBCumahCPhh+2UpiUSS5YlgT3c4+ToObFtsRGPXUAAECEL8cM+06O1eBucTRImxEEK0hNBIQlrZgUKqjhTN8WLRLfaPNhohuuRw8VTeCACvGs=
+Received: from BYAPR10MB3688.namprd10.prod.outlook.com (20.179.88.204) by
+ BYAPR10MB3608.namprd10.prod.outlook.com (20.179.63.157) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2305.20; Mon, 30 Sep 2019 08:56:32 +0000
+Received: from BYAPR10MB3688.namprd10.prod.outlook.com
+ ([fe80::e1aa:9d2a:1e24:3636]) by BYAPR10MB3688.namprd10.prod.outlook.com
+ ([fe80::e1aa:9d2a:1e24:3636%5]) with mapi id 15.20.2305.017; Mon, 30 Sep 2019
+ 08:56:32 +0000
+From: Pradeep Kezhakketil Gopalan Shivanarayanan <PGopalan@infinera.com>
+CC: Chethan Sreedharachar <CSreedharachar@infinera.com>
+Subject: RE: MUTUAL NON-DISCLOSURE AGREEMENT 
+Thread-Topic: MUTUAL NON-DISCLOSURE AGREEMENT 
+Thread-Index:
+ AdVjHG9dgDD/1IieQQWz9XYp944xEQAvDrtAAMudmhAAiRfW0AD6GTJQAfdZs3AAnuLHgA==
+Importance: high
+X-Priority: 1
+Date: Mon, 30 Sep 2019 08:56:31 +0000
+Message-ID:
+ <BYAPR10MB368837D9D2A92A79F95CF567AF820@BYAPR10MB3688.namprd10.prod.outlook.com>
+References:
+ <BYAPR10MB36885D62D740C6F76FF21536AFB80@BYAPR10MB3688.namprd10.prod.outlook.com>
+ <BYAPR10MB368867AA707A8F85B934AEC4AFBB0@BYAPR10MB3688.namprd10.prod.outlook.com>
+ <BYAPR10MB3688B48623BCC75B788B6BABAFB70@BYAPR10MB3688.namprd10.prod.outlook.com>
+ <BYAPR10MB36881972AA4F67B8AAC7E82BAFB00@BYAPR10MB3688.namprd10.prod.outlook.com>
+ <BYAPR10MB36886787062A4F524C6F6F24AF8F0@BYAPR10MB3688.namprd10.prod.outlook.com>
+ <BYAPR10MB368846BF48E3C6F5FA4E22AAAF810@BYAPR10MB3688.namprd10.prod.outlook.com>
+In-Reply-To:
+ <BYAPR10MB368846BF48E3C6F5FA4E22AAAF810@BYAPR10MB3688.namprd10.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=PGopalan@infinera.com; 
+x-originating-ip: [182.76.161.229]
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 778b5fb5-6cdb-4715-058e-08d74584172f
+x-ms-traffictypediagnostic: BYAPR10MB3608:|BYAPR10MB3608:
+x-ms-exchange-transport-forked: True
+x-microsoft-antispam-prvs:
+ <BYAPR10MB360880D03E42E3C15194304BAF820@BYAPR10MB3608.namprd10.prod.outlook.com>
+x-ms-oob-tlc-oobclassifiers: OLM:4941;
+x-forefront-prvs: 01762B0D64
+x-forefront-antispam-report:
+ SFV:NSPM;SFS:(10009020)(979002)(4636009)(366004)(39860400002)(346002)(376002)(396003)(136003)(189003)(199004)(86362001)(1671002)(74316002)(7416002)(7736002)(4743002)(11346002)(476003)(486006)(5024004)(14444005)(446003)(102836004)(256004)(316002)(9326002)(66066001)(6116002)(790700001)(2906002)(3846002)(8936002)(81166006)(81156014)(229853002)(8676002)(4326008)(76116006)(66556008)(66446008)(64756008)(66476007)(66946007)(99286004)(109986005)(107886003)(6246003)(80792005)(33656002)(5660300002)(52536014)(71200400001)(71190400001)(186003)(6506007)(76176011)(81686011)(6436002)(9686003)(25786009)(55016002)(6306002)(54896002)(7696005)(3480700005)(236005)(14454004)(478600001)(26005)(223384002)(969003)(989001)(999001)(1009001)(1019001);DIR:OUT;SFP:1101;SCL:1;SRVR:BYAPR10MB3608;H:BYAPR10MB3688.namprd10.prod.outlook.com;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;MX:1;A:1;
+received-spf: None (protection.outlook.com: infinera.com does not designate
+ permitted sender hosts)
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ 6XroOEDYQuyMLJdrGXv3MVhddiWjguSzJjooL73Rs1FuCLfixaRmLZwDHCekVYTgrT1JVCvXB4F/S3vQVJisf/2xOiK8+30KcmTida78Af+2IC54rlzUrCa0DWVtK5QG4O5WUK0GQmpI8uAkq4Pb/adLBqqi1IqJfHqlv0ZhfBS66ZU+pPy8FbJPH1ZfdnnGd5BLYa49J6E1e24Ck0LL4VF+D5ZSL1k77296TPSwBchW+K9n5O9tyuADum9aCjygGAwQQDqAeP2Vdq3lrF8aOB9/gVCoxFBaCOCNm/+FAUPbPy2pJX2eVCfSqQd+BGViGwSH4GZkA9C6bJdrGH2GdFrDgIB9KkDrJ5MMcxZKGhbkabwcolXy5hzzwoGsbHa6AWtYsR3xygn84I7gyrJjvGA5mqzGpjOkGfJSTiPGCBo=
+Content-Type: multipart/alternative;
+	boundary="_000_BYAPR10MB368837D9D2A92A79F95CF567AF820BYAPR10MB3688namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: infinera.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 778b5fb5-6cdb-4715-058e-08d74584172f
+X-MS-Exchange-CrossTenant-originalarrivaltime: 30 Sep 2019 08:56:32.1422
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 285643de-5f5b-4b03-a153-0ae2dc8aaf77
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: NzPtYyxXyAq1Je5Ypa6hqDf7PRFpTD/KoEfQlWZ/ey2YTmO8pwDXELmL+qHqOfUuUxrr9dM5MRk4DTmxyp2XFQ==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BYAPR10MB3608
+X-Spam-Status: No, score=1.5
+X-Spam-Score: 15
+X-Spam-Bar: +
+X-Spam-Flag: NO
+X-BoxTrapper-Match: white: 4: pgopalan@infinera.com
+
+--_000_BYAPR10MB368837D9D2A92A79F95CF567AF820BYAPR10MB3688namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Final reminder,
+
+
+
+Regards,
+Pradeep K G S | Facilities Engineer- India
+Infinera India Pvt. Ltd.,
+Prestige Solitaire , 401,
+Level 3, 6, Brunton Road,
+Bangalore 560-025.
+
+
+From: Pradeep Kezhakketil Gopalan Shivanarayanan
+Sent: Friday, September 27, 2019 10:38 AM
+Cc: Chethan Sreedharachar <CSreedharachar@infinera.com>
+Subject: RE: MUTUAL NON-DISCLOSURE AGREEMENT
+Importance: High
+
+Hi,
+
+Final reminder 1,
+
+
+
+Regards,
+Pradeep K G S | Facilities Engineer- India
+Infinera India Pvt. Ltd.,
+Prestige Solitaire , 401,
+Level 3, 6, Brunton Road,
+Bangalore 560-025.
+
+
+From: Pradeep Kezhakketil Gopalan Shivanarayanan
+Sent: Tuesday, September 17, 2019 10:25 AM
+Cc: Chethan Sreedharachar <CSreedharachar@infinera.com<mailto:CSreedharacha=
+r@infinera.com>>
+Subject: RE: MUTUAL NON-DISCLOSURE AGREEMENT
+Importance: High
+
+Hi,
+
+Reminder 3.
+
+If submitted please ignore.
+
+
+
+Regards,
+Pradeep K G S | Facilities Engineer- India
+Infinera India Pvt. Ltd.,
+Prestige Solitaire , 401,
+Level 3, 6, Brunton Road,
+Bangalore 560-025.
+
+
+From: Pradeep Kezhakketil Gopalan Shivanarayanan
+Sent: Thursday, September 12, 2019 11:05 AM
+Cc: Chethan Sreedharachar <CSreedharachar@infinera.com<mailto:CSreedharacha=
+r@infinera.com>>
+Subject: RE: MUTUAL NON-DISCLOSURE AGREEMENT
+Importance: High
+
+Hi Reminder 2.
+
+We need to close it asap, please submit the NDA.
+
+
+
+
+Regards,
+Pradeep K G S | Facilities Engineer- India
+Infinera India Pvt. Ltd.,
+Prestige Solitaire , 401,
+Level 3, 6, Brunton Road,
+Bangalore 560-025.
+
+
+From: Pradeep Kezhakketil Gopalan Shivanarayanan
+Sent: Monday, September 9, 2019 5:38 PM
+Cc: Chethan Sreedharachar <CSreedharachar@infinera.com<mailto:CSreedharacha=
+r@infinera.com>>
+Subject: RE: MUTUAL NON-DISCLOSURE AGREEMENT
+Importance: High
+
+Hi,
+
+Reminder 1
+
+
+
+Regards,
+Pradeep K G S | Facilities Engineer- India
+Infinera India Pvt. Ltd.,
+Prestige Solitaire , 401,
+Level 3, 6, Brunton Road,
+Bangalore 560-025.
+
+
+From: Pradeep Kezhakketil Gopalan Shivanarayanan
+Sent: Thursday, September 5, 2019 4:30 PM
+Cc: Chethan Sreedharachar <CSreedharachar@infinera.com<mailto:CSreedharacha=
+r@infinera.com>>
+Subject: RE: MUTUAL NON-DISCLOSURE AGREEMENT
+Importance: High
+
+Hi,
+
+Please ignore previous attachment and consider the attached word format NDA=
+ doc (Non-Disclosure Agreement), Requesting you to fill the form by reading=
+ and share the original copy with sign and seal asap.
+
+Note: The print should be on the INR 200 stamp paper.
+
+
+
+Regards,
+Pradeep K G S | Facilities Engineer- India
+Infinera India Pvt. Ltd.,
+Prestige Solitaire , 401,
+Level 3, 6, Brunton Road,
+Bangalore 560-025.
+
+
+From: Pradeep Kezhakketil Gopalan Shivanarayanan
+Sent: Wednesday, September 4, 2019 6:02 PM
+Cc: Chethan Sreedharachar <CSreedharachar@infinera.com<mailto:CSreedharacha=
+r@infinera.com>>
+Subject: MUTUAL NON-DISCLOSURE AGREEMENT
+Importance: High
+
+Hi,
+
+Please find the attached NDA form (Non-Disclosure Agreement). Requesting yo=
+u to fill the form by reading and share the original copy with sign and sea=
+l asap.
+
+
+Note. Both hard and soft copy will work.
+
+
+Regards,
+Pradeep K G S | Facilities Engineer- India
+Infinera India Pvt. Ltd.,
+Prestige Solitaire , 401,
+Level 3, 6, Brunton Road,
+Bangalore 560-025.
+
+
+
+--_000_BYAPR10MB368837D9D2A92A79F95CF567AF820BYAPR10MB3688namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schema=
+s.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html=
+40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle22
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle23
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle25
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Hi,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Final reminder,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Regards,<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Pradeep K G S</span><s=
+pan style=3D"color:#365F91"> |
+</span><span style=3D"color:#8496B0">Facilities Engineer&#8211; India</span=
+><span style=3D"color:#365F91">
+</span><span style=3D"font-size:12.0pt;color:#365F91"><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span lang=3D"EN" s=
+tyle=3D"color:#548DD4">Infinera India Pvt. Ltd.</span></b><b><span style=3D=
+"color:#548DD4">,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#548DD4">Prestige
+</span><span lang=3D"EN" style=3D"font-size:9.0pt;color:#8496B0">Solitaire =
+, 401, <o:p>
+</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Level 3, 6, Brunton Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Bangalore 560-025.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Pradeep Kezhakketil Gopalan Shivanaraya=
+nan <br>
+<b>Sent:</b> Friday, September 27, 2019 10:38 AM<br>
+<b>Cc:</b> Chethan Sreedharachar &lt;CSreedharachar@infinera.com&gt;<br>
+<b>Subject:</b> RE: MUTUAL NON-DISCLOSURE AGREEMENT <br>
+<b>Importance:</b> High<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Hi,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Final reminder 1,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Regards,<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Pradeep K G S</span><s=
+pan style=3D"color:#365F91"> |
+</span><span style=3D"color:#8496B0">Facilities Engineer&#8211; India</span=
+><span style=3D"color:#365F91">
+</span><span style=3D"font-size:12.0pt;color:#365F91"><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span lang=3D"EN" s=
+tyle=3D"color:#548DD4">Infinera India Pvt. Ltd.</span><span style=3D"color:=
+#548DD4">,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#548DD4">Prestige
+</span><span lang=3D"EN" style=3D"font-size:9.0pt;color:#8496B0">Solitaire =
+, 401, <o:p>
+</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Level 3, 6, Brunton Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Bangalore 560-025.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Pradeep Kezhakketil Gopalan Shivanaraya=
+nan <br>
+<b>Sent:</b> Tuesday, September 17, 2019 10:25 AM<br>
+<b>Cc:</b> Chethan Sreedharachar &lt;<a href=3D"mailto:CSreedharachar@infin=
+era.com">CSreedharachar@infinera.com</a>&gt;<br>
+<b>Subject:</b> RE: MUTUAL NON-DISCLOSURE AGREEMENT <br>
+<b>Importance:</b> High<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Hi,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Reminder 3.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">If submitted please ignore.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Regards,<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Pradeep K G S</span><s=
+pan style=3D"color:#365F91"> |
+</span><span style=3D"color:#8496B0">Facilities Engineer&#8211; India</span=
+><span style=3D"color:#365F91">
+</span><span style=3D"font-size:12.0pt;color:#365F91"><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span lang=3D"EN" s=
+tyle=3D"color:#548DD4">Infinera India Pvt. Ltd.</span><span style=3D"color:=
+#548DD4">,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#548DD4">Prestige
+</span><span lang=3D"EN" style=3D"font-size:9.0pt;color:#8496B0">Solitaire =
+, 401, <o:p>
+</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Level 3, 6, Brunton Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Bangalore 560-025.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Pradeep Kezhakketil Gopalan Shivanaraya=
+nan <br>
+<b>Sent:</b> Thursday, September 12, 2019 11:05 AM<br>
+<b>Cc:</b> Chethan Sreedharachar &lt;<a href=3D"mailto:CSreedharachar@infin=
+era.com">CSreedharachar@infinera.com</a>&gt;<br>
+<b>Subject:</b> RE: MUTUAL NON-DISCLOSURE AGREEMENT <br>
+<b>Importance:</b> High<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Hi Reminder 2.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">We need to close it asap, please submit the NDA. <o:=
+p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Regards,<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Pradeep K G S</span><s=
+pan style=3D"color:#365F91"> |
+</span><span style=3D"color:#8496B0">Facilities Engineer&#8211; India</span=
+><span style=3D"color:#365F91">
+</span><span style=3D"font-size:12.0pt;color:#365F91"><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span lang=3D"EN" s=
+tyle=3D"color:#548DD4">Infinera India Pvt. Ltd.</span><span style=3D"color:=
+#548DD4">,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#548DD4">Prestige
+</span><span lang=3D"EN" style=3D"font-size:9.0pt;color:#8496B0">Solitaire =
+, 401, <o:p>
+</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Level 3, 6, Brunton Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Bangalore 560-025.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Pradeep Kezhakketil Gopalan Shivanaraya=
+nan <br>
+<b>Sent:</b> Monday, September 9, 2019 5:38 PM<br>
+<b>Cc:</b> Chethan Sreedharachar &lt;<a href=3D"mailto:CSreedharachar@infin=
+era.com">CSreedharachar@infinera.com</a>&gt;<br>
+<b>Subject:</b> RE: MUTUAL NON-DISCLOSURE AGREEMENT <br>
+<b>Importance:</b> High<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Hi,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Reminder 1 <o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Regards,<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Pradeep K G S</span><s=
+pan style=3D"color:#365F91"> |
+</span><span style=3D"color:#8496B0">Facilities Engineer&#8211; India</span=
+><span style=3D"color:#365F91">
+</span><span style=3D"font-size:12.0pt;color:#365F91"><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span lang=3D"EN" s=
+tyle=3D"color:#548DD4">Infinera India Pvt. Ltd.</span><span style=3D"color:=
+#548DD4">,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#548DD4">Prestige
+</span><span lang=3D"EN" style=3D"font-size:9.0pt;color:#8496B0">Solitaire =
+, 401, <o:p>
+</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Level 3, 6, Brunton Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Bangalore 560-025.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Pradeep Kezhakketil Gopalan Shivanaraya=
+nan <br>
+<b>Sent:</b> Thursday, September 5, 2019 4:30 PM<br>
+<b>Cc:</b> Chethan Sreedharachar &lt;<a href=3D"mailto:CSreedharachar@infin=
+era.com">CSreedharachar@infinera.com</a>&gt;<br>
+<b>Subject:</b> RE: MUTUAL NON-DISCLOSURE AGREEMENT <br>
+<b>Importance:</b> High<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Hi,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Please ignore previous attachment and consider the a=
+ttached word format NDA doc (Non-Disclosure Agreement), Requesting you to f=
+ill the form by reading and share the original copy with sign and seal asap=
+.
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Note: The print should be on the INR 200 stamp paper=
+.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Regards,<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Pradeep K G S</span><s=
+pan style=3D"color:#365F91"> |
+</span><span style=3D"color:#8496B0">Facilities Engineer&#8211; India</span=
+><span style=3D"color:#365F91">
+</span><span style=3D"font-size:12.0pt;color:#365F91"><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span lang=3D"EN" s=
+tyle=3D"color:#548DD4">Infinera India Pvt. Ltd.</span><span style=3D"color:=
+#548DD4">,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#548DD4">Prestige
+</span><span lang=3D"EN" style=3D"font-size:9.0pt;color:#8496B0">Solitaire =
+, 401, <o:p>
+</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Level 3, 6, Brunton Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Bangalore 560-025.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Pradeep Kezhakketil Gopalan Shivanaraya=
+nan <br>
+<b>Sent:</b> Wednesday, September 4, 2019 6:02 PM<br>
+<b>Cc:</b> Chethan Sreedharachar &lt;<a href=3D"mailto:CSreedharachar@infin=
+era.com">CSreedharachar@infinera.com</a>&gt;<br>
+<b>Subject:</b> MUTUAL NON-DISCLOSURE AGREEMENT <br>
+<b>Importance:</b> High<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Hi,<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Please find the attached NDA form (Non-Disclosure Ag=
+reement). Requesting you to fill the form by reading and share the original=
+ copy with sign and seal asap.
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Note. Both hard and soft copy will work.<o:p></o:p><=
+/p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Regards,<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#323E4F">Pradeep K G S</span><s=
+pan style=3D"color:#365F91"> |
+</span><span style=3D"color:#8496B0">Facilities Engineer&#8211; India</span=
+><span style=3D"color:#365F91">
+</span><span style=3D"font-size:12.0pt;color:#365F91"><o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><b><span lang=3D"EN" s=
+tyle=3D"color:#548DD4">Infinera India Pvt. Ltd.</span><span style=3D"color:=
+#548DD4">,<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#548DD4">Prestige
+</span><span lang=3D"EN" style=3D"font-size:9.0pt;color:#8496B0">Solitaire =
+, 401, <o:p>
+</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Level 3, 6, Brunton Road,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span lang=3D"EN" styl=
+e=3D"font-size:9.0pt;color:#8496B0">Bangalore 560-025.<o:p></o:p></span></p=
+>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_BYAPR10MB368837D9D2A92A79F95CF567AF820BYAPR10MB3688namp_--
+

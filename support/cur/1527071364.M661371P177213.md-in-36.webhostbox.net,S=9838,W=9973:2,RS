@@ -1,0 +1,135 @@
+Return-Path: <PGopalan@infinera.com>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net (Dovecot) with LMTP id eY9dJ4RCBVs9tAIAwqAP9w
+	for <support@agilefitness.in>; Wed, 23 May 2018 10:29:24 +0000
+Return-path: <PGopalan@infinera.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Wed, 23 May 2018 10:29:24 +0000
+Received: from mail-sn1nam01on0046.outbound.protection.outlook.com ([104.47.32.46]:24346 helo=NAM01-SN1-obe.outbound.protection.outlook.com)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <PGopalan@infinera.com>)
+	id 1fLR1E-000paG-9u
+	for support@agilefitness.in; Wed, 23 May 2018 10:29:24 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=infinera.onmicrosoft.com; s=selector1-infinera-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=hV9JVvpwzMANGeJwciAyxpYck6lGYF8Nq//YwRWRkGE=;
+ b=qHlyjnaBd7V//bb0cmxxK1KRodHyIL35KZfMMjQcr1CixOrH0Vfxuzb4dOHmGL4MgoTYY1XBVeBe5MKwFG7pDK2FJS2l8l8gZmMc6VJf4nzZGC8uMIpgINlC3evqTQEtGmim78jxUn8TYrwHy96iKWGnCt3XcFaW2xFrbi33aOI=
+Received: from CY1PR10MB0981.namprd10.prod.outlook.com (10.164.67.147) by
+ CY1PR10MB0684.namprd10.prod.outlook.com (10.163.144.23) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.776.16; Wed, 23 May 2018 10:29:25 +0000
+Received: from CY1PR10MB0981.namprd10.prod.outlook.com
+ ([fe80::5c9e:42a8:bef8:a704]) by CY1PR10MB0981.namprd10.prod.outlook.com
+ ([fe80::5c9e:42a8:bef8:a704%14]) with mapi id 15.20.0776.019; Wed, 23 May
+ 2018 10:29:25 +0000
+From: Pradeep Kezhakketil Gopalan Shivanarayanan <PGopalan@infinera.com>
+To: Agile Fitness <support@agilefitness.in>
+Subject: RE: Pending Payment - April2018
+Thread-Topic: Pending Payment - April2018
+Thread-Index: AQHT8ngJMM43x2eIsUGCqzb8qyS9J6Q9DBWAgAAQDQCAAACdoA==
+Date: Wed, 23 May 2018 10:29:25 +0000
+Message-ID: <CY1PR10MB09810619CF5743333268F7C7AF6B0@CY1PR10MB0981.namprd10.prod.outlook.com>
+References: <4a7aa834765ae5acd6c4b501eb86b92c@agilefitness.in>
+ <CY1PR10MB0981EE4BE11B9526FC3A071DAF6B0@CY1PR10MB0981.namprd10.prod.outlook.com>
+ <90cc27ee66e73553c5a53b661629b08a@agilefitness.in>
+In-Reply-To: <90cc27ee66e73553c5a53b661629b08a@agilefitness.in>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-mcafeedlp-tag-0: {B7A9B49A-0E9E-4696-8DE5-C6B1148F23D0}
+x-mcafeedlp-tagged: True
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=PGopalan@infinera.com; 
+x-originating-ip: [182.76.161.227]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CY1PR10MB0684;7:q9B4rTiX98QkpZ43bFwH1OjVlbDxJwAOuLILGBOvF08JZ7bK6IB9d3U5rUfnlIxUtUU0IYh/VPtpRvsxrsZASeOUkdYo4JyLi+ABxThMzf9Hh9ST9zjbYaPWrusfyUmRQgr/oRhLrLVaWJbLV5znGv4I/oQPg9rvFlHYx3QnMUsnFA1aZq0UW8AzPfceckZILC/KyIYgat1lITeIcvRAV6WZHY8+mvN8sY9N0bKfBSKtYZs1e+FXSim5QTXjSaXM
+x-ms-exchange-antispam-srfa-diagnostics: SOS;
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(7020095)(4652020)(5600026)(4534165)(4627221)(201703031133081)(201702281549075)(2017052603328)(7153060)(7193020);SRVR:CY1PR10MB0684;
+x-ms-traffictypediagnostic: CY1PR10MB0684:
+x-microsoft-antispam-prvs: <CY1PR10MB06843E0D479D820E6A0AA4C5AF6B0@CY1PR10MB0684.namprd10.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(192374486261705);
+x-ms-exchange-senderadcheck: 1
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(8211001083)(6040522)(2401047)(8121501046)(5005006)(3002001)(10201501046)(93006095)(93001095)(3231254)(944501410)(52105095)(149027)(150027)(6041310)(20161123558120)(20161123560045)(20161123562045)(20161123564045)(201703131423095)(201702281528075)(20161123555045)(201703061421075)(201703061406153)(6072148)(201708071742011)(7699016);SRVR:CY1PR10MB0684;BCL:0;PCL:0;RULEID:;SRVR:CY1PR10MB0684;
+x-forefront-prvs: 06818431B9
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(366004)(39380400002)(346002)(376002)(39860400002)(396003)(377424004)(13464003)(189003)(199004)(446003)(25786009)(105586002)(15974865002)(72206003)(7696005)(6116002)(3846002)(478600001)(2900100001)(5250100002)(33656002)(26005)(106356001)(476003)(5890100001)(99286004)(316002)(102836004)(186003)(53546011)(66066001)(59450400001)(2906002)(76176011)(6436002)(81166006)(81156014)(7736002)(486006)(6506007)(86362001)(11346002)(97736004)(8936002)(229853002)(305945005)(6246003)(6916009)(3280700002)(80792005)(5660300001)(14454004)(15650500001)(3660700001)(8676002)(55016002)(53936002)(68736007)(74316002)(9686003)(18886075002);DIR:OUT;SFP:1101;SCL:1;SRVR:CY1PR10MB0684;H:CY1PR10MB0981.namprd10.prod.outlook.com;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;MX:1;A:1;
+received-spf: None (protection.outlook.com: infinera.com does not designate
+ permitted sender hosts)
+x-microsoft-antispam-message-info: mQqIrpir0AKQx6dhdxy2IP5kWcfbeEuIhUE8RjBvK0HhP/xBrk/7+7ok5he/YShZNhEIhHqH3hxuJmKPXLYzDsfWiwW1rjcl6Xzw6VltxCpI4ChpgqVm9WnOHwxgHSR1PQ/naSUyDluIS67FGUZRhWI7HwutYAm9V1pfHQSSGDEhPRDE+hsEafOBnJdfV85o
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-MS-Office365-Filtering-Correlation-Id: 0fca5cc5-b20c-46b4-a7b5-08d5c0980e5c
+X-OriginatorOrg: infinera.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 0fca5cc5-b20c-46b4-a7b5-08d5c0980e5c
+X-MS-Exchange-CrossTenant-originalarrivaltime: 23 May 2018 10:29:25.0527
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 285643de-5f5b-4b03-a153-0ae2dc8aaf77
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR10MB0684
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H3=-0.01, RCVD_IN_MSPIKE_WL=-0.01, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=RKqd4bq+ c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=Dd7FI52_JmgA:10 a=bk0mnUHELA0A:10 a=3mX69MQx4YEA:10 a=IkcTkHD0fZMA:10 a=xqWC_Br6kY4A:10 a=VUJBJC2UJ8kA:10 a=4pqBI2ChTjgA:10 a=_2kkQ-S5o8WhcfTITLoA:9 a=yBT5NjrE5MJ_PzbZ:21 a=CcKnY2WrmWos3VnB:21 a=QEXdDO2ut3YA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: agilefitness.in]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [104.47.32.46 listed in list.dnswl.org]
+ * -0.0 RCVD_IN_MSPIKE_H3 RBL: Good reputation (+3)
+ *      [104.47.32.46 listed in wl.mailspike.net]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ * -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.0 RCVD_IN_MSPIKE_WL Mailspike good senders
+X-Spam-Flag: NO
+
+SGkgU3VrZGVlcCwNCg0KV2hlbiB3YXMgdGhlIGludm9pY2Ugc3VibWl0dGVkIHRvIHVzLg0KDQoN
+Ci0tLS0tT3JpZ2luYWwgTWVzc2FnZS0tLS0tDQpGcm9tOiBBZ2lsZSBGaXRuZXNzIFttYWlsdG86
+c3VwcG9ydEBhZ2lsZWZpdG5lc3MuaW5dIA0KU2VudDogV2VkbmVzZGF5LCBNYXkgMjMsIDIwMTgg
+Mzo1NyBQTQ0KVG86IFByYWRlZXAgS2V6aGFra2V0aWwgR29wYWxhbiBTaGl2YW5hcmF5YW5hbiA8
+UEdvcGFsYW5AaW5maW5lcmEuY29tPg0KU3ViamVjdDogUmU6IFBlbmRpbmcgUGF5bWVudCAtIEFw
+cmlsMjAxOA0KDQpDQVVUSU9OOiBUaGlzIGVtYWlsIG9yaWdpbmF0ZWQgZnJvbSBvdXRzaWRlIG9m
+IHRoZSBvcmdhbml6YXRpb24uIERvIG5vdCBjbGljayBsaW5rcyBvciBvcGVuIGF0dGFjaG1lbnRz
+IHVubGVzcyB5b3UgcmVjb2duaXplIHRoZSBzZW5kZXIgYW5kIGtub3cgdGhlIGNvbnRlbnQgaXMg
+c2FmZS4NCg0KDQpEZWFyIFByYWRlZXAsDQoNClBsZWFzZSBmaW5kIHRoZSBhdHRhY2hlbWVudC4N
+Cg0KQWdpbGUgRml0bmVzczogRml0bmVzcyBlcXVpcG1lbnTigJlzLCBDZXJ0aWZpZWQgZml0bmVz
+cyB0cmFpbmVycywgc3BvcnRzIG1hdGVyaWFscywgU3BvcnRzIGZsb29yaW5nICxBTUMuDQoNClJl
+Z2FyZHMsDQpTdWtkZWVwIEQgUw0KTWFuYWdlciwgU2FsZXMgJiBzZXJ2aWNlLA0KQWdpbGUgZml0
+bmVzcyxNYWxsZXN3YXJhbSxCYW5nYWxvcmUtNC4NClBoLjorOTEgOTk4MDExMTI1NSB3d3cuYWdp
+bGVmaXRuZXNzLmluDQoNCk9uIDIwMTgtMDUtMjMgMDk6MjksIFByYWRlZXAgS2V6aGFra2V0aWwg
+R29wYWxhbiBTaGl2YW5hcmF5YW5hbiB3cm90ZToNCj4gSGkgU3VrZGVlcCwNCj4NCj4gUGxlYXNl
+IHNoYXJlIHRoZSBkZXRhaWxzIG9mIHRoZSBpbnZvaWNlIGFzIHdlbGwgYW5kIHdlIHdpbGwgdXBk
+YXRlIA0KPiBhc2FwLg0KPg0KPiBSZWdhcmRzDQo+DQo+IFByYWRlZXAgSyBHIFMNCj4gLS0tLS1P
+cmlnaW5hbCBNZXNzYWdlLS0tLS0NCj4gRnJvbTogQWdpbGUgRml0bmVzcyBbbWFpbHRvOnN1cHBv
+cnRAYWdpbGVmaXRuZXNzLmluXQ0KPiBTZW50OiBXZWRuZXNkYXksIE1heSAyMywgMjAxOCAyOjU1
+IFBNDQo+IFRvOiBQcmFkZWVwIEtlemhha2tldGlsIEdvcGFsYW4gU2hpdmFuYXJheWFuYW4gPFBH
+b3BhbGFuQGluZmluZXJhLmNvbT4NCj4gQ2M6IHN1cHBvcnRAYWdpbGVmaXRuZXNzLmluDQo+IFN1
+YmplY3Q6IFBlbmRpbmcgUGF5bWVudCAtIEFwcmlsMjAxOA0KPg0KPiBDQVVUSU9OOiBUaGlzIGVt
+YWlsIG9yaWdpbmF0ZWQgZnJvbSBvdXRzaWRlIG9mIHRoZSBvcmdhbml6YXRpb24uIERvIA0KPiBu
+b3QgY2xpY2sgbGlua3Mgb3Igb3BlbiBhdHRhY2htZW50cyB1bmxlc3MgeW91IHJlY29nbml6ZSB0
+aGUgc2VuZGVyIA0KPiBhbmQga25vdyB0aGUgY29udGVudCBpcyBzYWZlLg0KPg0KPg0KPiBEZWFy
+IFByYWRlZXAsDQo+DQo+IFJlcXVlc3QgeW91IHRvIHByb2Nlc3MgdGhlIHBheW1lbnQgZm9yIHRo
+ZSBtb250aCBvZiBBcHJpbCAtMjAxOC4NCj4gSW52b2ljZSB3YXMgc3VibWl0dGVkIHdpdGggc2Vj
+dXJpdHkgaW4gdGhlIGZpcnN0IHdlZWsgb2YgTWF5Lg0KPg0KPiBBZ2lsZSBGaXRuZXNzOiBGaXRu
+ZXNzIGVxdWlwbWVudOKAmXMsIENlcnRpZmllZCBmaXRuZXNzIHRyYWluZXJzLCBzcG9ydHMgDQo+
+IG1hdGVyaWFscywgU3BvcnRzIGZsb29yaW5nICxBTUMuDQo+DQo+IFJlZ2FyZHMsDQo+IFN1a2Rl
+ZXAgRCBTDQo+IE1hbmFnZXIsIFNhbGVzICYgc2VydmljZSwNCj4gQWdpbGUgZml0bmVzcyxNYWxs
+ZXN3YXJhbSxCYW5nYWxvcmUtNC4NCj4gUGguOis5MSA5OTgwMTExMjU1IHd3dy5hZ2lsZWZpdG5l
+c3MuaW4NCg0KRGVhciBQcmFkZWVwLA0KDQpQbGVhc2UgZmluZCB0aGUgYXR0YWNoZW1lbnQuDQoN
+CkFnaWxlIEZpdG5lc3M6IEZpdG5lc3MgZXF1aXBtZW504oCZcywgQ2VydGlmaWVkIGZpdG5lc3Mg
+dHJhaW5lcnMsIHNwb3J0cyBtYXRlcmlhbHMsIFNwb3J0cyBmbG9vcmluZyAsQU1DLg0KDQpSZWdh
+cmRzLA0KU3VrZGVlcCBEIFMNCk1hbmFnZXIsIFNhbGVzICYgc2VydmljZSwNCkFnaWxlIGZpdG5l
+c3MsTWFsbGVzd2FyYW0sQmFuZ2Fsb3JlLTQuDQpQaC46KzkxIDk5ODAxMTEyNTUgd3d3LmFnaWxl
+Zml0bmVzcy5pbg0K

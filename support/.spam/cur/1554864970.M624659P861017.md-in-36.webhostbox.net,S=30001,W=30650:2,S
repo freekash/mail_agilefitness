@@ -1,0 +1,649 @@
+Return-Path: <lawrence@seocompanysg.com>
+Delivered-To: support+spam@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP id EJIfJUpbrVxZIw0AwqAP9w
+	for <support+spam@agilefitness.in>; Wed, 10 Apr 2019 02:56:10 +0000
+Return-path: <lawrence@seocompanysg.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Wed, 10 Apr 2019 02:56:10 +0000
+Received: from server1.alphav.site ([134.209.89.213]:54884)
+	by md-in-36.webhostbox.net with esmtp (Exim 4.91)
+	(envelope-from <lawrence@seocompanysg.com>)
+	id 1hE3PA-003evl-7n
+	for support@agilefitness.in; Wed, 10 Apr 2019 02:56:10 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=asdzxcv; d=seocompanysg.com;
+ h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type; i=lawrence@seocompanysg.com;
+ bh=RjboW3YE8Yu2dd1PFVWeJ4+QL0M=;
+ b=S9yg9NePP/bRTpUT4XVEMYMym2S2HQ7YtUjM4vlinNmBhMGyqGuqZNC3Yw9YubXJpDK8VHr3TKwX
+   AHH7jt2svHJwa3OY1W/0nL58ym5btRzKpPmW+hH6ts5s0hjBxhdi3jfm+Uczk3KuvjsTJdrD3Xn4
+   QvqvzvA88tRilMh2zus=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=asdzxcv; d=seocompanysg.com;
+ h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type; i=lawrence@seocompanysg.com;
+ bh=RjboW3YE8Yu2dd1PFVWeJ4+QL0M=;
+ b=S9yg9NePP/bRTpUT4XVEMYMym2S2HQ7YtUjM4vlinNmBhMGyqGuqZNC3Yw9YubXJpDK8VHr3TKwX
+   AHH7jt2svHJwa3OY1W/0nL58ym5btRzKpPmW+hH6ts5s0hjBxhdi3jfm+Uczk3KuvjsTJdrD3Xn4
+   QvqvzvA88tRilMh2zus=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=asdzxcv; d=seocompanysg.com;
+ b=ZtaOwN2rzfZBMwqOs5BF99Zvl1Ri/Vd6P7XhBvvUlNUDWchs+0G5b13ummt34+BSoDG8liM06FcR
+   SQ2bkE2BQtno1Nd9ygG/LvYPqXsboApHBS1aW3gvwWEJLFIzo1Ph0BTYfrIsHGCuLUDiTHJEklml
+   Jo4cY+Kmbk3rrRZby7s=;
+From: "Lawrence Tan " <lawrence@seocompanysg.com>
+To: <support@agilefitness.in>
+Date: Wed, 10 Apr 2019 08:19:45 +0530
+Message-ID: <24cd01d4ef48$eb7e3e30$c27aba90$@seocompanysg.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_24CE_01D4EF77.053800D0"
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AdTvRRllV22TqJ9rT6+m4sBLTpwxBA==
+Content-Language: en-us
+X-Authenticated_sender: 
+X-Spam-Status: Yes, score=19.9
+X-Spam-Score: 199
+X-Spam-Bar: +++++++++++++++++++
+X-Spam-Report: CMAE_1=10, DKIM_INVALID=0.1, DKIM_SIGNED=0.1, DOS_OUTLOOK_TO_MX=1.449, HTML_MESSAGE=0.001, RCVD_IN_RP_RNBL=1.284, URIBL_BLACK=7, CMAE Analysis: v=2.3 cv=DYs5VMlW c=0 sm=0 tr=0 p=UeRvAGC1kVx-hcmK_owA:9 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=p7vwop5t0lm+9rZ7sRfaGw==:17 a=oexKYjalfGEA:10 a=DAwyPP_o2Byb1YXLmDAA:9 a=LwbGdD3WKsoLw0OZ4RAA:9 a=tvgUTshF6wu97oY_:21 a=8ThhcXtH4FhS7422:21 a=CjuIK1q_8ugA:10
+ 
+ *  7.0 URIBL_BLACK Contains an URL listed in the URIBL blacklist
+ *      [URIs: seocompanysg.com]
+ *  1.3 RCVD_IN_RP_RNBL RBL: Relay in RNBL,
+ *      https://senderscore.org/blacklistlookup/
+ *      [134.209.89.213 listed in bl.score.senderscore.com]
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ *   10 CMAE_1 Cloudmark CMAE detected spam
+ *  0.1 DKIM_INVALID DKIM or DK signature exists, but is not valid
+ *  1.4 DOS_OUTLOOK_TO_MX Delivered direct to MX with Outlook headers
+X-Spam-Flag: YES
+Subject: ***SPAM***  local google marketing
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_24CE_01D4EF77.053800D0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+Are you looking at Local Google Marketing for your business?
+
+If your customers can't find you online on the first few pages of search
+results, you are in for trouble. Not having top search rankings for your
+website can be bad for the future of your business. You need an effective
+and result-oriented digital marketing service to manage your online
+marketing process.
+
+Local Search Marketing is done for:-
+1. Ranking on Google Places.
+2. Ranking on Yahoo LBC.
+3. Ranking on Bing LBC.
+
+Why choose us?
+
+The answer is simple! We acquire organic listings through natural process of
+Google parameters and algorithms to give maximum results in small
+investment.
+
+Top Benefits of Our Service:-
+
+-Guaranteed listings in local resources
+
+-Guaranteed listings ads for local classifieds and yellow pages
+
+-Positive reviews in local search sites
+
+-A mobile compatible version of your website that will work on all smart
+phones
+
+-Ranking on searches made on mobile through popular search engines
+
+-A comprehensive analysis of your sales funnel to improve conversions
+
+However All these benefits leads to one goal: "Increase in Sales".
+
+Reports:-
+
+-Weekly/Monthly reporting along with detailed analysis.
+
+-Dedicated Resource for smooth communication
+
+Package:-
+
+Please check our standard packages listed as below:
+
+ 
+
+
+SERVICE PLANS
+
+Starter
+
+Basic
+
+Standard
+
+Classic
+
+Premium
+
+ 
+
+
+KEYWORDS
+
+10
+
+15
+
+20
+
+30
+
+40
+
+ 
+
+
+TOTAL COST
+
+Quarterly
+
+Half-yearly
+
+Yearly
+
+Quarterly
+
+Half-yearly
+
+Yearly
+
+Quarterly
+
+Half-yearly
+
+Yearly
+
+Quarterly
+
+Half-yearly
+
+Yearly
+
+Quarterly
+
+Half-yearly
+
+Yearly
+
+ 	
+
+$577
+
+$1,050
+
+$1,890
+
+$735
+
+$1,312 
+
+$2,362
+
+$892.00 
+
+$1,575
+
+$2,835
+
+$1,260
+
+$2,100
+
+$3,780
+
+$1,470
+
+$2,625
+
+$4725
+
+ 	
+
+ 
+
+Contact us today to know more about our Local Google services with more
+detail.
+
+Look forward to hearing from you soon, 
+
+Regards,
+
+Lawrence Tan 
+
+Business Development Manager
+
+Note: - Though this is not an automated email, (i.e., to ensure that we do
+not contact you again for this matter), please send a blank mail to it with
+NO as Subject.
+
+ 
+
+
+------=_NextPart_000_24CE_01D4EF77.053800D0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US><div =
+class=3DWordSection1><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:16.95pt;back=
+ground:white'>Hi,<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt;background:white'>=
+Are you looking at&nbsp;<b>Local Google</b>&nbsp;Marketing for your =
+business?<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt;background:white'>=
+If your customers can&#8217;t find you online on the first few pages of =
+search results, you are in for trouble. Not having top search rankings =
+for your website can be bad for the future of your business. You need an =
+effective and result-oriented digital marketing service to manage your =
+online marketing process.<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt;background:white'>=
+<b>Local Search Marketing is done for:-</b><br>1. Ranking on Google =
+Places.<br>2. Ranking on Yahoo LBC.<br>3. Ranking on Bing =
+LBC.<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt;background:white'>=
+<b>Why choose us?</b><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt;background:white'>=
+<span style=3D'background:white'>The answer is simple! We acquire =
+organic listings through natural process of Google parameters and =
+algorithms to give maximum results in small =
+investment.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt;background:white'>=
+<b><span style=3D'background:white'>Top Benefits of Our =
+Service:-</span></b><o:p></o:p></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt'><span =
+style=3D'background:white'>-Guaranteed listings in local =
+resources<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt'><span =
+style=3D'background:white'>-Guaranteed listings ads for local =
+classifieds and yellow pages<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt'><span =
+style=3D'background:white'>-Positive reviews in local search =
+sites<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt'><span =
+style=3D'background:white'>-A mobile compatible version of your website =
+that will work on all smart phones<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt'><span =
+style=3D'background:white'>-Ranking on searches made on mobile through =
+popular search engines<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt'><span =
+style=3D'background:white'>-A comprehensive analysis of your sales =
+funnel to improve conversions<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt'><b><span =
+style=3D'background:white'>However All these benefits leads to one goal: =
+&quot;Increase in Sales&quot;.</span></b><span =
+style=3D'background:white'><o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt'><b><span =
+style=3D'background:white'>Reports:-<o:p></o:p></span></b></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt'><span =
+style=3D'background:white'>-Weekly/Monthly reporting along with detailed =
+analysis.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt'><span =
+style=3D'background:white'>-Dedicated Resource for smooth =
+communication<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:16.95pt'><b><span =
+style=3D'background:white'>Package:-</span></b><span =
+style=3D'background:white'><o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:16.95pt'>Ple=
+ase check our standard packages listed as below:<o:p></o:p></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:16.95pt'><o:=
+p>&nbsp;</o:p></p><table class=3DMsoNormalTable border=3D0 =
+cellspacing=3D0 cellpadding=3D0 width=3D1039 =
+style=3D'width:779.4pt;margin-left:-2.8pt;border-collapse:collapse'><tr =
+style=3D'height:21.05pt'><td width=3D120 =
+style=3D'width:89.9pt;border:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:21.05pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>SERVICE PLANS<o:p></o:p></p></td><td width=3D180 =
+colspan=3D3 style=3D'width:134.95pt;border-top:solid windowtext =
+1.0pt;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid black 1.0pt;background:#DDEBF7;padding:0in =
+5.4pt 0in 5.4pt;height:21.05pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'><b>Starter<o:p></o:p></b></p></td><td width=3D180 =
+colspan=3D3 style=3D'width:135.0pt;border-top:solid windowtext =
+1.0pt;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid black 1.0pt;background:#DDEBF7;padding:0in =
+5.4pt 0in 5.4pt;height:21.05pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'><b>Basic<o:p></o:p></b></p></td><td width=3D180 =
+colspan=3D3 style=3D'width:135.0pt;border-top:solid windowtext =
+1.0pt;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid black 1.0pt;background:#DDEBF7;padding:0in =
+5.4pt 0in 5.4pt;height:21.05pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'><b>Standard<o:p></o:p></b></p></td><td width=3D180 =
+colspan=3D3 style=3D'width:135.0pt;border-top:solid windowtext =
+1.0pt;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid black 1.0pt;background:#DDEBF7;padding:0in =
+5.4pt 0in 5.4pt;height:21.05pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'><b>Classic<o:p></o:p></b></p></td><td width=3D193 =
+colspan=3D3 style=3D'width:144.8pt;border-top:solid windowtext =
+1.0pt;border-left:none;border-bottom:solid windowtext =
+1.0pt;border-right:solid black 1.0pt;background:#DDEBF7;padding:0in =
+5.4pt 0in 5.4pt;height:21.05pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'><b>Premium<o:p></o:p></b></p></td><td width=3D4 =
+style=3D'width:2.75pt;padding:0in 0in 0in 0in;height:21.05pt'><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p></td></tr><tr =
+style=3D'height:21.95pt'><td width=3D120 =
+style=3D'width:89.9pt;border:solid windowtext =
+1.0pt;border-top:none;background:#DDEBF7;padding:0in 5.4pt 0in =
+5.4pt;height:21.95pt'><p class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>KEYWORDS<o:p></o:p></p></td><td width=3D180 colspan=3D3 =
+style=3D'width:134.95pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid black =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:21.95pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'><b>10<o:p></o:p></b></p></td><td width=3D180 colspan=3D3 =
+style=3D'width:135.0pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid black =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:21.95pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'><b>15<o:p></o:p></b></p></td><td width=3D180 colspan=3D3 =
+style=3D'width:135.0pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid black =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:21.95pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'><b>20<o:p></o:p></b></p></td><td width=3D180 colspan=3D3 =
+style=3D'width:135.0pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid black =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:21.95pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'><b>30<o:p></o:p></b></p></td><td width=3D193 colspan=3D3 =
+style=3D'width:144.8pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid black =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:21.95pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'><b>40<o:p></o:p></b></p></td><td width=3D4 =
+style=3D'width:2.75pt;padding:0in 0in 0in 0in;height:21.95pt'><p =
+class=3DMsoNormal>&nbsp;<o:p></o:p></p></td></tr><tr =
+style=3D'height:30.75pt'><td width=3D120 rowspan=3D2 =
+style=3D'width:89.9pt;border-top:none;border-left:solid windowtext =
+1.0pt;border-bottom:solid black 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>TOTAL COST<o:p></o:p></p></td><td width=3D72 =
+style=3D'width:54.3pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Quarterly<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.3pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Half-yearly<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Yearly<o:p></o:p></p></td><td width=3D72 =
+style=3D'width:54.3pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Quarterly<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Half-yearly<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Yearly<o:p></o:p></p></td><td width=3D72 =
+style=3D'width:54.3pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Quarterly<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Half-yearly<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Yearly<o:p></o:p></p></td><td width=3D72 =
+style=3D'width:54.3pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Quarterly<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Half-yearly<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Yearly<o:p></o:p></p></td><td width=3D72 =
+style=3D'width:54.3pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Quarterly<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Half-yearly<o:p></o:p></p></td><td width=3D67 =
+style=3D'width:50.15pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:30.75pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>Yearly<o:p></o:p></p></td><td =
+style=3D'border:none;padding:0in 0in 0in 0in' width=3D6><p =
+class=3D'MsoNormal'>&nbsp;</td></tr><tr style=3D'height:26.45pt'><td =
+width=3D72 =
+style=3D'width:54.3pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$577<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.3pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$1,050<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$1,890<o:p></o:p></p></td><td width=3D72 =
+style=3D'width:54.3pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$735<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$1,312 <o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$2,362<o:p></o:p></p></td><td width=3D72 =
+style=3D'width:54.3pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$892.00 <o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$1,575<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$2,835<o:p></o:p></p></td><td width=3D72 =
+style=3D'width:54.3pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$1,260<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$2,100<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$3,780<o:p></o:p></p></td><td width=3D72 =
+style=3D'width:54.3pt;border-top:none;border-left:none;border-bottom:soli=
+d windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$1,470<o:p></o:p></p></td><td width=3D54 =
+style=3D'width:40.35pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$2,625<o:p></o:p></p></td><td width=3D67 =
+style=3D'width:50.15pt;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext =
+1.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;height:26.45pt'><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal'>$4725<o:p></o:p></p></td><td =
+style=3D'border:none;padding:0in 0in 0in 0in' width=3D6><p =
+class=3D'MsoNormal'>&nbsp;</td></tr></table><p class=3DMsoNormal><span =
+style=3D'background:white'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span style=3D'background:white'>Contact us today to =
+know more about our Local Google services with more =
+detail.<o:p></o:p></span></p><p class=3DMsoNormal><b><span =
+style=3D'background:white'>Look forward to hearing from you =
+soon,&nbsp;<o:p></o:p></span></b></p><p class=3DMsoNormal>Regards,</p><p =
+class=3DMsoNormal>Lawrence Tan </p><p class=3DMsoNormal>Business =
+Development Manager</p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:150%;backgro=
+und:white'><span style=3D'color:#222222'>Note: - Though this is not an =
+automated email, (i.e., to ensure that we do not contact you again for =
+this matter), please send a blank mail to it with NO as =
+Subject.<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_24CE_01D4EF77.053800D0--
+

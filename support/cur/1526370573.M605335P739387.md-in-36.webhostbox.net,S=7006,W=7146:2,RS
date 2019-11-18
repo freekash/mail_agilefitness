@@ -1,0 +1,140 @@
+Return-Path: <finance@ocean.net.in>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net (Dovecot) with LMTP id Kb8IJA2R+lo7SAsAwqAP9w
+	for <support@agilefitness.in>; Tue, 15 May 2018 07:49:33 +0000
+Return-path: <finance@ocean.net.in>
+Envelope-to: support@agilefitness.in
+Delivery-date: Tue, 15 May 2018 07:49:33 +0000
+Received: from mail-pf0-f179.google.com ([209.85.192.179]:36410)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89)
+	(envelope-from <finance@ocean.net.in>)
+	id 1fIUi9-0036zT-KP
+	for support@agilefitness.in; Tue, 15 May 2018 07:49:33 +0000
+Received: by mail-pf0-f179.google.com with SMTP id w129-v6so7309576pfd.3
+        for <support@agilefitness.in>; Tue, 15 May 2018 00:49:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=ocean-net-in.20150623.gappssmtp.com; s=20150623;
+        h=from:references:in-reply-to:mime-version:thread-index:date
+         :message-id:subject:to:cc:content-transfer-encoding;
+        bh=tE69rv1CLaXOtXZnfZHcSvS/uyvFNztoEy7V+ZQG6Dc=;
+        b=kQeZTyX9l7fZdvGL63OYBeLKJFoxWwetPDsxYgVV+Mt5L3NeBlZTSlIihmKKOB0ZV5
+         3wFQzkeqC8tqrFWfCcsLvhbb5vv/lwhlOJtUGKGKNQcS4WoGZLSlONnYS9fiLyhpymEW
+         xMohq5KOmZT1YPMMFiK3NUmsB/ZUlJ/EtkOFecHLkcqKZaN8qR6+A6PzaC+ICK6FJMuh
+         xCHqnzv4OtQ+DnpHUBw4a7a97uqnZM8Cl75Ya5Q0W7PttIGChQ52tc7jBy2Hvg07GVgB
+         /zGQ6KcHhymWaBNkeJMgS2QpYtC1WY9xakgqg6yD5jZCH+g1ASjG9hINbvQh9gJCFnL3
+         zBQw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:references:in-reply-to:mime-version
+         :thread-index:date:message-id:subject:to:cc
+         :content-transfer-encoding;
+        bh=tE69rv1CLaXOtXZnfZHcSvS/uyvFNztoEy7V+ZQG6Dc=;
+        b=muTW76nPEx2UlTyzm/7uP5eMFaxp1B2eprkYWvqdhe/9DT+5/pXBbZZcCtPNoX5B1a
+         mEp+QvL8x/1eegp/4CNwcbbH2+41e7+uqcRvGf9sFIvqsfeqlB+0+Ak/Jb2j6Ftj9s6n
+         TajnKaFTKP9NVaEbvxt8EoPsyZeTaRWduCxuM5u801y/ZK+RpQeVcXZXSumqofHKIP5K
+         vM9rsGA3MJZUTrdS6jK3jTsOANqTRC23VShSEsk7K0UcT2KyJcIr9hC2KiQ2RTyecxcu
+         Qehkwrl2fkyIT8FbjGMgIIoH4qggR1Os6Ilc2UuU5BH6ofd1EK/qafn2Vq+KJ6ecI5Y5
+         9E/Q==
+X-Gm-Message-State: ALKqPwedB31g270Sd5xODlpGiHFYASQrEsrGZgr2zwaHJ+x9peWUnk+3
+	kKAAVMDcTizbiER1XyCrPwA2Bq2u7x3DfVtA1qLJNQ==
+X-Google-Smtp-Source: AB8JxZr+hb/YoZigdbYZNg+5wUSVuAVUmQA6lZmnthapfK6Z8rMZteNhnTecbvlQ4rY8CQ+Mhi566V4SanaOVPyXeBU=
+X-Received: by 2002:a62:9056:: with SMTP id a83-v6mr13998869pfe.186.1526370571539;
+ Tue, 15 May 2018 00:49:31 -0700 (PDT)
+From: Finance Ocean <finance@ocean.net.in>
+References: <dae1ff0d8ade2342644391f63143b572@agilefitness.in>
+In-Reply-To: <dae1ff0d8ade2342644391f63143b572@agilefitness.in>
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQF08QgwM6wy8AwlCkk0tZbl5xNlUaTuYCCw
+Date: Tue, 15 May 2018 13:19:30 +0530
+Message-ID: <dfac18aad582268c3e970480dba71d8a@mail.gmail.com>
+Subject: RE: SYNAPTICS/073/PO/17-18 || Pending Payment Request
+To: Agile Fitness <support@agilefitness.in>, Purchase Ocean <purchase@ocean.net.in>, 
+	Sasi Kala <sasikala@ocean.net.in>, Akash Lohia <akashlohia@ocean.net.in>, 
+	Accounts Ocean <accounts@ocean.net.in>, Info Bangalore <infoblr@ocean.net.in>
+Cc: sukdeepds@gmail.com
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.6
+X-Spam-Score: -5
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H2=-0.605, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=RKqd4bq+ c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=IkcTkHD0fZMA:10 a=MKtGQD3n3ToA:10 a=VUJBJC2UJ8kA:10 a=ZlUWZ3eGjmIA:10 a=ZZnuYtJkoWoA:10 a=K7xmvR4oSmgxWg2ww7kA:9 a=4WZHES3zHQ5eyrrn:21 a=DOY3JCuL8KQOeo0r:21 a=QEXdDO2ut3YA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: agilefitness.in]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [209.85.192.179 listed in list.dnswl.org]
+ * -0.6 RCVD_IN_MSPIKE_H2 RBL: Average reputation (+2)
+ *      [209.85.192.179 listed in wl.mailspike.net]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
++Looping accountspayable@ocean.net.in,sivaraman@ocean.net.in
+
+
+Thanks & Regards
+E.Murugesan
+Associate Manager =E2=80=93 Finance
+Ocean Lifespaces India Private Limited
+MF-1, Industrial Estate, CIPET Hostel Road,
+Guindy, Chennai - 600 032. Tamil Nadu, India.
+0 - 98410 33306 [M] | +91-44-2225 9900 [Board] | +91-44-2225 9923 [Direct]
+finance@ocean.net.in | www.ocean.net.in
+Andhara Pradesh | Haryana | Karnataka | Kerala | Maharashtra | Pudhucherry =
+|
+Telangana
+
+Please consider the environment before printing this email
+
+DISCLAIMER: This e-mail message may contain confidential, proprietary or
+legally privileged information, which is intended only for the named
+recipients above. It should not be used by anyone who is not the original
+intended recipient. If you have received this message in error, please
+delete it immediately and notify the sender. If you are not the intended
+recipient, you are notified that you are strictly prohibited from using,
+copying, altering, or disclosing the contents of this message.
+
+The recipient acknowledges that Ocean Lifespaces India Private Limited is
+unable to exercise control or ensure or guarantee the integrity of / over
+the contents of the information contained in e-mail transmissions and
+further acknowledges that any views expressed in this message are those of
+the individual sender and no binding nature of the message shall be implied
+or assumed unless the sender does so expressly with due authority of Ocean
+Lifespaces India Private Limited. Ocean Lifespaces India Private Limited
+accepts no responsibility for loss or damage arising from the use of the
+information transmitted by this email including damage from virus.
+
+
+-----Original Message-----
+From: Agile Fitness [mailto:support@agilefitness.in]
+Sent: 15 May 2018 13:17
+To: purchase@ocean.net.in; sasikala@ocean.net.in; akashlohia@ocean.net.in;
+finance@ocean.net.in; accounts@ocean.net.in; infoblr@ocean.net.in
+Cc: support@agilefitness.in; sukdeepds@gmail.com
+Subject: SYNAPTICS/073/PO/17-18 || Pending Payment Request
+
+Hello All,
+
+Greetings from Agile Fitness Pvt. Ltd.
+
+Request you kindly process the pending Payment with Reference PO #
+SYNAPTICS/073/PO/17-18 . Hardcopy of invoice submitted in Bangalore office.
+
+Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, spo=
+rts
+materials, Sports flooring ,AMC.
+
+Regards,
+Sukdeep D S
+Manager, Sales & service,
+Agile fitness,Malleswaram,Bangalore-4.
+Ph.:+91 9980111255 www.agilefitness.in

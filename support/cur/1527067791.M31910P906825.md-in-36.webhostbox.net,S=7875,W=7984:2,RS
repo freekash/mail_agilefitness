@@ -1,0 +1,109 @@
+Return-Path: <PGopalan@infinera.com>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net (Dovecot) with LMTP id ibvYAY80BVtJ1g0AwqAP9w
+	for <support@agilefitness.in>; Wed, 23 May 2018 09:29:51 +0000
+Return-path: <PGopalan@infinera.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Wed, 23 May 2018 09:29:51 +0000
+Received: from mail-bl2nam02on0047.outbound.protection.outlook.com ([104.47.38.47]:44133 helo=NAM02-BL2-obe.outbound.protection.outlook.com)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-SHA384:256)
+	(Exim 4.89)
+	(envelope-from <PGopalan@infinera.com>)
+	id 1fLQ5a-003oyH-M8
+	for support@agilefitness.in; Wed, 23 May 2018 09:29:51 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=infinera.onmicrosoft.com; s=selector1-infinera-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=JbxIwyM4in01L4tYvb0uxpSvSX8HfGSwg4et7dhmvq4=;
+ b=th8lhVBde+hum8wZ3WNo3rXRCXt9LllLMCqZzQxt0szHpoJRU9kvhanX/3K/c+Uf/CtoLlU7detQpq6IFEr+NWhnl/xa/4VTTo9ibhYUuDQZeRjMoJn5hD5+J8bzK8NGKgJCLGYIZU/l9KgfRErRw4FibNwhQOqFDK6oRtSTxb4=
+Received: from CY1PR10MB0981.namprd10.prod.outlook.com (10.164.67.147) by
+ CY1PR10MB0537.namprd10.prod.outlook.com (10.163.143.24) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P256) id
+ 15.20.776.16; Wed, 23 May 2018 09:29:52 +0000
+Received: from CY1PR10MB0981.namprd10.prod.outlook.com
+ ([fe80::5c9e:42a8:bef8:a704]) by CY1PR10MB0981.namprd10.prod.outlook.com
+ ([fe80::5c9e:42a8:bef8:a704%14]) with mapi id 15.20.0776.019; Wed, 23 May
+ 2018 09:29:52 +0000
+From: Pradeep Kezhakketil Gopalan Shivanarayanan <PGopalan@infinera.com>
+To: Agile Fitness <support@agilefitness.in>
+Subject: RE: Pending Payment - April2018
+Thread-Topic: Pending Payment - April2018
+Thread-Index: AQHT8ngJMM43x2eIsUGCqzb8qyS9J6Q9DBWA
+Date: Wed, 23 May 2018 09:29:52 +0000
+Message-ID: <CY1PR10MB0981EE4BE11B9526FC3A071DAF6B0@CY1PR10MB0981.namprd10.prod.outlook.com>
+References: <4a7aa834765ae5acd6c4b501eb86b92c@agilefitness.in>
+In-Reply-To: <4a7aa834765ae5acd6c4b501eb86b92c@agilefitness.in>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-mcafeedlp-tag-0: {B7A9B49A-0E9E-4696-8DE5-C6B1148F23D0}
+x-mcafeedlp-tagged: True
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=PGopalan@infinera.com; 
+x-originating-ip: [182.76.161.227]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;CY1PR10MB0537;7:Uf7qtYIV9UEEUGLl8W5zyjszngSjm3FtSm0NpamuaUoNrMTB48+ez9Ulf2/eMg94TRrJ6YyRiCLfSvv39IQ2YrPu6n9jxF5br4CuE4b2Zoq193EdoNAFxccWIVL/wRcnRtCufSPNpTbsVNFzPAf9jhjy7uDXCXNhjFae/Ru5mrwaH1+D0p38WFEQbkLtyZ5WiLPtL5+TCnR+bs/srfmmlM0iupK5YdWVa9MvI2ffIGaRX2kpxJYlzKoEr793DWWE
+x-ms-exchange-antispam-srfa-diagnostics: SOS;
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(7020095)(4652020)(5600026)(4534165)(4627221)(201703031133081)(201702281549075)(2017052603328)(7153060)(7193020);SRVR:CY1PR10MB0537;
+x-ms-traffictypediagnostic: CY1PR10MB0537:
+x-microsoft-antispam-prvs: <CY1PR10MB0537ACD4B486158B95AE7772AF6B0@CY1PR10MB0537.namprd10.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(192374486261705);
+x-ms-exchange-senderadcheck: 1
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(8211001083)(6040522)(2401047)(5005006)(8121501046)(3002001)(93006095)(93001095)(3231254)(944501410)(52105095)(10201501046)(149027)(150027)(6041310)(20161123562045)(20161123558120)(20161123560045)(20161123564045)(201703131423095)(201702281528075)(20161123555045)(201703061421075)(201703061406153)(6072148)(201708071742011)(7699016);SRVR:CY1PR10MB0537;BCL:0;PCL:0;RULEID:;SRVR:CY1PR10MB0537;
+x-forefront-prvs: 06818431B9
+x-forefront-antispam-report: SFV:NSPM;SFS:(10009020)(366004)(376002)(396003)(346002)(39380400002)(39860400002)(199004)(189003)(13464003)(72206003)(8936002)(446003)(6246003)(5250100002)(3846002)(14454004)(229853002)(5890100001)(6116002)(476003)(11346002)(6436002)(53546011)(68736007)(5660300001)(2906002)(6506007)(15974865002)(2900100001)(59450400001)(7696005)(76176011)(478600001)(55016002)(15650500001)(25786009)(53936002)(8676002)(9686003)(316002)(86362001)(81156014)(6916009)(102836004)(186003)(81166006)(3660700001)(80792005)(305945005)(97736004)(106356001)(33656002)(7736002)(105586002)(99286004)(66066001)(26005)(74316002)(3280700002)(486006)(18886075002);DIR:OUT;SFP:1101;SCL:1;SRVR:CY1PR10MB0537;H:CY1PR10MB0981.namprd10.prod.outlook.com;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;A:1;MX:1;
+received-spf: None (protection.outlook.com: infinera.com does not designate
+ permitted sender hosts)
+x-microsoft-antispam-message-info: 5GgywMa8gk+4BSiefeZkj5i0B+3iK0H27u+TI5mNk/hAfmiBBEYNvKfyoFU0RvxyuDRCQLfy5y1BeDqxKzRirMo/rnmMFCOS2Hu5ddiEZ4CunUuG16un/h4GNFnrUvR73D6h70+/0qR4nI6XxegP/f7YKLVl4AYWLqJxRZTz4qUv80fF38GUx/xafzSLMIwc
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-MS-Office365-Filtering-Correlation-Id: fa32e361-b8b1-40dc-a578-08d5c08fbcd5
+X-OriginatorOrg: infinera.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: fa32e361-b8b1-40dc-a578-08d5c08fbcd5
+X-MS-Exchange-CrossTenant-originalarrivaltime: 23 May 2018 09:29:52.2830
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 285643de-5f5b-4b03-a153-0ae2dc8aaf77
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR10MB0537
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=RKqd4bq+ c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=Dd7FI52_JmgA:10 a=bk0mnUHELA0A:10 a=3mX69MQx4YEA:10 a=IkcTkHD0fZMA:10 a=xqWC_Br6kY4A:10 a=VUJBJC2UJ8kA:10 a=4pqBI2ChTjgA:10 a=FzRwtHVSdogf_CEEiy8A:9 a=M6mohwU4_Vkz0S3r:21 a=kwmx8kofHJHmrRF8:21 a=QEXdDO2ut3YA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: agilefitness.in]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [104.47.38.47 listed in list.dnswl.org]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ * -0.0 SPF_HELO_PASS SPF: HELO matches SPF record
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+SGkgU3VrZGVlcCwNCg0KUGxlYXNlIHNoYXJlIHRoZSBkZXRhaWxzIG9mIHRoZSBpbnZvaWNlIGFz
+IHdlbGwgYW5kIHdlIHdpbGwgdXBkYXRlIGFzYXAuDQoNClJlZ2FyZHMNCg0KUHJhZGVlcCBLIEcg
+Uw0KLS0tLS1PcmlnaW5hbCBNZXNzYWdlLS0tLS0NCkZyb206IEFnaWxlIEZpdG5lc3MgW21haWx0
+bzpzdXBwb3J0QGFnaWxlZml0bmVzcy5pbl0gDQpTZW50OiBXZWRuZXNkYXksIE1heSAyMywgMjAx
+OCAyOjU1IFBNDQpUbzogUHJhZGVlcCBLZXpoYWtrZXRpbCBHb3BhbGFuIFNoaXZhbmFyYXlhbmFu
+IDxQR29wYWxhbkBpbmZpbmVyYS5jb20+DQpDYzogc3VwcG9ydEBhZ2lsZWZpdG5lc3MuaW4NClN1
+YmplY3Q6IFBlbmRpbmcgUGF5bWVudCAtIEFwcmlsMjAxOA0KDQpDQVVUSU9OOiBUaGlzIGVtYWls
+IG9yaWdpbmF0ZWQgZnJvbSBvdXRzaWRlIG9mIHRoZSBvcmdhbml6YXRpb24uIERvIG5vdCBjbGlj
+ayBsaW5rcyBvciBvcGVuIGF0dGFjaG1lbnRzIHVubGVzcyB5b3UgcmVjb2duaXplIHRoZSBzZW5k
+ZXIgYW5kIGtub3cgdGhlIGNvbnRlbnQgaXMgc2FmZS4NCg0KDQpEZWFyIFByYWRlZXAsDQoNClJl
+cXVlc3QgeW91IHRvIHByb2Nlc3MgdGhlIHBheW1lbnQgZm9yIHRoZSBtb250aCBvZiBBcHJpbCAt
+MjAxOC4gSW52b2ljZSB3YXMgc3VibWl0dGVkIHdpdGggc2VjdXJpdHkgaW4gdGhlIGZpcnN0IHdl
+ZWsgb2YgTWF5Lg0KDQpBZ2lsZSBGaXRuZXNzOiBGaXRuZXNzIGVxdWlwbWVudOKAmXMsIENlcnRp
+ZmllZCBmaXRuZXNzIHRyYWluZXJzLCBzcG9ydHMgbWF0ZXJpYWxzLCBTcG9ydHMgZmxvb3Jpbmcg
+LEFNQy4NCg0KUmVnYXJkcywNClN1a2RlZXAgRCBTDQpNYW5hZ2VyLCBTYWxlcyAmIHNlcnZpY2Us
+DQpBZ2lsZSBmaXRuZXNzLE1hbGxlc3dhcmFtLEJhbmdhbG9yZS00Lg0KUGguOis5MSA5OTgwMTEx
+MjU1IHd3dy5hZ2lsZWZpdG5lc3MuaW4NCg==

@@ -1,0 +1,635 @@
+Received: from mail-lj1-f179.google.com ([209.85.208.179]:40976)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <srungar.sid@gmail.com>)
+	id 1hEU68-0029Ej-2y
+	for support@agilefitness.in; Thu, 11 Apr 2019 07:26:21 +0000
+Received: by mail-lj1-f179.google.com with SMTP id k8so4489260lja.8
+        for <support@agilefitness.in>; Thu, 11 Apr 2019 00:26:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=MIYpn2/A6YRZqomMBTkZR9BSxEr1/4egtGp9q6fe4vU=;
+        b=Zt193GrldNFF3xyAYwjeZ8AIXdaueB8fCrtzgagJERezyR1Jwu83429dRRqg+iwakw
+         18uYI1iGdgg4YiwXk4ISodj8uQBc4WTk8f+r45k5h6dLhImloojRhNKJYz01qHQvmLwJ
+         WbxeQrd497pGdOjEvORnpnkdY0+uveLpot6zB012PF10JJAq3QEGpqnIkGUqQR9S/OUi
+         kMgWHWz1ITkHjI953r9O4WnnPA0wCrsQnRCxzQtHbkm7ytHemGaEieu/A1juzVJw9ZCi
+         hv+BSmgeRnpbci9NfUiKKzrUUtiYp7NVorQRa1LkYthWCH8jvMS2/lCONzbHeBYaTbxJ
+         zLMg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=MIYpn2/A6YRZqomMBTkZR9BSxEr1/4egtGp9q6fe4vU=;
+        b=EgFRbZ7ZZyDAQeFavAhtifaJEbxYHHHrEQ397i1MzlN6FDJbtmxl1aKic8ouz/1VVC
+         aiUrqWWrxMt4WgE9eEG10O+vIM+6WoSkOOeAZJ6LRtMIP0+9G58OqrusfVSckzSZlM6I
+         7uY7IKSUGwwAV8TWYlnXUZavTh6RenEK7GUYyrjc95hMVFGFAvsn83x0TT+hALlmtVbD
+         axlo1+RRZuxLnRBKLyvS0raMqoJRuhTgXXXUVALoKCqDBC5SdaJ+Tkv//hCPVseqlkIf
+         QXnZGoj+lvoHaIjNBsw6d+Nc7hMKY+yw9hCEfTVd5NzX24GmoNOO+RC9YPbyvnSwqCe7
+         m7WA==
+X-Gm-Message-State: APjAAAXAkisGNZd0ALf6NpDwdaxrwo6KviAk44Cj1YMyVDKsr0oHnHB+
+	u64fvseBmYclH8w9dYpavvr0M3nYHj5XdF3CcK+Bohh2
+X-Google-Smtp-Source: APXvYqzT9lYNPW7eHyvXZxWVgqJo0z2StdTSTT/mudkaJIseFKNt+vuq9s0kRifTM4cjwFRlo0+srTmOzjlyIuuBGVM=
+X-Received: by 2002:a2e:6507:: with SMTP id z7mr25775736ljb.147.1554967557364;
+ Thu, 11 Apr 2019 00:25:57 -0700 (PDT)
+MIME-Version: 1.0
+References: <BN6P105MB01005B8955D31030DF8EBB718E2F0@BN6P105MB0100.NAMP105.PROD.OUTLOOK.COM>
+In-Reply-To: <BN6P105MB01005B8955D31030DF8EBB718E2F0@BN6P105MB0100.NAMP105.PROD.OUTLOOK.COM>
+From: Srungar Interior Decorators <srungar.sid@gmail.com>
+Date: Thu, 11 Apr 2019 12:55:45 +0530
+Message-ID: <CADn1Y2DbmKDcWLSKyzfM0is=CuMYr=8SMZRdswg_1wyEM-mMPA@mail.gmail.com>
+Subject: Required Quote for indoor games
+To: Agile Fitness <support@agilefitness.in>
+Content-Type: multipart/related; boundary="000000000000e550b505863c1835"
+X-Authenticated_sender: 
+X-Spam-Status: No, score=0.9
+X-Spam-Score: 9
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, FREEMAIL_REPLY=1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=DYs5VMlW c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=jpOVt7BSZ2e4Z31A5e1TngXxSK0=:19 a=x7bEGLp0ZPQA:10 a=amilYPikmbUA:10 a=oexKYjalfGEA:10 a=Q63aowzcsFxuIw1ycEkA:9 a=QEXdDO2ut3YA:10 a=FCh1j6VeWf3RRhVt_K0A:9 a=lDNl2lIEhZKvKMjIUR5gOGDH5rM=:19 a=39Rp-HMUhkTXzy3f:21 a=A6zW0qmnh5igVtnh30cA:9 a=a8gn74vkIb0c88fu:18 a=HXjIzolwW10A:10 a=T6a71-JsGAwA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: yahoo.co.in]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at https://www.dnswl.org/, no
+ *      trust
+ *      [209.85.208.179 listed in list.dnswl.org]
+ *  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+ *      (srungar.sid[at]gmail.com)
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ *  1.0 FREEMAIL_REPLY From and body contain different freemails
+X-Spam-Flag: NO
+X-BoxTrapper-Match: white: 1: srungar.sid@gmail.com
+
+--000000000000e550b505863c1835
+Content-Type: multipart/alternative; boundary="000000000000e550b305863c1834"
+
+--000000000000e550b305863c1834
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Sir,
+
+Pls share the quote for below items.
+
+
+
+S.No
+
+Discerption
+
+Bangalore MTP
+
+Bangalore EGL
+
+Chennai Neville
+
+Chennai Cambridge
+
+
+
+1
+
+Corn Hole game set
+
+2
+
+0
+
+4
+
+2
+
+
+
+2
+
+Movable Indoor Golfing set
+
+1
+
+0
+
+0
+
+0
+
+
+
+3
+
+Magnetic Chess Boards
+
+6
+
+0
+
+0
+
+0
+
+
+
+4
+
+Carrom Boards with coins
+
+3
+
+0
+
+0
+
+0
+
+
+
+5
+
+Carrom board coins
+
+2
+
+3
+
+3
+
+2
+
+
+
+
+
+ ===================================
+Thanking You,
+
+Srungar Interior Decorators
+#13, 18th Main, Freedom Fighter Nagar, Laggere Main Road, Bangalore -560058.
+: 080 - 28396858/9900129683.
+Mail.Id: srungar.sid@gmail.com
+           s_srungarinteriordecorators@yahoo.co.in
+
+--000000000000e550b305863c1834
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><span style=3D"font-size:10.0pt;font-family:&quot;Tre=
+buchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d">Dear Sir,</span></div=
+><div><span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,=
+&quot;sans-serif&quot;;color:#1f497d"><br></span></div><div>Pls share the q=
+uote for below items.<br></div><div><span style=3D"font-size:10.0pt;font-fa=
+mily:&quot;Trebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d"></span>=
+<span style=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;=
+sans-serif&quot;;color:#1f497d"></span></div><div class=3D"gmail_quote"><di=
+v link=3D"blue" vlink=3D"purple" lang=3D"EN-US"><div class=3D"m_69183496875=
+47860281WordSection1">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u>=
+</span></p>
+<table class=3D"m_6918349687547860281MsoTableGrid" style=3D"border-collapse=
+:collapse;border:none" cellspacing=3D"0" cellpadding=3D"0" border=3D"1">
+<tbody>
+<tr>
+<td style=3D"width:35.6pt;border:solid windowtext 1.0pt;padding:0in 5.4pt 0=
+in 5.4pt" width=3D"47" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d">S.No<u></u><u></u></=
+span></p>
+</td>
+<td style=3D"width:139.5pt;border:solid windowtext 1.0pt;border-left:none;p=
+adding:0in 5.4pt 0in 5.4pt" width=3D"186" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">Discerption<u></u><u></u></span></p>
+</td>
+<td style=3D"width:67.5pt;border:solid windowtext 1.0pt;border-left:none;pa=
+dding:0in 5.4pt 0in 5.4pt" width=3D"90" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">Bangalore MTP<u></u><u></u></span></p>
+</td>
+<td style=3D"width:40.5pt;border:solid windowtext 1.0pt;border-left:none;pa=
+dding:0in 5.4pt 0in 5.4pt" width=3D"54" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">Bangalore EGL<u></u><u></u></span></p>
+</td>
+<td style=3D"width:67.5pt;border:solid windowtext 1.0pt;border-left:none;pa=
+dding:0in 5.4pt 0in 5.4pt" width=3D"90" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">Chennai Neville<u></u><u></u></span></p>
+</td>
+<td style=3D"width:59.8pt;border:solid windowtext 1.0pt;border-left:none;pa=
+dding:0in 5.4pt 0in 5.4pt" width=3D"80" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">Chennai Cambridge<u></u><u></u></span></p>
+</td>
+<td style=3D"width:.95in;border:solid windowtext 1.0pt;border-left:none;pad=
+ding:0in 5.4pt 0in 5.4pt" width=3D"91" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u>=
+</span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"width:35.6pt;border:solid windowtext 1.0pt;border-top:none;pad=
+ding:0in 5.4pt 0in 5.4pt" width=3D"47" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d">1<u></u><u></u></spa=
+n></p>
+</td>
+<td style=3D"width:139.5pt;border-top:none;border-left:none;border-bottom:s=
+olid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt=
+ 0in 5.4pt" width=3D"186" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d">Corn Hole game set<u=
+></u><u></u></span></p>
+</td>
+<td style=3D"width:67.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"90" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">2<u></u><u></u></span></p>
+</td>
+<td style=3D"width:40.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"54" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">0<u></u><u></u></span></p>
+</td>
+<td style=3D"width:67.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"90" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">4<u></u><u></u></span></p>
+</td>
+<td style=3D"width:59.8pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"80" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">2<u></u><u></u></span></p>
+</td>
+<td style=3D"width:.95in;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0=
+in 5.4pt" width=3D"91" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u>=
+</span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"width:35.6pt;border:solid windowtext 1.0pt;border-top:none;pad=
+ding:0in 5.4pt 0in 5.4pt" width=3D"47" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d">2<u></u><u></u></spa=
+n></p>
+</td>
+<td style=3D"width:139.5pt;border-top:none;border-left:none;border-bottom:s=
+olid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt=
+ 0in 5.4pt" width=3D"186" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d">Movable Indoor Golfi=
+ng set<u></u><u></u></span></p>
+</td>
+<td style=3D"width:67.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"90" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">1<u></u><u></u></span></p>
+</td>
+<td style=3D"width:40.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"54" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">0<u></u><u></u></span></p>
+</td>
+<td style=3D"width:67.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"90" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">0<u></u><u></u></span></p>
+</td>
+<td style=3D"width:59.8pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"80" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">0<u></u><u></u></span></p>
+</td>
+<td style=3D"width:.95in;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0=
+in 5.4pt" width=3D"91" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u>=
+</span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"width:35.6pt;border:solid windowtext 1.0pt;border-top:none;pad=
+ding:0in 5.4pt 0in 5.4pt" width=3D"47" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d">3<u></u><u></u></spa=
+n></p>
+</td>
+<td style=3D"width:139.5pt;border-top:none;border-left:none;border-bottom:s=
+olid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt=
+ 0in 5.4pt" width=3D"186" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d">Magnetic Chess Board=
+s<u></u><u></u></span></p>
+</td>
+<td style=3D"width:67.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"90" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">6<u></u><u></u></span></p>
+</td>
+<td style=3D"width:40.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"54" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">0<u></u><u></u></span></p>
+</td>
+<td style=3D"width:67.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"90" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">0<u></u><u></u></span></p>
+</td>
+<td style=3D"width:59.8pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"80" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">0<u></u><u></u></span></p>
+</td>
+<td style=3D"width:.95in;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0=
+in 5.4pt" width=3D"91" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u>=
+</span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"width:35.6pt;border:solid windowtext 1.0pt;border-top:none;pad=
+ding:0in 5.4pt 0in 5.4pt" width=3D"47" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d">4<u></u><u></u></spa=
+n></p>
+</td>
+<td style=3D"width:139.5pt;border-top:none;border-left:none;border-bottom:s=
+olid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt=
+ 0in 5.4pt" width=3D"186" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d">Carrom Boards with c=
+oins<u></u><u></u></span></p>
+</td>
+<td style=3D"width:67.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"90" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">3<u></u><u></u></span></p>
+</td>
+<td style=3D"width:40.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"54" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">0<u></u><u></u></span></p>
+</td>
+<td style=3D"width:67.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"90" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">0<u></u><u></u></span></p>
+</td>
+<td style=3D"width:59.8pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"80" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">0<u></u><u></u></span></p>
+</td>
+<td style=3D"width:.95in;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0=
+in 5.4pt" width=3D"91" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u>=
+</span></p>
+</td>
+</tr>
+<tr>
+<td style=3D"width:35.6pt;border:solid windowtext 1.0pt;border-top:none;pad=
+ding:0in 5.4pt 0in 5.4pt" width=3D"47" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d">5<u></u><u></u></spa=
+n></p>
+</td>
+<td style=3D"width:139.5pt;border-top:none;border-left:none;border-bottom:s=
+olid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt=
+ 0in 5.4pt" width=3D"186" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d">Carrom board coins<u=
+></u><u></u></span></p>
+</td>
+<td style=3D"width:67.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"90" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">2<u></u><u></u></span></p>
+</td>
+<td style=3D"width:40.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"54" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">3<u></u><u></u></span></p>
+</td>
+<td style=3D"width:67.5pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"90" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">3<u></u><u></u></span></p>
+</td>
+<td style=3D"width:59.8pt;border-top:none;border-left:none;border-bottom:so=
+lid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt =
+0in 5.4pt" width=3D"80" valign=3D"top">
+<p class=3D"MsoNormal" style=3D"text-align:center" align=3D"center"><span s=
+tyle=3D"font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;,&quot;sans-se=
+rif&quot;;color:#1f497d">2<u></u><u></u></span></p>
+</td>
+<td style=3D"width:.95in;border-top:none;border-left:none;border-bottom:sol=
+id windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0=
+in 5.4pt" width=3D"91" valign=3D"top">
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u>=
+</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Tr=
+ebuchet MS&quot;,&quot;sans-serif&quot;;color:#1f497d"><u></u>=C2=A0<u></u>=
+</span></p>
+<p class=3D"MsoNormal">=C2=A0=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</p></div></div=
+></div><div dir=3D"ltr" class=3D"gmail_signature" data-smartmail=3D"gmail_s=
+ignature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div>Thanking You,</d=
+iv>
+<div>=C2=A0</div>
+<div>Srungar Interior Decorators</div>
+<div>#13, 18th Main, Freedom Fighter Nagar, Laggere Main Road, Bangalore -5=
+60058.</div>
+<div><span style=3D"font-size:11pt;color:blue;font-family:&#39;Comic Sans M=
+S&#39;" lang=3D"EN-IN"><img src=3D"https://mail.google.com/mail/u/0/?ui=3D2=
+&amp;ik=3Da5060f644c&amp;view=3Datt&amp;th=3D12f58f4d642dfca3&amp;attid=3D0=
+.0.1&amp;disp=3Demb&amp;realattid=3Df8b2e07658e208d3_0.3" width=3D"24" heig=
+ht=3D"16"></span> : 080 - 28396858/9900129683.</div>
+<div>Mail.Id: <a href=3D"mailto:srungar.sid@gmail.com" target=3D"_blank">sr=
+ungar.sid@gmail.com</a> </div>
+<div>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0<a h=
+ref=3D"mailto:s_srungarinteriordecorators@yahoo.co.in" target=3D"_blank">s_=
+srungarinteriordecorators@yahoo.co.in</a></div>
+<div>=C2=A0</div></div></div></div></div></div></div>
+
+--000000000000e550b305863c1834--
+--000000000000e550b505863c1835
+Content-Type: image/png; name="image001.png"
+Content-Disposition: inline; filename="image001.png"
+Content-Transfer-Encoding: base64
+Content-ID: <16a0b481f944cff311>
+X-Attachment-Id: 16a0b481f944cff311
+
+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
+rkJggg==
+--000000000000e550b505863c1835--
+

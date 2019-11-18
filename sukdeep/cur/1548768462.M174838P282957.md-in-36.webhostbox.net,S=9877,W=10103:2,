@@ -1,0 +1,226 @@
+Return-Path: <sasikala@ocean.net.in>
+Delivered-To: sukdeep@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP id sKZYCs5UUFxNUQQAwqAP9w
+	for <sukdeep@agilefitness.in>; Tue, 29 Jan 2019 13:27:42 +0000
+Return-path: <sasikala@ocean.net.in>
+Envelope-to: sukdeep@agilefitness.in
+Delivery-date: Tue, 29 Jan 2019 13:27:42 +0000
+Received: from mail-vk1-f181.google.com ([209.85.221.181]:34050)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <sasikala@ocean.net.in>)
+	id 1goTQL-001HnC-LA
+	for sukdeep@agilefitness.in; Tue, 29 Jan 2019 13:27:42 +0000
+Received: by mail-vk1-f181.google.com with SMTP id y14so4494853vkd.1
+        for <sukdeep@agilefitness.in>; Tue, 29 Jan 2019 05:27:30 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=ocean-net-in.20150623.gappssmtp.com; s=20150623;
+        h=from:references:in-reply-to:mime-version:thread-index:date
+         :message-id:subject:to:cc:content-transfer-encoding;
+        bh=NyYMybKPruHPBNFUYqgaN0VfDkpHBVy1EivNrHd+3kM=;
+        b=Xmt12NkBNhgeDhBwJ8UcgCaNdaLUOZjNTrX7lHAZ1G/ippDXIYmi+QmCW54bxVlMqW
+         dHNdCsmM4ZGIuxgWookGnIh0WLw8ny87d+6nIpuTItxl4peVNhKBFo4jA8P2xQvmRa1r
+         sv8yzxIsgDI0pBh0JdNIrlKTQWexo0j7qE72ai13emDUy8421a+1obvB50I0/th1OWJ8
+         jPaRID+g2Sy+kVrU0bb9Vxasrk9hicyCaKvS0B1dltueoLDsq5uDC2dNgKjILCoufP51
+         KQtEz+NxaZxTiefFwI3UXQjHQvAduqFTVkUmKqVTo2mRcR0wa52dBHfnu9X62i/vqedA
+         nS6g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:references:in-reply-to:mime-version
+         :thread-index:date:message-id:subject:to:cc
+         :content-transfer-encoding;
+        bh=NyYMybKPruHPBNFUYqgaN0VfDkpHBVy1EivNrHd+3kM=;
+        b=jloQodEsXm5hRWS1S/Tcvp/qixE3rMksGHiFv8AklHfO51Yu28G+5kN7Sc+CrqtePu
+         f7Up/8tXVClrobQQ3s54NAa/Brh7DpAazKwSOEMhSzUuYKTrHFvXdVlGXO8cGRxG7vRN
+         tf07TYhymQEsRbpcpy1UhGxGa+fnvcMrlwor/zCHogrz7bUa1YQUJKC0T/zcdkfLb65u
+         XuJA6bW+afaPZiXnaSjunygMUmzgt3wz3D6+SN54ctZsY8It8XqyMN4Ahwip/EsA3DBG
+         qNAQi4v0yM++5O7sRk4GY9swy/USn/ivxny2B/ixSxustfK04t2kCuItSJHLkrOhgHCT
+         wnMA==
+X-Gm-Message-State: AJcUukcZdjqszvLIgANK4REp4LlB+HjYf9RX02FUbuo3fGbkmJsG+Rhr
+	Sqvb4+PbqayYaobDPvIdlwUWQjZ61QKFgR2EPT7zEQ==
+X-Google-Smtp-Source: ALg8bN41AV8M8Xe8fnYoLs8eC53Ku/jHcrZlA7TNxYmix7DaacIQzi+yiREcwK7Xew6iHeI+oFf4YPlSp0c5yW9l4EQ=
+X-Received: by 2002:a1f:c703:: with SMTP id x3mr10072807vkf.87.1548768442287;
+ Tue, 29 Jan 2019 05:27:22 -0800 (PST)
+From: Sasi Kala <sasikala@ocean.net.in>
+References: <f25147d253e92e1509e96f325e9350a7@mail.gmail.com>
+ <0d37f5ff93f43d1d08e5eb4800940254@agilefitness.in> <4e5da1114df36c87a5434ce3a008d9db@agilefitness.in>
+In-Reply-To: <4e5da1114df36c87a5434ce3a008d9db@agilefitness.in>
+MIME-Version: 1.0
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AQEzadfoOZagAMaj2680htMJEetPFADpljYHAiprnvim8C6hUA==
+Date: Tue, 29 Jan 2019 18:57:21 +0530
+Message-ID: <ea7ae05514578d9df8e4b1015b87bdb5@mail.gmail.com>
+Subject: RE: P.O. for dell site, supply of table and Olympic.
+To: Agile Fitness <support@agilefitness.in>
+Cc: sukdeep@agilefitness.in, Agile Fitness <sukdeepds@gmail.com>, 
+	Rajesh R <rajesh.r@ocean.net.in>, Arul Arumugam <arul.arumugam@ocean.net.in>, 
+	Thomas Ocean <thomas@ocean.net.in>, Projects Bangalore <projectsbangalore@ocean.net.in>, 
+	Solomon Jones <solomon@ocean.net.in>, Purchase Ocean <purchase@ocean.net.in>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Authenticated_sender: 
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001, CMAE Analysis: v=2.3 cv=DYs5VMlW c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=IkcTkHD0fZMA:10 a=MKtGQD3n3ToA:10 a=3JhidrIBZZsA:10 a=ZlUWZ3eGjmIA:10 a=ZZnuYtJkoWoA:10 a=vviCMNJOvb3a2k1XQecA:9 a=EdMtUIoHa5b2Nsvm:21 a=j7IXVaLy1hEWaTnY:21 a=QEXdDO2ut3YA:10 a=-FEs8UIgK8oA:10 a=NWVoK91CQyQA:10
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+ *       See http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: ocean.net.in]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at http://www.dnswl.org/, no
+ *      trust
+ *      [209.85.221.181 listed in list.dnswl.org]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+X-Spam-Flag: NO
+
+Sir
+
+Pls keep the material ready , deliver the  same on 5th Feb 19
+
+Thanks  and  Regards
+J.Sasikala
+Manager =E2=80=93 procurement
++91 97101 99956
+Wat app no. +91 9884647677
+Ocean Lifespaces India Private Limited.
+MF-1, Industrial Estate, CIPET Hostel Road,
+Guindy, Chennai - 600 032. Tamil Nadu, India.
+0 =E2=80=93 73977 70825(M)  | +91-44-2225 9900 (Board) | +91-44-2225 9912 (=
+Direct)
+   www.ocean.net.in
+Andhara Pradesh | Haryana | Karnataka | Kerala | Maharashtra | Pudhucherry =
+|
+Telangana
+
+Please consider the environment before printing this email
+
+DISCLAIMER: This e-mail message may contain confidential, proprietary or
+legally privileged information, which is intended only for the named
+recipients above. It should not be used by anyone who is not the original
+intended recipient. If you have received this message in error, please
+delete it immediately and notify the sender. If you are not the intended
+recipient, you are notified that you are strictly prohibited from using,
+copying, altering, or disclosing the contents of this message.
+
+The recipient acknowledges that Ocean Lifespaces India Private Limited is
+unable to exercise control or ensure or guarantee the integrity of / over
+the contents of the information contained in e-mail transmissions and
+further acknowledges that any views expressed in this message are those of
+the individual sender and no binding nature of the message shall be implied
+or assumed unless the sender does so expressly with due authority of Ocean
+Lifespaces India Private Limited. Ocean Lifespaces India Private Limited
+accepts no responsibility for loss or damage arising from the use of the
+information transmitted by this email including damage from virus.
+
+
+
+-----Original Message-----
+From: Agile Fitness [mailto:support@agilefitness.in]
+Sent: 29 January 2019 17:38
+To: Purchase Ocean
+Cc: sukdeep@agilefitness.in; Agile Fitness; Rajesh R; Arul Arumugam; Sasi
+Kala; Thomas Ocean; Projects Bangalore; Solomon Jones
+Subject: Re: P.O. for dell site, supply of table and Olympic.
+
+Dear Sir / Madam,
+
+Site engineer Mr.Sudheer requested to hold the delievery till his
+confirmation as site is not yet completely ready. WIll follow accordingly.
+--
+Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, spo=
+rts
+materials, Sports flooring ,AMC.
+
+Regards,
+Sukdeep D S
+Manager, Sales & service,
+Agile fitness,Malleswaram,Bangalore-4.
+Ph.:+91 9980111255 www.agilefitness.in
+
+On 2019-01-29 11:31, Agile Fitness wrote:
+> Dear Sir / Madam,
+>
+> Thanks for the PO . we will update you back with the exact delivery
+> date.
+>
+> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, s=
+ports
+> materials, Sports flooring ,AMC.
+>
+> Regards,
+> Sukdeep D S
+> Manager, Sales & service,
+> Agile fitness,Malleswaram,Bangalore-4.
+> Ph.:+91 9980111255 www.agilefitness.in
+>
+> On 2019-01-29 11:22, Purchase Ocean wrote:
+>> Dear sir,
+>>
+>> Attached herewith P.O. for dell site, supply of table and Olympic.
+>>
+>> Please supply above material immediately.
+>>
+>> Thanks & Regards,
+>>
+>> V.Mohan Raj
+>> OCEAN LIFESPACES INDIA PRIVATE LIMITED.
+>> MF-1, Industrial Estate, CIPET Hostel Road, Guindy, Chennai - 600
+>> 032. Tamil Nadu, India.
+>> 0 =E2=80=93 78240 85581 (M) | +91-44- 2225 9910 (Direct) | +91-44-2225 9=
+900
+>> (Board)
+>> purchase@ocean.net.in | www.ocean.net.in [1] Andhara Pradesh |
+>> Haryana | Karnataka | Kerala | Maharashtra | Pudhucherry | Telangana
+>>
+>> Please consider the environment before printing this email
+>>
+>> DISCLAIMER: This e-mail message may contain confidential, proprietary
+>> or legally privileged information, which is intended only for the
+>> named recipients above. It should not be used by anyone who is not
+>> the original intended recipient. If you have received this message in
+>> error, please delete it immediately and notify the sender. If you are
+>> not the intended recipient, you are notified that you are strictly
+>> prohibited from using, copying, altering, or disclosing the contents
+>> of this message.
+>>
+>> The recipient acknowledges that Ocean Lifespaces India Private
+>> Limited is unable to exercise control or ensure or guarantee the
+>> integrity of / over the contents of the information contained in
+>> e-mail transmissions and further acknowledges that any views
+>> expressed in this message are those of the individual sender and no
+>> binding nature of the message shall be implied or assumed unless the
+>> sender does so expressly with due authority of Ocean Lifespaces India
+>> Private Limited. Ocean Lifespaces India Private Limited accepts no
+>> responsibility for loss or damage arising from the use of the
+>> information transmitted by this email including damage from virus.
+>>
+>>
+>>
+>> Links:
+>> ------
+>> [1] http://www.ocean.net.in/
+>
+> Dear Sir / Madam,
+>
+> Thanks for the PO . we will update you back with the exact delivery
+> date.
+
+Dear Sir / Madam,
+
+Site engineer Mr.Sudheer requested to hold the delievery till his
+confirmation as site is not yet completely ready.
+--
+Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, spo=
+rts
+materials, Sports flooring ,AMC.
+
+Regards,
+Sukdeep D S
+Manager, Sales & service,
+Agile fitness,Malleswaram,Bangalore-4.
+Ph.:+91 9980111255 www.agilefitness.in

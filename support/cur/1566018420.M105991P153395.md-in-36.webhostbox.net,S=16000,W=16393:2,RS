@@ -1,0 +1,393 @@
+Received: from mail-lj1-f176.google.com ([209.85.208.176]:46881)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.92)
+	(envelope-from <srungar.sid@gmail.com>)
+	id 1hyqvU-000dlc-6D
+	for support@agilefitness.in; Sat, 17 Aug 2019 05:06:59 +0000
+Received: by mail-lj1-f176.google.com with SMTP id f9so7014101ljc.13
+        for <support@agilefitness.in>; Fri, 16 Aug 2019 22:06:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=cDJ9T132nhIGnYP6BMRnOGErAH1xL/ilH8CrHyWWYhY=;
+        b=XcW3t8kc+qLbXJyrmqlvxYpLXp2qut47W4JPWdLig9dSha9QDhKRcdlXBcCJBjMd17
+         RiMmQJQNyJ1kGgZxoro6TPW4m751INXULiWCSjxsFNlwFff52mkO0ZI0LSL1fPRlqwm2
+         tiwJRs+tHirJiWhZVFuZMXYbvubOhi8xy72yGyeaHnmCOr0k9E9qhPyzXDknSOjK3p9h
+         TyYkBCZ2OOriof9i5WVYN7qQKrtV6hSEk818+iSDIv+l7r/mpLvw4hkpbKmAlSF0v9nE
+         fFngx3Xjj0h9M7bS0QMVIDmJOcBzs1C6Gk9Ihbnlu4lgNuh/1SxmpV2mMuAu/FRBZRif
+         XFig==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=cDJ9T132nhIGnYP6BMRnOGErAH1xL/ilH8CrHyWWYhY=;
+        b=ijcPmg53BOrTl3FCm7ENWChcW91w7uCV/Nz7v2xyEJMbQwc9rqWLYOZICCN3Zx0E5P
+         mGjOZ4I2OCAKEHbSu/sdKCr4gEKNSX69eOOXklzg5j97CPoZ8bTd87ZoBQwNdhqhetB4
+         ZUyHp1p4tS3aZg/vKa/o9/sxBtwhMdcye7NqWtvS179ZQlyCYZ2TrulwzThs7zfPM0SJ
+         wrroi04TwwhYMaQKUKXvJ5BKUnRQeOKSRztnftkybqbo3Vl3TddO1l037eEEkGdU2hoq
+         3elbtWCddnMdVLV0/DPL359BRM/snQaIr9rW3b+31SiHqb6HynkhZp+7Fk1BdxtpIn+w
+         uWXg==
+X-Gm-Message-State: APjAAAVH1xNF0Df8NlvE8cpOASjdMFaGQ8M1HQeo9BBX8ugFs+QZBEvq
+	YjdDqOf7REuke7ERMh/EERsCGI8YWHZ1z7PV1tZVuBWN
+X-Google-Smtp-Source: APXvYqwhRj+BhlSDtonQJn1gras1UIACREbh2z0GajBGao27Fym1IeAaXUH9yRJJBrT6C2YCqWOS0lKY6UOSd/2YVE4=
+X-Received: by 2002:a2e:6342:: with SMTP id x63mr7220104ljb.95.1566018396593;
+ Fri, 16 Aug 2019 22:06:36 -0700 (PDT)
+MIME-Version: 1.0
+References: <BN6P105MB0034D17BA363C1391481709BE7D70@BN6P105MB0034.NAMP105.PROD.OUTLOOK.COM>
+ <CADn1Y2CVG9Mnr9nyNRfe2AJhUBiEsUtL-XxYwCLxSQea_nm8xg@mail.gmail.com>
+ <31de9c4af734be18cc0d3eb59888a6cc@agilefitness.in> <CADn1Y2BitaXzr=MweFTyOxL5S8a0fm6RH0CYUVGPsJDz=qhkJw@mail.gmail.com>
+ <CADn1Y2DyWKi41b44RkWk9ZzDeACr78+BHRZRptmf7Jg33Sr=VQ@mail.gmail.com>
+ <CADn1Y2APOUqXjGw3jwPu_q0gTQWE+AT3Nkio3Np76w_z37k1YQ@mail.gmail.com> <e1284f058eb783b044cf03bcc2f73956@agilefitness.in>
+In-Reply-To: <e1284f058eb783b044cf03bcc2f73956@agilefitness.in>
+From: Srungar Interior Decorators <srungar.sid@gmail.com>
+Date: Sat, 17 Aug 2019 10:36:50 +0530
+Message-ID: <CADn1Y2D7zG8fhajTaSmYM2KEE9OAk_6Ymeo9C-85ffNP_dKUMg@mail.gmail.com>
+Subject: Re: Indoor gaming requirement.
+To: Agile Fitness <support@agilefitness.in>
+Content-Type: multipart/alternative; boundary="0000000000003da07205904912bd"
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.5
+X-Spam-Score: -4
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, DKIM_VALID_EF=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_MSPIKE_H2=-0.263, SPF_PASS=-0.001, URIBL_BLOCKED=0.001
+ 
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was
+ *      blocked.  See
+ *      http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: agilefitness.in]
+ * -0.0 RCVD_IN_DNSWL_NONE RBL: Sender listed at
+ *      https://www.dnswl.org/, no trust
+ *      [209.85.208.176 listed in list.dnswl.org]
+ * -0.3 RCVD_IN_MSPIKE_H2 RBL: Average reputation (+2)
+ *      [209.85.208.176 listed in wl.mailspike.net]
+ * -0.0 SPF_PASS SPF: sender matches SPF record
+ *  0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail
+ *      provider (srungar.sid[at]gmail.com)
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *       valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.1 DKIM_VALID_EF Message has a valid DKIM or DK signature from
+ *      envelope-from domain
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from
+ *      author's domain
+X-Spam-Flag: NO
+X-BoxTrapper-Match: white: 1: srungar.sid@gmail.com
+
+--0000000000003da07205904912bd
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+--=20
+Dear Sir,
+
+Plz share the revise quote Pool table also
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Thanking You,
+
+Srungar Interior Decorators
+#13, 18th Main, Freedom Fighter Nagar, Laggere Main Road, Bangalore -560058=
+.
+ : 080 - 28396858/9900129683.
+Mail.Id: srungar.sid@gmail.com
+           s_srungarinteriordecorators@yahoo.co.in
+
+On Sat, Aug 17, 2019 at 9:59 AM Agile Fitness <support@agilefitness.in>
+wrote:
+
+> Dear Sir / Madam ,
+>
+> Please find the revised quote.
+> --
+> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, s=
+ports
+> materials, Sports flooring ,AMC.
+>
+> Regards,
+> Sukdeep D S
+> Manager, Sales & service,
+> Agile fitness,Malleswaram,Bangalore-4.
+> Ph.:+91 9980111255 www.agilefitness.in
+>
+> On 2019-08-16 05:16, Srungar Interior Decorators wrote:
+> > Dear Sir,
+> >
+> > Waiting For the quotation
+> >
+> > On Wed, Aug 14, 2019 at 5:57 PM Srungar Interior Decorators
+> > <srungar.sid@gmail.com> wrote:
+> >
+> >> Dear sir,
+> >>
+> >> Plz share the revised quote
+> >>
+> >> On Tue, Aug 13, 2019 at 5:32 PM Srungar Interior Decorators
+> >> <srungar.sid@gmail.com> wrote:
+> >>
+> >>> --
+> >>> Dear sir,
+> >>>
+> >>> Kindly share the revised quote
+> >>>
+> >>> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+> >>>
+> >>> Thanking You,
+> >>>
+> >>> Srungar Interior Decorators
+> >>> #13, 18th Main, Freedom Fighter Nagar, Laggere Main Road,
+> >>> Bangalore -560058.
+> >>> : 080 - 28396858/9900129683.
+> >>> Mail.Id: srungar.sid@gmail.com
+> >>> s_srungarinteriordecorators@yahoo.co.in
+> >>>
+> >>> ---------- Forwarded message ---------
+> >>> From: AGILE FITNESS <support@agilefitness.in>
+> >>> Date: Thu, Aug 8, 2019 at 2:44 PM
+> >>> Subject: Re: Indoor gaming requirement for CHN
+> >>> To: Srungar Interior Decorators <srungar.sid@gmail.com>
+> >>>
+> >>> Dear Sir / Madam,
+> >>>
+> >>> Greeting From Agile Fitness Pvt. Ltd.
+> >>>
+> >>> Please find the attached quotation.
+> >>>
+> >>> Standard Pool Table is of 8 *4 where as here we have provided mini
+> >>> pool
+> >>> table which is of 7*3.5 .
+> >>>
+> >>> Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainer=
+s,
+> >>> sports
+> >>> materials, Sports flooring ,AMC.
+> >>>
+> >>> Regards,
+> >>> Sukdeep D S
+> >>> Manager, Sales & service,
+> >>> Agile fitness,Malleswaram,Bangalore-4.
+> >>> Ph.:+91 9980111255 www.agilefitness.in [1]
+> >>
+> >> --
+> >>
+> >> Dear Sir,
+> >>
+> >> Thanks for your enquiry. We are pleased to enclose here with our
+> >> quotation for your perusal & we await your esteemed order at the
+> >> earliest.
+> >>
+> >> =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+> >> Thanking You,
+> >>
+> >> Srungar Interior Decorators
+> >> #13, 18th Main, Freedom Fighter Nagar, Laggere Main Road, Bangalore
+> >> -560058.
+> >> : 080 - 28396858/9900129683.
+> >> Mail.Id: srungar.sid@gmail.com
+> >> s_srungarinteriordecorators@yahoo.co.in
+> >
+> > --
+> >
+> > Dear Sir,
+> >
+> > Thanks for your enquiry. We are pleased to enclose here with our
+> > quotation for your perusal & we await your esteemed order at the
+> > earliest.
+> >
+> > =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+> > Thanking You,
+> >
+> > Srungar Interior Decorators
+> > #13, 18th Main, Freedom Fighter Nagar, Laggere Main Road, Bangalore
+> > -560058.
+> >  : 080 - 28396858/9900129683.
+> > Mail.Id: srungar.sid@gmail.com
+> >            s_srungarinteriordecorators@yahoo.co.in
+> >
+> >
+> > Links:
+> > ------
+> > [1] http://www.agilefitness.in
+>
+
+--0000000000003da07205904912bd
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr">--=C2=
+=A0<br><div dir=3D"ltr" class=3D"gmail_signature"><div dir=3D"ltr"><div dir=
+=3D"ltr"><span style=3D"font-size:13px">Dear Sir,</span><br style=3D"font-s=
+ize:13px"><br clear=3D"all" style=3D"font-size:12.7273px"><div><span style=
+=3D"font-size:12.7273px">Plz share the revise quote=C2=A0</span>Pool table =
+also=C2=A0</div><div><br></div><div>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D</d=
+iv><div>Thanking You,</div><div>=C2=A0</div><div>Srungar Interior Decorator=
+s</div><div>#13, 18th Main, Freedom Fighter Nagar, Laggere Main Road, Banga=
+lore -560058.</div><div><span lang=3D"EN-IN" style=3D"font-size:11pt;color:=
+blue;font-family:&quot;Comic Sans MS&quot;"><img height=3D"16" src=3D"https=
+://mail.google.com/mail/u/0/?ui=3D2&amp;ik=3Da5060f644c&amp;view=3Datt&amp;=
+th=3D12f58f4d642dfca3&amp;attid=3D0.0.1&amp;disp=3Demb&amp;realattid=3Df8b2=
+e07658e208d3_0.3" width=3D"24"></span>=C2=A0: 080 - 28396858/9900129683.</d=
+iv><div>Mail.Id:=C2=A0<a href=3D"mailto:srungar.sid@gmail.com" target=3D"_b=
+lank">srungar.sid@gmail.com</a></div><div>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0<a href=3D"mailto:s_srungarinteriordecorat=
+ors@yahoo.co.in" target=3D"_blank">s_srungarinteriordecorators@yahoo.co.in<=
+/a></div></div></div></div></div><br><div class=3D"gmail_quote"><div dir=3D=
+"ltr" class=3D"gmail_attr">On Sat, Aug 17, 2019 at 9:59 AM Agile Fitness &l=
+t;<a href=3D"mailto:support@agilefitness.in">support@agilefitness.in</a>&gt=
+; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0px 0px=
+ 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex">Dear Si=
+r / Madam ,<br>
+<br>
+Please find the revised quote.<br>
+-- <br>
+Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness trainers, spo=
+rts <br>
+materials, Sports flooring ,AMC.<br>
+<br>
+Regards,<br>
+Sukdeep D S<br>
+Manager, Sales &amp; service,<br>
+Agile fitness,Malleswaram,Bangalore-4.<br>
+Ph.:+91 9980111255 <a href=3D"http://www.agilefitness.in" rel=3D"noreferrer=
+" target=3D"_blank">www.agilefitness.in</a><br>
+<br>
+On 2019-08-16 05:16, Srungar Interior Decorators wrote:<br>
+&gt; Dear Sir,<br>
+&gt; <br>
+&gt; Waiting For the quotation<br>
+&gt; <br>
+&gt; On Wed, Aug 14, 2019 at 5:57 PM Srungar Interior Decorators<br>
+&gt; &lt;<a href=3D"mailto:srungar.sid@gmail.com" target=3D"_blank">srungar=
+.sid@gmail.com</a>&gt; wrote:<br>
+&gt; <br>
+&gt;&gt; Dear sir,<br>
+&gt;&gt; <br>
+&gt;&gt; Plz share the revised quote<br>
+&gt;&gt; <br>
+&gt;&gt; On Tue, Aug 13, 2019 at 5:32 PM Srungar Interior Decorators<br>
+&gt;&gt; &lt;<a href=3D"mailto:srungar.sid@gmail.com" target=3D"_blank">sru=
+ngar.sid@gmail.com</a>&gt; wrote:<br>
+&gt;&gt; <br>
+&gt;&gt;&gt; --<br>
+&gt;&gt;&gt; Dear sir,<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; Kindly share the revised quote<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; Thanking You,<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; Srungar Interior Decorators<br>
+&gt;&gt;&gt; #13, 18th Main, Freedom Fighter Nagar, Laggere Main Road,<br>
+&gt;&gt;&gt; Bangalore -560058.<br>
+&gt;&gt;&gt; : 080 - 28396858/9900129683.<br>
+&gt;&gt;&gt; Mail.Id: <a href=3D"mailto:srungar.sid@gmail.com" target=3D"_b=
+lank">srungar.sid@gmail.com</a><br>
+&gt;&gt;&gt; <a href=3D"mailto:s_srungarinteriordecorators@yahoo.co.in" tar=
+get=3D"_blank">s_srungarinteriordecorators@yahoo.co.in</a><br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; ---------- Forwarded message ---------<br>
+&gt;&gt;&gt; From: AGILE FITNESS &lt;<a href=3D"mailto:support@agilefitness=
+.in" target=3D"_blank">support@agilefitness.in</a>&gt;<br>
+&gt;&gt;&gt; Date: Thu, Aug 8, 2019 at 2:44 PM<br>
+&gt;&gt;&gt; Subject: Re: Indoor gaming requirement for CHN<br>
+&gt;&gt;&gt; To: Srungar Interior Decorators &lt;<a href=3D"mailto:srungar.=
+sid@gmail.com" target=3D"_blank">srungar.sid@gmail.com</a>&gt;<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; Dear Sir / Madam,<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; Greeting From Agile Fitness Pvt. Ltd.<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; Please find the attached quotation.<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; Standard Pool Table is of 8 *4 where as here we have provided =
+mini<br>
+&gt;&gt;&gt; pool<br>
+&gt;&gt;&gt; table which is of 7*3.5 .<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; Agile Fitness: Fitness equipment=E2=80=99s, Certified fitness =
+trainers,<br>
+&gt;&gt;&gt; sports<br>
+&gt;&gt;&gt; materials, Sports flooring ,AMC.<br>
+&gt;&gt;&gt; <br>
+&gt;&gt;&gt; Regards,<br>
+&gt;&gt;&gt; Sukdeep D S<br>
+&gt;&gt;&gt; Manager, Sales &amp; service,<br>
+&gt;&gt;&gt; Agile fitness,Malleswaram,Bangalore-4.<br>
+&gt;&gt;&gt; Ph.:+91 9980111255 <a href=3D"http://www.agilefitness.in" rel=
+=3D"noreferrer" target=3D"_blank">www.agilefitness.in</a> [1]<br>
+&gt;&gt; <br>
+&gt;&gt; --<br>
+&gt;&gt; <br>
+&gt;&gt; Dear Sir,<br>
+&gt;&gt; <br>
+&gt;&gt; Thanks for your enquiry. We are pleased to enclose here with our<b=
+r>
+&gt;&gt; quotation for your perusal &amp; we await your esteemed order at t=
+he<br>
+&gt;&gt; earliest.<br>
+&gt;&gt; <br>
+&gt;&gt; =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<br>
+&gt;&gt; Thanking You,<br>
+&gt;&gt; <br>
+&gt;&gt; Srungar Interior Decorators<br>
+&gt;&gt; #13, 18th Main, Freedom Fighter Nagar, Laggere Main Road, Bangalor=
+e<br>
+&gt;&gt; -560058.<br>
+&gt;&gt; : 080 - 28396858/9900129683.<br>
+&gt;&gt; Mail.Id: <a href=3D"mailto:srungar.sid@gmail.com" target=3D"_blank=
+">srungar.sid@gmail.com</a><br>
+&gt;&gt; <a href=3D"mailto:s_srungarinteriordecorators@yahoo.co.in" target=
+=3D"_blank">s_srungarinteriordecorators@yahoo.co.in</a><br>
+&gt; <br>
+&gt; --<br>
+&gt; <br>
+&gt; Dear Sir,<br>
+&gt; <br>
+&gt; Thanks for your enquiry. We are pleased to enclose here with our<br>
+&gt; quotation for your perusal &amp; we await your esteemed order at the<b=
+r>
+&gt; earliest.<br>
+&gt; <br>
+&gt; =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D<br>
+&gt; Thanking You,<br>
+&gt; <br>
+&gt; Srungar Interior Decorators<br>
+&gt; #13, 18th Main, Freedom Fighter Nagar, Laggere Main Road, Bangalore<br=
+>
+&gt; -560058.<br>
+&gt;=C2=A0 : 080 - 28396858/9900129683.<br>
+&gt; Mail.Id: <a href=3D"mailto:srungar.sid@gmail.com" target=3D"_blank">sr=
+ungar.sid@gmail.com</a><br>
+&gt;=C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 <a href=3D"mailto:s_srungarin=
+teriordecorators@yahoo.co.in" target=3D"_blank">s_srungarinteriordecorators=
+@yahoo.co.in</a><br>
+&gt; <br>
+&gt; <br>
+&gt; Links:<br>
+&gt; ------<br>
+&gt; [1] <a href=3D"http://www.agilefitness.in" rel=3D"noreferrer" target=
+=3D"_blank">http://www.agilefitness.in</a><br>
+</blockquote></div><br clear=3D"all"><div><br></div><br><div dir=3D"ltr" cl=
+ass=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div>
+<div>=C2=A0</div></div></div></div></div></div></div></div></div>
+
+--0000000000003da07205904912bd--
+

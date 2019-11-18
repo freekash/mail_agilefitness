@@ -1,0 +1,589 @@
+Return-Path: <neha@connect-kelltontech.net>
+Delivered-To: Sukdeep@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP id ABliKjOgiFwDjAgAwqAP9w
+	for <Sukdeep@agilefitness.in>; Wed, 13 Mar 2019 06:16:19 +0000
+Return-path: <neha@connect-kelltontech.net>
+Envelope-to: Sukdeep@agilefitness.in
+Delivery-date: Wed, 13 Mar 2019 06:16:19 +0000
+Received: from mail.xsend9.email ([34.231.94.79]:46132)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <neha@connect-kelltontech.net>)
+	id 1h3xBU-002X94-8z
+	for Sukdeep@agilefitness.in; Wed, 13 Mar 2019 06:16:19 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+ s=1550743808; d=connect-kelltontech.net; t=1552457772;
+  h=from:subject:date:message-id;
+ bh=9kk2YwBjAfEXSzNWot/fppAm0Me5mmLHK5GnArT30bA=;
+ b=n2l4pv7LjiUVHJSr8MmyU29DNkoM4BpkXotz+hzKE8F7gT8KSb0KK1+r6my4O056k/ViU8
+ cpUlMV6eYEjPBAGejq2UszG5L+RVDIPqXJ0horJaPNPSo3db0bYGj5tbwHdnTNqXb/PdyH
+ MNunb/qSQxfpXK+025u/5W7MmTRGHHU=
+Received: sendx delivered remote 1245; 13 Mar 2019 06:16:12 +0000
+Mime-Version: 1.0
+Date: Wed, 13 Mar 2019 06:00:37 +0000
+List-Unsubscribe: <http://api.sx8.email/unsubscribe/campaign/Aob35Jbbs1BTT2Y7A61DaM/GFS3hGiSMChcvHfPkQjoso/success?type=list>
+To: Sukdeep@agilefitness.in
+Feedback-ID: campaign:Aob35Jbbs1BTT2Y7A61DaM:GFS3hGiSMChcvHfPkQjoso:Sumit
+X-Campaign-Id: Aob35Jbbs1BTT2Y7A61DaM
+X-Team-Id: Ni117Oc7I8z1Vo5yOpYTBW
+Reply-To: Neha Kayarkar <neha@connect-kelltontech.net>
+X-Contact-Id: GFS3hGiSMChcvHfPkQjoso
+Message-ID: <0e80962ef896bcc9f0c2599cec574353@connect-kelltontech.net>
+From: Neha Kayarkar <neha@connect-kelltontech.net>
+Subject: Can We Meet & Discuss?
+Content-Type: multipart/alternative;
+ boundary=89961ebe588d83c1dfe561fba15922c9b818434a7a5f2c95a7f2840be2b4
+X-Authenticated_sender: 
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, T_KAM_HTML_FONT_INVALID=0.01, T_SPF_PERMERROR=0.01, CMAE Analysis: v=2.3 cv=DYs5VMlW c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=F2Q77C/tDmGhFJmmsFhvqQ==:17 a=oHHRNoSmSjYA:10 a=NTGMnVQrEZIA:10 a=-uNXE31MpBQA:10 a=bCwrqapWpoIA:10 a=GdByLr_m55_ZlbZgZ28A:9 a=-4GWQlbwiSjr_9zz:21 a=jlxdhCpwr5y2o2aV:21 a=QEXdDO2ut3YA:10 a=RjAoGzkrKIsA:10 a=-FEs8UIgK8oA:10 a=NWVoK91CQyQA:10 a=kqDIe2u4n5s8qzwkyFcA:9 a=MxqFrer7swK1S2Nt:21 a=0tSndpu_JuzDiuDo:21 a=cC07kVftrFEZpit_:21 a=_W_S_7VecoQA:10 a=frz4AuCg-hUA:10 a=pHzHmUro8NiASowvMSCR:22 a=xoEH_sTeL_Rfw54TyV31:22
+ 
+ *  0.0 T_SPF_PERMERROR SPF: test of record failed (permerror)
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ *  0.0 T_KAM_HTML_FONT_INVALID BODY: Test for Invalidly Named or Formatted
+ *      Colors in HTML
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *      valid
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from author's
+ *       domain
+X-Spam-Flag: NO
+
+--89961ebe588d83c1dfe561fba15922c9b818434a7a5f2c95a7f2840be2b4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello Sukdeep,
+
+=C2=A0
+
+I hope this email finds you well!
+
+=C2=A0
+
+I would like to introduce you to Kellton Tech Solutions, a CMMi Level 5 com=
+pany with strong expertise in Mobile-based business solutions and Mobile Te=
+chnology Services. We have delivered more than 200+ projects in the recent =
+years with more than 135+ happy and continuing clients across the globe. To=
+ name a few: Religare, Aegon & Paytm etc.
+
+=C2=A0
+
+We serve our clients with the best in class developers with immense experie=
+nce in the domain.
+
+=C2=A0
+
+Major offering in Mobile Application includes the following;
+
+* IOS Application Development
+* Android Application Development
+* Mobile Application Design
+* Progressive Web App Development
+* Hybrid Application Development
+* Enterprise Mobility
+=C2=A0
+
+I'm reaching out to understand if you would be=C2=A0interested for a quick =
+meeting tomorrow,14th Mar, =C2=A0so we can let you know more about our offe=
+rings and solutions, we have delivered so far and how we can help you with =
+any of your Digital initiatives.
+
+=C2=A0
+
+Please let me know your convenient time and I shall send an invite for the =
+same.
+
+=C2=A0
+
+To know more, please http://api.sx8.email/api/v1/track/campaign/click/rvvky=
+spmXidhbhnRfdlo61/GFS3hGiSMChcvHfPkQjoso
+
+=C2=A0
+
+Best Regards
+
+Neha Kayarkar
+
++91-9654779889------To make sure you keep getting these emails, please add =
+neha@connect-kelltontech.net to your address book or whitelist us.=20
+<br>=20
+<br>Want to stop receiving mails to this list http://api.sx8.email/unsubscr=
+ibe/campaign/Aob35Jbbs1BTT2Y7A61DaM/GFS3hGiSMChcvHfPkQjoso/success?type=3Dl=
+ist or if you want to stop getting all communication from us http://api.sx8=
+.email/unsubscribe/campaign/Aob35Jbbs1BTT2Y7A61DaM/GFS3hGiSMChcvHfPkQjoso/s=
+uccess?type=3Dall.
+<br>=20
+<br>Our postal address: Gurgaon
+--89961ebe588d83c1dfe561fba15922c9b818434a7a5f2c95a7f2840be2b4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3=
+.org/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:s=
+chemas-microsoft-com:office:office"><head>
+	<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPe=
+rInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"/>
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width"/>
+	<!--[if !mso]><!-->
+	<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge"/>
+	<!--<![endif]-->
+	<title></title>
+	<!--[if !mso]><!-->
+	<!--<![endif]-->
+	<style type=3D"text/css">
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		table,
+		td,
+		tr {
+			vertical-align: top;
+			border-collapse: collapse;
+		}
+
+		* {
+			line-height: inherit;
+		}
+
+		a[x-apple-data-detectors=3Dtrue] {
+			color: inherit !important;
+			text-decoration: none !important;
+		}
+
+		.ie-browser table {
+			table-layout: fixed;
+		}
+
+		[owa] .img-container div,
+		[owa] .img-container button {
+			display: block !important;
+		}
+
+		[owa] .fullwidth button {
+			width: 100% !important;
+		}
+
+		[owa] .block-grid .col {
+			display: table-cell;
+			float: none !important;
+			vertical-align: top;
+		}
+
+		.ie-browser .block-grid,
+		.ie-browser .num12,
+		[owa] .num12,
+		[owa] .block-grid {
+			width: 900px !important;
+		}
+
+		.ie-browser .mixed-two-up .num4,
+		[owa] .mixed-two-up .num4 {
+			width: 300px !important;
+		}
+
+		.ie-browser .mixed-two-up .num8,
+		[owa] .mixed-two-up .num8 {
+			width: 600px !important;
+		}
+
+		.ie-browser .block-grid.two-up .col,
+		[owa] .block-grid.two-up .col {
+			width: 450px !important;
+		}
+
+		.ie-browser .block-grid.three-up .col,
+		[owa] .block-grid.three-up .col {
+			width: 450px !important;
+		}
+
+		.ie-browser .block-grid.four-up .col [owa] .block-grid.four-up .col {
+			width: 225px !important;
+		}
+
+		.ie-browser .block-grid.five-up .col [owa] .block-grid.five-up .col {
+			width: 180px !important;
+		}
+
+		.ie-browser .block-grid.six-up .col,
+		[owa] .block-grid.six-up .col {
+			width: 150px !important;
+		}
+
+		.ie-browser .block-grid.seven-up .col,
+		[owa] .block-grid.seven-up .col {
+			width: 128px !important;
+		}
+
+		.ie-browser .block-grid.eight-up .col,
+		[owa] .block-grid.eight-up .col {
+			width: 112px !important;
+		}
+
+		.ie-browser .block-grid.nine-up .col,
+		[owa] .block-grid.nine-up .col {
+			width: 100px !important;
+		}
+
+		.ie-browser .block-grid.ten-up .col,
+		[owa] .block-grid.ten-up .col {
+			width: 60px !important;
+		}
+
+		.ie-browser .block-grid.eleven-up .col,
+		[owa] .block-grid.eleven-up .col {
+			width: 54px !important;
+		}
+
+		.ie-browser .block-grid.twelve-up .col,
+		[owa] .block-grid.twelve-up .col {
+			width: 50px !important;
+		}
+	</style>
+	<style type=3D"text/css" id=3D"media-query">
+		@media only screen and (min-width: 920px) {
+			.block-grid {
+				width: 900px !important;
+			}
+
+			.block-grid .col {
+				vertical-align: top;
+			}
+
+			.block-grid .col.num12 {
+				width: 900px !important;
+			}
+
+			.block-grid.mixed-two-up .col.num3 {
+				width: 225px !important;
+			}
+
+			.block-grid.mixed-two-up .col.num4 {
+				width: 300px !important;
+			}
+
+			.block-grid.mixed-two-up .col.num8 {
+				width: 600px !important;
+			}
+
+			.block-grid.mixed-two-up .col.num9 {
+				width: 675px !important;
+			}
+
+			.block-grid.two-up .col {
+				width: 450px !important;
+			}
+
+			.block-grid.three-up .col {
+				width: 300px !important;
+			}
+
+			.block-grid.four-up .col {
+				width: 225px !important;
+			}
+
+			.block-grid.five-up .col {
+				width: 180px !important;
+			}
+
+			.block-grid.six-up .col {
+				width: 150px !important;
+			}
+
+			.block-grid.seven-up .col {
+				width: 128px !important;
+			}
+
+			.block-grid.eight-up .col {
+				width: 112px !important;
+			}
+
+			.block-grid.nine-up .col {
+				width: 100px !important;
+			}
+
+			.block-grid.ten-up .col {
+				width: 90px !important;
+			}
+
+			.block-grid.eleven-up .col {
+				width: 81px !important;
+			}
+
+			.block-grid.twelve-up .col {
+				width: 75px !important;
+			}
+		}
+
+		@media (max-width: 920px) {
+
+			.block-grid,
+			.col {
+				min-width: 320px !important;
+				max-width: 100% !important;
+				display: block !important;
+			}
+
+			.block-grid {
+				width: 100% !important;
+			}
+
+			.col {
+				width: 100% !important;
+			}
+
+			.col>div {
+				margin: 0 auto;
+			}
+
+			img.fullwidth,
+			img.fullwidthOnMobile {
+				max-width: 100% !important;
+			}
+
+			.no-stack .col {
+				min-width: 0 !important;
+				display: table-cell !important;
+			}
+
+			.no-stack.two-up .col {
+				width: 50% !important;
+			}
+
+			.no-stack .col.num4 {
+				width: 33% !important;
+			}
+
+			.no-stack .col.num8 {
+				width: 66% !important;
+			}
+
+			.no-stack .col.num4 {
+				width: 33% !important;
+			}
+
+			.no-stack .col.num3 {
+				width: 25% !important;
+			}
+
+			.no-stack .col.num6 {
+				width: 50% !important;
+			}
+
+			.no-stack .col.num9 {
+				width: 75% !important;
+			}
+
+			.mobile_hide {
+				min-height: 0px;
+				max-height: 0px;
+				max-width: 0px;
+				display: none;
+				overflow: hidden;
+				font-size: 0px;
+			}
+		}
+	</style>
+</head>
+
+<body class=3D"clean-body" style=3D"margin: 0; padding: 0; -webkit-text-siz=
+e-adjust: 100%; background-color: #FFFFFF;">
+<style type=3D"text/css" id=3D"media-query-bodytag">
+@media (max-width: 920px) {
+  .block-grid {
+    min-width: 320px!important;
+    max-width: 100%!important;
+    width: 100%!important;
+    display: block!important;
+  }
+  .col {
+    min-width: 320px!important;
+    max-width: 100%!important;
+    width: 100%!important;
+    display: block!important;
+  }
+  .col > div {
+    margin: 0 auto;
+  }
+  img.fullwidth {
+    max-width: 100%!important;
+    height: auto!important;
+  }
+  img.fullwidthOnMobile {
+    max-width: 100%!important;
+    height: auto!important;
+  }
+  .no-stack .col {
+    min-width: 0!important;
+    display: table-cell!important;
+  }
+  .no-stack.two-up .col {
+    width: 50%!important;
+  }
+  .no-stack.mixed-two-up .col.num4 {
+    width: 33%!important;
+  }
+  .no-stack.mixed-two-up .col.num8 {
+    width: 66%!important;
+  }
+  .no-stack.three-up .col.num4 {
+    width: 33%!important
+  }
+  .no-stack.four-up .col.num3 {
+    width: 25%!important
+  }
+}
+</style>
+	<!--[if IE]><div class=3D"ie-browser"><![endif]-->
+	<table class=3D"nl-container" style=3D"table-layout: fixed; vertical-align=
+: top; min-width: 320px; Margin: 0 auto; border-spacing: 0; border-collapse=
+: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color:=
+ #FFFFFF; width: 100%;" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" =
+bgcolor=3D"#FFFFFF" valign=3D"top">
+		<tbody>
+			<tr style=3D"vertical-align: top;" valign=3D"top">
+				<td style=3D"word-break: break-word; vertical-align: top; border-collap=
+se: collapse;" valign=3D"top">
+					<!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0"><tr><td align=3D"center" style=3D"background-color:#FF=
+FFFF"><![endif]-->
+					<div style=3D"background-color:transparent;">
+						<div class=3D"block-grid " style=3D"Margin: 0 auto; min-width: 320px;=
+ max-width: 900px; overflow-wrap: break-word; word-wrap: break-word; word-b=
+reak: break-word; background-color: transparent;;">
+							<div style=3D"border-collapse: collapse;display: table;width: 100%;b=
+ackground-color:transparent;">
+								<!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspa=
+cing=3D"0" border=3D"0" style=3D"background-color:transparent;"><tr><td ali=
+gn=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"width:900px"><tr class=3D"layout-full-width" style=3D"background-color:=
+transparent"><![endif]-->
+								<!--[if (mso)|(IE)]><td align=3D"center" width=3D"900" style=3D"bac=
+kground-color:transparent;width:900px; border-top: 0px solid transparent; b=
+order-left: 0px solid transparent; border-bottom: 0px solid transparent; bo=
+rder-right: 0px solid transparent;" valign=3D"top"><table width=3D"100%" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"padding-rig=
+ht: 0px; padding-left: 0px; padding-top:5px; padding-bottom:5px;"><![endif]=
+-->
+								<div class=3D"col num12" style=3D"min-width: 320px; max-width: 900p=
+x; display: table-cell; vertical-align: top;;">
+									<div style=3D"width:100% !important;">
+										<!--[if (!mso)&(!IE)]><!-->
+										<div style=3D"border-top:0px solid transparent; border-left:0px s=
+olid transparent; border-bottom:0px solid transparent; border-right:0px sol=
+id transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; pa=
+dding-left: 0px;">
+											<!--<![endif]-->
+											<!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0"><tr><td style=3D"padding-right: 10px; padding-left: 10p=
+x; padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"=
+><![endif]-->
+											<div style=3D"color:#555555;font-family:Arial, &#39;Helvetica Ne=
+ue&#39;, Helvetica, sans-serif;line-height:120%;padding-top:10px;padding-ri=
+ght:10px;padding-bottom:10px;padding-left:10px;">
+												<div style=3D"font-size: 12px; line-height: 14px; color: #55555=
+5; font-family: Arial, &#39;Helvetica Neue&#39;, Helvetica, sans-serif;">
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">He=
+llo Sukdeep,</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">=
+=C2=A0</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">I =
+hope this email finds you well!</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">=
+=C2=A0</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">I =
+would like to introduce you to Kellton Tech Solutions, a CMMi Level 5 compa=
+ny with strong expertise in Mobile-based business solutions and Mobile Tech=
+nology Services. We have delivered more than 200+ projects in the recent ye=
+ars with more than 135+ happy and continuing clients across the globe. To n=
+ame a few: Religare, Aegon &amp; Paytm etc.</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">=
+=C2=A0</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">We=
+ serve our clients with the best in class developers with immense experienc=
+e in the domain.</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">=
+=C2=A0</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">Ma=
+jor offering in Mobile Application includes the following;</p>
+													<ul>
+														<li style=3D"font-size: 12px; line-height: 14px;">IOS Applica=
+tion Development</li>
+														<li style=3D"font-size: 12px; line-height: 14px;">Android App=
+lication Development</li>
+														<li style=3D"font-size: 12px; line-height: 14px;">Mobile Appl=
+ication Design</li>
+														<li style=3D"font-size: 12px; line-height: 14px;">Progressive=
+ Web App Development</li>
+														<li style=3D"font-size: 12px; line-height: 14px;">Hybrid Appl=
+ication Development</li>
+														<li style=3D"font-size: 12px; line-height: 14px;">Enterprise =
+Mobility<br/>=C2=A0</li>
+													</ul>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">I&=
+#39;m reaching out to understand if you would be=C2=A0interested for a quic=
+k meeting tomorrow,14th Mar, =C2=A0so we can let you know more about our of=
+ferings and solutions, we have delivered so far and how we can help you wit=
+h any of your Digital initiatives.</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">=
+=C2=A0</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">Pl=
+ease let me know your convenient time and I shall send an invite for the sa=
+me.</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">=
+=C2=A0</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">To=
+ know more, please https://www.kelltontech.com/enterprise-mobility</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">=
+=C2=A0</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">Be=
+st Regards</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">Ne=
+ha Kayarkar</p>
+													<p style=3D"font-size: 12px; line-height: 14px; margin: 0;">+9=
+1-9654779889</p>
+												</div>
+											</div>
+											<!--[if mso]></td></tr></table><![endif]-->
+											<!--[if (!mso)&(!IE)]><!-->
+										</div>
+										<!--<![endif]-->
+									</div>
+								</div>
+								<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+								<!--[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]--=
+>
+							</div>
+						</div>
+					</div>
+					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+				</td>
+			</tr>
+		</tbody>
+	</table>
+	<!--[if (IE)]></div><![endif]-->
+
+
+<br/><br/><br/><div style=3D"border-top-color:#d0d0d0;border-top-style:soli=
+d;border-top-width:1px;color:#777;font-family:&#39;Helvetica&#39;,&#39;Aria=
+l&#39;,sans-serif;font-size:13px;line-height:1.4;padding:5px;"> <br/> To ma=
+ke sure you keep getting these emails, please add neha@connect-kelltontech.=
+net to your address book or whitelist us.=20
+<br/>=20
+<br/>Want to stop receiving mails to this list <a href=3D"http://api.sx8.em=
+ail/unsubscribe/campaign/Aob35Jbbs1BTT2Y7A61DaM/GFS3hGiSMChcvHfPkQjoso/succ=
+ess?type=3Dlist">Unsubscribe</a> or if you want to stop getting all communi=
+cation from us <a href=3D"http://api.sx8.email/unsubscribe/campaign/Aob35Jb=
+bs1BTT2Y7A61DaM/GFS3hGiSMChcvHfPkQjoso/success?type=3Dall">Unsubscribe All<=
+/a>.
+<br/>=20
+<br/>Our postal address: Gurgaon </div><img src=3D"http://api.sx8.email/api=
+/v1/track/campaign/open/Aob35Jbbs1BTT2Y7A61DaM/GFS3hGiSMChcvHfPkQjoso/1.png=
+" style=3D"position:absolute; visibility:hidden"/></body></html>
+--89961ebe588d83c1dfe561fba15922c9b818434a7a5f2c95a7f2840be2b4--

@@ -1,0 +1,69 @@
+Return-Path: <>
+Delivered-To: support@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP id mIWvABEBRlwqEQ0AwqAP9w
+	for <support@agilefitness.in>; Mon, 21 Jan 2019 17:27:45 +0000
+Return-path: <>
+Envelope-to: support@agilefitness.in
+Delivery-date: Mon, 21 Jan 2019 17:27:45 +0000
+Received: from mailnull by md-in-36.webhostbox.net with local (Exim 4.91)
+	id 1gldMO-003eMZ-Tv
+	for support@agilefitness.in; Mon, 21 Jan 2019 17:27:44 +0000
+X-Failed-Recipients: support@agilfitness.in
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@md-in-36.webhostbox.net>
+To: support@agilefitness.in
+Content-Type: multipart/report; report-type=delivery-status; boundary=1548091664-eximdsn-853260355
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1gldMO-003eMZ-Tv@md-in-36.webhostbox.net>
+Date: Mon, 21 Jan 2019 17:27:44 +0000
+
+--1548091664-eximdsn-853260355
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  support@agilfitness.in
+    The mail server could not deliver mail to support@agilfitness.in.  The account or domain may not exist, they may be blacklisted, or missing the proper dns entries.
+
+--1548091664-eximdsn-853260355
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; md-in-36.webhostbox.net
+
+Action: failed
+Final-Recipient: rfc822;support@agilfitness.in
+Status: 5.0.0
+
+--1548091664-eximdsn-853260355
+Content-type: text/rfc822-headers
+
+Return-path: <support@agilefitness.in>
+Received: from [127.0.0.1] (port=59953 helo=md-in-36.webhostbox.net)
+	by md-in-36.webhostbox.net with esmtpa (Exim 4.91)
+	(envelope-from <support@agilefitness.in>)
+	id 1gldMF-003e9b-Ob; Mon, 21 Jan 2019 17:27:36 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="=_726ab042d55433e8ce4cd815c69864b4"
+Date: Mon, 21 Jan 2019 17:27:35 +0000
+From: Agile Fitness <support@agilefitness.in>
+To: Sasi Kala <sasikala@ocean.net.in>
+Cc: Rajesh R <rajesh.r@ocean.net.in>, support@agilfitness.in
+Subject: Re: : Dell project - image and quote reuest
+In-Reply-To: <1f08b8f04086c4c628ef137ef0fba2e1@mail.gmail.com>
+References: <ad99ae301b76788db676c708084d29aa@mail.gmail.com>
+ <7d6bc20efcafd7085118dc1f48c057d8@agilefitness.in>
+ <1f08b8f04086c4c628ef137ef0fba2e1@mail.gmail.com>
+Message-ID: <346282ea8cad3a032d380f2981bd174d@agilefitness.in>
+X-Sender: support@agilefitness.in
+User-Agent: Roundcube Webmail/1.3.3
+X-Authenticated_sender: support@agilefitness.in
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1548091664-eximdsn-853260355--

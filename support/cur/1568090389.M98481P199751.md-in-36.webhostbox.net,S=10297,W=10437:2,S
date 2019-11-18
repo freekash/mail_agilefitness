@@ -1,0 +1,140 @@
+Received: from mail-eopbgr760049.outbound.protection.outlook.com ([40.107.76.49]:49070 helo=NAM02-CY1-obe.outbound.protection.outlook.com)
+	by md-in-36.webhostbox.net with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <PGopalan@infinera.com>)
+	id 1i7XwK-000pno-Vk
+	for support@agilefitness.in; Tue, 10 Sep 2019 04:39:49 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=XgVbS/C5hFRm0E+aCnVSvezELPcRs4nugn0pmIxKRoCS1HXJuwfNe+TkrbxqKyKyYPY9RPkpJB9GPgqFNPkzq+l5Q1u1V+sN6FOAEr9IB8UE+o5kImhRmlHwsp13Ba+gIh9dhFe2l4LSRuLf79a8lRL7cVp2Bqw9dQVagn6zFp+utilfTfCk1vYJtNXGEUAlNqwlMeJzH948g4nODA4hTSLOKyWyJob9lKL8/i99CMv8Hn2oYNCypRKSlCQgzS1JO6g/r0XfP/74r8KEuTJ9cMk05SbG/POftSevjZPVzaprMkZulIRC/QejyKs3xMPIdPZ15Y4SAetKNN2J+k/jgw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=bJO1FJYEhJN1OjXJ07OQxrGgsn0AvQBRtTn9hz3/+Dg=;
+ b=IhroQTASfhBSxB22XpAz94ln7bUwG521tVRD7kOBzG4TI4KSqOsJ3Q01c5Jwm59jfkuNef43XVAwaDd0ME3k7e4HROOLdfFChvMJM/VvgpHL0hg8NBqVa6l4ztIWvOV1ehiUlAgnoCSjw7/tbrf///zsHJIijzSva5hX7B9aK9vBjjvnPbznDqxwMv3krMyAZiIDcmkVttUxhtnKltJoW+HtwINJqlkYt6R2Z0qe0obAYsIDtJJV7JAP3HuR1//dwpc8/hmRyznw+jjNxiN092VH1lAuQcUl1TsCDli2CAWhFLFqN5FRepV0ExJYrUy8Y4AguuFhzv0f913iiyRBCA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=infinera.com; dmarc=pass action=none header.from=infinera.com;
+ dkim=pass header.d=infinera.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=infinera.com;
+ s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=bJO1FJYEhJN1OjXJ07OQxrGgsn0AvQBRtTn9hz3/+Dg=;
+ b=DfbwjLImrpOxfuR4RhKMgDhUsHOvswZWB+HZ6EhlggcUTBb2VoYha06WJMlF9+hL/+K/4Q0fC2z09krJ6qukmYdBNp6Rb6jvbDvzcDXVi0AqAKHHEE1h5n+9CydO3yBD7HkHwhWrns63P0fhK8PEVS6HwLzSgtd8wHESyAsxd+Q=
+Received: from BYAPR10MB3688.namprd10.prod.outlook.com (20.179.88.204) by
+ BYAPR10MB3078.namprd10.prod.outlook.com (20.177.225.204) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2241.18; Tue, 10 Sep 2019 04:39:25 +0000
+Received: from BYAPR10MB3688.namprd10.prod.outlook.com
+ ([fe80::48a3:cd03:8e9b:65df]) by BYAPR10MB3688.namprd10.prod.outlook.com
+ ([fe80::48a3:cd03:8e9b:65df%6]) with mapi id 15.20.2241.018; Tue, 10 Sep 2019
+ 04:39:25 +0000
+From: Pradeep Kezhakketil Gopalan Shivanarayanan <PGopalan@infinera.com>
+To: Agile Fitness <support@agilefitness.in>
+Subject: RE: MUTUAL NON-DISCLOSURE AGREEMENT
+Thread-Topic: MUTUAL NON-DISCLOSURE AGREEMENT
+Thread-Index: AdVjHG9dgDD/1IieQQWz9XYp944xEQAvDrtAAMudmhAAIcQKAAAA36kQ
+Date: Tue, 10 Sep 2019 04:39:25 +0000
+Message-ID:
+ <BYAPR10MB36889557E4BFFFAC265726DBAFB60@BYAPR10MB3688.namprd10.prod.outlook.com>
+References:
+ <BYAPR10MB36885D62D740C6F76FF21536AFB80@BYAPR10MB3688.namprd10.prod.outlook.com>
+ <BYAPR10MB368867AA707A8F85B934AEC4AFBB0@BYAPR10MB3688.namprd10.prod.outlook.com>
+ <BYAPR10MB3688B48623BCC75B788B6BABAFB70@BYAPR10MB3688.namprd10.prod.outlook.com>
+ <7f92ed9a67d71cffd48afeb3463e8b85@agilefitness.in>
+In-Reply-To: <7f92ed9a67d71cffd48afeb3463e8b85@agilefitness.in>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=PGopalan@infinera.com; 
+x-originating-ip: [182.76.161.229]
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 97585777-d470-4a07-e901-08d735a8dbcb
+x-microsoft-antispam:
+ BCL:0;PCL:0;RULEID:(2390118)(7020095)(4652040)(8989299)(4534185)(4627221)(201703031133081)(201702281549075)(8990200)(5600166)(711020)(4605104)(1401327)(2017052603328)(7193020);SRVR:BYAPR10MB3078;
+x-ms-traffictypediagnostic: BYAPR10MB3078:
+x-ms-exchange-purlcount: 1
+x-microsoft-antispam-prvs:
+ <BYAPR10MB3078482D5249DA004AC51C93AFB60@BYAPR10MB3078.namprd10.prod.outlook.com>
+x-ms-oob-tlc-oobclassifiers: OLM:1265;
+x-forefront-prvs: 01565FED4C
+x-forefront-antispam-report:
+ SFV:NSPM;SFS:(10009020)(4636009)(396003)(136003)(366004)(346002)(376002)(39860400002)(13464003)(199004)(189003)(81166006)(81156014)(6246003)(76116006)(256004)(71190400001)(14444005)(446003)(2906002)(9686003)(26005)(8676002)(14454004)(33656002)(7696005)(64756008)(66476007)(66556008)(3846002)(53936002)(8936002)(45080400002)(66946007)(6116002)(76176011)(71200400001)(316002)(478600001)(53546011)(486006)(102836004)(6506007)(966005)(80792005)(476003)(186003)(5660300002)(7736002)(86362001)(25786009)(3480700005)(6436002)(305945005)(66446008)(5024004)(11346002)(6916009)(6306002)(229853002)(55016002)(74316002)(52536014)(66066001)(99286004);DIR:OUT;SFP:1101;SCL:1;SRVR:BYAPR10MB3078;H:BYAPR10MB3688.namprd10.prod.outlook.com;FPR:;SPF:None;LANG:en;PTR:InfoNoRecords;A:1;MX:1;
+received-spf: None (protection.outlook.com: infinera.com does not designate
+ permitted sender hosts)
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam-message-info:
+ /q4Dio9PZMEVnxZFTeIXjZA9fGYYKP9bCyD8rM5mkVZP8dUXY9yWLkIqKKbdlbVwqAKbgHj+zjfBuoIwlG4HX/dizfOFwVl48n0NC82ccehPgD62ap7VzPUmOk4ntFYkcJ70vmLTJD/8i1atsaY6FbXO5ANkJUSZBoaeBVMsXqxvJGQV9NTGwF/Ub39sao9Zw6ALivmV77mAQaz3QWowOvtvh7Mapt+4vAd9EOzoe0yy0l70HyxYAJnBFJJO0BL2kBBvWM9sWqWxpv7/bf/gwU7r4tURTGXrBiACqHFCbYsRhVDtU9TfxoQuiYrJtam2sSQL3CF5YE8eQTxDG/w1aRigPYjU5+Mbw/Pez4j0xMVIzjvk6cMpu6r2MXwVu+uyL+Zyvutd7VFMI+cl3xVZcBrlZCFi9Qy8I3bqzIyW4xs=
+x-ms-exchange-transport-forked: True
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-OriginatorOrg: infinera.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 97585777-d470-4a07-e901-08d735a8dbcb
+X-MS-Exchange-CrossTenant-originalarrivaltime: 10 Sep 2019 04:39:25.2437
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 285643de-5f5b-4b03-a153-0ae2dc8aaf77
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: OXeyngC4DlKh8HpcerBNyhwSXFCbLkFYMX888wUHSOW1LeDUSmpX4ti+G90W5jNMywjiJ6ZanD27KiMMJRtxPg==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BYAPR10MB3078
+X-Spam-Status: No, score=0.6
+X-Spam-Score: 6
+X-Spam-Bar: /
+X-Spam-Flag: NO
+X-BoxTrapper-Match: white: 4: pgopalan@infinera.com
+
+SGkgU3VrZGVlcCwNCg0KWWVzLCBwbGVhc2UgZ28gYWhlYWQuDQoNClJlZ2FyZHMsDQpQcmFkZWVw
+IEsgRyBTIHwgRmFjaWxpdGllcyBFbmdpbmVlcuKAkyBJbmRpYSANCkluZmluZXJhIEluZGlhIFB2
+dC4gTHRkLiwNClByZXN0aWdlIFNvbGl0YWlyZSAsIDQwMSwgDQpMZXZlbCAzLCA2LCBCcnVudG9u
+IFJvYWQsIA0KQmFuZ2Fsb3JlIDU2MC0wMjUuDQoNCg0KLS0tLS1PcmlnaW5hbCBNZXNzYWdlLS0t
+LS0NCkZyb206IEFnaWxlIEZpdG5lc3MgPHN1cHBvcnRAYWdpbGVmaXRuZXNzLmluPiANClNlbnQ6
+IFR1ZXNkYXksIFNlcHRlbWJlciAxMCwgMjAxOSA5OjQ0IEFNDQpUbzogUHJhZGVlcCBLZXpoYWtr
+ZXRpbCBHb3BhbGFuIFNoaXZhbmFyYXlhbmFuIDxQR29wYWxhbkBpbmZpbmVyYS5jb20+DQpTdWJq
+ZWN0OiBSZTogTVVUVUFMIE5PTi1ESVNDTE9TVVJFIEFHUkVFTUVOVA0KSW1wb3J0YW5jZTogSGln
+aA0KDQpDQVVUSU9OOiBUaGlzIGVtYWlsIG9yaWdpbmF0ZWQgZnJvbSBvdXRzaWRlIG9mIHRoZSBv
+cmdhbml6YXRpb24uIERvIG5vdCBjbGljayBsaW5rcyBvciBvcGVuIGF0dGFjaG1lbnRzIHVubGVz
+cyB5b3UgcmVjb2duaXplIHRoZSBzZW5kZXIgYW5kIGtub3cgdGhlIGNvbnRlbnQgaXMgc2FmZS4N
+Cg0KDQpEZWFyIFByYWRlZXAsDQoNCndpbGwgZ2V0IE5EQSBkb25lIHdpdGggYmVsb3cgbWVudGlv
+bmVkIGRldGFpbHMgLiBJZiBhbnkgY2hhbmdlcyB0byB0aGUgYmVsb3cgYXJ0aWZhY3RzIHJlcXVp
+cmVkIHRoZW4gcGxlYXNlIGxldCB1cyBrbm93DQoNClN0YW1wIFBlciA6IElOUiAyMDANCkZpcnN0
+IFBhcnR5Ok0vcyBJTkZJTkVSQSBJTkRJQSBQVlQuIExURA0KU2Vjb25kIHBhcnR5OiBNL3MgQWdp
+bGUgRml0bmVzcyBQdnQuIEx0ZA0KDQotLQ0KQWdpbGUgRml0bmVzczogRml0bmVzcyBlcXVpcG1l
+bnTigJlzLCBDZXJ0aWZpZWQgZml0bmVzcyB0cmFpbmVycywgc3BvcnRzIG1hdGVyaWFscywgU3Bv
+cnRzIGZsb29yaW5nICxBTUMuDQoNClJlZ2FyZHMsDQpTdWtkZWVwIEQgUw0KTWFuYWdlciwgU2Fs
+ZXMgJiBzZXJ2aWNlLA0KQWdpbGUgZml0bmVzcyxNYWxsZXN3YXJhbSxCYW5nYWxvcmUtNC4NClBo
+LjorOTEgOTk4MDExMTI1NSBodHRwczovL25hbTAzLnNhZmVsaW5rcy5wcm90ZWN0aW9uLm91dGxv
+b2suY29tLz91cmw9d3d3LmFnaWxlZml0bmVzcy5pbiZhbXA7ZGF0YT0wMiU3QzAxJTdDcGdvcGFs
+YW4lNDBpbmZpbmVyYS5jb20lN0M5Y2M4NGY2YjJmOTQ0MGNjMjUyZTA4ZDczNWE1NTY3YSU3QzI4
+NTY0M2RlNWY1YjRiMDNhMTUzMGFlMmRjOGFhZjc3JTdDMSU3QzAlN0M2MzcwMzY4NTY1ODMzODk2
+MjkmYW1wO3NkYXRhPSUyRjd3NVZlbGRnV1pTeVlXWGRMUnFjY3lRT2JWblo0am1hQTkza051V1VJ
+ZyUzRCZhbXA7cmVzZXJ2ZWQ9MA0KDQoNCk9uIDIwMTktMDktMDkgMTI6MDgsIFByYWRlZXAgS2V6
+aGFra2V0aWwgR29wYWxhbiBTaGl2YW5hcmF5YW5hbiB3cm90ZToNCj4gSGksDQo+DQo+IFJlbWlu
+ZGVyIDENCj4NCj4gUmVnYXJkcywNCj4NCj4gUHJhZGVlcCBLIEcgUyB8IEZhY2lsaXRpZXMgRW5n
+aW5lZXItIEluZGlhDQo+DQo+IElORklORVJBIElORElBIFBWVC4gTFRELiwNCj4NCj4gUHJlc3Rp
+Z2UgU29saXRhaXJlICwgNDAxLA0KPg0KPiBMZXZlbCAzLCA2LCBCcnVudG9uIFJvYWQsDQo+DQo+
+IEJhbmdhbG9yZSA1NjAtMDI1Lg0KPg0KPiBGUk9NOiBQcmFkZWVwIEtlemhha2tldGlsIEdvcGFs
+YW4gU2hpdmFuYXJheWFuYW4NCj4gU0VOVDogVGh1cnNkYXksIFNlcHRlbWJlciA1LCAyMDE5IDQ6
+MzAgUE0NCj4gQ0M6IENoZXRoYW4gU3JlZWRoYXJhY2hhciA8Q1NyZWVkaGFyYWNoYXJAaW5maW5l
+cmEuY29tPg0KPiBTVUJKRUNUOiBSRTogTVVUVUFMIE5PTi1ESVNDTE9TVVJFIEFHUkVFTUVOVA0K
+PiBJTVBPUlRBTkNFOiBIaWdoDQo+DQo+IEhpLA0KPg0KPiBQbGVhc2UgaWdub3JlIHByZXZpb3Vz
+IGF0dGFjaG1lbnQgYW5kIGNvbnNpZGVyIHRoZSBhdHRhY2hlZCB3b3JkIA0KPiBmb3JtYXQgTkRB
+IGRvYyAoTm9uLURpc2Nsb3N1cmUgQWdyZWVtZW50KSwgUmVxdWVzdGluZyB5b3UgdG8gZmlsbCB0
+aGUgDQo+IGZvcm0gYnkgcmVhZGluZyBhbmQgc2hhcmUgdGhlIG9yaWdpbmFsIGNvcHkgd2l0aCBz
+aWduIGFuZCBzZWFsIGFzYXAuDQo+DQo+IE5vdGU6IFRoZSBwcmludCBzaG91bGQgYmUgb24gdGhl
+IElOUiAyMDAgc3RhbXAgcGFwZXIuDQo+DQo+IFJlZ2FyZHMsDQo+DQo+IFByYWRlZXAgSyBHIFMg
+fCBGYWNpbGl0aWVzIEVuZ2luZWVyLSBJbmRpYQ0KPg0KPiBJTkZJTkVSQSBJTkRJQSBQVlQuIExU
+RC4sDQo+DQo+IFByZXN0aWdlIFNvbGl0YWlyZSAsIDQwMSwNCj4NCj4gTGV2ZWwgMywgNiwgQnJ1
+bnRvbiBSb2FkLA0KPg0KPiBCYW5nYWxvcmUgNTYwLTAyNS4NCj4NCj4gRlJPTTogUHJhZGVlcCBL
+ZXpoYWtrZXRpbCBHb3BhbGFuIFNoaXZhbmFyYXlhbmFuDQo+IFNFTlQ6IFdlZG5lc2RheSwgU2Vw
+dGVtYmVyIDQsIDIwMTkgNjowMiBQTQ0KPiBDQzogQ2hldGhhbiBTcmVlZGhhcmFjaGFyIDxDU3Jl
+ZWRoYXJhY2hhckBpbmZpbmVyYS5jb20+DQo+IFNVQkpFQ1Q6IE1VVFVBTCBOT04tRElTQ0xPU1VS
+RSBBR1JFRU1FTlQNCj4gSU1QT1JUQU5DRTogSGlnaA0KPg0KPiBIaSwNCj4NCj4gUGxlYXNlIGZp
+bmQgdGhlIGF0dGFjaGVkIE5EQSBmb3JtIChOb24tRGlzY2xvc3VyZSBBZ3JlZW1lbnQpLg0KPiBS
+ZXF1ZXN0aW5nIHlvdSB0byBmaWxsIHRoZSBmb3JtIGJ5IHJlYWRpbmcgYW5kIHNoYXJlIHRoZSBv
+cmlnaW5hbCBjb3B5IA0KPiB3aXRoIHNpZ24gYW5kIHNlYWwgYXNhcC4NCj4NCj4gTm90ZS4gQm90
+aCBoYXJkIGFuZCBzb2Z0IGNvcHkgd2lsbCB3b3JrLg0KPg0KPiBSZWdhcmRzLA0KPg0KPiBQcmFk
+ZWVwIEsgRyBTIHwgRmFjaWxpdGllcyBFbmdpbmVlci0gSW5kaWENCj4NCj4gSU5GSU5FUkEgSU5E
+SUEgUFZULiBMVEQuLA0KPg0KPiBQcmVzdGlnZSBTb2xpdGFpcmUgLCA0MDEsDQo+DQo+IExldmVs
+IDMsIDYsIEJydW50b24gUm9hZCwNCj4NCj4gQmFuZ2Fsb3JlIDU2MC0wMjUuDQoNCg0K
+

@@ -1,0 +1,347 @@
+Return-Path: <anthony.Fletcher@australiaseoagency.com>
+Delivered-To: support+spam@agilefitness.in
+Received: from md-in-36.webhostbox.net
+	by md-in-36.webhostbox.net with LMTP
+	id CLztG65mFF0b8A8AwqAP9w
+	(envelope-from <anthony.Fletcher@australiaseoagency.com>)
+	for <support+spam@agilefitness.in>; Thu, 27 Jun 2019 06:48:14 +0000
+Return-path: <anthony.Fletcher@australiaseoagency.com>
+Envelope-to: support@agilefitness.in
+Delivery-date: Thu, 27 Jun 2019 06:48:14 +0000
+Received: from server6.jclevents.in ([142.93.230.241]:45756 helo=server.australiaseoagency.com)
+	by md-in-36.webhostbox.net with esmtp (Exim 4.92)
+	(envelope-from <anthony.Fletcher@australiaseoagency.com>)
+	id 1hgOCU-000XOF-Ri
+	for support@agilefitness.in; Thu, 27 Jun 2019 06:48:14 +0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=asdzxcv; d=australiaseoagency.com;
+ h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type;
+ bh=SBI+x55oL0BofqgTp37MQgtUd4U=;
+ b=VVDKrrSQo2vkCDf2kL2w4RxMr5QaEsO8Y39zE0R189JZIEcHYHYpi25BGzS1tIdZoqTWUkR2oOgq
+   wzFnNqZgJwSFo+utxkb2mmUvvenJx2cJrmZP768vvWN6fB421ek+0xtgpaEcR+wUzbjLt5L04jD8
+   Z6sYpzYeN6JaJpo+dI8=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=asdzxcv; d=australiaseoagency.com;
+ h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type; i=anthony.Fletcher@australiaseoagency.com;
+ bh=SBI+x55oL0BofqgTp37MQgtUd4U=;
+ b=KCRA/N22H3uVH8vQxvVXD6pvMVkumpxxSVYOT+ogg5BD5jhJr2DqRxjlT6ngI/LI//vbvOiUJkGf
+   TCj53v1tJWrpXlDKs8TlwoVYD1Pt7Kymkq+Snx06VGzplEhKoEdZsviQEnqSzLTsxeqZ6duuEcMy
+   AabIecIAEV9Y8bUPa4E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=asdzxcv; d=australiaseoagency.com;
+ b=Mgo4XoQzwZbdAMy2Fp/ls5HWZXcwLW4NClviHPBK7wiAmDphfGC9Z+8v9kLUvSrolTLEuN5eLa2G
+   Xbm2yJNVn0PZOEc6HPFJVxduZHWoE/uHD7nOdVS2H6wwoGb94m7uA8hVH7yFg+9cMViIcSX6ihJw
+   Vi2aZPFJMlMJ57gFSjc=;
+From: "Anthony Fletcher" <anthony.Fletcher@australiaseoagency.com>
+To: <support@agilefitness.in>
+Date: Thu, 27 Jun 2019 12:15:13 +0530
+Message-ID: <17aa01d52cb4$493f0560$dbbd1020$@australiaseoagency.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_17AB_01D52CE2.62F804B0"
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AdUss6CETqYqTCcZTaGtTQa06pFH0g==
+Content-Language: en-us
+X-Authenticated_sender: 
+X-Spam-Status: Yes, score=8.3
+X-Spam-Score: 83
+X-Spam-Bar: ++++++++
+X-Spam-Report: DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, DKIM_VALID_EF=-0.1, DOS_OUTLOOK_TO_MX=1.449, HTML_MESSAGE=0.001, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM_EIG=7, CMAE Analysis: v=2.3 cv=OIIJIxSB c=1 sm=0 tr=0 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117 a=4qyU/gaDUwr/JkkUrx7ufA==:17 a=dq6fvYVFJ5YA:10 a=DAwyPP_o2Byb1YXLmDAA:9 a=AiHp0lDz0bJRGX5UhuIA:9 a=CjuIK1q_8ugA:10 a=Jc3NHj5Pfdz7cjtcRBYA:9 a=6Ne2KGKAqvTDCA5-:21 a=gKO2Hq4RSVkA:10 a=UiCQ7L4-1S4A:10 a=hTZeC7Yk6K0A:10 a=frz4AuCg-hUA:10
+ 
+ *  7.0 URIBL_DBL_SPAM_EIG Contains a spam URL listed in the Spamhaus
+ *      DBL blocklist
+ *      [URIs: australiaseoagency.com]
+ *  0.0 URIBL_BLOCKED ADMINISTRATOR NOTICE: The query to URIBL was
+ *      blocked.  See
+ *      http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+ *      for more information.
+ *      [URIs: australiaseoagency.com]
+ *  0.0 HTML_MESSAGE BODY: HTML included in message
+ * -0.1 DKIM_VALID Message has at least one valid DKIM or DK signature
+ * -0.1 DKIM_VALID_EF Message has a valid DKIM or DK signature from
+ *      envelope-from domain
+ *  0.1 DKIM_SIGNED Message has a DKIM or DK signature, not necessarily
+ *       valid
+ * -0.1 DKIM_VALID_AU Message has a valid DKIM or DK signature from
+ *      author's domain
+ *  1.4 DOS_OUTLOOK_TO_MX Delivered direct to MX with Outlook headers
+X-Spam-Flag: YES
+Subject: ***SPAM***  Increase Website Traffic
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_17AB_01D52CE2.62F804B0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+ 
+
+I was going through your website and I found it impressive!!! However, when
+I search for your business keywords I see your competitors ranked on 1st
+page whereas I am unable to see your website anywhere on the 1st page of
+Google.
+
+ 
+
+You being not ranked there on top; you are missing out on all those easy
+prospects who have been searching for your products/services aggressively.
+
+ 
+
+85% of users never scroll past the first page of search results.
+
+ 
+
+Don't you think you should rank on 1st page of Google so as your prospects
+can easily land on your website, put an enquiry and you can contact them for
+business?
+
+ 
+
+ 
+
+Our Steps and the Activities to Rank You 1st Page on Google!
+
+ 1. Keywords Research
+
+ 2. Competition Analysis
+
+ 3. Optimized Content Creation
+
+ 4. Keywords Optimization
+
+ 5. Back Link Creation/Link Building
+
+ 6. Submission to Search Engines and Directories
+
+ 7. Submission to Article Directories
+
+ 
+
+I have selected your website and prepared a FREE website audit report. This
+is for you, completely free at no charge, which I may share with you upon
+request.
+
+We are a team of 750+ professionals, which includes 530 full time SEO
+experts. We are proud to inform you that our team handled 2,000+ SEO
+projects.
+
+ 
+
+Contact us for the best quote for your website & we will place your website
+on 1st page Google ranking for targeted keywords.
+
+ 
+
+Thanks & Regards,          
+
+ 
+
+Anthony Fletcher
+
+Business Development Manager-
+
+Contact No: - +65 3158 0551
+
+
+ 
+
+
+PS: I am not spamming. I have studied your website, prepared an audit report
+and believe I can help with your business promotion. If you still want us to
+not contact you, you can ignore this email or ask to remove and I will not
+contact again.
+
+
+ 
+
+
+------=_NextPart_000_17AB_01D52CE2.62F804B0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 15 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+h2
+	{mso-style-priority:9;
+	mso-style-link:"Heading 2 Char";
+	margin-top:2.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Cambria","serif";
+	color:#365F91;
+	font-weight:normal;}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 2";
+	font-family:"Cambria","serif";
+	color:#365F91;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US><div =
+class=3DWordSection1><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>Hi,<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>I was going through your =
+website and I found it impressive!!! However, when I search for your =
+business keywords I see your competitors ranked on 1<sup>st</sup> page =
+whereas I am unable to see your website anywhere on the 1<sup>st</sup> =
+page of Google.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>You being not ranked there on =
+top; you are missing out on all those easy prospects who have been =
+searching for your products/services =
+aggressively.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal align=3Dcenter =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;text-align:center;line-h=
+eight:normal;background:white'><b><span style=3D'color:black'>85% of =
+users never scroll past the first page of search =
+results.<o:p></o:p></span></b></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>Don&#8217;t you think you =
+should rank on 1<sup>st</sup> page of Google so as your prospects can =
+easily land on your website, put an enquiry and you can contact them for =
+business?<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><b><span style=3D'color:black'>Our Steps and the Activities =
+to Rank You 1st Page on Google!<o:p></o:p></span></b></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>&nbsp;<b>1.</b> Keywords =
+Research<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>&nbsp;<b>2.</b> Competition =
+Analysis<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>&nbsp;<b>3.</b> Optimized =
+Content Creation<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>&nbsp;<b>4.</b> Keywords =
+Optimization<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>&nbsp;<b>5.</b> Back Link =
+Creation/Link Building<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>&nbsp;<b>6.</b> Submission to =
+Search Engines and Directories<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>&nbsp;<b>7.</b> Submission to =
+Article Directories<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:black'>I have selected your =
+website and prepared a&nbsp;<b>FREE website audit report</b>. This is =
+for you, completely free at no charge, which I may share with you upon =
+request.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>We are a team of 750+ =
+professionals, which includes 530 full time SEO experts. We are proud to =
+inform you that our team handled 2,000+ SEO =
+projects.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'>Contact us for the best quote =
+for your website &amp; we will place your website on 1st page Google =
+ranking for targeted keywords.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><span style=3D'color:black'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><b><span style=3D'color:black'>Thanks &amp; =
+Regards</span></b><span style=3D'color:black'>, =
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-height:normal;backg=
+round:white'><b><span =
+style=3D'color:black'><o:p>&nbsp;</o:p></span></b></p><p =
+class=3DMsoNormal><span style=3D'color:black'>Anthony =
+Fletcher<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:black'>Business Development =
+Manager&shy;<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:normal;background:white'><=
+span style=3D'color:black'>Contact No: - </span>+65 3158 0551<span =
+style=3D'color:black'><o:p></o:p></span></p><h2><b><span =
+style=3D'font-size:11.0pt;line-height:115%;font-family:"Calibri","sans-se=
+rif";color:black'><o:p>&nbsp;</o:p></span></b></h2><h2><b><span =
+style=3D'font-size:11.0pt;line-height:115%;font-family:"Calibri","sans-se=
+rif";color:black'>PS</span></b><span =
+style=3D'font-size:11.0pt;line-height:115%;font-family:"Calibri","sans-se=
+rif";color:black'>: I am not spamming. I have studied your website, =
+prepared an audit report and believe I can help with your business =
+promotion. If you still want us to not contact you, you can ignore this =
+email or ask to <b>remove</b> and I will not contact =
+again.<o:p></o:p></span></h2><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:12.0pt;margin-right:0in;margin-bottom:0in;mar=
+gin-left:0in;margin-bottom:.0001pt;line-height:normal;background:white'><=
+span =
+style=3D'color:black'><o:p>&nbsp;</o:p></span></p></div></body></html>
+------=_NextPart_000_17AB_01D52CE2.62F804B0--
+
